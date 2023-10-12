@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,280,All Ages,White alone,All Time,Rhode_Island
+1,6,All Ages,White alone,< 30 Days,Rhode_Island
+2,18,All Ages,White alone,30 to < 90 Days,Rhode_Island
+3,27,All Ages,White alone,90 Days to < 6 Months,Rhode_Island
+4,35,All Ages,White alone,6 Months to < 1 Year,Rhode_Island
+5,57,All Ages,White alone,1 Year to < 2 Years,Rhode_Island
+6,56,All Ages,White alone,2 Years to < 3 Years,Rhode_Island
+7,47,All Ages,White alone,3 Years to < 5 Years,Rhode_Island
+8,34,All Ages,White alone,5 or More Years,Rhode_Island
+9,58,All Ages,Black or African American alone,All Time,Rhode_Island
+10,3,All Ages,Black or African American alone,< 30 Days,Rhode_Island
+11,3,All Ages,Black or African American alone,30 to < 90 Days,Rhode_Island
+12,4,All Ages,Black or African American alone,90 Days to < 6 Months,Rhode_Island
+13,4,All Ages,Black or African American alone,6 Months to < 1 Year,Rhode_Island
+14,11,All Ages,Black or African American alone,1 Year to < 2 Years,Rhode_Island
+15,10,All Ages,Black or African American alone,2 Years to < 3 Years,Rhode_Island
+16,15,All Ages,Black or African American alone,3 Years to < 5 Years,Rhode_Island
+17,8,All Ages,Black or African American alone,5 or More Years,Rhode_Island
+18,75,All Ages,Hispanic or Latino,All Time,Rhode_Island
+19,3,All Ages,Hispanic or Latino,< 30 Days,Rhode_Island
+20,3,All Ages,Hispanic or Latino,30 to < 90 Days,Rhode_Island
+21,2,All Ages,Hispanic or Latino,90 Days to < 6 Months,Rhode_Island
+22,7,All Ages,Hispanic or Latino,6 Months to < 1 Year,Rhode_Island
+23,17,All Ages,Hispanic or Latino,1 Year to < 2 Years,Rhode_Island
+24,17,All Ages,Hispanic or Latino,2 Years to < 3 Years,Rhode_Island
+25,18,All Ages,Hispanic or Latino,3 Years to < 5 Years,Rhode_Island
+26,8,All Ages,Hispanic or Latino,5 or More Years,Rhode_Island
+27,24,All Ages,Asian alone,All Time,Rhode_Island
+28,1,All Ages,Asian alone,< 30 Days,Rhode_Island
+29,1,All Ages,Asian alone,30 to < 90 Days,Rhode_Island
+30,2,All Ages,Asian alone,90 Days to < 6 Months,Rhode_Island
+31,4,All Ages,Asian alone,6 Months to < 1 Year,Rhode_Island
+32,5,All Ages,Asian alone,1 Year to < 2 Years,Rhode_Island
+33,3,All Ages,Asian alone,2 Years to < 3 Years,Rhode_Island
+34,2,All Ages,Asian alone,3 Years to < 5 Years,Rhode_Island
+35,6,All Ages,Asian alone,5 or More Years,Rhode_Island
+36,3,All Ages,American Indian and Alaska Native alone,All Time,Rhode_Island
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Rhode_Island
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Rhode_Island
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Rhode_Island
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Rhode_Island
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Rhode_Island
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Rhode_Island
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Rhode_Island
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Rhode_Island
+45,2,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Rhode_Island
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Rhode_Island
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Rhode_Island
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Rhode_Island
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Rhode_Island
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Rhode_Island
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Rhode_Island
+52,2,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Rhode_Island
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Rhode_Island
+54,1,All Ages,Population of two or more races:,All Time,Rhode_Island
+55,0,All Ages,Population of two or more races:,< 30 Days,Rhode_Island
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Rhode_Island
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Rhode_Island
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Rhode_Island
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Rhode_Island
+60,1,All Ages,Population of two or more races:,2 Years to < 3 Years,Rhode_Island
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Rhode_Island
+62,0,All Ages,Population of two or more races:,5 or More Years,Rhode_Island
+63,1,0-5 Years,White alone,All Time,Rhode_Island
+64,0,0-5 Years,White alone,< 30 Days,Rhode_Island
+65,0,0-5 Years,White alone,30 to < 90 Days,Rhode_Island
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Rhode_Island
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Rhode_Island
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Rhode_Island
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Rhode_Island
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Rhode_Island
+71,0,0-5 Years,White alone,5 or More Years,Rhode_Island
+72,0,0-5 Years,Black or African American alone,All Time,Rhode_Island
+73,0,0-5 Years,Black or African American alone,< 30 Days,Rhode_Island
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Rhode_Island
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Rhode_Island
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Rhode_Island
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Rhode_Island
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Rhode_Island
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Rhode_Island
+80,2,0-5 Years,Hispanic or Latino,All Time,Rhode_Island
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Rhode_Island
+82,1,0-5 Years,Hispanic or Latino,30 to < 90 Days,Rhode_Island
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Rhode_Island
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Rhode_Island
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Rhode_Island
+86,1,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Rhode_Island
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Rhode_Island
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Rhode_Island
+89,0,0-5 Years,Asian alone,All Time,Rhode_Island
+90,0,0-5 Years,Asian alone,< 30 Days,Rhode_Island
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Rhode_Island
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Rhode_Island
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Rhode_Island
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Rhode_Island
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Rhode_Island
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Rhode_Island
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Rhode_Island
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Rhode_Island
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Rhode_Island
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Rhode_Island
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Rhode_Island
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Rhode_Island
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Rhode_Island
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Rhode_Island
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Rhode_Island
+106,0,0-5 Years,Population of two or more races:,All Time,Rhode_Island
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Rhode_Island
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Rhode_Island
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Rhode_Island
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Rhode_Island
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Rhode_Island
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Rhode_Island
+113,0,6-10 Years,White alone,All Time,Rhode_Island
+114,0,6-10 Years,White alone,< 30 Days,Rhode_Island
+115,0,6-10 Years,White alone,30 to < 90 Days,Rhode_Island
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Rhode_Island
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Rhode_Island
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Rhode_Island
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Rhode_Island
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Rhode_Island
+121,0,6-10 Years,White alone,5 or More Years,Rhode_Island
+122,0,6-10 Years,Black or African American alone,All Time,Rhode_Island
+123,0,6-10 Years,Black or African American alone,< 30 Days,Rhode_Island
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Rhode_Island
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Rhode_Island
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Rhode_Island
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Rhode_Island
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Rhode_Island
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Rhode_Island
+130,0,6-10 Years,Black or African American alone,5 or More Years,Rhode_Island
+131,0,6-10 Years,Hispanic or Latino,All Time,Rhode_Island
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Rhode_Island
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Rhode_Island
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Rhode_Island
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Rhode_Island
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Rhode_Island
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Rhode_Island
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Rhode_Island
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Rhode_Island
+140,0,6-10 Years,Asian alone,All Time,Rhode_Island
+141,0,6-10 Years,Asian alone,< 30 Days,Rhode_Island
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Rhode_Island
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Rhode_Island
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Rhode_Island
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Rhode_Island
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Rhode_Island
+147,0,6-10 Years,Asian alone,5 or More Years,Rhode_Island
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Rhode_Island
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Rhode_Island
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Rhode_Island
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Rhode_Island
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Rhode_Island
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Rhode_Island
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Rhode_Island
+155,0,6-10 Years,Population of two or more races:,All Time,Rhode_Island
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Rhode_Island
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Rhode_Island
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Rhode_Island
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Rhode_Island
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Rhode_Island
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Rhode_Island
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Rhode_Island
+163,1,11-17 Years,White alone,All Time,Rhode_Island
+164,0,11-17 Years,White alone,< 30 Days,Rhode_Island
+165,0,11-17 Years,White alone,30 to < 90 Days,Rhode_Island
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Rhode_Island
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Rhode_Island
+168,1,11-17 Years,White alone,1 Year to < 2 Years,Rhode_Island
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Rhode_Island
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Rhode_Island
+171,0,11-17 Years,White alone,5 or More Years,Rhode_Island
+172,0,11-17 Years,Black or African American alone,All Time,Rhode_Island
+173,0,11-17 Years,Black or African American alone,< 30 Days,Rhode_Island
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Rhode_Island
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Rhode_Island
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Rhode_Island
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Rhode_Island
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Rhode_Island
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Rhode_Island
+180,0,11-17 Years,Black or African American alone,5 or More Years,Rhode_Island
+181,0,11-17 Years,Hispanic or Latino,All Time,Rhode_Island
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Rhode_Island
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Rhode_Island
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Rhode_Island
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Rhode_Island
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Rhode_Island
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Rhode_Island
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Rhode_Island
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Rhode_Island
+190,0,11-17 Years,Asian alone,All Time,Rhode_Island
+191,0,11-17 Years,Asian alone,< 30 Days,Rhode_Island
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Rhode_Island
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Rhode_Island
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Rhode_Island
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Rhode_Island
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Rhode_Island
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Rhode_Island
+198,0,11-17 Years,Asian alone,5 or More Years,Rhode_Island
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Rhode_Island
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Rhode_Island
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Rhode_Island
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Rhode_Island
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Rhode_Island
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Rhode_Island
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Rhode_Island
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Rhode_Island
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Rhode_Island
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Rhode_Island
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Rhode_Island
+210,0,11-17 Years,Population of two or more races:,All Time,Rhode_Island
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Rhode_Island
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Rhode_Island
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Rhode_Island
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Rhode_Island
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Rhode_Island
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Rhode_Island
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Rhode_Island
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Rhode_Island
+219,17,18-34 Years,White alone,All Time,Rhode_Island
+220,1,18-34 Years,White alone,< 30 Days,Rhode_Island
+221,1,18-34 Years,White alone,30 to < 90 Days,Rhode_Island
+222,0,18-34 Years,White alone,90 Days to < 6 Months,Rhode_Island
+223,3,18-34 Years,White alone,6 Months to < 1 Year,Rhode_Island
+224,3,18-34 Years,White alone,1 Year to < 2 Years,Rhode_Island
+225,2,18-34 Years,White alone,2 Years to < 3 Years,Rhode_Island
+226,5,18-34 Years,White alone,3 Years to < 5 Years,Rhode_Island
+227,2,18-34 Years,White alone,5 or More Years,Rhode_Island
+228,5,18-34 Years,Black or African American alone,All Time,Rhode_Island
+229,1,18-34 Years,Black or African American alone,< 30 Days,Rhode_Island
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,Rhode_Island
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Rhode_Island
+232,0,18-34 Years,Black or African American alone,6 Months to < 1 Year,Rhode_Island
+233,2,18-34 Years,Black or African American alone,1 Year to < 2 Years,Rhode_Island
+234,1,18-34 Years,Black or African American alone,2 Years to < 3 Years,Rhode_Island
+235,1,18-34 Years,Black or African American alone,3 Years to < 5 Years,Rhode_Island
+236,0,18-34 Years,Black or African American alone,5 or More Years,Rhode_Island
+237,14,18-34 Years,Hispanic or Latino,All Time,Rhode_Island
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Rhode_Island
+239,1,18-34 Years,Hispanic or Latino,30 to < 90 Days,Rhode_Island
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Rhode_Island
+241,3,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Rhode_Island
+242,5,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Rhode_Island
+243,3,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Rhode_Island
+244,1,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Rhode_Island
+245,1,18-34 Years,Hispanic or Latino,5 or More Years,Rhode_Island
+246,5,18-34 Years,Asian alone,All Time,Rhode_Island
+247,0,18-34 Years,Asian alone,< 30 Days,Rhode_Island
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Rhode_Island
+249,1,18-34 Years,Asian alone,90 Days to < 6 Months,Rhode_Island
+250,1,18-34 Years,Asian alone,6 Months to < 1 Year,Rhode_Island
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Rhode_Island
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Rhode_Island
+253,1,18-34 Years,Asian alone,3 Years to < 5 Years,Rhode_Island
+254,2,18-34 Years,Asian alone,5 or More Years,Rhode_Island
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Rhode_Island
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Rhode_Island
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Rhode_Island
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Rhode_Island
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Rhode_Island
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Rhode_Island
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Rhode_Island
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Rhode_Island
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Rhode_Island
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Rhode_Island
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Rhode_Island
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Rhode_Island
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Rhode_Island
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Rhode_Island
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Rhode_Island
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Rhode_Island
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Rhode_Island
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Rhode_Island
+273,1,18-34 Years,Population of two or more races:,All Time,Rhode_Island
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Rhode_Island
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Rhode_Island
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Rhode_Island
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Rhode_Island
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Rhode_Island
+279,1,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Rhode_Island
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Rhode_Island
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Rhode_Island
+282,39,35-49 Years,White alone,All Time,Rhode_Island
+283,1,35-49 Years,White alone,< 30 Days,Rhode_Island
+284,4,35-49 Years,White alone,30 to < 90 Days,Rhode_Island
+285,5,35-49 Years,White alone,90 Days to < 6 Months,Rhode_Island
+286,7,35-49 Years,White alone,6 Months to < 1 Year,Rhode_Island
+287,8,35-49 Years,White alone,1 Year to < 2 Years,Rhode_Island
+288,8,35-49 Years,White alone,2 Years to < 3 Years,Rhode_Island
+289,1,35-49 Years,White alone,3 Years to < 5 Years,Rhode_Island
+290,5,35-49 Years,White alone,5 or More Years,Rhode_Island
+291,14,35-49 Years,Black or African American alone,All Time,Rhode_Island
+292,0,35-49 Years,Black or African American alone,< 30 Days,Rhode_Island
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,Rhode_Island
+294,2,35-49 Years,Black or African American alone,90 Days to < 6 Months,Rhode_Island
+295,1,35-49 Years,Black or African American alone,6 Months to < 1 Year,Rhode_Island
+296,3,35-49 Years,Black or African American alone,1 Year to < 2 Years,Rhode_Island
+297,3,35-49 Years,Black or African American alone,2 Years to < 3 Years,Rhode_Island
+298,2,35-49 Years,Black or African American alone,3 Years to < 5 Years,Rhode_Island
+299,3,35-49 Years,Black or African American alone,5 or More Years,Rhode_Island
+300,21,35-49 Years,Hispanic or Latino,All Time,Rhode_Island
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Rhode_Island
+302,1,35-49 Years,Hispanic or Latino,30 to < 90 Days,Rhode_Island
+303,1,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Rhode_Island
+304,0,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Rhode_Island
+305,6,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Rhode_Island
+306,5,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Rhode_Island
+307,6,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Rhode_Island
+308,2,35-49 Years,Hispanic or Latino,5 or More Years,Rhode_Island
+309,5,35-49 Years,Asian alone,All Time,Rhode_Island
+310,0,35-49 Years,Asian alone,< 30 Days,Rhode_Island
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Rhode_Island
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Rhode_Island
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,Rhode_Island
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,Rhode_Island
+315,1,35-49 Years,Asian alone,2 Years to < 3 Years,Rhode_Island
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Rhode_Island
+317,2,35-49 Years,Asian alone,5 or More Years,Rhode_Island
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Rhode_Island
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Rhode_Island
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Rhode_Island
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Rhode_Island
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Rhode_Island
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Rhode_Island
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Rhode_Island
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Rhode_Island
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Rhode_Island
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Rhode_Island
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Rhode_Island
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Rhode_Island
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Rhode_Island
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Rhode_Island
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Rhode_Island
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Rhode_Island
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Rhode_Island
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Rhode_Island
+336,0,35-49 Years,Population of two or more races:,All Time,Rhode_Island
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Rhode_Island
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Rhode_Island
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Rhode_Island
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Rhode_Island
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Rhode_Island
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Rhode_Island
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Rhode_Island
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Rhode_Island
+345,138,50-64 Years,White alone,All Time,Rhode_Island
+346,2,50-64 Years,White alone,< 30 Days,Rhode_Island
+347,6,50-64 Years,White alone,30 to < 90 Days,Rhode_Island
+348,17,50-64 Years,White alone,90 Days to < 6 Months,Rhode_Island
+349,11,50-64 Years,White alone,6 Months to < 1 Year,Rhode_Island
+350,34,50-64 Years,White alone,1 Year to < 2 Years,Rhode_Island
+351,28,50-64 Years,White alone,2 Years to < 3 Years,Rhode_Island
+352,24,50-64 Years,White alone,3 Years to < 5 Years,Rhode_Island
+353,16,50-64 Years,White alone,5 or More Years,Rhode_Island
+354,22,50-64 Years,Black or African American alone,All Time,Rhode_Island
+355,2,50-64 Years,Black or African American alone,< 30 Days,Rhode_Island
+356,3,50-64 Years,Black or African American alone,30 to < 90 Days,Rhode_Island
+357,1,50-64 Years,Black or African American alone,90 Days to < 6 Months,Rhode_Island
+358,1,50-64 Years,Black or African American alone,6 Months to < 1 Year,Rhode_Island
+359,3,50-64 Years,Black or African American alone,1 Year to < 2 Years,Rhode_Island
+360,3,50-64 Years,Black or African American alone,2 Years to < 3 Years,Rhode_Island
+361,7,50-64 Years,Black or African American alone,3 Years to < 5 Years,Rhode_Island
+362,2,50-64 Years,Black or African American alone,5 or More Years,Rhode_Island
+363,24,50-64 Years,Hispanic or Latino,All Time,Rhode_Island
+364,2,50-64 Years,Hispanic or Latino,< 30 Days,Rhode_Island
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Rhode_Island
+366,0,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Rhode_Island
+367,3,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Rhode_Island
+368,3,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Rhode_Island
+369,4,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Rhode_Island
+370,9,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Rhode_Island
+371,3,50-64 Years,Hispanic or Latino,5 or More Years,Rhode_Island
+372,10,50-64 Years,Asian alone,All Time,Rhode_Island
+373,1,50-64 Years,Asian alone,< 30 Days,Rhode_Island
+374,1,50-64 Years,Asian alone,30 to < 90 Days,Rhode_Island
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,Rhode_Island
+376,2,50-64 Years,Asian alone,6 Months to < 1 Year,Rhode_Island
+377,4,50-64 Years,Asian alone,1 Year to < 2 Years,Rhode_Island
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Rhode_Island
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Rhode_Island
+380,1,50-64 Years,Asian alone,5 or More Years,Rhode_Island
+381,2,50-64 Years,American Indian and Alaska Native alone,All Time,Rhode_Island
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Rhode_Island
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Rhode_Island
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Rhode_Island
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Rhode_Island
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Rhode_Island
+387,1,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Rhode_Island
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Rhode_Island
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Rhode_Island
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Rhode_Island
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Rhode_Island
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Rhode_Island
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Rhode_Island
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Rhode_Island
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Rhode_Island
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Rhode_Island
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Rhode_Island
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Rhode_Island
+399,0,50-64 Years,Population of two or more races:,All Time,Rhode_Island
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Rhode_Island
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Rhode_Island
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Rhode_Island
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Rhode_Island
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Rhode_Island
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Rhode_Island
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Rhode_Island
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Rhode_Island
+408,84,65 and Older,White alone,All Time,Rhode_Island
+409,2,65 and Older,White alone,< 30 Days,Rhode_Island
+410,7,65 and Older,White alone,30 to < 90 Days,Rhode_Island
+411,5,65 and Older,White alone,90 Days to < 6 Months,Rhode_Island
+412,14,65 and Older,White alone,6 Months to < 1 Year,Rhode_Island
+413,10,65 and Older,White alone,1 Year to < 2 Years,Rhode_Island
+414,18,65 and Older,White alone,2 Years to < 3 Years,Rhode_Island
+415,17,65 and Older,White alone,3 Years to < 5 Years,Rhode_Island
+416,11,65 and Older,White alone,5 or More Years,Rhode_Island
+417,17,65 and Older,Black or African American alone,All Time,Rhode_Island
+418,0,65 and Older,Black or African American alone,< 30 Days,Rhode_Island
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,Rhode_Island
+420,1,65 and Older,Black or African American alone,90 Days to < 6 Months,Rhode_Island
+421,2,65 and Older,Black or African American alone,6 Months to < 1 Year,Rhode_Island
+422,3,65 and Older,Black or African American alone,1 Year to < 2 Years,Rhode_Island
+423,3,65 and Older,Black or African American alone,2 Years to < 3 Years,Rhode_Island
+424,5,65 and Older,Black or African American alone,3 Years to < 5 Years,Rhode_Island
+425,3,65 and Older,Black or African American alone,5 or More Years,Rhode_Island
+426,14,65 and Older,Hispanic or Latino,All Time,Rhode_Island
+427,1,65 and Older,Hispanic or Latino,< 30 Days,Rhode_Island
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Rhode_Island
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Rhode_Island
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Rhode_Island
+431,3,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Rhode_Island
+432,4,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Rhode_Island
+433,2,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Rhode_Island
+434,2,65 and Older,Hispanic or Latino,5 or More Years,Rhode_Island
+435,4,65 and Older,Asian alone,All Time,Rhode_Island
+436,0,65 and Older,Asian alone,< 30 Days,Rhode_Island
+437,0,65 and Older,Asian alone,30 to < 90 Days,Rhode_Island
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Rhode_Island
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,Rhode_Island
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,Rhode_Island
+441,2,65 and Older,Asian alone,2 Years to < 3 Years,Rhode_Island
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,Rhode_Island
+443,1,65 and Older,Asian alone,5 or More Years,Rhode_Island
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Rhode_Island
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Rhode_Island
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Rhode_Island
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Rhode_Island
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Rhode_Island
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Rhode_Island
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Rhode_Island
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Rhode_Island
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Rhode_Island
+453,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Rhode_Island
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Rhode_Island
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Rhode_Island
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Rhode_Island
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Rhode_Island
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Rhode_Island
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Rhode_Island
+460,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Rhode_Island
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Rhode_Island
+462,0,65 and Older,Population of two or more races:,All Time,Rhode_Island
+463,0,65 and Older,Population of two or more races:,< 30 Days,Rhode_Island
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Rhode_Island
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Rhode_Island
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Rhode_Island
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Rhode_Island
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Rhode_Island
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Rhode_Island
+470,0,65 and Older,Population of two or more races:,5 or More Years,Rhode_Island

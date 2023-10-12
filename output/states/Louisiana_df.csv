@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,578,All Ages,White alone,All Time,Louisiana
+1,37,All Ages,White alone,< 30 Days,Louisiana
+2,74,All Ages,White alone,30 to < 90 Days,Louisiana
+3,56,All Ages,White alone,90 Days to < 6 Months,Louisiana
+4,91,All Ages,White alone,6 Months to < 1 Year,Louisiana
+5,113,All Ages,White alone,1 Year to < 2 Years,Louisiana
+6,77,All Ages,White alone,2 Years to < 3 Years,Louisiana
+7,84,All Ages,White alone,3 Years to < 5 Years,Louisiana
+8,46,All Ages,White alone,5 or More Years,Louisiana
+9,"1,168",All Ages,Black or African American alone,All Time,Louisiana
+10,45,All Ages,Black or African American alone,< 30 Days,Louisiana
+11,90,All Ages,Black or African American alone,30 to < 90 Days,Louisiana
+12,97,All Ages,Black or African American alone,90 Days to < 6 Months,Louisiana
+13,186,All Ages,Black or African American alone,6 Months to < 1 Year,Louisiana
+14,271,All Ages,Black or African American alone,1 Year to < 2 Years,Louisiana
+15,178,All Ages,Black or African American alone,2 Years to < 3 Years,Louisiana
+16,183,All Ages,Black or African American alone,3 Years to < 5 Years,Louisiana
+17,118,All Ages,Black or African American alone,5 or More Years,Louisiana
+18,40,All Ages,Hispanic or Latino,All Time,Louisiana
+19,2,All Ages,Hispanic or Latino,< 30 Days,Louisiana
+20,2,All Ages,Hispanic or Latino,30 to < 90 Days,Louisiana
+21,4,All Ages,Hispanic or Latino,90 Days to < 6 Months,Louisiana
+22,6,All Ages,Hispanic or Latino,6 Months to < 1 Year,Louisiana
+23,10,All Ages,Hispanic or Latino,1 Year to < 2 Years,Louisiana
+24,7,All Ages,Hispanic or Latino,2 Years to < 3 Years,Louisiana
+25,6,All Ages,Hispanic or Latino,3 Years to < 5 Years,Louisiana
+26,3,All Ages,Hispanic or Latino,5 or More Years,Louisiana
+27,34,All Ages,Asian alone,All Time,Louisiana
+28,0,All Ages,Asian alone,< 30 Days,Louisiana
+29,1,All Ages,Asian alone,30 to < 90 Days,Louisiana
+30,0,All Ages,Asian alone,90 Days to < 6 Months,Louisiana
+31,8,All Ages,Asian alone,6 Months to < 1 Year,Louisiana
+32,8,All Ages,Asian alone,1 Year to < 2 Years,Louisiana
+33,1,All Ages,Asian alone,2 Years to < 3 Years,Louisiana
+34,7,All Ages,Asian alone,3 Years to < 5 Years,Louisiana
+35,9,All Ages,Asian alone,5 or More Years,Louisiana
+36,4,All Ages,American Indian and Alaska Native alone,All Time,Louisiana
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Louisiana
+38,1,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Louisiana
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Louisiana
+40,2,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Louisiana
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Louisiana
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Louisiana
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Louisiana
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Louisiana
+45,3,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Louisiana
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Louisiana
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Louisiana
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Louisiana
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Louisiana
+50,1,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Louisiana
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Louisiana
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Louisiana
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Louisiana
+54,1,All Ages,Population of two or more races:,All Time,Louisiana
+55,0,All Ages,Population of two or more races:,< 30 Days,Louisiana
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Louisiana
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Louisiana
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Louisiana
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Louisiana
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Louisiana
+61,1,All Ages,Population of two or more races:,3 Years to < 5 Years,Louisiana
+62,0,All Ages,Population of two or more races:,5 or More Years,Louisiana
+63,5,0-5 Years,White alone,All Time,Louisiana
+64,3,0-5 Years,White alone,< 30 Days,Louisiana
+65,0,0-5 Years,White alone,30 to < 90 Days,Louisiana
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Louisiana
+67,1,0-5 Years,White alone,6 Months to < 1 Year,Louisiana
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Louisiana
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Louisiana
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Louisiana
+71,0,0-5 Years,White alone,5 or More Years,Louisiana
+72,1,0-5 Years,Black or African American alone,All Time,Louisiana
+73,0,0-5 Years,Black or African American alone,< 30 Days,Louisiana
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Louisiana
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Louisiana
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Louisiana
+77,1,0-5 Years,Black or African American alone,1 Year to < 2 Years,Louisiana
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Louisiana
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Louisiana
+80,0,0-5 Years,Hispanic or Latino,All Time,Louisiana
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Louisiana
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Louisiana
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Louisiana
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Louisiana
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Louisiana
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Louisiana
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Louisiana
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Louisiana
+89,0,0-5 Years,Asian alone,All Time,Louisiana
+90,0,0-5 Years,Asian alone,< 30 Days,Louisiana
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Louisiana
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Louisiana
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Louisiana
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Louisiana
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Louisiana
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Louisiana
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Louisiana
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Louisiana
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Louisiana
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Louisiana
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Louisiana
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Louisiana
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Louisiana
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Louisiana
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Louisiana
+106,0,0-5 Years,Population of two or more races:,All Time,Louisiana
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Louisiana
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Louisiana
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Louisiana
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Louisiana
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Louisiana
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Louisiana
+113,2,6-10 Years,White alone,All Time,Louisiana
+114,0,6-10 Years,White alone,< 30 Days,Louisiana
+115,0,6-10 Years,White alone,30 to < 90 Days,Louisiana
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Louisiana
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Louisiana
+118,1,6-10 Years,White alone,1 Year to < 2 Years,Louisiana
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Louisiana
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Louisiana
+121,1,6-10 Years,White alone,5 or More Years,Louisiana
+122,5,6-10 Years,Black or African American alone,All Time,Louisiana
+123,2,6-10 Years,Black or African American alone,< 30 Days,Louisiana
+124,1,6-10 Years,Black or African American alone,30 to < 90 Days,Louisiana
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Louisiana
+126,1,6-10 Years,Black or African American alone,6 Months to < 1 Year,Louisiana
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Louisiana
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Louisiana
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Louisiana
+130,0,6-10 Years,Black or African American alone,5 or More Years,Louisiana
+131,2,6-10 Years,Hispanic or Latino,All Time,Louisiana
+132,1,6-10 Years,Hispanic or Latino,< 30 Days,Louisiana
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Louisiana
+134,1,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Louisiana
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Louisiana
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Louisiana
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Louisiana
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Louisiana
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Louisiana
+140,0,6-10 Years,Asian alone,All Time,Louisiana
+141,0,6-10 Years,Asian alone,< 30 Days,Louisiana
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Louisiana
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Louisiana
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Louisiana
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Louisiana
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Louisiana
+147,0,6-10 Years,Asian alone,5 or More Years,Louisiana
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Louisiana
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Louisiana
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Louisiana
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Louisiana
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Louisiana
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Louisiana
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Louisiana
+155,0,6-10 Years,Population of two or more races:,All Time,Louisiana
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Louisiana
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Louisiana
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Louisiana
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Louisiana
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Louisiana
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Louisiana
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Louisiana
+163,2,11-17 Years,White alone,All Time,Louisiana
+164,0,11-17 Years,White alone,< 30 Days,Louisiana
+165,0,11-17 Years,White alone,30 to < 90 Days,Louisiana
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Louisiana
+167,1,11-17 Years,White alone,6 Months to < 1 Year,Louisiana
+168,1,11-17 Years,White alone,1 Year to < 2 Years,Louisiana
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Louisiana
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Louisiana
+171,0,11-17 Years,White alone,5 or More Years,Louisiana
+172,13,11-17 Years,Black or African American alone,All Time,Louisiana
+173,1,11-17 Years,Black or African American alone,< 30 Days,Louisiana
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,Louisiana
+175,2,11-17 Years,Black or African American alone,90 Days to < 6 Months,Louisiana
+176,2,11-17 Years,Black or African American alone,6 Months to < 1 Year,Louisiana
+177,2,11-17 Years,Black or African American alone,1 Year to < 2 Years,Louisiana
+178,1,11-17 Years,Black or African American alone,2 Years to < 3 Years,Louisiana
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Louisiana
+180,4,11-17 Years,Black or African American alone,5 or More Years,Louisiana
+181,1,11-17 Years,Hispanic or Latino,All Time,Louisiana
+182,1,11-17 Years,Hispanic or Latino,< 30 Days,Louisiana
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Louisiana
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Louisiana
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Louisiana
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Louisiana
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Louisiana
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Louisiana
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Louisiana
+190,0,11-17 Years,Asian alone,All Time,Louisiana
+191,0,11-17 Years,Asian alone,< 30 Days,Louisiana
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Louisiana
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Louisiana
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Louisiana
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Louisiana
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Louisiana
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Louisiana
+198,0,11-17 Years,Asian alone,5 or More Years,Louisiana
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Louisiana
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Louisiana
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Louisiana
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Louisiana
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Louisiana
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Louisiana
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Louisiana
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Louisiana
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Louisiana
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Louisiana
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Louisiana
+210,0,11-17 Years,Population of two or more races:,All Time,Louisiana
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Louisiana
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Louisiana
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Louisiana
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Louisiana
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Louisiana
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Louisiana
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Louisiana
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Louisiana
+219,34,18-34 Years,White alone,All Time,Louisiana
+220,2,18-34 Years,White alone,< 30 Days,Louisiana
+221,5,18-34 Years,White alone,30 to < 90 Days,Louisiana
+222,2,18-34 Years,White alone,90 Days to < 6 Months,Louisiana
+223,4,18-34 Years,White alone,6 Months to < 1 Year,Louisiana
+224,11,18-34 Years,White alone,1 Year to < 2 Years,Louisiana
+225,3,18-34 Years,White alone,2 Years to < 3 Years,Louisiana
+226,4,18-34 Years,White alone,3 Years to < 5 Years,Louisiana
+227,3,18-34 Years,White alone,5 or More Years,Louisiana
+228,95,18-34 Years,Black or African American alone,All Time,Louisiana
+229,4,18-34 Years,Black or African American alone,< 30 Days,Louisiana
+230,8,18-34 Years,Black or African American alone,30 to < 90 Days,Louisiana
+231,5,18-34 Years,Black or African American alone,90 Days to < 6 Months,Louisiana
+232,17,18-34 Years,Black or African American alone,6 Months to < 1 Year,Louisiana
+233,21,18-34 Years,Black or African American alone,1 Year to < 2 Years,Louisiana
+234,23,18-34 Years,Black or African American alone,2 Years to < 3 Years,Louisiana
+235,12,18-34 Years,Black or African American alone,3 Years to < 5 Years,Louisiana
+236,5,18-34 Years,Black or African American alone,5 or More Years,Louisiana
+237,2,18-34 Years,Hispanic or Latino,All Time,Louisiana
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Louisiana
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Louisiana
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Louisiana
+241,0,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Louisiana
+242,2,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Louisiana
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Louisiana
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Louisiana
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Louisiana
+246,2,18-34 Years,Asian alone,All Time,Louisiana
+247,0,18-34 Years,Asian alone,< 30 Days,Louisiana
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Louisiana
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Louisiana
+250,1,18-34 Years,Asian alone,6 Months to < 1 Year,Louisiana
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Louisiana
+252,1,18-34 Years,Asian alone,2 Years to < 3 Years,Louisiana
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Louisiana
+254,0,18-34 Years,Asian alone,5 or More Years,Louisiana
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Louisiana
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Louisiana
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Louisiana
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Louisiana
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Louisiana
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Louisiana
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Louisiana
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Louisiana
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Louisiana
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Louisiana
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Louisiana
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Louisiana
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Louisiana
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Louisiana
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Louisiana
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Louisiana
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Louisiana
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Louisiana
+273,0,18-34 Years,Population of two or more races:,All Time,Louisiana
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Louisiana
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Louisiana
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Louisiana
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Louisiana
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Louisiana
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Louisiana
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Louisiana
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Louisiana
+282,106,35-49 Years,White alone,All Time,Louisiana
+283,2,35-49 Years,White alone,< 30 Days,Louisiana
+284,18,35-49 Years,White alone,30 to < 90 Days,Louisiana
+285,11,35-49 Years,White alone,90 Days to < 6 Months,Louisiana
+286,15,35-49 Years,White alone,6 Months to < 1 Year,Louisiana
+287,28,35-49 Years,White alone,1 Year to < 2 Years,Louisiana
+288,14,35-49 Years,White alone,2 Years to < 3 Years,Louisiana
+289,12,35-49 Years,White alone,3 Years to < 5 Years,Louisiana
+290,6,35-49 Years,White alone,5 or More Years,Louisiana
+291,315,35-49 Years,Black or African American alone,All Time,Louisiana
+292,9,35-49 Years,Black or African American alone,< 30 Days,Louisiana
+293,29,35-49 Years,Black or African American alone,30 to < 90 Days,Louisiana
+294,31,35-49 Years,Black or African American alone,90 Days to < 6 Months,Louisiana
+295,51,35-49 Years,Black or African American alone,6 Months to < 1 Year,Louisiana
+296,80,35-49 Years,Black or African American alone,1 Year to < 2 Years,Louisiana
+297,45,35-49 Years,Black or African American alone,2 Years to < 3 Years,Louisiana
+298,41,35-49 Years,Black or African American alone,3 Years to < 5 Years,Louisiana
+299,29,35-49 Years,Black or African American alone,5 or More Years,Louisiana
+300,9,35-49 Years,Hispanic or Latino,All Time,Louisiana
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Louisiana
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Louisiana
+303,1,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Louisiana
+304,2,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Louisiana
+305,1,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Louisiana
+306,3,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Louisiana
+307,2,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Louisiana
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Louisiana
+309,6,35-49 Years,Asian alone,All Time,Louisiana
+310,0,35-49 Years,Asian alone,< 30 Days,Louisiana
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Louisiana
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Louisiana
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,Louisiana
+314,3,35-49 Years,Asian alone,1 Year to < 2 Years,Louisiana
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Louisiana
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,Louisiana
+317,0,35-49 Years,Asian alone,5 or More Years,Louisiana
+318,3,35-49 Years,American Indian and Alaska Native alone,All Time,Louisiana
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Louisiana
+320,1,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Louisiana
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Louisiana
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Louisiana
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Louisiana
+324,1,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Louisiana
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Louisiana
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Louisiana
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Louisiana
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Louisiana
+329,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Louisiana
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Louisiana
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Louisiana
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Louisiana
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Louisiana
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Louisiana
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Louisiana
+336,0,35-49 Years,Population of two or more races:,All Time,Louisiana
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Louisiana
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Louisiana
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Louisiana
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Louisiana
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Louisiana
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Louisiana
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Louisiana
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Louisiana
+345,251,50-64 Years,White alone,All Time,Louisiana
+346,18,50-64 Years,White alone,< 30 Days,Louisiana
+347,29,50-64 Years,White alone,30 to < 90 Days,Louisiana
+348,27,50-64 Years,White alone,90 Days to < 6 Months,Louisiana
+349,37,50-64 Years,White alone,6 Months to < 1 Year,Louisiana
+350,51,50-64 Years,White alone,1 Year to < 2 Years,Louisiana
+351,43,50-64 Years,White alone,2 Years to < 3 Years,Louisiana
+352,28,50-64 Years,White alone,3 Years to < 5 Years,Louisiana
+353,18,50-64 Years,White alone,5 or More Years,Louisiana
+354,510,50-64 Years,Black or African American alone,All Time,Louisiana
+355,19,50-64 Years,Black or African American alone,< 30 Days,Louisiana
+356,34,50-64 Years,Black or African American alone,30 to < 90 Days,Louisiana
+357,39,50-64 Years,Black or African American alone,90 Days to < 6 Months,Louisiana
+358,79,50-64 Years,Black or African American alone,6 Months to < 1 Year,Louisiana
+359,119,50-64 Years,Black or African American alone,1 Year to < 2 Years,Louisiana
+360,80,50-64 Years,Black or African American alone,2 Years to < 3 Years,Louisiana
+361,86,50-64 Years,Black or African American alone,3 Years to < 5 Years,Louisiana
+362,54,50-64 Years,Black or African American alone,5 or More Years,Louisiana
+363,21,50-64 Years,Hispanic or Latino,All Time,Louisiana
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Louisiana
+365,2,50-64 Years,Hispanic or Latino,30 to < 90 Days,Louisiana
+366,1,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Louisiana
+367,3,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Louisiana
+368,5,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Louisiana
+369,3,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Louisiana
+370,4,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Louisiana
+371,3,50-64 Years,Hispanic or Latino,5 or More Years,Louisiana
+372,17,50-64 Years,Asian alone,All Time,Louisiana
+373,0,50-64 Years,Asian alone,< 30 Days,Louisiana
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Louisiana
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Louisiana
+376,4,50-64 Years,Asian alone,6 Months to < 1 Year,Louisiana
+377,3,50-64 Years,Asian alone,1 Year to < 2 Years,Louisiana
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Louisiana
+379,4,50-64 Years,Asian alone,3 Years to < 5 Years,Louisiana
+380,6,50-64 Years,Asian alone,5 or More Years,Louisiana
+381,1,50-64 Years,American Indian and Alaska Native alone,All Time,Louisiana
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Louisiana
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Louisiana
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Louisiana
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Louisiana
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Louisiana
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Louisiana
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Louisiana
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Louisiana
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Louisiana
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Louisiana
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Louisiana
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Louisiana
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Louisiana
+395,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Louisiana
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Louisiana
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Louisiana
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Louisiana
+399,1,50-64 Years,Population of two or more races:,All Time,Louisiana
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Louisiana
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Louisiana
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Louisiana
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Louisiana
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Louisiana
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Louisiana
+406,1,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Louisiana
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Louisiana
+408,178,65 and Older,White alone,All Time,Louisiana
+409,12,65 and Older,White alone,< 30 Days,Louisiana
+410,22,65 and Older,White alone,30 to < 90 Days,Louisiana
+411,16,65 and Older,White alone,90 Days to < 6 Months,Louisiana
+412,33,65 and Older,White alone,6 Months to < 1 Year,Louisiana
+413,20,65 and Older,White alone,1 Year to < 2 Years,Louisiana
+414,17,65 and Older,White alone,2 Years to < 3 Years,Louisiana
+415,40,65 and Older,White alone,3 Years to < 5 Years,Louisiana
+416,18,65 and Older,White alone,5 or More Years,Louisiana
+417,229,65 and Older,Black or African American alone,All Time,Louisiana
+418,10,65 and Older,Black or African American alone,< 30 Days,Louisiana
+419,17,65 and Older,Black or African American alone,30 to < 90 Days,Louisiana
+420,20,65 and Older,Black or African American alone,90 Days to < 6 Months,Louisiana
+421,36,65 and Older,Black or African American alone,6 Months to < 1 Year,Louisiana
+422,47,65 and Older,Black or African American alone,1 Year to < 2 Years,Louisiana
+423,29,65 and Older,Black or African American alone,2 Years to < 3 Years,Louisiana
+424,44,65 and Older,Black or African American alone,3 Years to < 5 Years,Louisiana
+425,26,65 and Older,Black or African American alone,5 or More Years,Louisiana
+426,5,65 and Older,Hispanic or Latino,All Time,Louisiana
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Louisiana
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Louisiana
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Louisiana
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Louisiana
+431,2,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Louisiana
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Louisiana
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Louisiana
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Louisiana
+435,9,65 and Older,Asian alone,All Time,Louisiana
+436,0,65 and Older,Asian alone,< 30 Days,Louisiana
+437,0,65 and Older,Asian alone,30 to < 90 Days,Louisiana
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Louisiana
+439,2,65 and Older,Asian alone,6 Months to < 1 Year,Louisiana
+440,2,65 and Older,Asian alone,1 Year to < 2 Years,Louisiana
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Louisiana
+442,2,65 and Older,Asian alone,3 Years to < 5 Years,Louisiana
+443,3,65 and Older,Asian alone,5 or More Years,Louisiana
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Louisiana
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Louisiana
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Louisiana
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Louisiana
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Louisiana
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Louisiana
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Louisiana
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Louisiana
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Louisiana
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Louisiana
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Louisiana
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Louisiana
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Louisiana
+457,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Louisiana
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Louisiana
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Louisiana
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Louisiana
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Louisiana
+462,0,65 and Older,Population of two or more races:,All Time,Louisiana
+463,0,65 and Older,Population of two or more races:,< 30 Days,Louisiana
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Louisiana
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Louisiana
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Louisiana
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Louisiana
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Louisiana
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Louisiana
+470,0,65 and Older,Population of two or more races:,5 or More Years,Louisiana

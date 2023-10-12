@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"1,051",All Ages,White alone,All Time,Wisconsin
+1,64,All Ages,White alone,< 30 Days,Wisconsin
+2,105,All Ages,White alone,30 to < 90 Days,Wisconsin
+3,105,All Ages,White alone,90 Days to < 6 Months,Wisconsin
+4,177,All Ages,White alone,6 Months to < 1 Year,Wisconsin
+5,251,All Ages,White alone,1 Year to < 2 Years,Wisconsin
+6,138,All Ages,White alone,2 Years to < 3 Years,Wisconsin
+7,128,All Ages,White alone,3 Years to < 5 Years,Wisconsin
+8,83,All Ages,White alone,5 or More Years,Wisconsin
+9,231,All Ages,Black or African American alone,All Time,Wisconsin
+10,8,All Ages,Black or African American alone,< 30 Days,Wisconsin
+11,18,All Ages,Black or African American alone,30 to < 90 Days,Wisconsin
+12,21,All Ages,Black or African American alone,90 Days to < 6 Months,Wisconsin
+13,43,All Ages,Black or African American alone,6 Months to < 1 Year,Wisconsin
+14,50,All Ages,Black or African American alone,1 Year to < 2 Years,Wisconsin
+15,33,All Ages,Black or African American alone,2 Years to < 3 Years,Wisconsin
+16,28,All Ages,Black or African American alone,3 Years to < 5 Years,Wisconsin
+17,30,All Ages,Black or African American alone,5 or More Years,Wisconsin
+18,93,All Ages,Hispanic or Latino,All Time,Wisconsin
+19,4,All Ages,Hispanic or Latino,< 30 Days,Wisconsin
+20,11,All Ages,Hispanic or Latino,30 to < 90 Days,Wisconsin
+21,9,All Ages,Hispanic or Latino,90 Days to < 6 Months,Wisconsin
+22,9,All Ages,Hispanic or Latino,6 Months to < 1 Year,Wisconsin
+23,28,All Ages,Hispanic or Latino,1 Year to < 2 Years,Wisconsin
+24,16,All Ages,Hispanic or Latino,2 Years to < 3 Years,Wisconsin
+25,10,All Ages,Hispanic or Latino,3 Years to < 5 Years,Wisconsin
+26,6,All Ages,Hispanic or Latino,5 or More Years,Wisconsin
+27,101,All Ages,Asian alone,All Time,Wisconsin
+28,1,All Ages,Asian alone,< 30 Days,Wisconsin
+29,9,All Ages,Asian alone,30 to < 90 Days,Wisconsin
+30,3,All Ages,Asian alone,90 Days to < 6 Months,Wisconsin
+31,18,All Ages,Asian alone,6 Months to < 1 Year,Wisconsin
+32,27,All Ages,Asian alone,1 Year to < 2 Years,Wisconsin
+33,14,All Ages,Asian alone,2 Years to < 3 Years,Wisconsin
+34,17,All Ages,Asian alone,3 Years to < 5 Years,Wisconsin
+35,12,All Ages,Asian alone,5 or More Years,Wisconsin
+36,22,All Ages,American Indian and Alaska Native alone,All Time,Wisconsin
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Wisconsin
+38,2,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Wisconsin
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Wisconsin
+40,6,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Wisconsin
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Wisconsin
+42,6,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Wisconsin
+43,3,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Wisconsin
+44,2,All Ages,American Indian and Alaska Native alone,5 or More Years,Wisconsin
+45,1,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Wisconsin
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wisconsin
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wisconsin
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wisconsin
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wisconsin
+50,1,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wisconsin
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wisconsin
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wisconsin
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wisconsin
+54,7,All Ages,Population of two or more races:,All Time,Wisconsin
+55,0,All Ages,Population of two or more races:,< 30 Days,Wisconsin
+56,1,All Ages,Population of two or more races:,30 to < 90 Days,Wisconsin
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,Wisconsin
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Wisconsin
+59,1,All Ages,Population of two or more races:,1 Year to < 2 Years,Wisconsin
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Wisconsin
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,Wisconsin
+62,1,All Ages,Population of two or more races:,5 or More Years,Wisconsin
+63,8,0-5 Years,White alone,All Time,Wisconsin
+64,2,0-5 Years,White alone,< 30 Days,Wisconsin
+65,1,0-5 Years,White alone,30 to < 90 Days,Wisconsin
+66,1,0-5 Years,White alone,90 Days to < 6 Months,Wisconsin
+67,1,0-5 Years,White alone,6 Months to < 1 Year,Wisconsin
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Wisconsin
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Wisconsin
+70,1,0-5 Years,White alone,3 Years to < 5 Years,Wisconsin
+71,1,0-5 Years,White alone,5 or More Years,Wisconsin
+72,4,0-5 Years,Black or African American alone,All Time,Wisconsin
+73,1,0-5 Years,Black or African American alone,< 30 Days,Wisconsin
+74,1,0-5 Years,Black or African American alone,30 to < 90 Days,Wisconsin
+75,1,0-5 Years,Black or African American alone,90 Days to < 6 Months,Wisconsin
+76,1,0-5 Years,Black or African American alone,6 Months to < 1 Year,Wisconsin
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Wisconsin
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Wisconsin
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Wisconsin
+80,0,0-5 Years,Hispanic or Latino,All Time,Wisconsin
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Wisconsin
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Wisconsin
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Wisconsin
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Wisconsin
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Wisconsin
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Wisconsin
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Wisconsin
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Wisconsin
+89,1,0-5 Years,Asian alone,All Time,Wisconsin
+90,0,0-5 Years,Asian alone,< 30 Days,Wisconsin
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Wisconsin
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Wisconsin
+93,1,0-5 Years,Asian alone,6 Months to < 1 Year,Wisconsin
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Wisconsin
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Wisconsin
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Wisconsin
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Wisconsin
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Wisconsin
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Wisconsin
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wisconsin
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wisconsin
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wisconsin
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wisconsin
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wisconsin
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wisconsin
+106,0,0-5 Years,Population of two or more races:,All Time,Wisconsin
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Wisconsin
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Wisconsin
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Wisconsin
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Wisconsin
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Wisconsin
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Wisconsin
+113,2,6-10 Years,White alone,All Time,Wisconsin
+114,0,6-10 Years,White alone,< 30 Days,Wisconsin
+115,0,6-10 Years,White alone,30 to < 90 Days,Wisconsin
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Wisconsin
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Wisconsin
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Wisconsin
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Wisconsin
+120,1,6-10 Years,White alone,3 Years to < 5 Years,Wisconsin
+121,1,6-10 Years,White alone,5 or More Years,Wisconsin
+122,0,6-10 Years,Black or African American alone,All Time,Wisconsin
+123,0,6-10 Years,Black or African American alone,< 30 Days,Wisconsin
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Wisconsin
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Wisconsin
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Wisconsin
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Wisconsin
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Wisconsin
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Wisconsin
+130,0,6-10 Years,Black or African American alone,5 or More Years,Wisconsin
+131,2,6-10 Years,Hispanic or Latino,All Time,Wisconsin
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Wisconsin
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Wisconsin
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Wisconsin
+135,2,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Wisconsin
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Wisconsin
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Wisconsin
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Wisconsin
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Wisconsin
+140,1,6-10 Years,Asian alone,All Time,Wisconsin
+141,0,6-10 Years,Asian alone,< 30 Days,Wisconsin
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Wisconsin
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Wisconsin
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Wisconsin
+145,1,6-10 Years,Asian alone,2 Years to < 3 Years,Wisconsin
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Wisconsin
+147,0,6-10 Years,Asian alone,5 or More Years,Wisconsin
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Wisconsin
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wisconsin
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wisconsin
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wisconsin
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wisconsin
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wisconsin
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wisconsin
+155,0,6-10 Years,Population of two or more races:,All Time,Wisconsin
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Wisconsin
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Wisconsin
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Wisconsin
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Wisconsin
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Wisconsin
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Wisconsin
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Wisconsin
+163,4,11-17 Years,White alone,All Time,Wisconsin
+164,0,11-17 Years,White alone,< 30 Days,Wisconsin
+165,0,11-17 Years,White alone,30 to < 90 Days,Wisconsin
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Wisconsin
+167,2,11-17 Years,White alone,6 Months to < 1 Year,Wisconsin
+168,2,11-17 Years,White alone,1 Year to < 2 Years,Wisconsin
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Wisconsin
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Wisconsin
+171,0,11-17 Years,White alone,5 or More Years,Wisconsin
+172,2,11-17 Years,Black or African American alone,All Time,Wisconsin
+173,0,11-17 Years,Black or African American alone,< 30 Days,Wisconsin
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,Wisconsin
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Wisconsin
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Wisconsin
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Wisconsin
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Wisconsin
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Wisconsin
+180,0,11-17 Years,Black or African American alone,5 or More Years,Wisconsin
+181,3,11-17 Years,Hispanic or Latino,All Time,Wisconsin
+182,1,11-17 Years,Hispanic or Latino,< 30 Days,Wisconsin
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,Wisconsin
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Wisconsin
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Wisconsin
+186,1,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Wisconsin
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Wisconsin
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Wisconsin
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Wisconsin
+190,3,11-17 Years,Asian alone,All Time,Wisconsin
+191,0,11-17 Years,Asian alone,< 30 Days,Wisconsin
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Wisconsin
+193,1,11-17 Years,Asian alone,90 Days to < 6 Months,Wisconsin
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Wisconsin
+195,1,11-17 Years,Asian alone,1 Year to < 2 Years,Wisconsin
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Wisconsin
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Wisconsin
+198,1,11-17 Years,Asian alone,5 or More Years,Wisconsin
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Wisconsin
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wisconsin
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wisconsin
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wisconsin
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Wisconsin
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wisconsin
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wisconsin
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wisconsin
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wisconsin
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wisconsin
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wisconsin
+210,0,11-17 Years,Population of two or more races:,All Time,Wisconsin
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Wisconsin
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Wisconsin
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Wisconsin
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Wisconsin
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Wisconsin
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Wisconsin
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Wisconsin
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Wisconsin
+219,108,18-34 Years,White alone,All Time,Wisconsin
+220,8,18-34 Years,White alone,< 30 Days,Wisconsin
+221,15,18-34 Years,White alone,30 to < 90 Days,Wisconsin
+222,20,18-34 Years,White alone,90 Days to < 6 Months,Wisconsin
+223,10,18-34 Years,White alone,6 Months to < 1 Year,Wisconsin
+224,28,18-34 Years,White alone,1 Year to < 2 Years,Wisconsin
+225,12,18-34 Years,White alone,2 Years to < 3 Years,Wisconsin
+226,8,18-34 Years,White alone,3 Years to < 5 Years,Wisconsin
+227,7,18-34 Years,White alone,5 or More Years,Wisconsin
+228,25,18-34 Years,Black or African American alone,All Time,Wisconsin
+229,1,18-34 Years,Black or African American alone,< 30 Days,Wisconsin
+230,3,18-34 Years,Black or African American alone,30 to < 90 Days,Wisconsin
+231,6,18-34 Years,Black or African American alone,90 Days to < 6 Months,Wisconsin
+232,2,18-34 Years,Black or African American alone,6 Months to < 1 Year,Wisconsin
+233,5,18-34 Years,Black or African American alone,1 Year to < 2 Years,Wisconsin
+234,6,18-34 Years,Black or African American alone,2 Years to < 3 Years,Wisconsin
+235,2,18-34 Years,Black or African American alone,3 Years to < 5 Years,Wisconsin
+236,0,18-34 Years,Black or African American alone,5 or More Years,Wisconsin
+237,20,18-34 Years,Hispanic or Latino,All Time,Wisconsin
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Wisconsin
+239,3,18-34 Years,Hispanic or Latino,30 to < 90 Days,Wisconsin
+240,1,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Wisconsin
+241,2,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Wisconsin
+242,6,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Wisconsin
+243,3,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Wisconsin
+244,3,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Wisconsin
+245,2,18-34 Years,Hispanic or Latino,5 or More Years,Wisconsin
+246,15,18-34 Years,Asian alone,All Time,Wisconsin
+247,0,18-34 Years,Asian alone,< 30 Days,Wisconsin
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Wisconsin
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Wisconsin
+250,7,18-34 Years,Asian alone,6 Months to < 1 Year,Wisconsin
+251,3,18-34 Years,Asian alone,1 Year to < 2 Years,Wisconsin
+252,1,18-34 Years,Asian alone,2 Years to < 3 Years,Wisconsin
+253,2,18-34 Years,Asian alone,3 Years to < 5 Years,Wisconsin
+254,1,18-34 Years,Asian alone,5 or More Years,Wisconsin
+255,4,18-34 Years,American Indian and Alaska Native alone,All Time,Wisconsin
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Wisconsin
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Wisconsin
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wisconsin
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wisconsin
+260,1,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wisconsin
+261,3,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Wisconsin
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wisconsin
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Wisconsin
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wisconsin
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wisconsin
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wisconsin
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wisconsin
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wisconsin
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wisconsin
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wisconsin
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wisconsin
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wisconsin
+273,2,18-34 Years,Population of two or more races:,All Time,Wisconsin
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Wisconsin
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Wisconsin
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Wisconsin
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Wisconsin
+278,1,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Wisconsin
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Wisconsin
+280,1,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Wisconsin
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Wisconsin
+282,179,35-49 Years,White alone,All Time,Wisconsin
+283,8,35-49 Years,White alone,< 30 Days,Wisconsin
+284,21,35-49 Years,White alone,30 to < 90 Days,Wisconsin
+285,13,35-49 Years,White alone,90 Days to < 6 Months,Wisconsin
+286,36,35-49 Years,White alone,6 Months to < 1 Year,Wisconsin
+287,41,35-49 Years,White alone,1 Year to < 2 Years,Wisconsin
+288,22,35-49 Years,White alone,2 Years to < 3 Years,Wisconsin
+289,19,35-49 Years,White alone,3 Years to < 5 Years,Wisconsin
+290,19,35-49 Years,White alone,5 or More Years,Wisconsin
+291,59,35-49 Years,Black or African American alone,All Time,Wisconsin
+292,1,35-49 Years,Black or African American alone,< 30 Days,Wisconsin
+293,1,35-49 Years,Black or African American alone,30 to < 90 Days,Wisconsin
+294,4,35-49 Years,Black or African American alone,90 Days to < 6 Months,Wisconsin
+295,16,35-49 Years,Black or African American alone,6 Months to < 1 Year,Wisconsin
+296,14,35-49 Years,Black or African American alone,1 Year to < 2 Years,Wisconsin
+297,9,35-49 Years,Black or African American alone,2 Years to < 3 Years,Wisconsin
+298,6,35-49 Years,Black or African American alone,3 Years to < 5 Years,Wisconsin
+299,8,35-49 Years,Black or African American alone,5 or More Years,Wisconsin
+300,27,35-49 Years,Hispanic or Latino,All Time,Wisconsin
+301,2,35-49 Years,Hispanic or Latino,< 30 Days,Wisconsin
+302,6,35-49 Years,Hispanic or Latino,30 to < 90 Days,Wisconsin
+303,2,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Wisconsin
+304,2,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Wisconsin
+305,5,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Wisconsin
+306,6,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Wisconsin
+307,2,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Wisconsin
+308,2,35-49 Years,Hispanic or Latino,5 or More Years,Wisconsin
+309,31,35-49 Years,Asian alone,All Time,Wisconsin
+310,0,35-49 Years,Asian alone,< 30 Days,Wisconsin
+311,6,35-49 Years,Asian alone,30 to < 90 Days,Wisconsin
+312,1,35-49 Years,Asian alone,90 Days to < 6 Months,Wisconsin
+313,2,35-49 Years,Asian alone,6 Months to < 1 Year,Wisconsin
+314,9,35-49 Years,Asian alone,1 Year to < 2 Years,Wisconsin
+315,6,35-49 Years,Asian alone,2 Years to < 3 Years,Wisconsin
+316,3,35-49 Years,Asian alone,3 Years to < 5 Years,Wisconsin
+317,4,35-49 Years,Asian alone,5 or More Years,Wisconsin
+318,7,35-49 Years,American Indian and Alaska Native alone,All Time,Wisconsin
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Wisconsin
+320,1,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Wisconsin
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wisconsin
+322,3,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wisconsin
+323,1,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wisconsin
+324,2,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Wisconsin
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wisconsin
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Wisconsin
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wisconsin
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wisconsin
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wisconsin
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wisconsin
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wisconsin
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wisconsin
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wisconsin
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wisconsin
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wisconsin
+336,4,35-49 Years,Population of two or more races:,All Time,Wisconsin
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Wisconsin
+338,1,35-49 Years,Population of two or more races:,30 to < 90 Days,Wisconsin
+339,1,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Wisconsin
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Wisconsin
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Wisconsin
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Wisconsin
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Wisconsin
+344,1,35-49 Years,Population of two or more races:,5 or More Years,Wisconsin
+345,451,50-64 Years,White alone,All Time,Wisconsin
+346,25,50-64 Years,White alone,< 30 Days,Wisconsin
+347,51,50-64 Years,White alone,30 to < 90 Days,Wisconsin
+348,45,50-64 Years,White alone,90 Days to < 6 Months,Wisconsin
+349,73,50-64 Years,White alone,6 Months to < 1 Year,Wisconsin
+350,104,50-64 Years,White alone,1 Year to < 2 Years,Wisconsin
+351,62,50-64 Years,White alone,2 Years to < 3 Years,Wisconsin
+352,57,50-64 Years,White alone,3 Years to < 5 Years,Wisconsin
+353,34,50-64 Years,White alone,5 or More Years,Wisconsin
+354,99,50-64 Years,Black or African American alone,All Time,Wisconsin
+355,2,50-64 Years,Black or African American alone,< 30 Days,Wisconsin
+356,8,50-64 Years,Black or African American alone,30 to < 90 Days,Wisconsin
+357,10,50-64 Years,Black or African American alone,90 Days to < 6 Months,Wisconsin
+358,13,50-64 Years,Black or African American alone,6 Months to < 1 Year,Wisconsin
+359,23,50-64 Years,Black or African American alone,1 Year to < 2 Years,Wisconsin
+360,11,50-64 Years,Black or African American alone,2 Years to < 3 Years,Wisconsin
+361,16,50-64 Years,Black or African American alone,3 Years to < 5 Years,Wisconsin
+362,16,50-64 Years,Black or African American alone,5 or More Years,Wisconsin
+363,20,50-64 Years,Hispanic or Latino,All Time,Wisconsin
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Wisconsin
+365,1,50-64 Years,Hispanic or Latino,30 to < 90 Days,Wisconsin
+366,3,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Wisconsin
+367,3,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Wisconsin
+368,6,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Wisconsin
+369,4,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Wisconsin
+370,2,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Wisconsin
+371,1,50-64 Years,Hispanic or Latino,5 or More Years,Wisconsin
+372,38,50-64 Years,Asian alone,All Time,Wisconsin
+373,1,50-64 Years,Asian alone,< 30 Days,Wisconsin
+374,2,50-64 Years,Asian alone,30 to < 90 Days,Wisconsin
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,Wisconsin
+376,6,50-64 Years,Asian alone,6 Months to < 1 Year,Wisconsin
+377,10,50-64 Years,Asian alone,1 Year to < 2 Years,Wisconsin
+378,4,50-64 Years,Asian alone,2 Years to < 3 Years,Wisconsin
+379,8,50-64 Years,Asian alone,3 Years to < 5 Years,Wisconsin
+380,6,50-64 Years,Asian alone,5 or More Years,Wisconsin
+381,7,50-64 Years,American Indian and Alaska Native alone,All Time,Wisconsin
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Wisconsin
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Wisconsin
+384,1,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wisconsin
+385,2,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wisconsin
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wisconsin
+387,1,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Wisconsin
+388,2,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wisconsin
+389,1,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Wisconsin
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wisconsin
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wisconsin
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wisconsin
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wisconsin
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wisconsin
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wisconsin
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wisconsin
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wisconsin
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wisconsin
+399,0,50-64 Years,Population of two or more races:,All Time,Wisconsin
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Wisconsin
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Wisconsin
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Wisconsin
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Wisconsin
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Wisconsin
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Wisconsin
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Wisconsin
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Wisconsin
+408,299,65 and Older,White alone,All Time,Wisconsin
+409,21,65 and Older,White alone,< 30 Days,Wisconsin
+410,17,65 and Older,White alone,30 to < 90 Days,Wisconsin
+411,26,65 and Older,White alone,90 Days to < 6 Months,Wisconsin
+412,55,65 and Older,White alone,6 Months to < 1 Year,Wisconsin
+413,75,65 and Older,White alone,1 Year to < 2 Years,Wisconsin
+414,42,65 and Older,White alone,2 Years to < 3 Years,Wisconsin
+415,42,65 and Older,White alone,3 Years to < 5 Years,Wisconsin
+416,21,65 and Older,White alone,5 or More Years,Wisconsin
+417,42,65 and Older,Black or African American alone,All Time,Wisconsin
+418,3,65 and Older,Black or African American alone,< 30 Days,Wisconsin
+419,4,65 and Older,Black or African American alone,30 to < 90 Days,Wisconsin
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,Wisconsin
+421,10,65 and Older,Black or African American alone,6 Months to < 1 Year,Wisconsin
+422,8,65 and Older,Black or African American alone,1 Year to < 2 Years,Wisconsin
+423,7,65 and Older,Black or African American alone,2 Years to < 3 Years,Wisconsin
+424,4,65 and Older,Black or African American alone,3 Years to < 5 Years,Wisconsin
+425,6,65 and Older,Black or African American alone,5 or More Years,Wisconsin
+426,21,65 and Older,Hispanic or Latino,All Time,Wisconsin
+427,1,65 and Older,Hispanic or Latino,< 30 Days,Wisconsin
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Wisconsin
+429,3,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Wisconsin
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Wisconsin
+431,10,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Wisconsin
+432,3,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Wisconsin
+433,3,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Wisconsin
+434,1,65 and Older,Hispanic or Latino,5 or More Years,Wisconsin
+435,12,65 and Older,Asian alone,All Time,Wisconsin
+436,0,65 and Older,Asian alone,< 30 Days,Wisconsin
+437,0,65 and Older,Asian alone,30 to < 90 Days,Wisconsin
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Wisconsin
+439,2,65 and Older,Asian alone,6 Months to < 1 Year,Wisconsin
+440,4,65 and Older,Asian alone,1 Year to < 2 Years,Wisconsin
+441,2,65 and Older,Asian alone,2 Years to < 3 Years,Wisconsin
+442,4,65 and Older,Asian alone,3 Years to < 5 Years,Wisconsin
+443,0,65 and Older,Asian alone,5 or More Years,Wisconsin
+444,4,65 and Older,American Indian and Alaska Native alone,All Time,Wisconsin
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Wisconsin
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Wisconsin
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Wisconsin
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Wisconsin
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Wisconsin
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Wisconsin
+451,1,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Wisconsin
+452,1,65 and Older,American Indian and Alaska Native alone,5 or More Years,Wisconsin
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Wisconsin
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wisconsin
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wisconsin
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wisconsin
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wisconsin
+458,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wisconsin
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wisconsin
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wisconsin
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wisconsin
+462,1,65 and Older,Population of two or more races:,All Time,Wisconsin
+463,0,65 and Older,Population of two or more races:,< 30 Days,Wisconsin
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Wisconsin
+465,1,65 and Older,Population of two or more races:,90 Days to < 6 Months,Wisconsin
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Wisconsin
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Wisconsin
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Wisconsin
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Wisconsin
+470,0,65 and Older,Population of two or more races:,5 or More Years,Wisconsin

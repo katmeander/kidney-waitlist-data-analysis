@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,198,All Ages,White alone,All Time,Delaware
+1,5,All Ages,White alone,< 30 Days,Delaware
+2,17,All Ages,White alone,30 to < 90 Days,Delaware
+3,17,All Ages,White alone,90 Days to < 6 Months,Delaware
+4,23,All Ages,White alone,6 Months to < 1 Year,Delaware
+5,49,All Ages,White alone,1 Year to < 2 Years,Delaware
+6,33,All Ages,White alone,2 Years to < 3 Years,Delaware
+7,31,All Ages,White alone,3 Years to < 5 Years,Delaware
+8,23,All Ages,White alone,5 or More Years,Delaware
+9,230,All Ages,Black or African American alone,All Time,Delaware
+10,4,All Ages,Black or African American alone,< 30 Days,Delaware
+11,15,All Ages,Black or African American alone,30 to < 90 Days,Delaware
+12,22,All Ages,Black or African American alone,90 Days to < 6 Months,Delaware
+13,41,All Ages,Black or African American alone,6 Months to < 1 Year,Delaware
+14,49,All Ages,Black or African American alone,1 Year to < 2 Years,Delaware
+15,25,All Ages,Black or African American alone,2 Years to < 3 Years,Delaware
+16,52,All Ages,Black or African American alone,3 Years to < 5 Years,Delaware
+17,22,All Ages,Black or African American alone,5 or More Years,Delaware
+18,29,All Ages,Hispanic or Latino,All Time,Delaware
+19,0,All Ages,Hispanic or Latino,< 30 Days,Delaware
+20,4,All Ages,Hispanic or Latino,30 to < 90 Days,Delaware
+21,4,All Ages,Hispanic or Latino,90 Days to < 6 Months,Delaware
+22,7,All Ages,Hispanic or Latino,6 Months to < 1 Year,Delaware
+23,5,All Ages,Hispanic or Latino,1 Year to < 2 Years,Delaware
+24,4,All Ages,Hispanic or Latino,2 Years to < 3 Years,Delaware
+25,5,All Ages,Hispanic or Latino,3 Years to < 5 Years,Delaware
+26,0,All Ages,Hispanic or Latino,5 or More Years,Delaware
+27,19,All Ages,Asian alone,All Time,Delaware
+28,0,All Ages,Asian alone,< 30 Days,Delaware
+29,2,All Ages,Asian alone,30 to < 90 Days,Delaware
+30,0,All Ages,Asian alone,90 Days to < 6 Months,Delaware
+31,2,All Ages,Asian alone,6 Months to < 1 Year,Delaware
+32,4,All Ages,Asian alone,1 Year to < 2 Years,Delaware
+33,4,All Ages,Asian alone,2 Years to < 3 Years,Delaware
+34,6,All Ages,Asian alone,3 Years to < 5 Years,Delaware
+35,1,All Ages,Asian alone,5 or More Years,Delaware
+36,1,All Ages,American Indian and Alaska Native alone,All Time,Delaware
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Delaware
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Delaware
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Delaware
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Delaware
+41,1,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Delaware
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Delaware
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Delaware
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Delaware
+45,1,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Delaware
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Delaware
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Delaware
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Delaware
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Delaware
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Delaware
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Delaware
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Delaware
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Delaware
+54,0,All Ages,Population of two or more races:,All Time,Delaware
+55,0,All Ages,Population of two or more races:,< 30 Days,Delaware
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Delaware
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Delaware
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Delaware
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Delaware
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Delaware
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Delaware
+62,0,All Ages,Population of two or more races:,5 or More Years,Delaware
+63,2,0-5 Years,White alone,All Time,Delaware
+64,0,0-5 Years,White alone,< 30 Days,Delaware
+65,1,0-5 Years,White alone,30 to < 90 Days,Delaware
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Delaware
+67,1,0-5 Years,White alone,6 Months to < 1 Year,Delaware
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Delaware
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Delaware
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Delaware
+71,0,0-5 Years,White alone,5 or More Years,Delaware
+72,0,0-5 Years,Black or African American alone,All Time,Delaware
+73,0,0-5 Years,Black or African American alone,< 30 Days,Delaware
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Delaware
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Delaware
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Delaware
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Delaware
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Delaware
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Delaware
+80,0,0-5 Years,Hispanic or Latino,All Time,Delaware
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Delaware
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Delaware
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Delaware
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Delaware
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Delaware
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Delaware
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Delaware
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Delaware
+89,0,0-5 Years,Asian alone,All Time,Delaware
+90,0,0-5 Years,Asian alone,< 30 Days,Delaware
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Delaware
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Delaware
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Delaware
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Delaware
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Delaware
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Delaware
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Delaware
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Delaware
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Delaware
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Delaware
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Delaware
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Delaware
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Delaware
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Delaware
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Delaware
+106,0,0-5 Years,Population of two or more races:,All Time,Delaware
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Delaware
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Delaware
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Delaware
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Delaware
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Delaware
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Delaware
+113,0,6-10 Years,White alone,All Time,Delaware
+114,0,6-10 Years,White alone,< 30 Days,Delaware
+115,0,6-10 Years,White alone,30 to < 90 Days,Delaware
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Delaware
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Delaware
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Delaware
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Delaware
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Delaware
+121,0,6-10 Years,White alone,5 or More Years,Delaware
+122,0,6-10 Years,Black or African American alone,All Time,Delaware
+123,0,6-10 Years,Black or African American alone,< 30 Days,Delaware
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Delaware
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Delaware
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Delaware
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Delaware
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Delaware
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Delaware
+130,0,6-10 Years,Black or African American alone,5 or More Years,Delaware
+131,0,6-10 Years,Hispanic or Latino,All Time,Delaware
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Delaware
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Delaware
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Delaware
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Delaware
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Delaware
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Delaware
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Delaware
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Delaware
+140,0,6-10 Years,Asian alone,All Time,Delaware
+141,0,6-10 Years,Asian alone,< 30 Days,Delaware
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Delaware
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Delaware
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Delaware
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Delaware
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Delaware
+147,0,6-10 Years,Asian alone,5 or More Years,Delaware
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Delaware
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Delaware
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Delaware
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Delaware
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Delaware
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Delaware
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Delaware
+155,0,6-10 Years,Population of two or more races:,All Time,Delaware
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Delaware
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Delaware
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Delaware
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Delaware
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Delaware
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Delaware
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Delaware
+163,1,11-17 Years,White alone,All Time,Delaware
+164,1,11-17 Years,White alone,< 30 Days,Delaware
+165,0,11-17 Years,White alone,30 to < 90 Days,Delaware
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Delaware
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Delaware
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Delaware
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Delaware
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Delaware
+171,0,11-17 Years,White alone,5 or More Years,Delaware
+172,2,11-17 Years,Black or African American alone,All Time,Delaware
+173,0,11-17 Years,Black or African American alone,< 30 Days,Delaware
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Delaware
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Delaware
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Delaware
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Delaware
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Delaware
+179,2,11-17 Years,Black or African American alone,3 Years to < 5 Years,Delaware
+180,0,11-17 Years,Black or African American alone,5 or More Years,Delaware
+181,0,11-17 Years,Hispanic or Latino,All Time,Delaware
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Delaware
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Delaware
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Delaware
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Delaware
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Delaware
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Delaware
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Delaware
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Delaware
+190,0,11-17 Years,Asian alone,All Time,Delaware
+191,0,11-17 Years,Asian alone,< 30 Days,Delaware
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Delaware
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Delaware
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Delaware
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Delaware
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Delaware
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Delaware
+198,0,11-17 Years,Asian alone,5 or More Years,Delaware
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Delaware
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Delaware
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Delaware
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Delaware
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Delaware
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Delaware
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Delaware
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Delaware
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Delaware
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Delaware
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Delaware
+210,0,11-17 Years,Population of two or more races:,All Time,Delaware
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Delaware
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Delaware
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Delaware
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Delaware
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Delaware
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Delaware
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Delaware
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Delaware
+219,15,18-34 Years,White alone,All Time,Delaware
+220,0,18-34 Years,White alone,< 30 Days,Delaware
+221,0,18-34 Years,White alone,30 to < 90 Days,Delaware
+222,1,18-34 Years,White alone,90 Days to < 6 Months,Delaware
+223,2,18-34 Years,White alone,6 Months to < 1 Year,Delaware
+224,5,18-34 Years,White alone,1 Year to < 2 Years,Delaware
+225,3,18-34 Years,White alone,2 Years to < 3 Years,Delaware
+226,4,18-34 Years,White alone,3 Years to < 5 Years,Delaware
+227,0,18-34 Years,White alone,5 or More Years,Delaware
+228,13,18-34 Years,Black or African American alone,All Time,Delaware
+229,0,18-34 Years,Black or African American alone,< 30 Days,Delaware
+230,1,18-34 Years,Black or African American alone,30 to < 90 Days,Delaware
+231,1,18-34 Years,Black or African American alone,90 Days to < 6 Months,Delaware
+232,4,18-34 Years,Black or African American alone,6 Months to < 1 Year,Delaware
+233,5,18-34 Years,Black or African American alone,1 Year to < 2 Years,Delaware
+234,1,18-34 Years,Black or African American alone,2 Years to < 3 Years,Delaware
+235,1,18-34 Years,Black or African American alone,3 Years to < 5 Years,Delaware
+236,0,18-34 Years,Black or African American alone,5 or More Years,Delaware
+237,6,18-34 Years,Hispanic or Latino,All Time,Delaware
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Delaware
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Delaware
+240,1,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Delaware
+241,2,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Delaware
+242,2,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Delaware
+243,1,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Delaware
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Delaware
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Delaware
+246,0,18-34 Years,Asian alone,All Time,Delaware
+247,0,18-34 Years,Asian alone,< 30 Days,Delaware
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Delaware
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Delaware
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Delaware
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Delaware
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Delaware
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Delaware
+254,0,18-34 Years,Asian alone,5 or More Years,Delaware
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Delaware
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Delaware
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Delaware
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Delaware
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Delaware
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Delaware
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Delaware
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Delaware
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Delaware
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Delaware
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Delaware
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Delaware
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Delaware
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Delaware
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Delaware
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Delaware
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Delaware
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Delaware
+273,0,18-34 Years,Population of two or more races:,All Time,Delaware
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Delaware
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Delaware
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Delaware
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Delaware
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Delaware
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Delaware
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Delaware
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Delaware
+282,22,35-49 Years,White alone,All Time,Delaware
+283,1,35-49 Years,White alone,< 30 Days,Delaware
+284,2,35-49 Years,White alone,30 to < 90 Days,Delaware
+285,1,35-49 Years,White alone,90 Days to < 6 Months,Delaware
+286,3,35-49 Years,White alone,6 Months to < 1 Year,Delaware
+287,6,35-49 Years,White alone,1 Year to < 2 Years,Delaware
+288,4,35-49 Years,White alone,2 Years to < 3 Years,Delaware
+289,1,35-49 Years,White alone,3 Years to < 5 Years,Delaware
+290,4,35-49 Years,White alone,5 or More Years,Delaware
+291,51,35-49 Years,Black or African American alone,All Time,Delaware
+292,1,35-49 Years,Black or African American alone,< 30 Days,Delaware
+293,3,35-49 Years,Black or African American alone,30 to < 90 Days,Delaware
+294,6,35-49 Years,Black or African American alone,90 Days to < 6 Months,Delaware
+295,6,35-49 Years,Black or African American alone,6 Months to < 1 Year,Delaware
+296,14,35-49 Years,Black or African American alone,1 Year to < 2 Years,Delaware
+297,7,35-49 Years,Black or African American alone,2 Years to < 3 Years,Delaware
+298,11,35-49 Years,Black or African American alone,3 Years to < 5 Years,Delaware
+299,3,35-49 Years,Black or African American alone,5 or More Years,Delaware
+300,8,35-49 Years,Hispanic or Latino,All Time,Delaware
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Delaware
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Delaware
+303,1,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Delaware
+304,1,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Delaware
+305,3,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Delaware
+306,1,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Delaware
+307,2,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Delaware
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Delaware
+309,5,35-49 Years,Asian alone,All Time,Delaware
+310,0,35-49 Years,Asian alone,< 30 Days,Delaware
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Delaware
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Delaware
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,Delaware
+314,2,35-49 Years,Asian alone,1 Year to < 2 Years,Delaware
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Delaware
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,Delaware
+317,0,35-49 Years,Asian alone,5 or More Years,Delaware
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,Delaware
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Delaware
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Delaware
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Delaware
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Delaware
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Delaware
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Delaware
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Delaware
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Delaware
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Delaware
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Delaware
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Delaware
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Delaware
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Delaware
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Delaware
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Delaware
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Delaware
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Delaware
+336,0,35-49 Years,Population of two or more races:,All Time,Delaware
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Delaware
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Delaware
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Delaware
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Delaware
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Delaware
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Delaware
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Delaware
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Delaware
+345,76,50-64 Years,White alone,All Time,Delaware
+346,1,50-64 Years,White alone,< 30 Days,Delaware
+347,11,50-64 Years,White alone,30 to < 90 Days,Delaware
+348,10,50-64 Years,White alone,90 Days to < 6 Months,Delaware
+349,6,50-64 Years,White alone,6 Months to < 1 Year,Delaware
+350,18,50-64 Years,White alone,1 Year to < 2 Years,Delaware
+351,14,50-64 Years,White alone,2 Years to < 3 Years,Delaware
+352,7,50-64 Years,White alone,3 Years to < 5 Years,Delaware
+353,9,50-64 Years,White alone,5 or More Years,Delaware
+354,106,50-64 Years,Black or African American alone,All Time,Delaware
+355,3,50-64 Years,Black or African American alone,< 30 Days,Delaware
+356,5,50-64 Years,Black or African American alone,30 to < 90 Days,Delaware
+357,11,50-64 Years,Black or African American alone,90 Days to < 6 Months,Delaware
+358,23,50-64 Years,Black or African American alone,6 Months to < 1 Year,Delaware
+359,19,50-64 Years,Black or African American alone,1 Year to < 2 Years,Delaware
+360,7,50-64 Years,Black or African American alone,2 Years to < 3 Years,Delaware
+361,26,50-64 Years,Black or African American alone,3 Years to < 5 Years,Delaware
+362,12,50-64 Years,Black or African American alone,5 or More Years,Delaware
+363,10,50-64 Years,Hispanic or Latino,All Time,Delaware
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Delaware
+365,4,50-64 Years,Hispanic or Latino,30 to < 90 Days,Delaware
+366,1,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Delaware
+367,2,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Delaware
+368,0,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Delaware
+369,1,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Delaware
+370,2,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Delaware
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Delaware
+372,10,50-64 Years,Asian alone,All Time,Delaware
+373,0,50-64 Years,Asian alone,< 30 Days,Delaware
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Delaware
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Delaware
+376,1,50-64 Years,Asian alone,6 Months to < 1 Year,Delaware
+377,1,50-64 Years,Asian alone,1 Year to < 2 Years,Delaware
+378,4,50-64 Years,Asian alone,2 Years to < 3 Years,Delaware
+379,4,50-64 Years,Asian alone,3 Years to < 5 Years,Delaware
+380,0,50-64 Years,Asian alone,5 or More Years,Delaware
+381,1,50-64 Years,American Indian and Alaska Native alone,All Time,Delaware
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Delaware
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Delaware
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Delaware
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Delaware
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Delaware
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Delaware
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Delaware
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Delaware
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Delaware
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Delaware
+392,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Delaware
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Delaware
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Delaware
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Delaware
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Delaware
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Delaware
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Delaware
+399,0,50-64 Years,Population of two or more races:,All Time,Delaware
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Delaware
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Delaware
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Delaware
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Delaware
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Delaware
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Delaware
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Delaware
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Delaware
+408,82,65 and Older,White alone,All Time,Delaware
+409,2,65 and Older,White alone,< 30 Days,Delaware
+410,3,65 and Older,White alone,30 to < 90 Days,Delaware
+411,5,65 and Older,White alone,90 Days to < 6 Months,Delaware
+412,11,65 and Older,White alone,6 Months to < 1 Year,Delaware
+413,20,65 and Older,White alone,1 Year to < 2 Years,Delaware
+414,12,65 and Older,White alone,2 Years to < 3 Years,Delaware
+415,19,65 and Older,White alone,3 Years to < 5 Years,Delaware
+416,10,65 and Older,White alone,5 or More Years,Delaware
+417,58,65 and Older,Black or African American alone,All Time,Delaware
+418,0,65 and Older,Black or African American alone,< 30 Days,Delaware
+419,6,65 and Older,Black or African American alone,30 to < 90 Days,Delaware
+420,4,65 and Older,Black or African American alone,90 Days to < 6 Months,Delaware
+421,8,65 and Older,Black or African American alone,6 Months to < 1 Year,Delaware
+422,11,65 and Older,Black or African American alone,1 Year to < 2 Years,Delaware
+423,10,65 and Older,Black or African American alone,2 Years to < 3 Years,Delaware
+424,12,65 and Older,Black or African American alone,3 Years to < 5 Years,Delaware
+425,7,65 and Older,Black or African American alone,5 or More Years,Delaware
+426,5,65 and Older,Hispanic or Latino,All Time,Delaware
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Delaware
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Delaware
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Delaware
+430,2,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Delaware
+431,0,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Delaware
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Delaware
+433,1,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Delaware
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Delaware
+435,4,65 and Older,Asian alone,All Time,Delaware
+436,0,65 and Older,Asian alone,< 30 Days,Delaware
+437,1,65 and Older,Asian alone,30 to < 90 Days,Delaware
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Delaware
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,Delaware
+440,1,65 and Older,Asian alone,1 Year to < 2 Years,Delaware
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Delaware
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,Delaware
+443,1,65 and Older,Asian alone,5 or More Years,Delaware
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Delaware
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Delaware
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Delaware
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Delaware
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Delaware
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Delaware
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Delaware
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Delaware
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Delaware
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Delaware
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Delaware
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Delaware
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Delaware
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Delaware
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Delaware
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Delaware
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Delaware
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Delaware
+462,0,65 and Older,Population of two or more races:,All Time,Delaware
+463,0,65 and Older,Population of two or more races:,< 30 Days,Delaware
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Delaware
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Delaware
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Delaware
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Delaware
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Delaware
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Delaware
+470,0,65 and Older,Population of two or more races:,5 or More Years,Delaware

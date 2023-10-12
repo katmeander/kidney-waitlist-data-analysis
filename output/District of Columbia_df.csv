@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,34,All Ages,White alone,All Time,District of Columbia
+1,2,All Ages,White alone,< 30 Days,District of Columbia
+2,7,All Ages,White alone,30 to < 90 Days,District of Columbia
+3,4,All Ages,White alone,90 Days to < 6 Months,District of Columbia
+4,2,All Ages,White alone,6 Months to < 1 Year,District of Columbia
+5,6,All Ages,White alone,1 Year to < 2 Years,District of Columbia
+6,3,All Ages,White alone,2 Years to < 3 Years,District of Columbia
+7,4,All Ages,White alone,3 Years to < 5 Years,District of Columbia
+8,6,All Ages,White alone,5 or More Years,District of Columbia
+9,179,All Ages,Black or African American alone,All Time,District of Columbia
+10,6,All Ages,Black or African American alone,< 30 Days,District of Columbia
+11,15,All Ages,Black or African American alone,30 to < 90 Days,District of Columbia
+12,11,All Ages,Black or African American alone,90 Days to < 6 Months,District of Columbia
+13,29,All Ages,Black or African American alone,6 Months to < 1 Year,District of Columbia
+14,31,All Ages,Black or African American alone,1 Year to < 2 Years,District of Columbia
+15,20,All Ages,Black or African American alone,2 Years to < 3 Years,District of Columbia
+16,37,All Ages,Black or African American alone,3 Years to < 5 Years,District of Columbia
+17,30,All Ages,Black or African American alone,5 or More Years,District of Columbia
+18,26,All Ages,Hispanic or Latino,All Time,District of Columbia
+19,2,All Ages,Hispanic or Latino,< 30 Days,District of Columbia
+20,1,All Ages,Hispanic or Latino,30 to < 90 Days,District of Columbia
+21,3,All Ages,Hispanic or Latino,90 Days to < 6 Months,District of Columbia
+22,7,All Ages,Hispanic or Latino,6 Months to < 1 Year,District of Columbia
+23,5,All Ages,Hispanic or Latino,1 Year to < 2 Years,District of Columbia
+24,3,All Ages,Hispanic or Latino,2 Years to < 3 Years,District of Columbia
+25,3,All Ages,Hispanic or Latino,3 Years to < 5 Years,District of Columbia
+26,2,All Ages,Hispanic or Latino,5 or More Years,District of Columbia
+27,5,All Ages,Asian alone,All Time,District of Columbia
+28,1,All Ages,Asian alone,< 30 Days,District of Columbia
+29,0,All Ages,Asian alone,30 to < 90 Days,District of Columbia
+30,1,All Ages,Asian alone,90 Days to < 6 Months,District of Columbia
+31,0,All Ages,Asian alone,6 Months to < 1 Year,District of Columbia
+32,2,All Ages,Asian alone,1 Year to < 2 Years,District of Columbia
+33,0,All Ages,Asian alone,2 Years to < 3 Years,District of Columbia
+34,1,All Ages,Asian alone,3 Years to < 5 Years,District of Columbia
+35,0,All Ages,Asian alone,5 or More Years,District of Columbia
+36,0,All Ages,American Indian and Alaska Native alone,All Time,District of Columbia
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,District of Columbia
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,District of Columbia
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,District of Columbia
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,District of Columbia
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,District of Columbia
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,District of Columbia
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,District of Columbia
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,District of Columbia
+45,0,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,District of Columbia
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,District of Columbia
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,District of Columbia
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,District of Columbia
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,District of Columbia
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,District of Columbia
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,District of Columbia
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,District of Columbia
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,District of Columbia
+54,3,All Ages,Population of two or more races:,All Time,District of Columbia
+55,1,All Ages,Population of two or more races:,< 30 Days,District of Columbia
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,District of Columbia
+57,1,All Ages,Population of two or more races:,90 Days to < 6 Months,District of Columbia
+58,1,All Ages,Population of two or more races:,6 Months to < 1 Year,District of Columbia
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,District of Columbia
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,District of Columbia
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,District of Columbia
+62,0,All Ages,Population of two or more races:,5 or More Years,District of Columbia
+63,0,0-5 Years,White alone,All Time,District of Columbia
+64,0,0-5 Years,White alone,< 30 Days,District of Columbia
+65,0,0-5 Years,White alone,30 to < 90 Days,District of Columbia
+66,0,0-5 Years,White alone,90 Days to < 6 Months,District of Columbia
+67,0,0-5 Years,White alone,6 Months to < 1 Year,District of Columbia
+68,0,0-5 Years,White alone,1 Year to < 2 Years,District of Columbia
+69,0,0-5 Years,White alone,2 Years to < 3 Years,District of Columbia
+70,0,0-5 Years,White alone,3 Years to < 5 Years,District of Columbia
+71,0,0-5 Years,White alone,5 or More Years,District of Columbia
+72,2,0-5 Years,Black or African American alone,All Time,District of Columbia
+73,0,0-5 Years,Black or African American alone,< 30 Days,District of Columbia
+74,1,0-5 Years,Black or African American alone,30 to < 90 Days,District of Columbia
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,District of Columbia
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,District of Columbia
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,District of Columbia
+78,1,0-5 Years,Black or African American alone,2 Years to < 3 Years,District of Columbia
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,District of Columbia
+80,1,0-5 Years,Hispanic or Latino,All Time,District of Columbia
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,District of Columbia
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,District of Columbia
+83,1,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,District of Columbia
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,District of Columbia
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,District of Columbia
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,District of Columbia
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,District of Columbia
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,District of Columbia
+89,0,0-5 Years,Asian alone,All Time,District of Columbia
+90,0,0-5 Years,Asian alone,< 30 Days,District of Columbia
+91,0,0-5 Years,Asian alone,30 to < 90 Days,District of Columbia
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,District of Columbia
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,District of Columbia
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,District of Columbia
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,District of Columbia
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,District of Columbia
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,District of Columbia
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,District of Columbia
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,District of Columbia
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,District of Columbia
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,District of Columbia
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,District of Columbia
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,District of Columbia
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,District of Columbia
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,District of Columbia
+106,0,0-5 Years,Population of two or more races:,All Time,District of Columbia
+107,0,0-5 Years,Population of two or more races:,< 30 Days,District of Columbia
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,District of Columbia
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,District of Columbia
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,District of Columbia
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,District of Columbia
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,District of Columbia
+113,0,6-10 Years,White alone,All Time,District of Columbia
+114,0,6-10 Years,White alone,< 30 Days,District of Columbia
+115,0,6-10 Years,White alone,30 to < 90 Days,District of Columbia
+116,0,6-10 Years,White alone,90 Days to < 6 Months,District of Columbia
+117,0,6-10 Years,White alone,6 Months to < 1 Year,District of Columbia
+118,0,6-10 Years,White alone,1 Year to < 2 Years,District of Columbia
+119,0,6-10 Years,White alone,2 Years to < 3 Years,District of Columbia
+120,0,6-10 Years,White alone,3 Years to < 5 Years,District of Columbia
+121,0,6-10 Years,White alone,5 or More Years,District of Columbia
+122,1,6-10 Years,Black or African American alone,All Time,District of Columbia
+123,0,6-10 Years,Black or African American alone,< 30 Days,District of Columbia
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,District of Columbia
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,District of Columbia
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,District of Columbia
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,District of Columbia
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,District of Columbia
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,District of Columbia
+130,0,6-10 Years,Black or African American alone,5 or More Years,District of Columbia
+131,0,6-10 Years,Hispanic or Latino,All Time,District of Columbia
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,District of Columbia
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,District of Columbia
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,District of Columbia
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,District of Columbia
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,District of Columbia
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,District of Columbia
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,District of Columbia
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,District of Columbia
+140,0,6-10 Years,Asian alone,All Time,District of Columbia
+141,0,6-10 Years,Asian alone,< 30 Days,District of Columbia
+142,0,6-10 Years,Asian alone,30 to < 90 Days,District of Columbia
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,District of Columbia
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,District of Columbia
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,District of Columbia
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,District of Columbia
+147,0,6-10 Years,Asian alone,5 or More Years,District of Columbia
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,District of Columbia
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,District of Columbia
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,District of Columbia
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,District of Columbia
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,District of Columbia
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,District of Columbia
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,District of Columbia
+155,0,6-10 Years,Population of two or more races:,All Time,District of Columbia
+156,0,6-10 Years,Population of two or more races:,< 30 Days,District of Columbia
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,District of Columbia
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,District of Columbia
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,District of Columbia
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,District of Columbia
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,District of Columbia
+162,0,6-10 Years,Population of two or more races:,5 or More Years,District of Columbia
+163,1,11-17 Years,White alone,All Time,District of Columbia
+164,0,11-17 Years,White alone,< 30 Days,District of Columbia
+165,0,11-17 Years,White alone,30 to < 90 Days,District of Columbia
+166,0,11-17 Years,White alone,90 Days to < 6 Months,District of Columbia
+167,1,11-17 Years,White alone,6 Months to < 1 Year,District of Columbia
+168,0,11-17 Years,White alone,1 Year to < 2 Years,District of Columbia
+169,0,11-17 Years,White alone,2 Years to < 3 Years,District of Columbia
+170,0,11-17 Years,White alone,3 Years to < 5 Years,District of Columbia
+171,0,11-17 Years,White alone,5 or More Years,District of Columbia
+172,1,11-17 Years,Black or African American alone,All Time,District of Columbia
+173,0,11-17 Years,Black or African American alone,< 30 Days,District of Columbia
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,District of Columbia
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,District of Columbia
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,District of Columbia
+177,1,11-17 Years,Black or African American alone,1 Year to < 2 Years,District of Columbia
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,District of Columbia
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,District of Columbia
+180,0,11-17 Years,Black or African American alone,5 or More Years,District of Columbia
+181,0,11-17 Years,Hispanic or Latino,All Time,District of Columbia
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,District of Columbia
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,District of Columbia
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,District of Columbia
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,District of Columbia
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,District of Columbia
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,District of Columbia
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,District of Columbia
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,District of Columbia
+190,0,11-17 Years,Asian alone,All Time,District of Columbia
+191,0,11-17 Years,Asian alone,< 30 Days,District of Columbia
+192,0,11-17 Years,Asian alone,30 to < 90 Days,District of Columbia
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,District of Columbia
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,District of Columbia
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,District of Columbia
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,District of Columbia
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,District of Columbia
+198,0,11-17 Years,Asian alone,5 or More Years,District of Columbia
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,District of Columbia
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,District of Columbia
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,District of Columbia
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,District of Columbia
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,District of Columbia
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,District of Columbia
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,District of Columbia
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,District of Columbia
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,District of Columbia
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,District of Columbia
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,District of Columbia
+210,0,11-17 Years,Population of two or more races:,All Time,District of Columbia
+211,0,11-17 Years,Population of two or more races:,< 30 Days,District of Columbia
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,District of Columbia
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,District of Columbia
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,District of Columbia
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,District of Columbia
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,District of Columbia
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,District of Columbia
+218,0,11-17 Years,Population of two or more races:,5 or More Years,District of Columbia
+219,3,18-34 Years,White alone,All Time,District of Columbia
+220,0,18-34 Years,White alone,< 30 Days,District of Columbia
+221,1,18-34 Years,White alone,30 to < 90 Days,District of Columbia
+222,1,18-34 Years,White alone,90 Days to < 6 Months,District of Columbia
+223,0,18-34 Years,White alone,6 Months to < 1 Year,District of Columbia
+224,0,18-34 Years,White alone,1 Year to < 2 Years,District of Columbia
+225,0,18-34 Years,White alone,2 Years to < 3 Years,District of Columbia
+226,0,18-34 Years,White alone,3 Years to < 5 Years,District of Columbia
+227,1,18-34 Years,White alone,5 or More Years,District of Columbia
+228,10,18-34 Years,Black or African American alone,All Time,District of Columbia
+229,1,18-34 Years,Black or African American alone,< 30 Days,District of Columbia
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,District of Columbia
+231,1,18-34 Years,Black or African American alone,90 Days to < 6 Months,District of Columbia
+232,4,18-34 Years,Black or African American alone,6 Months to < 1 Year,District of Columbia
+233,2,18-34 Years,Black or African American alone,1 Year to < 2 Years,District of Columbia
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,District of Columbia
+235,1,18-34 Years,Black or African American alone,3 Years to < 5 Years,District of Columbia
+236,1,18-34 Years,Black or African American alone,5 or More Years,District of Columbia
+237,6,18-34 Years,Hispanic or Latino,All Time,District of Columbia
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,District of Columbia
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,District of Columbia
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,District of Columbia
+241,3,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,District of Columbia
+242,2,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,District of Columbia
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,District of Columbia
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,District of Columbia
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,District of Columbia
+246,1,18-34 Years,Asian alone,All Time,District of Columbia
+247,1,18-34 Years,Asian alone,< 30 Days,District of Columbia
+248,0,18-34 Years,Asian alone,30 to < 90 Days,District of Columbia
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,District of Columbia
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,District of Columbia
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,District of Columbia
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,District of Columbia
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,District of Columbia
+254,0,18-34 Years,Asian alone,5 or More Years,District of Columbia
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,District of Columbia
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,District of Columbia
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,District of Columbia
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,District of Columbia
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,District of Columbia
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,District of Columbia
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,District of Columbia
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,District of Columbia
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,District of Columbia
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,District of Columbia
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,District of Columbia
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,District of Columbia
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,District of Columbia
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,District of Columbia
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,District of Columbia
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,District of Columbia
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,District of Columbia
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,District of Columbia
+273,0,18-34 Years,Population of two or more races:,All Time,District of Columbia
+274,0,18-34 Years,Population of two or more races:,< 30 Days,District of Columbia
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,District of Columbia
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,District of Columbia
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,District of Columbia
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,District of Columbia
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,District of Columbia
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,District of Columbia
+281,0,18-34 Years,Population of two or more races:,5 or More Years,District of Columbia
+282,12,35-49 Years,White alone,All Time,District of Columbia
+283,1,35-49 Years,White alone,< 30 Days,District of Columbia
+284,4,35-49 Years,White alone,30 to < 90 Days,District of Columbia
+285,1,35-49 Years,White alone,90 Days to < 6 Months,District of Columbia
+286,0,35-49 Years,White alone,6 Months to < 1 Year,District of Columbia
+287,2,35-49 Years,White alone,1 Year to < 2 Years,District of Columbia
+288,1,35-49 Years,White alone,2 Years to < 3 Years,District of Columbia
+289,1,35-49 Years,White alone,3 Years to < 5 Years,District of Columbia
+290,2,35-49 Years,White alone,5 or More Years,District of Columbia
+291,38,35-49 Years,Black or African American alone,All Time,District of Columbia
+292,1,35-49 Years,Black or African American alone,< 30 Days,District of Columbia
+293,3,35-49 Years,Black or African American alone,30 to < 90 Days,District of Columbia
+294,3,35-49 Years,Black or African American alone,90 Days to < 6 Months,District of Columbia
+295,9,35-49 Years,Black or African American alone,6 Months to < 1 Year,District of Columbia
+296,9,35-49 Years,Black or African American alone,1 Year to < 2 Years,District of Columbia
+297,4,35-49 Years,Black or African American alone,2 Years to < 3 Years,District of Columbia
+298,5,35-49 Years,Black or African American alone,3 Years to < 5 Years,District of Columbia
+299,4,35-49 Years,Black or African American alone,5 or More Years,District of Columbia
+300,9,35-49 Years,Hispanic or Latino,All Time,District of Columbia
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,District of Columbia
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,District of Columbia
+303,1,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,District of Columbia
+304,3,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,District of Columbia
+305,1,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,District of Columbia
+306,2,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,District of Columbia
+307,1,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,District of Columbia
+308,1,35-49 Years,Hispanic or Latino,5 or More Years,District of Columbia
+309,1,35-49 Years,Asian alone,All Time,District of Columbia
+310,0,35-49 Years,Asian alone,< 30 Days,District of Columbia
+311,0,35-49 Years,Asian alone,30 to < 90 Days,District of Columbia
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,District of Columbia
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,District of Columbia
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,District of Columbia
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,District of Columbia
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,District of Columbia
+317,0,35-49 Years,Asian alone,5 or More Years,District of Columbia
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,District of Columbia
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,District of Columbia
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,District of Columbia
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,District of Columbia
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,District of Columbia
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,District of Columbia
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,District of Columbia
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,District of Columbia
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,District of Columbia
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,District of Columbia
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,District of Columbia
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,District of Columbia
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,District of Columbia
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,District of Columbia
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,District of Columbia
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,District of Columbia
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,District of Columbia
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,District of Columbia
+336,0,35-49 Years,Population of two or more races:,All Time,District of Columbia
+337,0,35-49 Years,Population of two or more races:,< 30 Days,District of Columbia
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,District of Columbia
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,District of Columbia
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,District of Columbia
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,District of Columbia
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,District of Columbia
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,District of Columbia
+344,0,35-49 Years,Population of two or more races:,5 or More Years,District of Columbia
+345,8,50-64 Years,White alone,All Time,District of Columbia
+346,1,50-64 Years,White alone,< 30 Days,District of Columbia
+347,2,50-64 Years,White alone,30 to < 90 Days,District of Columbia
+348,0,50-64 Years,White alone,90 Days to < 6 Months,District of Columbia
+349,1,50-64 Years,White alone,6 Months to < 1 Year,District of Columbia
+350,2,50-64 Years,White alone,1 Year to < 2 Years,District of Columbia
+351,1,50-64 Years,White alone,2 Years to < 3 Years,District of Columbia
+352,1,50-64 Years,White alone,3 Years to < 5 Years,District of Columbia
+353,0,50-64 Years,White alone,5 or More Years,District of Columbia
+354,82,50-64 Years,Black or African American alone,All Time,District of Columbia
+355,4,50-64 Years,Black or African American alone,< 30 Days,District of Columbia
+356,8,50-64 Years,Black or African American alone,30 to < 90 Days,District of Columbia
+357,3,50-64 Years,Black or African American alone,90 Days to < 6 Months,District of Columbia
+358,12,50-64 Years,Black or African American alone,6 Months to < 1 Year,District of Columbia
+359,12,50-64 Years,Black or African American alone,1 Year to < 2 Years,District of Columbia
+360,7,50-64 Years,Black or African American alone,2 Years to < 3 Years,District of Columbia
+361,23,50-64 Years,Black or African American alone,3 Years to < 5 Years,District of Columbia
+362,13,50-64 Years,Black or African American alone,5 or More Years,District of Columbia
+363,7,50-64 Years,Hispanic or Latino,All Time,District of Columbia
+364,1,50-64 Years,Hispanic or Latino,< 30 Days,District of Columbia
+365,1,50-64 Years,Hispanic or Latino,30 to < 90 Days,District of Columbia
+366,1,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,District of Columbia
+367,1,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,District of Columbia
+368,1,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,District of Columbia
+369,0,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,District of Columbia
+370,2,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,District of Columbia
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,District of Columbia
+372,2,50-64 Years,Asian alone,All Time,District of Columbia
+373,0,50-64 Years,Asian alone,< 30 Days,District of Columbia
+374,0,50-64 Years,Asian alone,30 to < 90 Days,District of Columbia
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,District of Columbia
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,District of Columbia
+377,1,50-64 Years,Asian alone,1 Year to < 2 Years,District of Columbia
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,District of Columbia
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,District of Columbia
+380,0,50-64 Years,Asian alone,5 or More Years,District of Columbia
+381,0,50-64 Years,American Indian and Alaska Native alone,All Time,District of Columbia
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,District of Columbia
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,District of Columbia
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,District of Columbia
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,District of Columbia
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,District of Columbia
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,District of Columbia
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,District of Columbia
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,District of Columbia
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,District of Columbia
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,District of Columbia
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,District of Columbia
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,District of Columbia
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,District of Columbia
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,District of Columbia
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,District of Columbia
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,District of Columbia
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,District of Columbia
+399,2,50-64 Years,Population of two or more races:,All Time,District of Columbia
+400,1,50-64 Years,Population of two or more races:,< 30 Days,District of Columbia
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,District of Columbia
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,District of Columbia
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,District of Columbia
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,District of Columbia
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,District of Columbia
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,District of Columbia
+407,0,50-64 Years,Population of two or more races:,5 or More Years,District of Columbia
+408,10,65 and Older,White alone,All Time,District of Columbia
+409,0,65 and Older,White alone,< 30 Days,District of Columbia
+410,0,65 and Older,White alone,30 to < 90 Days,District of Columbia
+411,2,65 and Older,White alone,90 Days to < 6 Months,District of Columbia
+412,0,65 and Older,White alone,6 Months to < 1 Year,District of Columbia
+413,2,65 and Older,White alone,1 Year to < 2 Years,District of Columbia
+414,1,65 and Older,White alone,2 Years to < 3 Years,District of Columbia
+415,2,65 and Older,White alone,3 Years to < 5 Years,District of Columbia
+416,3,65 and Older,White alone,5 or More Years,District of Columbia
+417,45,65 and Older,Black or African American alone,All Time,District of Columbia
+418,0,65 and Older,Black or African American alone,< 30 Days,District of Columbia
+419,3,65 and Older,Black or African American alone,30 to < 90 Days,District of Columbia
+420,4,65 and Older,Black or African American alone,90 Days to < 6 Months,District of Columbia
+421,4,65 and Older,Black or African American alone,6 Months to < 1 Year,District of Columbia
+422,6,65 and Older,Black or African American alone,1 Year to < 2 Years,District of Columbia
+423,8,65 and Older,Black or African American alone,2 Years to < 3 Years,District of Columbia
+424,8,65 and Older,Black or African American alone,3 Years to < 5 Years,District of Columbia
+425,12,65 and Older,Black or African American alone,5 or More Years,District of Columbia
+426,3,65 and Older,Hispanic or Latino,All Time,District of Columbia
+427,0,65 and Older,Hispanic or Latino,< 30 Days,District of Columbia
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,District of Columbia
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,District of Columbia
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,District of Columbia
+431,1,65 and Older,Hispanic or Latino,1 Year to < 2 Years,District of Columbia
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,District of Columbia
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,District of Columbia
+434,1,65 and Older,Hispanic or Latino,5 or More Years,District of Columbia
+435,1,65 and Older,Asian alone,All Time,District of Columbia
+436,0,65 and Older,Asian alone,< 30 Days,District of Columbia
+437,0,65 and Older,Asian alone,30 to < 90 Days,District of Columbia
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,District of Columbia
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,District of Columbia
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,District of Columbia
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,District of Columbia
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,District of Columbia
+443,0,65 and Older,Asian alone,5 or More Years,District of Columbia
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,District of Columbia
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,District of Columbia
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,District of Columbia
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,District of Columbia
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,District of Columbia
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,District of Columbia
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,District of Columbia
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,District of Columbia
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,District of Columbia
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,District of Columbia
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,District of Columbia
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,District of Columbia
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,District of Columbia
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,District of Columbia
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,District of Columbia
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,District of Columbia
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,District of Columbia
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,District of Columbia
+462,1,65 and Older,Population of two or more races:,All Time,District of Columbia
+463,0,65 and Older,Population of two or more races:,< 30 Days,District of Columbia
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,District of Columbia
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,District of Columbia
+466,1,65 and Older,Population of two or more races:,6 Months to < 1 Year,District of Columbia
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,District of Columbia
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,District of Columbia
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,District of Columbia
+470,0,65 and Older,Population of two or more races:,5 or More Years,District of Columbia

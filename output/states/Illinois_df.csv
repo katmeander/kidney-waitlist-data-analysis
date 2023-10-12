@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"1,769",All Ages,White alone,All Time,Illinois
+1,120,All Ages,White alone,< 30 Days,Illinois
+2,182,All Ages,White alone,30 to < 90 Days,Illinois
+3,174,All Ages,White alone,90 Days to < 6 Months,Illinois
+4,282,All Ages,White alone,6 Months to < 1 Year,Illinois
+5,420,All Ages,White alone,1 Year to < 2 Years,Illinois
+6,233,All Ages,White alone,2 Years to < 3 Years,Illinois
+7,226,All Ages,White alone,3 Years to < 5 Years,Illinois
+8,132,All Ages,White alone,5 or More Years,Illinois
+9,"1,479",All Ages,Black or African American alone,All Time,Illinois
+10,46,All Ages,Black or African American alone,< 30 Days,Illinois
+11,142,All Ages,Black or African American alone,30 to < 90 Days,Illinois
+12,119,All Ages,Black or African American alone,90 Days to < 6 Months,Illinois
+13,232,All Ages,Black or African American alone,6 Months to < 1 Year,Illinois
+14,329,All Ages,Black or African American alone,1 Year to < 2 Years,Illinois
+15,201,All Ages,Black or African American alone,2 Years to < 3 Years,Illinois
+16,228,All Ages,Black or African American alone,3 Years to < 5 Years,Illinois
+17,182,All Ages,Black or African American alone,5 or More Years,Illinois
+18,879,All Ages,Hispanic or Latino,All Time,Illinois
+19,52,All Ages,Hispanic or Latino,< 30 Days,Illinois
+20,94,All Ages,Hispanic or Latino,30 to < 90 Days,Illinois
+21,113,All Ages,Hispanic or Latino,90 Days to < 6 Months,Illinois
+22,141,All Ages,Hispanic or Latino,6 Months to < 1 Year,Illinois
+23,236,All Ages,Hispanic or Latino,1 Year to < 2 Years,Illinois
+24,105,All Ages,Hispanic or Latino,2 Years to < 3 Years,Illinois
+25,90,All Ages,Hispanic or Latino,3 Years to < 5 Years,Illinois
+26,48,All Ages,Hispanic or Latino,5 or More Years,Illinois
+27,285,All Ages,Asian alone,All Time,Illinois
+28,15,All Ages,Asian alone,< 30 Days,Illinois
+29,25,All Ages,Asian alone,30 to < 90 Days,Illinois
+30,28,All Ages,Asian alone,90 Days to < 6 Months,Illinois
+31,52,All Ages,Asian alone,6 Months to < 1 Year,Illinois
+32,67,All Ages,Asian alone,1 Year to < 2 Years,Illinois
+33,34,All Ages,Asian alone,2 Years to < 3 Years,Illinois
+34,41,All Ages,Asian alone,3 Years to < 5 Years,Illinois
+35,23,All Ages,Asian alone,5 or More Years,Illinois
+36,9,All Ages,American Indian and Alaska Native alone,All Time,Illinois
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Illinois
+38,2,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Illinois
+39,3,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Illinois
+40,2,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Illinois
+41,1,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Illinois
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Illinois
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Illinois
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Illinois
+45,7,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Illinois
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Illinois
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Illinois
+48,2,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Illinois
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Illinois
+50,2,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Illinois
+51,1,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Illinois
+52,1,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Illinois
+53,1,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Illinois
+54,24,All Ages,Population of two or more races:,All Time,Illinois
+55,0,All Ages,Population of two or more races:,< 30 Days,Illinois
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Illinois
+57,1,All Ages,Population of two or more races:,90 Days to < 6 Months,Illinois
+58,6,All Ages,Population of two or more races:,6 Months to < 1 Year,Illinois
+59,4,All Ages,Population of two or more races:,1 Year to < 2 Years,Illinois
+60,5,All Ages,Population of two or more races:,2 Years to < 3 Years,Illinois
+61,4,All Ages,Population of two or more races:,3 Years to < 5 Years,Illinois
+62,4,All Ages,Population of two or more races:,5 or More Years,Illinois
+63,12,0-5 Years,White alone,All Time,Illinois
+64,1,0-5 Years,White alone,< 30 Days,Illinois
+65,4,0-5 Years,White alone,30 to < 90 Days,Illinois
+66,4,0-5 Years,White alone,90 Days to < 6 Months,Illinois
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Illinois
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Illinois
+69,1,0-5 Years,White alone,2 Years to < 3 Years,Illinois
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Illinois
+71,1,0-5 Years,White alone,5 or More Years,Illinois
+72,14,0-5 Years,Black or African American alone,All Time,Illinois
+73,1,0-5 Years,Black or African American alone,< 30 Days,Illinois
+74,2,0-5 Years,Black or African American alone,30 to < 90 Days,Illinois
+75,6,0-5 Years,Black or African American alone,90 Days to < 6 Months,Illinois
+76,2,0-5 Years,Black or African American alone,6 Months to < 1 Year,Illinois
+77,3,0-5 Years,Black or African American alone,1 Year to < 2 Years,Illinois
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Illinois
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Illinois
+80,6,0-5 Years,Hispanic or Latino,All Time,Illinois
+81,2,0-5 Years,Hispanic or Latino,< 30 Days,Illinois
+82,1,0-5 Years,Hispanic or Latino,30 to < 90 Days,Illinois
+83,1,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Illinois
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Illinois
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Illinois
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Illinois
+87,1,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Illinois
+88,1,0-5 Years,Hispanic or Latino,5 or More Years,Illinois
+89,0,0-5 Years,Asian alone,All Time,Illinois
+90,0,0-5 Years,Asian alone,< 30 Days,Illinois
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Illinois
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Illinois
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Illinois
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Illinois
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Illinois
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Illinois
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Illinois
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Illinois
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Illinois
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Illinois
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Illinois
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Illinois
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Illinois
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Illinois
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Illinois
+106,0,0-5 Years,Population of two or more races:,All Time,Illinois
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Illinois
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Illinois
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Illinois
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Illinois
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Illinois
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Illinois
+113,8,6-10 Years,White alone,All Time,Illinois
+114,1,6-10 Years,White alone,< 30 Days,Illinois
+115,1,6-10 Years,White alone,30 to < 90 Days,Illinois
+116,1,6-10 Years,White alone,90 Days to < 6 Months,Illinois
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Illinois
+118,1,6-10 Years,White alone,1 Year to < 2 Years,Illinois
+119,1,6-10 Years,White alone,2 Years to < 3 Years,Illinois
+120,1,6-10 Years,White alone,3 Years to < 5 Years,Illinois
+121,2,6-10 Years,White alone,5 or More Years,Illinois
+122,3,6-10 Years,Black or African American alone,All Time,Illinois
+123,0,6-10 Years,Black or African American alone,< 30 Days,Illinois
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Illinois
+125,1,6-10 Years,Black or African American alone,90 Days to < 6 Months,Illinois
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Illinois
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Illinois
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Illinois
+129,2,6-10 Years,Black or African American alone,3 Years to < 5 Years,Illinois
+130,0,6-10 Years,Black or African American alone,5 or More Years,Illinois
+131,6,6-10 Years,Hispanic or Latino,All Time,Illinois
+132,2,6-10 Years,Hispanic or Latino,< 30 Days,Illinois
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Illinois
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Illinois
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Illinois
+136,1,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Illinois
+137,2,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Illinois
+138,1,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Illinois
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Illinois
+140,2,6-10 Years,Asian alone,All Time,Illinois
+141,0,6-10 Years,Asian alone,< 30 Days,Illinois
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Illinois
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Illinois
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Illinois
+145,1,6-10 Years,Asian alone,2 Years to < 3 Years,Illinois
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Illinois
+147,1,6-10 Years,Asian alone,5 or More Years,Illinois
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Illinois
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Illinois
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Illinois
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Illinois
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Illinois
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Illinois
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Illinois
+155,2,6-10 Years,Population of two or more races:,All Time,Illinois
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Illinois
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Illinois
+158,1,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Illinois
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Illinois
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Illinois
+161,1,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Illinois
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Illinois
+163,18,11-17 Years,White alone,All Time,Illinois
+164,1,11-17 Years,White alone,< 30 Days,Illinois
+165,1,11-17 Years,White alone,30 to < 90 Days,Illinois
+166,3,11-17 Years,White alone,90 Days to < 6 Months,Illinois
+167,2,11-17 Years,White alone,6 Months to < 1 Year,Illinois
+168,5,11-17 Years,White alone,1 Year to < 2 Years,Illinois
+169,3,11-17 Years,White alone,2 Years to < 3 Years,Illinois
+170,1,11-17 Years,White alone,3 Years to < 5 Years,Illinois
+171,2,11-17 Years,White alone,5 or More Years,Illinois
+172,8,11-17 Years,Black or African American alone,All Time,Illinois
+173,0,11-17 Years,Black or African American alone,< 30 Days,Illinois
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Illinois
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Illinois
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Illinois
+177,3,11-17 Years,Black or African American alone,1 Year to < 2 Years,Illinois
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Illinois
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Illinois
+180,4,11-17 Years,Black or African American alone,5 or More Years,Illinois
+181,16,11-17 Years,Hispanic or Latino,All Time,Illinois
+182,1,11-17 Years,Hispanic or Latino,< 30 Days,Illinois
+183,4,11-17 Years,Hispanic or Latino,30 to < 90 Days,Illinois
+184,2,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Illinois
+185,2,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Illinois
+186,3,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Illinois
+187,1,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Illinois
+188,2,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Illinois
+189,1,11-17 Years,Hispanic or Latino,5 or More Years,Illinois
+190,1,11-17 Years,Asian alone,All Time,Illinois
+191,0,11-17 Years,Asian alone,< 30 Days,Illinois
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Illinois
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Illinois
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Illinois
+195,1,11-17 Years,Asian alone,1 Year to < 2 Years,Illinois
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Illinois
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Illinois
+198,0,11-17 Years,Asian alone,5 or More Years,Illinois
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Illinois
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Illinois
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Illinois
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Illinois
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Illinois
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Illinois
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Illinois
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Illinois
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Illinois
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Illinois
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Illinois
+210,1,11-17 Years,Population of two or more races:,All Time,Illinois
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Illinois
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Illinois
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Illinois
+214,1,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Illinois
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Illinois
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Illinois
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Illinois
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Illinois
+219,137,18-34 Years,White alone,All Time,Illinois
+220,12,18-34 Years,White alone,< 30 Days,Illinois
+221,14,18-34 Years,White alone,30 to < 90 Days,Illinois
+222,15,18-34 Years,White alone,90 Days to < 6 Months,Illinois
+223,20,18-34 Years,White alone,6 Months to < 1 Year,Illinois
+224,28,18-34 Years,White alone,1 Year to < 2 Years,Illinois
+225,20,18-34 Years,White alone,2 Years to < 3 Years,Illinois
+226,20,18-34 Years,White alone,3 Years to < 5 Years,Illinois
+227,8,18-34 Years,White alone,5 or More Years,Illinois
+228,92,18-34 Years,Black or African American alone,All Time,Illinois
+229,5,18-34 Years,Black or African American alone,< 30 Days,Illinois
+230,10,18-34 Years,Black or African American alone,30 to < 90 Days,Illinois
+231,10,18-34 Years,Black or African American alone,90 Days to < 6 Months,Illinois
+232,12,18-34 Years,Black or African American alone,6 Months to < 1 Year,Illinois
+233,28,18-34 Years,Black or African American alone,1 Year to < 2 Years,Illinois
+234,7,18-34 Years,Black or African American alone,2 Years to < 3 Years,Illinois
+235,12,18-34 Years,Black or African American alone,3 Years to < 5 Years,Illinois
+236,8,18-34 Years,Black or African American alone,5 or More Years,Illinois
+237,120,18-34 Years,Hispanic or Latino,All Time,Illinois
+238,2,18-34 Years,Hispanic or Latino,< 30 Days,Illinois
+239,8,18-34 Years,Hispanic or Latino,30 to < 90 Days,Illinois
+240,20,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Illinois
+241,16,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Illinois
+242,39,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Illinois
+243,19,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Illinois
+244,11,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Illinois
+245,5,18-34 Years,Hispanic or Latino,5 or More Years,Illinois
+246,21,18-34 Years,Asian alone,All Time,Illinois
+247,5,18-34 Years,Asian alone,< 30 Days,Illinois
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Illinois
+249,1,18-34 Years,Asian alone,90 Days to < 6 Months,Illinois
+250,7,18-34 Years,Asian alone,6 Months to < 1 Year,Illinois
+251,3,18-34 Years,Asian alone,1 Year to < 2 Years,Illinois
+252,1,18-34 Years,Asian alone,2 Years to < 3 Years,Illinois
+253,3,18-34 Years,Asian alone,3 Years to < 5 Years,Illinois
+254,0,18-34 Years,Asian alone,5 or More Years,Illinois
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Illinois
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Illinois
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Illinois
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Illinois
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Illinois
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Illinois
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Illinois
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Illinois
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Illinois
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Illinois
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Illinois
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Illinois
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Illinois
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Illinois
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Illinois
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Illinois
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Illinois
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Illinois
+273,2,18-34 Years,Population of two or more races:,All Time,Illinois
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Illinois
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Illinois
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Illinois
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Illinois
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Illinois
+279,2,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Illinois
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Illinois
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Illinois
+282,283,35-49 Years,White alone,All Time,Illinois
+283,19,35-49 Years,White alone,< 30 Days,Illinois
+284,35,35-49 Years,White alone,30 to < 90 Days,Illinois
+285,26,35-49 Years,White alone,90 Days to < 6 Months,Illinois
+286,50,35-49 Years,White alone,6 Months to < 1 Year,Illinois
+287,65,35-49 Years,White alone,1 Year to < 2 Years,Illinois
+288,38,35-49 Years,White alone,2 Years to < 3 Years,Illinois
+289,28,35-49 Years,White alone,3 Years to < 5 Years,Illinois
+290,22,35-49 Years,White alone,5 or More Years,Illinois
+291,389,35-49 Years,Black or African American alone,All Time,Illinois
+292,16,35-49 Years,Black or African American alone,< 30 Days,Illinois
+293,45,35-49 Years,Black or African American alone,30 to < 90 Days,Illinois
+294,27,35-49 Years,Black or African American alone,90 Days to < 6 Months,Illinois
+295,64,35-49 Years,Black or African American alone,6 Months to < 1 Year,Illinois
+296,81,35-49 Years,Black or African American alone,1 Year to < 2 Years,Illinois
+297,58,35-49 Years,Black or African American alone,2 Years to < 3 Years,Illinois
+298,50,35-49 Years,Black or African American alone,3 Years to < 5 Years,Illinois
+299,48,35-49 Years,Black or African American alone,5 or More Years,Illinois
+300,252,35-49 Years,Hispanic or Latino,All Time,Illinois
+301,19,35-49 Years,Hispanic or Latino,< 30 Days,Illinois
+302,33,35-49 Years,Hispanic or Latino,30 to < 90 Days,Illinois
+303,31,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Illinois
+304,40,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Illinois
+305,59,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Illinois
+306,31,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Illinois
+307,24,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Illinois
+308,15,35-49 Years,Hispanic or Latino,5 or More Years,Illinois
+309,62,35-49 Years,Asian alone,All Time,Illinois
+310,2,35-49 Years,Asian alone,< 30 Days,Illinois
+311,6,35-49 Years,Asian alone,30 to < 90 Days,Illinois
+312,8,35-49 Years,Asian alone,90 Days to < 6 Months,Illinois
+313,14,35-49 Years,Asian alone,6 Months to < 1 Year,Illinois
+314,14,35-49 Years,Asian alone,1 Year to < 2 Years,Illinois
+315,8,35-49 Years,Asian alone,2 Years to < 3 Years,Illinois
+316,5,35-49 Years,Asian alone,3 Years to < 5 Years,Illinois
+317,5,35-49 Years,Asian alone,5 or More Years,Illinois
+318,4,35-49 Years,American Indian and Alaska Native alone,All Time,Illinois
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Illinois
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Illinois
+321,2,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Illinois
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Illinois
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Illinois
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Illinois
+325,1,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Illinois
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Illinois
+327,3,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Illinois
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Illinois
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Illinois
+330,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Illinois
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Illinois
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Illinois
+333,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Illinois
+334,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Illinois
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Illinois
+336,4,35-49 Years,Population of two or more races:,All Time,Illinois
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Illinois
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Illinois
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Illinois
+340,3,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Illinois
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Illinois
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Illinois
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Illinois
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Illinois
+345,724,50-64 Years,White alone,All Time,Illinois
+346,51,50-64 Years,White alone,< 30 Days,Illinois
+347,67,50-64 Years,White alone,30 to < 90 Days,Illinois
+348,67,50-64 Years,White alone,90 Days to < 6 Months,Illinois
+349,123,50-64 Years,White alone,6 Months to < 1 Year,Illinois
+350,185,50-64 Years,White alone,1 Year to < 2 Years,Illinois
+351,84,50-64 Years,White alone,2 Years to < 3 Years,Illinois
+352,100,50-64 Years,White alone,3 Years to < 5 Years,Illinois
+353,47,50-64 Years,White alone,5 or More Years,Illinois
+354,653,50-64 Years,Black or African American alone,All Time,Illinois
+355,16,50-64 Years,Black or African American alone,< 30 Days,Illinois
+356,59,50-64 Years,Black or African American alone,30 to < 90 Days,Illinois
+357,47,50-64 Years,Black or African American alone,90 Days to < 6 Months,Illinois
+358,110,50-64 Years,Black or African American alone,6 Months to < 1 Year,Illinois
+359,133,50-64 Years,Black or African American alone,1 Year to < 2 Years,Illinois
+360,100,50-64 Years,Black or African American alone,2 Years to < 3 Years,Illinois
+361,113,50-64 Years,Black or African American alone,3 Years to < 5 Years,Illinois
+362,75,50-64 Years,Black or African American alone,5 or More Years,Illinois
+363,336,50-64 Years,Hispanic or Latino,All Time,Illinois
+364,21,50-64 Years,Hispanic or Latino,< 30 Days,Illinois
+365,34,50-64 Years,Hispanic or Latino,30 to < 90 Days,Illinois
+366,41,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Illinois
+367,53,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Illinois
+368,97,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Illinois
+369,36,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Illinois
+370,36,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Illinois
+371,18,50-64 Years,Hispanic or Latino,5 or More Years,Illinois
+372,133,50-64 Years,Asian alone,All Time,Illinois
+373,4,50-64 Years,Asian alone,< 30 Days,Illinois
+374,13,50-64 Years,Asian alone,30 to < 90 Days,Illinois
+375,17,50-64 Years,Asian alone,90 Days to < 6 Months,Illinois
+376,17,50-64 Years,Asian alone,6 Months to < 1 Year,Illinois
+377,29,50-64 Years,Asian alone,1 Year to < 2 Years,Illinois
+378,18,50-64 Years,Asian alone,2 Years to < 3 Years,Illinois
+379,21,50-64 Years,Asian alone,3 Years to < 5 Years,Illinois
+380,14,50-64 Years,Asian alone,5 or More Years,Illinois
+381,3,50-64 Years,American Indian and Alaska Native alone,All Time,Illinois
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Illinois
+383,1,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Illinois
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Illinois
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Illinois
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Illinois
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Illinois
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Illinois
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Illinois
+390,3,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Illinois
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Illinois
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Illinois
+393,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Illinois
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Illinois
+395,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Illinois
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Illinois
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Illinois
+398,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Illinois
+399,9,50-64 Years,Population of two or more races:,All Time,Illinois
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Illinois
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Illinois
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Illinois
+403,1,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Illinois
+404,1,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Illinois
+405,1,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Illinois
+406,2,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Illinois
+407,3,50-64 Years,Population of two or more races:,5 or More Years,Illinois
+408,587,65 and Older,White alone,All Time,Illinois
+409,35,65 and Older,White alone,< 30 Days,Illinois
+410,60,65 and Older,White alone,30 to < 90 Days,Illinois
+411,58,65 and Older,White alone,90 Days to < 6 Months,Illinois
+412,87,65 and Older,White alone,6 Months to < 1 Year,Illinois
+413,135,65 and Older,White alone,1 Year to < 2 Years,Illinois
+414,86,65 and Older,White alone,2 Years to < 3 Years,Illinois
+415,76,65 and Older,White alone,3 Years to < 5 Years,Illinois
+416,50,65 and Older,White alone,5 or More Years,Illinois
+417,320,65 and Older,Black or African American alone,All Time,Illinois
+418,8,65 and Older,Black or African American alone,< 30 Days,Illinois
+419,26,65 and Older,Black or African American alone,30 to < 90 Days,Illinois
+420,28,65 and Older,Black or African American alone,90 Days to < 6 Months,Illinois
+421,43,65 and Older,Black or African American alone,6 Months to < 1 Year,Illinois
+422,81,65 and Older,Black or African American alone,1 Year to < 2 Years,Illinois
+423,36,65 and Older,Black or African American alone,2 Years to < 3 Years,Illinois
+424,51,65 and Older,Black or African American alone,3 Years to < 5 Years,Illinois
+425,47,65 and Older,Black or African American alone,5 or More Years,Illinois
+426,143,65 and Older,Hispanic or Latino,All Time,Illinois
+427,5,65 and Older,Hispanic or Latino,< 30 Days,Illinois
+428,14,65 and Older,Hispanic or Latino,30 to < 90 Days,Illinois
+429,18,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Illinois
+430,30,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Illinois
+431,37,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Illinois
+432,16,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Illinois
+433,15,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Illinois
+434,8,65 and Older,Hispanic or Latino,5 or More Years,Illinois
+435,66,65 and Older,Asian alone,All Time,Illinois
+436,4,65 and Older,Asian alone,< 30 Days,Illinois
+437,5,65 and Older,Asian alone,30 to < 90 Days,Illinois
+438,2,65 and Older,Asian alone,90 Days to < 6 Months,Illinois
+439,14,65 and Older,Asian alone,6 Months to < 1 Year,Illinois
+440,20,65 and Older,Asian alone,1 Year to < 2 Years,Illinois
+441,6,65 and Older,Asian alone,2 Years to < 3 Years,Illinois
+442,12,65 and Older,Asian alone,3 Years to < 5 Years,Illinois
+443,3,65 and Older,Asian alone,5 or More Years,Illinois
+444,2,65 and Older,American Indian and Alaska Native alone,All Time,Illinois
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Illinois
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Illinois
+447,1,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Illinois
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Illinois
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Illinois
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Illinois
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Illinois
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Illinois
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Illinois
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Illinois
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Illinois
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Illinois
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Illinois
+458,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Illinois
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Illinois
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Illinois
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Illinois
+462,6,65 and Older,Population of two or more races:,All Time,Illinois
+463,0,65 and Older,Population of two or more races:,< 30 Days,Illinois
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Illinois
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Illinois
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Illinois
+467,3,65 and Older,Population of two or more races:,1 Year to < 2 Years,Illinois
+468,2,65 and Older,Population of two or more races:,2 Years to < 3 Years,Illinois
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Illinois
+470,1,65 and Older,Population of two or more races:,5 or More Years,Illinois

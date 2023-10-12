@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,735,All Ages,White alone,All Time,South_Carolina
+1,39,All Ages,White alone,< 30 Days,South_Carolina
+2,68,All Ages,White alone,30 to < 90 Days,South_Carolina
+3,106,All Ages,White alone,90 Days to < 6 Months,South_Carolina
+4,136,All Ages,White alone,6 Months to < 1 Year,South_Carolina
+5,168,All Ages,White alone,1 Year to < 2 Years,South_Carolina
+6,91,All Ages,White alone,2 Years to < 3 Years,South_Carolina
+7,85,All Ages,White alone,3 Years to < 5 Years,South_Carolina
+8,42,All Ages,White alone,5 or More Years,South_Carolina
+9,"1,361",All Ages,Black or African American alone,All Time,South_Carolina
+10,63,All Ages,Black or African American alone,< 30 Days,South_Carolina
+11,112,All Ages,Black or African American alone,30 to < 90 Days,South_Carolina
+12,143,All Ages,Black or African American alone,90 Days to < 6 Months,South_Carolina
+13,257,All Ages,Black or African American alone,6 Months to < 1 Year,South_Carolina
+14,334,All Ages,Black or African American alone,1 Year to < 2 Years,South_Carolina
+15,188,All Ages,Black or African American alone,2 Years to < 3 Years,South_Carolina
+16,164,All Ages,Black or African American alone,3 Years to < 5 Years,South_Carolina
+17,100,All Ages,Black or African American alone,5 or More Years,South_Carolina
+18,72,All Ages,Hispanic or Latino,All Time,South_Carolina
+19,4,All Ages,Hispanic or Latino,< 30 Days,South_Carolina
+20,8,All Ages,Hispanic or Latino,30 to < 90 Days,South_Carolina
+21,13,All Ages,Hispanic or Latino,90 Days to < 6 Months,South_Carolina
+22,17,All Ages,Hispanic or Latino,6 Months to < 1 Year,South_Carolina
+23,14,All Ages,Hispanic or Latino,1 Year to < 2 Years,South_Carolina
+24,5,All Ages,Hispanic or Latino,2 Years to < 3 Years,South_Carolina
+25,5,All Ages,Hispanic or Latino,3 Years to < 5 Years,South_Carolina
+26,6,All Ages,Hispanic or Latino,5 or More Years,South_Carolina
+27,35,All Ages,Asian alone,All Time,South_Carolina
+28,1,All Ages,Asian alone,< 30 Days,South_Carolina
+29,4,All Ages,Asian alone,30 to < 90 Days,South_Carolina
+30,3,All Ages,Asian alone,90 Days to < 6 Months,South_Carolina
+31,3,All Ages,Asian alone,6 Months to < 1 Year,South_Carolina
+32,10,All Ages,Asian alone,1 Year to < 2 Years,South_Carolina
+33,3,All Ages,Asian alone,2 Years to < 3 Years,South_Carolina
+34,8,All Ages,Asian alone,3 Years to < 5 Years,South_Carolina
+35,3,All Ages,Asian alone,5 or More Years,South_Carolina
+36,2,All Ages,American Indian and Alaska Native alone,All Time,South_Carolina
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,South_Carolina
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,South_Carolina
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,South_Carolina
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,South_Carolina
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,South_Carolina
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,South_Carolina
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,South_Carolina
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,South_Carolina
+45,3,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,South_Carolina
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,South_Carolina
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,South_Carolina
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,South_Carolina
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,South_Carolina
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,South_Carolina
+51,1,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,South_Carolina
+52,1,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,South_Carolina
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,South_Carolina
+54,5,All Ages,Population of two or more races:,All Time,South_Carolina
+55,0,All Ages,Population of two or more races:,< 30 Days,South_Carolina
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,South_Carolina
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,South_Carolina
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,South_Carolina
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,South_Carolina
+60,1,All Ages,Population of two or more races:,2 Years to < 3 Years,South_Carolina
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,South_Carolina
+62,2,All Ages,Population of two or more races:,5 or More Years,South_Carolina
+63,3,0-5 Years,White alone,All Time,South_Carolina
+64,0,0-5 Years,White alone,< 30 Days,South_Carolina
+65,0,0-5 Years,White alone,30 to < 90 Days,South_Carolina
+66,0,0-5 Years,White alone,90 Days to < 6 Months,South_Carolina
+67,0,0-5 Years,White alone,6 Months to < 1 Year,South_Carolina
+68,0,0-5 Years,White alone,1 Year to < 2 Years,South_Carolina
+69,0,0-5 Years,White alone,2 Years to < 3 Years,South_Carolina
+70,3,0-5 Years,White alone,3 Years to < 5 Years,South_Carolina
+71,0,0-5 Years,White alone,5 or More Years,South_Carolina
+72,5,0-5 Years,Black or African American alone,All Time,South_Carolina
+73,0,0-5 Years,Black or African American alone,< 30 Days,South_Carolina
+74,2,0-5 Years,Black or African American alone,30 to < 90 Days,South_Carolina
+75,1,0-5 Years,Black or African American alone,90 Days to < 6 Months,South_Carolina
+76,1,0-5 Years,Black or African American alone,6 Months to < 1 Year,South_Carolina
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,South_Carolina
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,South_Carolina
+79,1,0-5 Years,Black or African American alone,3 Years to < 5 Years,South_Carolina
+80,1,0-5 Years,Hispanic or Latino,All Time,South_Carolina
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,South_Carolina
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,South_Carolina
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,South_Carolina
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,South_Carolina
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,South_Carolina
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,South_Carolina
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,South_Carolina
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,South_Carolina
+89,0,0-5 Years,Asian alone,All Time,South_Carolina
+90,0,0-5 Years,Asian alone,< 30 Days,South_Carolina
+91,0,0-5 Years,Asian alone,30 to < 90 Days,South_Carolina
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,South_Carolina
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,South_Carolina
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,South_Carolina
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,South_Carolina
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,South_Carolina
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,South_Carolina
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,South_Carolina
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,South_Carolina
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,South_Carolina
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,South_Carolina
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,South_Carolina
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,South_Carolina
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,South_Carolina
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,South_Carolina
+106,0,0-5 Years,Population of two or more races:,All Time,South_Carolina
+107,0,0-5 Years,Population of two or more races:,< 30 Days,South_Carolina
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,South_Carolina
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,South_Carolina
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,South_Carolina
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,South_Carolina
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,South_Carolina
+113,5,6-10 Years,White alone,All Time,South_Carolina
+114,0,6-10 Years,White alone,< 30 Days,South_Carolina
+115,0,6-10 Years,White alone,30 to < 90 Days,South_Carolina
+116,2,6-10 Years,White alone,90 Days to < 6 Months,South_Carolina
+117,0,6-10 Years,White alone,6 Months to < 1 Year,South_Carolina
+118,0,6-10 Years,White alone,1 Year to < 2 Years,South_Carolina
+119,0,6-10 Years,White alone,2 Years to < 3 Years,South_Carolina
+120,0,6-10 Years,White alone,3 Years to < 5 Years,South_Carolina
+121,3,6-10 Years,White alone,5 or More Years,South_Carolina
+122,2,6-10 Years,Black or African American alone,All Time,South_Carolina
+123,0,6-10 Years,Black or African American alone,< 30 Days,South_Carolina
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,South_Carolina
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,South_Carolina
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,South_Carolina
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,South_Carolina
+128,1,6-10 Years,Black or African American alone,2 Years to < 3 Years,South_Carolina
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,South_Carolina
+130,0,6-10 Years,Black or African American alone,5 or More Years,South_Carolina
+131,1,6-10 Years,Hispanic or Latino,All Time,South_Carolina
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,South_Carolina
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,South_Carolina
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,South_Carolina
+135,1,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,South_Carolina
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,South_Carolina
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,South_Carolina
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,South_Carolina
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,South_Carolina
+140,0,6-10 Years,Asian alone,All Time,South_Carolina
+141,0,6-10 Years,Asian alone,< 30 Days,South_Carolina
+142,0,6-10 Years,Asian alone,30 to < 90 Days,South_Carolina
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,South_Carolina
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,South_Carolina
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,South_Carolina
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,South_Carolina
+147,0,6-10 Years,Asian alone,5 or More Years,South_Carolina
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,South_Carolina
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,South_Carolina
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,South_Carolina
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,South_Carolina
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,South_Carolina
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,South_Carolina
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,South_Carolina
+155,0,6-10 Years,Population of two or more races:,All Time,South_Carolina
+156,0,6-10 Years,Population of two or more races:,< 30 Days,South_Carolina
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,South_Carolina
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,South_Carolina
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,South_Carolina
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,South_Carolina
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,South_Carolina
+162,0,6-10 Years,Population of two or more races:,5 or More Years,South_Carolina
+163,4,11-17 Years,White alone,All Time,South_Carolina
+164,1,11-17 Years,White alone,< 30 Days,South_Carolina
+165,1,11-17 Years,White alone,30 to < 90 Days,South_Carolina
+166,1,11-17 Years,White alone,90 Days to < 6 Months,South_Carolina
+167,0,11-17 Years,White alone,6 Months to < 1 Year,South_Carolina
+168,1,11-17 Years,White alone,1 Year to < 2 Years,South_Carolina
+169,0,11-17 Years,White alone,2 Years to < 3 Years,South_Carolina
+170,0,11-17 Years,White alone,3 Years to < 5 Years,South_Carolina
+171,0,11-17 Years,White alone,5 or More Years,South_Carolina
+172,4,11-17 Years,Black or African American alone,All Time,South_Carolina
+173,0,11-17 Years,Black or African American alone,< 30 Days,South_Carolina
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,South_Carolina
+175,1,11-17 Years,Black or African American alone,90 Days to < 6 Months,South_Carolina
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,South_Carolina
+177,2,11-17 Years,Black or African American alone,1 Year to < 2 Years,South_Carolina
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,South_Carolina
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,South_Carolina
+180,0,11-17 Years,Black or African American alone,5 or More Years,South_Carolina
+181,2,11-17 Years,Hispanic or Latino,All Time,South_Carolina
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,South_Carolina
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,South_Carolina
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,South_Carolina
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,South_Carolina
+186,1,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,South_Carolina
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,South_Carolina
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,South_Carolina
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,South_Carolina
+190,0,11-17 Years,Asian alone,All Time,South_Carolina
+191,0,11-17 Years,Asian alone,< 30 Days,South_Carolina
+192,0,11-17 Years,Asian alone,30 to < 90 Days,South_Carolina
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,South_Carolina
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,South_Carolina
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,South_Carolina
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,South_Carolina
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,South_Carolina
+198,0,11-17 Years,Asian alone,5 or More Years,South_Carolina
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,South_Carolina
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,South_Carolina
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,South_Carolina
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,South_Carolina
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,South_Carolina
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,South_Carolina
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,South_Carolina
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,South_Carolina
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,South_Carolina
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,South_Carolina
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,South_Carolina
+210,0,11-17 Years,Population of two or more races:,All Time,South_Carolina
+211,0,11-17 Years,Population of two or more races:,< 30 Days,South_Carolina
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,South_Carolina
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,South_Carolina
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,South_Carolina
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,South_Carolina
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,South_Carolina
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,South_Carolina
+218,0,11-17 Years,Population of two or more races:,5 or More Years,South_Carolina
+219,47,18-34 Years,White alone,All Time,South_Carolina
+220,3,18-34 Years,White alone,< 30 Days,South_Carolina
+221,5,18-34 Years,White alone,30 to < 90 Days,South_Carolina
+222,4,18-34 Years,White alone,90 Days to < 6 Months,South_Carolina
+223,9,18-34 Years,White alone,6 Months to < 1 Year,South_Carolina
+224,14,18-34 Years,White alone,1 Year to < 2 Years,South_Carolina
+225,4,18-34 Years,White alone,2 Years to < 3 Years,South_Carolina
+226,5,18-34 Years,White alone,3 Years to < 5 Years,South_Carolina
+227,3,18-34 Years,White alone,5 or More Years,South_Carolina
+228,97,18-34 Years,Black or African American alone,All Time,South_Carolina
+229,4,18-34 Years,Black or African American alone,< 30 Days,South_Carolina
+230,8,18-34 Years,Black or African American alone,30 to < 90 Days,South_Carolina
+231,13,18-34 Years,Black or African American alone,90 Days to < 6 Months,South_Carolina
+232,27,18-34 Years,Black or African American alone,6 Months to < 1 Year,South_Carolina
+233,22,18-34 Years,Black or African American alone,1 Year to < 2 Years,South_Carolina
+234,12,18-34 Years,Black or African American alone,2 Years to < 3 Years,South_Carolina
+235,5,18-34 Years,Black or African American alone,3 Years to < 5 Years,South_Carolina
+236,6,18-34 Years,Black or African American alone,5 or More Years,South_Carolina
+237,20,18-34 Years,Hispanic or Latino,All Time,South_Carolina
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,South_Carolina
+239,4,18-34 Years,Hispanic or Latino,30 to < 90 Days,South_Carolina
+240,5,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,South_Carolina
+241,4,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,South_Carolina
+242,2,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,South_Carolina
+243,1,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,South_Carolina
+244,3,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,South_Carolina
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,South_Carolina
+246,0,18-34 Years,Asian alone,All Time,South_Carolina
+247,0,18-34 Years,Asian alone,< 30 Days,South_Carolina
+248,0,18-34 Years,Asian alone,30 to < 90 Days,South_Carolina
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,South_Carolina
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,South_Carolina
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,South_Carolina
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,South_Carolina
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,South_Carolina
+254,0,18-34 Years,Asian alone,5 or More Years,South_Carolina
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,South_Carolina
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,South_Carolina
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,South_Carolina
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,South_Carolina
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,South_Carolina
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,South_Carolina
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,South_Carolina
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,South_Carolina
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,South_Carolina
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,South_Carolina
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,South_Carolina
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,South_Carolina
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,South_Carolina
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,South_Carolina
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,South_Carolina
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,South_Carolina
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,South_Carolina
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,South_Carolina
+273,1,18-34 Years,Population of two or more races:,All Time,South_Carolina
+274,0,18-34 Years,Population of two or more races:,< 30 Days,South_Carolina
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,South_Carolina
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,South_Carolina
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,South_Carolina
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,South_Carolina
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,South_Carolina
+280,1,18-34 Years,Population of two or more races:,3 Years to < 5 Years,South_Carolina
+281,0,18-34 Years,Population of two or more races:,5 or More Years,South_Carolina
+282,118,35-49 Years,White alone,All Time,South_Carolina
+283,6,35-49 Years,White alone,< 30 Days,South_Carolina
+284,11,35-49 Years,White alone,30 to < 90 Days,South_Carolina
+285,28,35-49 Years,White alone,90 Days to < 6 Months,South_Carolina
+286,22,35-49 Years,White alone,6 Months to < 1 Year,South_Carolina
+287,26,35-49 Years,White alone,1 Year to < 2 Years,South_Carolina
+288,13,35-49 Years,White alone,2 Years to < 3 Years,South_Carolina
+289,8,35-49 Years,White alone,3 Years to < 5 Years,South_Carolina
+290,4,35-49 Years,White alone,5 or More Years,South_Carolina
+291,371,35-49 Years,Black or African American alone,All Time,South_Carolina
+292,22,35-49 Years,Black or African American alone,< 30 Days,South_Carolina
+293,31,35-49 Years,Black or African American alone,30 to < 90 Days,South_Carolina
+294,35,35-49 Years,Black or African American alone,90 Days to < 6 Months,South_Carolina
+295,74,35-49 Years,Black or African American alone,6 Months to < 1 Year,South_Carolina
+296,86,35-49 Years,Black or African American alone,1 Year to < 2 Years,South_Carolina
+297,47,35-49 Years,Black or African American alone,2 Years to < 3 Years,South_Carolina
+298,45,35-49 Years,Black or African American alone,3 Years to < 5 Years,South_Carolina
+299,31,35-49 Years,Black or African American alone,5 or More Years,South_Carolina
+300,21,35-49 Years,Hispanic or Latino,All Time,South_Carolina
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,South_Carolina
+302,1,35-49 Years,Hispanic or Latino,30 to < 90 Days,South_Carolina
+303,4,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,South_Carolina
+304,7,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,South_Carolina
+305,4,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,South_Carolina
+306,0,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,South_Carolina
+307,2,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,South_Carolina
+308,3,35-49 Years,Hispanic or Latino,5 or More Years,South_Carolina
+309,4,35-49 Years,Asian alone,All Time,South_Carolina
+310,0,35-49 Years,Asian alone,< 30 Days,South_Carolina
+311,0,35-49 Years,Asian alone,30 to < 90 Days,South_Carolina
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,South_Carolina
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,South_Carolina
+314,3,35-49 Years,Asian alone,1 Year to < 2 Years,South_Carolina
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,South_Carolina
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,South_Carolina
+317,0,35-49 Years,Asian alone,5 or More Years,South_Carolina
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,South_Carolina
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,South_Carolina
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,South_Carolina
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,South_Carolina
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,South_Carolina
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,South_Carolina
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,South_Carolina
+325,1,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,South_Carolina
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,South_Carolina
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,South_Carolina
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,South_Carolina
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,South_Carolina
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,South_Carolina
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,South_Carolina
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,South_Carolina
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,South_Carolina
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,South_Carolina
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,South_Carolina
+336,2,35-49 Years,Population of two or more races:,All Time,South_Carolina
+337,0,35-49 Years,Population of two or more races:,< 30 Days,South_Carolina
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,South_Carolina
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,South_Carolina
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,South_Carolina
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,South_Carolina
+342,1,35-49 Years,Population of two or more races:,2 Years to < 3 Years,South_Carolina
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,South_Carolina
+344,0,35-49 Years,Population of two or more races:,5 or More Years,South_Carolina
+345,288,50-64 Years,White alone,All Time,South_Carolina
+346,16,50-64 Years,White alone,< 30 Days,South_Carolina
+347,19,50-64 Years,White alone,30 to < 90 Days,South_Carolina
+348,42,50-64 Years,White alone,90 Days to < 6 Months,South_Carolina
+349,48,50-64 Years,White alone,6 Months to < 1 Year,South_Carolina
+350,72,50-64 Years,White alone,1 Year to < 2 Years,South_Carolina
+351,43,50-64 Years,White alone,2 Years to < 3 Years,South_Carolina
+352,32,50-64 Years,White alone,3 Years to < 5 Years,South_Carolina
+353,16,50-64 Years,White alone,5 or More Years,South_Carolina
+354,591,50-64 Years,Black or African American alone,All Time,South_Carolina
+355,21,50-64 Years,Black or African American alone,< 30 Days,South_Carolina
+356,48,50-64 Years,Black or African American alone,30 to < 90 Days,South_Carolina
+357,64,50-64 Years,Black or African American alone,90 Days to < 6 Months,South_Carolina
+358,104,50-64 Years,Black or African American alone,6 Months to < 1 Year,South_Carolina
+359,153,50-64 Years,Black or African American alone,1 Year to < 2 Years,South_Carolina
+360,80,50-64 Years,Black or African American alone,2 Years to < 3 Years,South_Carolina
+361,83,50-64 Years,Black or African American alone,3 Years to < 5 Years,South_Carolina
+362,38,50-64 Years,Black or African American alone,5 or More Years,South_Carolina
+363,20,50-64 Years,Hispanic or Latino,All Time,South_Carolina
+364,3,50-64 Years,Hispanic or Latino,< 30 Days,South_Carolina
+365,2,50-64 Years,Hispanic or Latino,30 to < 90 Days,South_Carolina
+366,3,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,South_Carolina
+367,2,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,South_Carolina
+368,5,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,South_Carolina
+369,4,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,South_Carolina
+370,0,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,South_Carolina
+371,1,50-64 Years,Hispanic or Latino,5 or More Years,South_Carolina
+372,19,50-64 Years,Asian alone,All Time,South_Carolina
+373,1,50-64 Years,Asian alone,< 30 Days,South_Carolina
+374,4,50-64 Years,Asian alone,30 to < 90 Days,South_Carolina
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,South_Carolina
+376,1,50-64 Years,Asian alone,6 Months to < 1 Year,South_Carolina
+377,4,50-64 Years,Asian alone,1 Year to < 2 Years,South_Carolina
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,South_Carolina
+379,6,50-64 Years,Asian alone,3 Years to < 5 Years,South_Carolina
+380,2,50-64 Years,Asian alone,5 or More Years,South_Carolina
+381,1,50-64 Years,American Indian and Alaska Native alone,All Time,South_Carolina
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,South_Carolina
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,South_Carolina
+384,1,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,South_Carolina
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,South_Carolina
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,South_Carolina
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,South_Carolina
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,South_Carolina
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,South_Carolina
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,South_Carolina
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,South_Carolina
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,South_Carolina
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,South_Carolina
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,South_Carolina
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,South_Carolina
+396,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,South_Carolina
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,South_Carolina
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,South_Carolina
+399,1,50-64 Years,Population of two or more races:,All Time,South_Carolina
+400,0,50-64 Years,Population of two or more races:,< 30 Days,South_Carolina
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,South_Carolina
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,South_Carolina
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,South_Carolina
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,South_Carolina
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,South_Carolina
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,South_Carolina
+407,1,50-64 Years,Population of two or more races:,5 or More Years,South_Carolina
+408,270,65 and Older,White alone,All Time,South_Carolina
+409,13,65 and Older,White alone,< 30 Days,South_Carolina
+410,32,65 and Older,White alone,30 to < 90 Days,South_Carolina
+411,29,65 and Older,White alone,90 Days to < 6 Months,South_Carolina
+412,57,65 and Older,White alone,6 Months to < 1 Year,South_Carolina
+413,55,65 and Older,White alone,1 Year to < 2 Years,South_Carolina
+414,31,65 and Older,White alone,2 Years to < 3 Years,South_Carolina
+415,37,65 and Older,White alone,3 Years to < 5 Years,South_Carolina
+416,16,65 and Older,White alone,5 or More Years,South_Carolina
+417,291,65 and Older,Black or African American alone,All Time,South_Carolina
+418,16,65 and Older,Black or African American alone,< 30 Days,South_Carolina
+419,23,65 and Older,Black or African American alone,30 to < 90 Days,South_Carolina
+420,29,65 and Older,Black or African American alone,90 Days to < 6 Months,South_Carolina
+421,50,65 and Older,Black or African American alone,6 Months to < 1 Year,South_Carolina
+422,70,65 and Older,Black or African American alone,1 Year to < 2 Years,South_Carolina
+423,48,65 and Older,Black or African American alone,2 Years to < 3 Years,South_Carolina
+424,30,65 and Older,Black or African American alone,3 Years to < 5 Years,South_Carolina
+425,25,65 and Older,Black or African American alone,5 or More Years,South_Carolina
+426,7,65 and Older,Hispanic or Latino,All Time,South_Carolina
+427,0,65 and Older,Hispanic or Latino,< 30 Days,South_Carolina
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,South_Carolina
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,South_Carolina
+430,3,65 and Older,Hispanic or Latino,6 Months to < 1 Year,South_Carolina
+431,1,65 and Older,Hispanic or Latino,1 Year to < 2 Years,South_Carolina
+432,0,65 and Older,Hispanic or Latino,2 Years to < 3 Years,South_Carolina
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,South_Carolina
+434,2,65 and Older,Hispanic or Latino,5 or More Years,South_Carolina
+435,12,65 and Older,Asian alone,All Time,South_Carolina
+436,0,65 and Older,Asian alone,< 30 Days,South_Carolina
+437,0,65 and Older,Asian alone,30 to < 90 Days,South_Carolina
+438,2,65 and Older,Asian alone,90 Days to < 6 Months,South_Carolina
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,South_Carolina
+440,3,65 and Older,Asian alone,1 Year to < 2 Years,South_Carolina
+441,3,65 and Older,Asian alone,2 Years to < 3 Years,South_Carolina
+442,2,65 and Older,Asian alone,3 Years to < 5 Years,South_Carolina
+443,1,65 and Older,Asian alone,5 or More Years,South_Carolina
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,South_Carolina
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,South_Carolina
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,South_Carolina
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,South_Carolina
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,South_Carolina
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,South_Carolina
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,South_Carolina
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,South_Carolina
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,South_Carolina
+453,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,South_Carolina
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,South_Carolina
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,South_Carolina
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,South_Carolina
+457,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,South_Carolina
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,South_Carolina
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,South_Carolina
+460,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,South_Carolina
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,South_Carolina
+462,1,65 and Older,Population of two or more races:,All Time,South_Carolina
+463,0,65 and Older,Population of two or more races:,< 30 Days,South_Carolina
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,South_Carolina
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,South_Carolina
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,South_Carolina
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,South_Carolina
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,South_Carolina
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,South_Carolina
+470,1,65 and Older,Population of two or more races:,5 or More Years,South_Carolina

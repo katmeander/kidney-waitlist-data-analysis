@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,827,All Ages,White alone,All Time,Washington
+1,35,All Ages,White alone,< 30 Days,Washington
+2,61,All Ages,White alone,30 to < 90 Days,Washington
+3,89,All Ages,White alone,90 Days to < 6 Months,Washington
+4,159,All Ages,White alone,6 Months to < 1 Year,Washington
+5,179,All Ages,White alone,1 Year to < 2 Years,Washington
+6,112,All Ages,White alone,2 Years to < 3 Years,Washington
+7,124,All Ages,White alone,3 Years to < 5 Years,Washington
+8,68,All Ages,White alone,5 or More Years,Washington
+9,139,All Ages,Black or African American alone,All Time,Washington
+10,8,All Ages,Black or African American alone,< 30 Days,Washington
+11,9,All Ages,Black or African American alone,30 to < 90 Days,Washington
+12,12,All Ages,Black or African American alone,90 Days to < 6 Months,Washington
+13,19,All Ages,Black or African American alone,6 Months to < 1 Year,Washington
+14,25,All Ages,Black or African American alone,1 Year to < 2 Years,Washington
+15,26,All Ages,Black or African American alone,2 Years to < 3 Years,Washington
+16,26,All Ages,Black or African American alone,3 Years to < 5 Years,Washington
+17,14,All Ages,Black or African American alone,5 or More Years,Washington
+18,187,All Ages,Hispanic or Latino,All Time,Washington
+19,13,All Ages,Hispanic or Latino,< 30 Days,Washington
+20,15,All Ages,Hispanic or Latino,30 to < 90 Days,Washington
+21,16,All Ages,Hispanic or Latino,90 Days to < 6 Months,Washington
+22,33,All Ages,Hispanic or Latino,6 Months to < 1 Year,Washington
+23,37,All Ages,Hispanic or Latino,1 Year to < 2 Years,Washington
+24,19,All Ages,Hispanic or Latino,2 Years to < 3 Years,Washington
+25,39,All Ages,Hispanic or Latino,3 Years to < 5 Years,Washington
+26,15,All Ages,Hispanic or Latino,5 or More Years,Washington
+27,235,All Ages,Asian alone,All Time,Washington
+28,12,All Ages,Asian alone,< 30 Days,Washington
+29,16,All Ages,Asian alone,30 to < 90 Days,Washington
+30,10,All Ages,Asian alone,90 Days to < 6 Months,Washington
+31,38,All Ages,Asian alone,6 Months to < 1 Year,Washington
+32,51,All Ages,Asian alone,1 Year to < 2 Years,Washington
+33,52,All Ages,Asian alone,2 Years to < 3 Years,Washington
+34,39,All Ages,Asian alone,3 Years to < 5 Years,Washington
+35,17,All Ages,Asian alone,5 or More Years,Washington
+36,23,All Ages,American Indian and Alaska Native alone,All Time,Washington
+37,2,All Ages,American Indian and Alaska Native alone,< 30 Days,Washington
+38,3,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Washington
+39,3,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Washington
+40,5,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Washington
+41,3,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Washington
+42,3,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Washington
+43,3,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Washington
+44,1,All Ages,American Indian and Alaska Native alone,5 or More Years,Washington
+45,50,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Washington
+46,2,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Washington
+47,4,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Washington
+48,7,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Washington
+49,6,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Washington
+50,11,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Washington
+51,7,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Washington
+52,10,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Washington
+53,3,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Washington
+54,18,All Ages,Population of two or more races:,All Time,Washington
+55,0,All Ages,Population of two or more races:,< 30 Days,Washington
+56,1,All Ages,Population of two or more races:,30 to < 90 Days,Washington
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,Washington
+58,4,All Ages,Population of two or more races:,6 Months to < 1 Year,Washington
+59,5,All Ages,Population of two or more races:,1 Year to < 2 Years,Washington
+60,1,All Ages,Population of two or more races:,2 Years to < 3 Years,Washington
+61,3,All Ages,Population of two or more races:,3 Years to < 5 Years,Washington
+62,2,All Ages,Population of two or more races:,5 or More Years,Washington
+63,7,0-5 Years,White alone,All Time,Washington
+64,1,0-5 Years,White alone,< 30 Days,Washington
+65,1,0-5 Years,White alone,30 to < 90 Days,Washington
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Washington
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Washington
+68,3,0-5 Years,White alone,1 Year to < 2 Years,Washington
+69,2,0-5 Years,White alone,2 Years to < 3 Years,Washington
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Washington
+71,0,0-5 Years,White alone,5 or More Years,Washington
+72,1,0-5 Years,Black or African American alone,All Time,Washington
+73,0,0-5 Years,Black or African American alone,< 30 Days,Washington
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Washington
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Washington
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Washington
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Washington
+78,1,0-5 Years,Black or African American alone,2 Years to < 3 Years,Washington
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Washington
+80,7,0-5 Years,Hispanic or Latino,All Time,Washington
+81,2,0-5 Years,Hispanic or Latino,< 30 Days,Washington
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Washington
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Washington
+84,1,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Washington
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Washington
+86,2,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Washington
+87,1,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Washington
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Washington
+89,1,0-5 Years,Asian alone,All Time,Washington
+90,0,0-5 Years,Asian alone,< 30 Days,Washington
+91,1,0-5 Years,Asian alone,30 to < 90 Days,Washington
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Washington
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Washington
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Washington
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Washington
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Washington
+97,1,0-5 Years,American Indian and Alaska Native alone,All Time,Washington
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Washington
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Washington
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Washington
+101,1,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Washington
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Washington
+103,1,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Washington
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Washington
+105,1,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Washington
+106,1,0-5 Years,Population of two or more races:,All Time,Washington
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Washington
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Washington
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Washington
+110,1,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Washington
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Washington
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Washington
+113,5,6-10 Years,White alone,All Time,Washington
+114,1,6-10 Years,White alone,< 30 Days,Washington
+115,0,6-10 Years,White alone,30 to < 90 Days,Washington
+116,1,6-10 Years,White alone,90 Days to < 6 Months,Washington
+117,1,6-10 Years,White alone,6 Months to < 1 Year,Washington
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Washington
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Washington
+120,1,6-10 Years,White alone,3 Years to < 5 Years,Washington
+121,1,6-10 Years,White alone,5 or More Years,Washington
+122,0,6-10 Years,Black or African American alone,All Time,Washington
+123,0,6-10 Years,Black or African American alone,< 30 Days,Washington
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Washington
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Washington
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Washington
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Washington
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Washington
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Washington
+130,0,6-10 Years,Black or African American alone,5 or More Years,Washington
+131,4,6-10 Years,Hispanic or Latino,All Time,Washington
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Washington
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Washington
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Washington
+135,1,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Washington
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Washington
+137,1,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Washington
+138,1,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Washington
+139,1,6-10 Years,Hispanic or Latino,5 or More Years,Washington
+140,0,6-10 Years,Asian alone,All Time,Washington
+141,0,6-10 Years,Asian alone,< 30 Days,Washington
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Washington
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Washington
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Washington
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Washington
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Washington
+147,0,6-10 Years,Asian alone,5 or More Years,Washington
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Washington
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Washington
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Washington
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Washington
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Washington
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Washington
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Washington
+155,1,6-10 Years,Population of two or more races:,All Time,Washington
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Washington
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Washington
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Washington
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Washington
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Washington
+161,1,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Washington
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Washington
+163,13,11-17 Years,White alone,All Time,Washington
+164,0,11-17 Years,White alone,< 30 Days,Washington
+165,0,11-17 Years,White alone,30 to < 90 Days,Washington
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Washington
+167,2,11-17 Years,White alone,6 Months to < 1 Year,Washington
+168,5,11-17 Years,White alone,1 Year to < 2 Years,Washington
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Washington
+170,3,11-17 Years,White alone,3 Years to < 5 Years,Washington
+171,2,11-17 Years,White alone,5 or More Years,Washington
+172,2,11-17 Years,Black or African American alone,All Time,Washington
+173,1,11-17 Years,Black or African American alone,< 30 Days,Washington
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Washington
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Washington
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Washington
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Washington
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Washington
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Washington
+180,0,11-17 Years,Black or African American alone,5 or More Years,Washington
+181,9,11-17 Years,Hispanic or Latino,All Time,Washington
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Washington
+183,2,11-17 Years,Hispanic or Latino,30 to < 90 Days,Washington
+184,1,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Washington
+185,1,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Washington
+186,1,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Washington
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Washington
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Washington
+189,4,11-17 Years,Hispanic or Latino,5 or More Years,Washington
+190,4,11-17 Years,Asian alone,All Time,Washington
+191,0,11-17 Years,Asian alone,< 30 Days,Washington
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Washington
+193,2,11-17 Years,Asian alone,90 Days to < 6 Months,Washington
+194,2,11-17 Years,Asian alone,6 Months to < 1 Year,Washington
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Washington
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Washington
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Washington
+198,0,11-17 Years,Asian alone,5 or More Years,Washington
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Washington
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Washington
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Washington
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Washington
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Washington
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Washington
+205,1,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Washington
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Washington
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Washington
+208,1,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Washington
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Washington
+210,2,11-17 Years,Population of two or more races:,All Time,Washington
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Washington
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Washington
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Washington
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Washington
+215,1,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Washington
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Washington
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Washington
+218,1,11-17 Years,Population of two or more races:,5 or More Years,Washington
+219,60,18-34 Years,White alone,All Time,Washington
+220,2,18-34 Years,White alone,< 30 Days,Washington
+221,4,18-34 Years,White alone,30 to < 90 Days,Washington
+222,7,18-34 Years,White alone,90 Days to < 6 Months,Washington
+223,18,18-34 Years,White alone,6 Months to < 1 Year,Washington
+224,10,18-34 Years,White alone,1 Year to < 2 Years,Washington
+225,5,18-34 Years,White alone,2 Years to < 3 Years,Washington
+226,10,18-34 Years,White alone,3 Years to < 5 Years,Washington
+227,4,18-34 Years,White alone,5 or More Years,Washington
+228,4,18-34 Years,Black or African American alone,All Time,Washington
+229,1,18-34 Years,Black or African American alone,< 30 Days,Washington
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,Washington
+231,1,18-34 Years,Black or African American alone,90 Days to < 6 Months,Washington
+232,1,18-34 Years,Black or African American alone,6 Months to < 1 Year,Washington
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,Washington
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Washington
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Washington
+236,1,18-34 Years,Black or African American alone,5 or More Years,Washington
+237,23,18-34 Years,Hispanic or Latino,All Time,Washington
+238,2,18-34 Years,Hispanic or Latino,< 30 Days,Washington
+239,3,18-34 Years,Hispanic or Latino,30 to < 90 Days,Washington
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Washington
+241,4,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Washington
+242,6,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Washington
+243,1,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Washington
+244,7,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Washington
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Washington
+246,12,18-34 Years,Asian alone,All Time,Washington
+247,1,18-34 Years,Asian alone,< 30 Days,Washington
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Washington
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Washington
+250,3,18-34 Years,Asian alone,6 Months to < 1 Year,Washington
+251,4,18-34 Years,Asian alone,1 Year to < 2 Years,Washington
+252,1,18-34 Years,Asian alone,2 Years to < 3 Years,Washington
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Washington
+254,2,18-34 Years,Asian alone,5 or More Years,Washington
+255,1,18-34 Years,American Indian and Alaska Native alone,All Time,Washington
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Washington
+257,1,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Washington
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Washington
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Washington
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Washington
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Washington
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Washington
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Washington
+264,4,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Washington
+265,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Washington
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Washington
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Washington
+268,2,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Washington
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Washington
+270,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Washington
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Washington
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Washington
+273,1,18-34 Years,Population of two or more races:,All Time,Washington
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Washington
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Washington
+276,1,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Washington
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Washington
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Washington
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Washington
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Washington
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Washington
+282,156,35-49 Years,White alone,All Time,Washington
+283,9,35-49 Years,White alone,< 30 Days,Washington
+284,13,35-49 Years,White alone,30 to < 90 Days,Washington
+285,30,35-49 Years,White alone,90 Days to < 6 Months,Washington
+286,28,35-49 Years,White alone,6 Months to < 1 Year,Washington
+287,33,35-49 Years,White alone,1 Year to < 2 Years,Washington
+288,15,35-49 Years,White alone,2 Years to < 3 Years,Washington
+289,19,35-49 Years,White alone,3 Years to < 5 Years,Washington
+290,9,35-49 Years,White alone,5 or More Years,Washington
+291,25,35-49 Years,Black or African American alone,All Time,Washington
+292,1,35-49 Years,Black or African American alone,< 30 Days,Washington
+293,3,35-49 Years,Black or African American alone,30 to < 90 Days,Washington
+294,2,35-49 Years,Black or African American alone,90 Days to < 6 Months,Washington
+295,2,35-49 Years,Black or African American alone,6 Months to < 1 Year,Washington
+296,6,35-49 Years,Black or African American alone,1 Year to < 2 Years,Washington
+297,3,35-49 Years,Black or African American alone,2 Years to < 3 Years,Washington
+298,5,35-49 Years,Black or African American alone,3 Years to < 5 Years,Washington
+299,3,35-49 Years,Black or African American alone,5 or More Years,Washington
+300,50,35-49 Years,Hispanic or Latino,All Time,Washington
+301,3,35-49 Years,Hispanic or Latino,< 30 Days,Washington
+302,7,35-49 Years,Hispanic or Latino,30 to < 90 Days,Washington
+303,6,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Washington
+304,14,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Washington
+305,7,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Washington
+306,6,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Washington
+307,5,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Washington
+308,2,35-49 Years,Hispanic or Latino,5 or More Years,Washington
+309,51,35-49 Years,Asian alone,All Time,Washington
+310,3,35-49 Years,Asian alone,< 30 Days,Washington
+311,4,35-49 Years,Asian alone,30 to < 90 Days,Washington
+312,3,35-49 Years,Asian alone,90 Days to < 6 Months,Washington
+313,6,35-49 Years,Asian alone,6 Months to < 1 Year,Washington
+314,13,35-49 Years,Asian alone,1 Year to < 2 Years,Washington
+315,9,35-49 Years,Asian alone,2 Years to < 3 Years,Washington
+316,11,35-49 Years,Asian alone,3 Years to < 5 Years,Washington
+317,2,35-49 Years,Asian alone,5 or More Years,Washington
+318,5,35-49 Years,American Indian and Alaska Native alone,All Time,Washington
+319,1,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Washington
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Washington
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Washington
+322,2,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Washington
+323,1,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Washington
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Washington
+325,1,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Washington
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Washington
+327,13,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Washington
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Washington
+329,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Washington
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Washington
+331,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Washington
+332,5,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Washington
+333,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Washington
+334,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Washington
+335,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Washington
+336,4,35-49 Years,Population of two or more races:,All Time,Washington
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Washington
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Washington
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Washington
+340,3,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Washington
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Washington
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Washington
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Washington
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Washington
+345,324,50-64 Years,White alone,All Time,Washington
+346,14,50-64 Years,White alone,< 30 Days,Washington
+347,29,50-64 Years,White alone,30 to < 90 Days,Washington
+348,34,50-64 Years,White alone,90 Days to < 6 Months,Washington
+349,60,50-64 Years,White alone,6 Months to < 1 Year,Washington
+350,74,50-64 Years,White alone,1 Year to < 2 Years,Washington
+351,45,50-64 Years,White alone,2 Years to < 3 Years,Washington
+352,37,50-64 Years,White alone,3 Years to < 5 Years,Washington
+353,31,50-64 Years,White alone,5 or More Years,Washington
+354,70,50-64 Years,Black or African American alone,All Time,Washington
+355,1,50-64 Years,Black or African American alone,< 30 Days,Washington
+356,4,50-64 Years,Black or African American alone,30 to < 90 Days,Washington
+357,7,50-64 Years,Black or African American alone,90 Days to < 6 Months,Washington
+358,10,50-64 Years,Black or African American alone,6 Months to < 1 Year,Washington
+359,14,50-64 Years,Black or African American alone,1 Year to < 2 Years,Washington
+360,15,50-64 Years,Black or African American alone,2 Years to < 3 Years,Washington
+361,11,50-64 Years,Black or African American alone,3 Years to < 5 Years,Washington
+362,8,50-64 Years,Black or African American alone,5 or More Years,Washington
+363,67,50-64 Years,Hispanic or Latino,All Time,Washington
+364,3,50-64 Years,Hispanic or Latino,< 30 Days,Washington
+365,1,50-64 Years,Hispanic or Latino,30 to < 90 Days,Washington
+366,7,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Washington
+367,11,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Washington
+368,17,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Washington
+369,5,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Washington
+370,16,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Washington
+371,7,50-64 Years,Hispanic or Latino,5 or More Years,Washington
+372,95,50-64 Years,Asian alone,All Time,Washington
+373,4,50-64 Years,Asian alone,< 30 Days,Washington
+374,6,50-64 Years,Asian alone,30 to < 90 Days,Washington
+375,2,50-64 Years,Asian alone,90 Days to < 6 Months,Washington
+376,17,50-64 Years,Asian alone,6 Months to < 1 Year,Washington
+377,16,50-64 Years,Asian alone,1 Year to < 2 Years,Washington
+378,25,50-64 Years,Asian alone,2 Years to < 3 Years,Washington
+379,19,50-64 Years,Asian alone,3 Years to < 5 Years,Washington
+380,6,50-64 Years,Asian alone,5 or More Years,Washington
+381,12,50-64 Years,American Indian and Alaska Native alone,All Time,Washington
+382,1,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Washington
+383,1,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Washington
+384,2,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Washington
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Washington
+386,2,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Washington
+387,3,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Washington
+388,2,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Washington
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Washington
+390,28,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Washington
+391,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Washington
+392,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Washington
+393,6,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Washington
+394,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Washington
+395,4,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Washington
+396,4,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Washington
+397,7,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Washington
+398,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Washington
+399,6,50-64 Years,Population of two or more races:,All Time,Washington
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Washington
+401,1,50-64 Years,Population of two or more races:,30 to < 90 Days,Washington
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Washington
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Washington
+404,3,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Washington
+405,1,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Washington
+406,1,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Washington
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Washington
+408,262,65 and Older,White alone,All Time,Washington
+409,8,65 and Older,White alone,< 30 Days,Washington
+410,14,65 and Older,White alone,30 to < 90 Days,Washington
+411,17,65 and Older,White alone,90 Days to < 6 Months,Washington
+412,50,65 and Older,White alone,6 Months to < 1 Year,Washington
+413,54,65 and Older,White alone,1 Year to < 2 Years,Washington
+414,44,65 and Older,White alone,2 Years to < 3 Years,Washington
+415,54,65 and Older,White alone,3 Years to < 5 Years,Washington
+416,21,65 and Older,White alone,5 or More Years,Washington
+417,37,65 and Older,Black or African American alone,All Time,Washington
+418,4,65 and Older,Black or African American alone,< 30 Days,Washington
+419,2,65 and Older,Black or African American alone,30 to < 90 Days,Washington
+420,2,65 and Older,Black or African American alone,90 Days to < 6 Months,Washington
+421,5,65 and Older,Black or African American alone,6 Months to < 1 Year,Washington
+422,5,65 and Older,Black or African American alone,1 Year to < 2 Years,Washington
+423,7,65 and Older,Black or African American alone,2 Years to < 3 Years,Washington
+424,10,65 and Older,Black or African American alone,3 Years to < 5 Years,Washington
+425,2,65 and Older,Black or African American alone,5 or More Years,Washington
+426,27,65 and Older,Hispanic or Latino,All Time,Washington
+427,3,65 and Older,Hispanic or Latino,< 30 Days,Washington
+428,2,65 and Older,Hispanic or Latino,30 to < 90 Days,Washington
+429,2,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Washington
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Washington
+431,5,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Washington
+432,4,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Washington
+433,9,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Washington
+434,1,65 and Older,Hispanic or Latino,5 or More Years,Washington
+435,72,65 and Older,Asian alone,All Time,Washington
+436,4,65 and Older,Asian alone,< 30 Days,Washington
+437,4,65 and Older,Asian alone,30 to < 90 Days,Washington
+438,3,65 and Older,Asian alone,90 Days to < 6 Months,Washington
+439,10,65 and Older,Asian alone,6 Months to < 1 Year,Washington
+440,18,65 and Older,Asian alone,1 Year to < 2 Years,Washington
+441,17,65 and Older,Asian alone,2 Years to < 3 Years,Washington
+442,9,65 and Older,Asian alone,3 Years to < 5 Years,Washington
+443,7,65 and Older,Asian alone,5 or More Years,Washington
+444,4,65 and Older,American Indian and Alaska Native alone,All Time,Washington
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Washington
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Washington
+447,1,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Washington
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Washington
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Washington
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Washington
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Washington
+452,1,65 and Older,American Indian and Alaska Native alone,5 or More Years,Washington
+453,3,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Washington
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Washington
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Washington
+456,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Washington
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Washington
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Washington
+459,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Washington
+460,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Washington
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Washington
+462,3,65 and Older,Population of two or more races:,All Time,Washington
+463,0,65 and Older,Population of two or more races:,< 30 Days,Washington
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Washington
+465,1,65 and Older,Population of two or more races:,90 Days to < 6 Months,Washington
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Washington
+467,1,65 and Older,Population of two or more races:,1 Year to < 2 Years,Washington
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Washington
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Washington
+470,1,65 and Older,Population of two or more races:,5 or More Years,Washington

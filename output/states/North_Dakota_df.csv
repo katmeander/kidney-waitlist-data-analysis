@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,130,All Ages,White alone,All Time,North_Dakota
+1,7,All Ages,White alone,< 30 Days,North_Dakota
+2,17,All Ages,White alone,30 to < 90 Days,North_Dakota
+3,9,All Ages,White alone,90 Days to < 6 Months,North_Dakota
+4,19,All Ages,White alone,6 Months to < 1 Year,North_Dakota
+5,28,All Ages,White alone,1 Year to < 2 Years,North_Dakota
+6,15,All Ages,White alone,2 Years to < 3 Years,North_Dakota
+7,21,All Ages,White alone,3 Years to < 5 Years,North_Dakota
+8,14,All Ages,White alone,5 or More Years,North_Dakota
+9,10,All Ages,Black or African American alone,All Time,North_Dakota
+10,1,All Ages,Black or African American alone,< 30 Days,North_Dakota
+11,0,All Ages,Black or African American alone,30 to < 90 Days,North_Dakota
+12,0,All Ages,Black or African American alone,90 Days to < 6 Months,North_Dakota
+13,1,All Ages,Black or African American alone,6 Months to < 1 Year,North_Dakota
+14,2,All Ages,Black or African American alone,1 Year to < 2 Years,North_Dakota
+15,0,All Ages,Black or African American alone,2 Years to < 3 Years,North_Dakota
+16,1,All Ages,Black or African American alone,3 Years to < 5 Years,North_Dakota
+17,5,All Ages,Black or African American alone,5 or More Years,North_Dakota
+18,4,All Ages,Hispanic or Latino,All Time,North_Dakota
+19,0,All Ages,Hispanic or Latino,< 30 Days,North_Dakota
+20,0,All Ages,Hispanic or Latino,30 to < 90 Days,North_Dakota
+21,0,All Ages,Hispanic or Latino,90 Days to < 6 Months,North_Dakota
+22,0,All Ages,Hispanic or Latino,6 Months to < 1 Year,North_Dakota
+23,3,All Ages,Hispanic or Latino,1 Year to < 2 Years,North_Dakota
+24,0,All Ages,Hispanic or Latino,2 Years to < 3 Years,North_Dakota
+25,0,All Ages,Hispanic or Latino,3 Years to < 5 Years,North_Dakota
+26,1,All Ages,Hispanic or Latino,5 or More Years,North_Dakota
+27,2,All Ages,Asian alone,All Time,North_Dakota
+28,0,All Ages,Asian alone,< 30 Days,North_Dakota
+29,0,All Ages,Asian alone,30 to < 90 Days,North_Dakota
+30,0,All Ages,Asian alone,90 Days to < 6 Months,North_Dakota
+31,0,All Ages,Asian alone,6 Months to < 1 Year,North_Dakota
+32,0,All Ages,Asian alone,1 Year to < 2 Years,North_Dakota
+33,2,All Ages,Asian alone,2 Years to < 3 Years,North_Dakota
+34,0,All Ages,Asian alone,3 Years to < 5 Years,North_Dakota
+35,0,All Ages,Asian alone,5 or More Years,North_Dakota
+36,22,All Ages,American Indian and Alaska Native alone,All Time,North_Dakota
+37,2,All Ages,American Indian and Alaska Native alone,< 30 Days,North_Dakota
+38,4,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,North_Dakota
+39,4,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Dakota
+40,4,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Dakota
+41,3,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Dakota
+42,2,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Dakota
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Dakota
+44,2,All Ages,American Indian and Alaska Native alone,5 or More Years,North_Dakota
+45,1,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,North_Dakota
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Dakota
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Dakota
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Dakota
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Dakota
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Dakota
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Dakota
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Dakota
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Dakota
+54,2,All Ages,Population of two or more races:,All Time,North_Dakota
+55,0,All Ages,Population of two or more races:,< 30 Days,North_Dakota
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,North_Dakota
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,North_Dakota
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,North_Dakota
+59,1,All Ages,Population of two or more races:,1 Year to < 2 Years,North_Dakota
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,North_Dakota
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,North_Dakota
+62,1,All Ages,Population of two or more races:,5 or More Years,North_Dakota
+63,2,0-5 Years,White alone,All Time,North_Dakota
+64,0,0-5 Years,White alone,< 30 Days,North_Dakota
+65,1,0-5 Years,White alone,30 to < 90 Days,North_Dakota
+66,1,0-5 Years,White alone,90 Days to < 6 Months,North_Dakota
+67,0,0-5 Years,White alone,6 Months to < 1 Year,North_Dakota
+68,0,0-5 Years,White alone,1 Year to < 2 Years,North_Dakota
+69,0,0-5 Years,White alone,2 Years to < 3 Years,North_Dakota
+70,0,0-5 Years,White alone,3 Years to < 5 Years,North_Dakota
+71,0,0-5 Years,White alone,5 or More Years,North_Dakota
+72,0,0-5 Years,Black or African American alone,All Time,North_Dakota
+73,0,0-5 Years,Black or African American alone,< 30 Days,North_Dakota
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,North_Dakota
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,North_Dakota
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,North_Dakota
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,North_Dakota
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,North_Dakota
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,North_Dakota
+80,0,0-5 Years,Hispanic or Latino,All Time,North_Dakota
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,North_Dakota
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,North_Dakota
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,North_Dakota
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,North_Dakota
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,North_Dakota
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,North_Dakota
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,North_Dakota
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,North_Dakota
+89,0,0-5 Years,Asian alone,All Time,North_Dakota
+90,0,0-5 Years,Asian alone,< 30 Days,North_Dakota
+91,0,0-5 Years,Asian alone,30 to < 90 Days,North_Dakota
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,North_Dakota
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,North_Dakota
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,North_Dakota
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,North_Dakota
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,North_Dakota
+97,1,0-5 Years,American Indian and Alaska Native alone,All Time,North_Dakota
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,North_Dakota
+99,1,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,North_Dakota
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Dakota
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Dakota
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Dakota
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Dakota
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Dakota
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Dakota
+106,0,0-5 Years,Population of two or more races:,All Time,North_Dakota
+107,0,0-5 Years,Population of two or more races:,< 30 Days,North_Dakota
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,North_Dakota
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,North_Dakota
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,North_Dakota
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,North_Dakota
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,North_Dakota
+113,0,6-10 Years,White alone,All Time,North_Dakota
+114,0,6-10 Years,White alone,< 30 Days,North_Dakota
+115,0,6-10 Years,White alone,30 to < 90 Days,North_Dakota
+116,0,6-10 Years,White alone,90 Days to < 6 Months,North_Dakota
+117,0,6-10 Years,White alone,6 Months to < 1 Year,North_Dakota
+118,0,6-10 Years,White alone,1 Year to < 2 Years,North_Dakota
+119,0,6-10 Years,White alone,2 Years to < 3 Years,North_Dakota
+120,0,6-10 Years,White alone,3 Years to < 5 Years,North_Dakota
+121,0,6-10 Years,White alone,5 or More Years,North_Dakota
+122,0,6-10 Years,Black or African American alone,All Time,North_Dakota
+123,0,6-10 Years,Black or African American alone,< 30 Days,North_Dakota
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,North_Dakota
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,North_Dakota
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,North_Dakota
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,North_Dakota
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,North_Dakota
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,North_Dakota
+130,0,6-10 Years,Black or African American alone,5 or More Years,North_Dakota
+131,0,6-10 Years,Hispanic or Latino,All Time,North_Dakota
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,North_Dakota
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,North_Dakota
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,North_Dakota
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,North_Dakota
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,North_Dakota
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,North_Dakota
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,North_Dakota
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,North_Dakota
+140,0,6-10 Years,Asian alone,All Time,North_Dakota
+141,0,6-10 Years,Asian alone,< 30 Days,North_Dakota
+142,0,6-10 Years,Asian alone,30 to < 90 Days,North_Dakota
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,North_Dakota
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,North_Dakota
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,North_Dakota
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,North_Dakota
+147,0,6-10 Years,Asian alone,5 or More Years,North_Dakota
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,North_Dakota
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Dakota
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Dakota
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Dakota
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Dakota
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Dakota
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Dakota
+155,0,6-10 Years,Population of two or more races:,All Time,North_Dakota
+156,0,6-10 Years,Population of two or more races:,< 30 Days,North_Dakota
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,North_Dakota
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,North_Dakota
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,North_Dakota
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,North_Dakota
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,North_Dakota
+162,0,6-10 Years,Population of two or more races:,5 or More Years,North_Dakota
+163,3,11-17 Years,White alone,All Time,North_Dakota
+164,0,11-17 Years,White alone,< 30 Days,North_Dakota
+165,0,11-17 Years,White alone,30 to < 90 Days,North_Dakota
+166,0,11-17 Years,White alone,90 Days to < 6 Months,North_Dakota
+167,1,11-17 Years,White alone,6 Months to < 1 Year,North_Dakota
+168,0,11-17 Years,White alone,1 Year to < 2 Years,North_Dakota
+169,1,11-17 Years,White alone,2 Years to < 3 Years,North_Dakota
+170,1,11-17 Years,White alone,3 Years to < 5 Years,North_Dakota
+171,0,11-17 Years,White alone,5 or More Years,North_Dakota
+172,0,11-17 Years,Black or African American alone,All Time,North_Dakota
+173,0,11-17 Years,Black or African American alone,< 30 Days,North_Dakota
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,North_Dakota
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,North_Dakota
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,North_Dakota
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,North_Dakota
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,North_Dakota
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,North_Dakota
+180,0,11-17 Years,Black or African American alone,5 or More Years,North_Dakota
+181,0,11-17 Years,Hispanic or Latino,All Time,North_Dakota
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,North_Dakota
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,North_Dakota
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,North_Dakota
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,North_Dakota
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,North_Dakota
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,North_Dakota
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,North_Dakota
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,North_Dakota
+190,0,11-17 Years,Asian alone,All Time,North_Dakota
+191,0,11-17 Years,Asian alone,< 30 Days,North_Dakota
+192,0,11-17 Years,Asian alone,30 to < 90 Days,North_Dakota
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,North_Dakota
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,North_Dakota
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,North_Dakota
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,North_Dakota
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,North_Dakota
+198,0,11-17 Years,Asian alone,5 or More Years,North_Dakota
+199,1,11-17 Years,American Indian and Alaska Native alone,All Time,North_Dakota
+200,1,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Dakota
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Dakota
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Dakota
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Dakota
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Dakota
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Dakota
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Dakota
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Dakota
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Dakota
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Dakota
+210,0,11-17 Years,Population of two or more races:,All Time,North_Dakota
+211,0,11-17 Years,Population of two or more races:,< 30 Days,North_Dakota
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,North_Dakota
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,North_Dakota
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,North_Dakota
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,North_Dakota
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,North_Dakota
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,North_Dakota
+218,0,11-17 Years,Population of two or more races:,5 or More Years,North_Dakota
+219,18,18-34 Years,White alone,All Time,North_Dakota
+220,2,18-34 Years,White alone,< 30 Days,North_Dakota
+221,6,18-34 Years,White alone,30 to < 90 Days,North_Dakota
+222,2,18-34 Years,White alone,90 Days to < 6 Months,North_Dakota
+223,3,18-34 Years,White alone,6 Months to < 1 Year,North_Dakota
+224,0,18-34 Years,White alone,1 Year to < 2 Years,North_Dakota
+225,3,18-34 Years,White alone,2 Years to < 3 Years,North_Dakota
+226,1,18-34 Years,White alone,3 Years to < 5 Years,North_Dakota
+227,1,18-34 Years,White alone,5 or More Years,North_Dakota
+228,2,18-34 Years,Black or African American alone,All Time,North_Dakota
+229,0,18-34 Years,Black or African American alone,< 30 Days,North_Dakota
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,North_Dakota
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,North_Dakota
+232,0,18-34 Years,Black or African American alone,6 Months to < 1 Year,North_Dakota
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,North_Dakota
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,North_Dakota
+235,1,18-34 Years,Black or African American alone,3 Years to < 5 Years,North_Dakota
+236,1,18-34 Years,Black or African American alone,5 or More Years,North_Dakota
+237,0,18-34 Years,Hispanic or Latino,All Time,North_Dakota
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,North_Dakota
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,North_Dakota
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,North_Dakota
+241,0,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,North_Dakota
+242,0,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,North_Dakota
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,North_Dakota
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,North_Dakota
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,North_Dakota
+246,1,18-34 Years,Asian alone,All Time,North_Dakota
+247,0,18-34 Years,Asian alone,< 30 Days,North_Dakota
+248,0,18-34 Years,Asian alone,30 to < 90 Days,North_Dakota
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,North_Dakota
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,North_Dakota
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,North_Dakota
+252,1,18-34 Years,Asian alone,2 Years to < 3 Years,North_Dakota
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,North_Dakota
+254,0,18-34 Years,Asian alone,5 or More Years,North_Dakota
+255,2,18-34 Years,American Indian and Alaska Native alone,All Time,North_Dakota
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,North_Dakota
+257,1,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,North_Dakota
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Dakota
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Dakota
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Dakota
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Dakota
+262,1,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Dakota
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,North_Dakota
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Dakota
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Dakota
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Dakota
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Dakota
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Dakota
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Dakota
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Dakota
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Dakota
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Dakota
+273,0,18-34 Years,Population of two or more races:,All Time,North_Dakota
+274,0,18-34 Years,Population of two or more races:,< 30 Days,North_Dakota
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,North_Dakota
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,North_Dakota
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,North_Dakota
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,North_Dakota
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,North_Dakota
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,North_Dakota
+281,0,18-34 Years,Population of two or more races:,5 or More Years,North_Dakota
+282,18,35-49 Years,White alone,All Time,North_Dakota
+283,2,35-49 Years,White alone,< 30 Days,North_Dakota
+284,2,35-49 Years,White alone,30 to < 90 Days,North_Dakota
+285,4,35-49 Years,White alone,90 Days to < 6 Months,North_Dakota
+286,3,35-49 Years,White alone,6 Months to < 1 Year,North_Dakota
+287,1,35-49 Years,White alone,1 Year to < 2 Years,North_Dakota
+288,1,35-49 Years,White alone,2 Years to < 3 Years,North_Dakota
+289,3,35-49 Years,White alone,3 Years to < 5 Years,North_Dakota
+290,2,35-49 Years,White alone,5 or More Years,North_Dakota
+291,4,35-49 Years,Black or African American alone,All Time,North_Dakota
+292,0,35-49 Years,Black or African American alone,< 30 Days,North_Dakota
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,North_Dakota
+294,0,35-49 Years,Black or African American alone,90 Days to < 6 Months,North_Dakota
+295,0,35-49 Years,Black or African American alone,6 Months to < 1 Year,North_Dakota
+296,1,35-49 Years,Black or African American alone,1 Year to < 2 Years,North_Dakota
+297,0,35-49 Years,Black or African American alone,2 Years to < 3 Years,North_Dakota
+298,0,35-49 Years,Black or African American alone,3 Years to < 5 Years,North_Dakota
+299,3,35-49 Years,Black or African American alone,5 or More Years,North_Dakota
+300,1,35-49 Years,Hispanic or Latino,All Time,North_Dakota
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,North_Dakota
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,North_Dakota
+303,0,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,North_Dakota
+304,0,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,North_Dakota
+305,1,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,North_Dakota
+306,0,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,North_Dakota
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,North_Dakota
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,North_Dakota
+309,0,35-49 Years,Asian alone,All Time,North_Dakota
+310,0,35-49 Years,Asian alone,< 30 Days,North_Dakota
+311,0,35-49 Years,Asian alone,30 to < 90 Days,North_Dakota
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,North_Dakota
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,North_Dakota
+314,0,35-49 Years,Asian alone,1 Year to < 2 Years,North_Dakota
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,North_Dakota
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,North_Dakota
+317,0,35-49 Years,Asian alone,5 or More Years,North_Dakota
+318,9,35-49 Years,American Indian and Alaska Native alone,All Time,North_Dakota
+319,2,35-49 Years,American Indian and Alaska Native alone,< 30 Days,North_Dakota
+320,1,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,North_Dakota
+321,1,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Dakota
+322,2,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Dakota
+323,1,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Dakota
+324,2,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Dakota
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Dakota
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,North_Dakota
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Dakota
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Dakota
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Dakota
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Dakota
+331,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Dakota
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Dakota
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Dakota
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Dakota
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Dakota
+336,0,35-49 Years,Population of two or more races:,All Time,North_Dakota
+337,0,35-49 Years,Population of two or more races:,< 30 Days,North_Dakota
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,North_Dakota
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,North_Dakota
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,North_Dakota
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,North_Dakota
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,North_Dakota
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,North_Dakota
+344,0,35-49 Years,Population of two or more races:,5 or More Years,North_Dakota
+345,57,50-64 Years,White alone,All Time,North_Dakota
+346,2,50-64 Years,White alone,< 30 Days,North_Dakota
+347,6,50-64 Years,White alone,30 to < 90 Days,North_Dakota
+348,2,50-64 Years,White alone,90 Days to < 6 Months,North_Dakota
+349,9,50-64 Years,White alone,6 Months to < 1 Year,North_Dakota
+350,20,50-64 Years,White alone,1 Year to < 2 Years,North_Dakota
+351,5,50-64 Years,White alone,2 Years to < 3 Years,North_Dakota
+352,7,50-64 Years,White alone,3 Years to < 5 Years,North_Dakota
+353,6,50-64 Years,White alone,5 or More Years,North_Dakota
+354,4,50-64 Years,Black or African American alone,All Time,North_Dakota
+355,1,50-64 Years,Black or African American alone,< 30 Days,North_Dakota
+356,0,50-64 Years,Black or African American alone,30 to < 90 Days,North_Dakota
+357,0,50-64 Years,Black or African American alone,90 Days to < 6 Months,North_Dakota
+358,1,50-64 Years,Black or African American alone,6 Months to < 1 Year,North_Dakota
+359,1,50-64 Years,Black or African American alone,1 Year to < 2 Years,North_Dakota
+360,0,50-64 Years,Black or African American alone,2 Years to < 3 Years,North_Dakota
+361,0,50-64 Years,Black or African American alone,3 Years to < 5 Years,North_Dakota
+362,1,50-64 Years,Black or African American alone,5 or More Years,North_Dakota
+363,1,50-64 Years,Hispanic or Latino,All Time,North_Dakota
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,North_Dakota
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,North_Dakota
+366,0,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,North_Dakota
+367,0,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,North_Dakota
+368,1,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,North_Dakota
+369,0,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,North_Dakota
+370,0,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,North_Dakota
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,North_Dakota
+372,1,50-64 Years,Asian alone,All Time,North_Dakota
+373,0,50-64 Years,Asian alone,< 30 Days,North_Dakota
+374,0,50-64 Years,Asian alone,30 to < 90 Days,North_Dakota
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,North_Dakota
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,North_Dakota
+377,0,50-64 Years,Asian alone,1 Year to < 2 Years,North_Dakota
+378,1,50-64 Years,Asian alone,2 Years to < 3 Years,North_Dakota
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,North_Dakota
+380,0,50-64 Years,Asian alone,5 or More Years,North_Dakota
+381,5,50-64 Years,American Indian and Alaska Native alone,All Time,North_Dakota
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,North_Dakota
+383,1,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,North_Dakota
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Dakota
+385,2,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Dakota
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Dakota
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Dakota
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Dakota
+389,2,50-64 Years,American Indian and Alaska Native alone,5 or More Years,North_Dakota
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Dakota
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Dakota
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Dakota
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Dakota
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Dakota
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Dakota
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Dakota
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Dakota
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Dakota
+399,0,50-64 Years,Population of two or more races:,All Time,North_Dakota
+400,0,50-64 Years,Population of two or more races:,< 30 Days,North_Dakota
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,North_Dakota
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,North_Dakota
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,North_Dakota
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,North_Dakota
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,North_Dakota
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,North_Dakota
+407,0,50-64 Years,Population of two or more races:,5 or More Years,North_Dakota
+408,32,65 and Older,White alone,All Time,North_Dakota
+409,1,65 and Older,White alone,< 30 Days,North_Dakota
+410,2,65 and Older,White alone,30 to < 90 Days,North_Dakota
+411,0,65 and Older,White alone,90 Days to < 6 Months,North_Dakota
+412,3,65 and Older,White alone,6 Months to < 1 Year,North_Dakota
+413,7,65 and Older,White alone,1 Year to < 2 Years,North_Dakota
+414,5,65 and Older,White alone,2 Years to < 3 Years,North_Dakota
+415,9,65 and Older,White alone,3 Years to < 5 Years,North_Dakota
+416,5,65 and Older,White alone,5 or More Years,North_Dakota
+417,0,65 and Older,Black or African American alone,All Time,North_Dakota
+418,0,65 and Older,Black or African American alone,< 30 Days,North_Dakota
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,North_Dakota
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,North_Dakota
+421,0,65 and Older,Black or African American alone,6 Months to < 1 Year,North_Dakota
+422,0,65 and Older,Black or African American alone,1 Year to < 2 Years,North_Dakota
+423,0,65 and Older,Black or African American alone,2 Years to < 3 Years,North_Dakota
+424,0,65 and Older,Black or African American alone,3 Years to < 5 Years,North_Dakota
+425,0,65 and Older,Black or African American alone,5 or More Years,North_Dakota
+426,2,65 and Older,Hispanic or Latino,All Time,North_Dakota
+427,0,65 and Older,Hispanic or Latino,< 30 Days,North_Dakota
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,North_Dakota
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,North_Dakota
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,North_Dakota
+431,1,65 and Older,Hispanic or Latino,1 Year to < 2 Years,North_Dakota
+432,0,65 and Older,Hispanic or Latino,2 Years to < 3 Years,North_Dakota
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,North_Dakota
+434,1,65 and Older,Hispanic or Latino,5 or More Years,North_Dakota
+435,0,65 and Older,Asian alone,All Time,North_Dakota
+436,0,65 and Older,Asian alone,< 30 Days,North_Dakota
+437,0,65 and Older,Asian alone,30 to < 90 Days,North_Dakota
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,North_Dakota
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,North_Dakota
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,North_Dakota
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,North_Dakota
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,North_Dakota
+443,0,65 and Older,Asian alone,5 or More Years,North_Dakota
+444,4,65 and Older,American Indian and Alaska Native alone,All Time,North_Dakota
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,North_Dakota
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,North_Dakota
+447,2,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Dakota
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Dakota
+449,2,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Dakota
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Dakota
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Dakota
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,North_Dakota
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,North_Dakota
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Dakota
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Dakota
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Dakota
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Dakota
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Dakota
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Dakota
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Dakota
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Dakota
+462,2,65 and Older,Population of two or more races:,All Time,North_Dakota
+463,0,65 and Older,Population of two or more races:,< 30 Days,North_Dakota
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,North_Dakota
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,North_Dakota
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,North_Dakota
+467,1,65 and Older,Population of two or more races:,1 Year to < 2 Years,North_Dakota
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,North_Dakota
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,North_Dakota
+470,1,65 and Older,Population of two or more races:,5 or More Years,North_Dakota

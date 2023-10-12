@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"1,005",All Ages,White alone,All Time,Maryland
+1,40,All Ages,White alone,< 30 Days,Maryland
+2,63,All Ages,White alone,30 to < 90 Days,Maryland
+3,96,All Ages,White alone,90 Days to < 6 Months,Maryland
+4,123,All Ages,White alone,6 Months to < 1 Year,Maryland
+5,198,All Ages,White alone,1 Year to < 2 Years,Maryland
+6,122,All Ages,White alone,2 Years to < 3 Years,Maryland
+7,179,All Ages,White alone,3 Years to < 5 Years,Maryland
+8,184,All Ages,White alone,5 or More Years,Maryland
+9,"1,698",All Ages,Black or African American alone,All Time,Maryland
+10,70,All Ages,Black or African American alone,< 30 Days,Maryland
+11,134,All Ages,Black or African American alone,30 to < 90 Days,Maryland
+12,149,All Ages,Black or African American alone,90 Days to < 6 Months,Maryland
+13,249,All Ages,Black or African American alone,6 Months to < 1 Year,Maryland
+14,340,All Ages,Black or African American alone,1 Year to < 2 Years,Maryland
+15,244,All Ages,Black or African American alone,2 Years to < 3 Years,Maryland
+16,276,All Ages,Black or African American alone,3 Years to < 5 Years,Maryland
+17,236,All Ages,Black or African American alone,5 or More Years,Maryland
+18,177,All Ages,Hispanic or Latino,All Time,Maryland
+19,12,All Ages,Hispanic or Latino,< 30 Days,Maryland
+20,10,All Ages,Hispanic or Latino,30 to < 90 Days,Maryland
+21,16,All Ages,Hispanic or Latino,90 Days to < 6 Months,Maryland
+22,24,All Ages,Hispanic or Latino,6 Months to < 1 Year,Maryland
+23,45,All Ages,Hispanic or Latino,1 Year to < 2 Years,Maryland
+24,25,All Ages,Hispanic or Latino,2 Years to < 3 Years,Maryland
+25,20,All Ages,Hispanic or Latino,3 Years to < 5 Years,Maryland
+26,25,All Ages,Hispanic or Latino,5 or More Years,Maryland
+27,178,All Ages,Asian alone,All Time,Maryland
+28,4,All Ages,Asian alone,< 30 Days,Maryland
+29,11,All Ages,Asian alone,30 to < 90 Days,Maryland
+30,18,All Ages,Asian alone,90 Days to < 6 Months,Maryland
+31,25,All Ages,Asian alone,6 Months to < 1 Year,Maryland
+32,43,All Ages,Asian alone,1 Year to < 2 Years,Maryland
+33,24,All Ages,Asian alone,2 Years to < 3 Years,Maryland
+34,41,All Ages,Asian alone,3 Years to < 5 Years,Maryland
+35,12,All Ages,Asian alone,5 or More Years,Maryland
+36,8,All Ages,American Indian and Alaska Native alone,All Time,Maryland
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Maryland
+38,1,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Maryland
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Maryland
+40,2,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Maryland
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Maryland
+42,2,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Maryland
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Maryland
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Maryland
+45,2,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Maryland
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maryland
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maryland
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maryland
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maryland
+50,1,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maryland
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maryland
+52,1,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maryland
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maryland
+54,11,All Ages,Population of two or more races:,All Time,Maryland
+55,0,All Ages,Population of two or more races:,< 30 Days,Maryland
+56,2,All Ages,Population of two or more races:,30 to < 90 Days,Maryland
+57,1,All Ages,Population of two or more races:,90 Days to < 6 Months,Maryland
+58,1,All Ages,Population of two or more races:,6 Months to < 1 Year,Maryland
+59,1,All Ages,Population of two or more races:,1 Year to < 2 Years,Maryland
+60,1,All Ages,Population of two or more races:,2 Years to < 3 Years,Maryland
+61,4,All Ages,Population of two or more races:,3 Years to < 5 Years,Maryland
+62,1,All Ages,Population of two or more races:,5 or More Years,Maryland
+63,5,0-5 Years,White alone,All Time,Maryland
+64,0,0-5 Years,White alone,< 30 Days,Maryland
+65,2,0-5 Years,White alone,30 to < 90 Days,Maryland
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Maryland
+67,2,0-5 Years,White alone,6 Months to < 1 Year,Maryland
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Maryland
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Maryland
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Maryland
+71,0,0-5 Years,White alone,5 or More Years,Maryland
+72,4,0-5 Years,Black or African American alone,All Time,Maryland
+73,0,0-5 Years,Black or African American alone,< 30 Days,Maryland
+74,1,0-5 Years,Black or African American alone,30 to < 90 Days,Maryland
+75,1,0-5 Years,Black or African American alone,90 Days to < 6 Months,Maryland
+76,2,0-5 Years,Black or African American alone,6 Months to < 1 Year,Maryland
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Maryland
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Maryland
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Maryland
+80,2,0-5 Years,Hispanic or Latino,All Time,Maryland
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Maryland
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Maryland
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Maryland
+84,1,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Maryland
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Maryland
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Maryland
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Maryland
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Maryland
+89,0,0-5 Years,Asian alone,All Time,Maryland
+90,0,0-5 Years,Asian alone,< 30 Days,Maryland
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Maryland
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Maryland
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Maryland
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Maryland
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Maryland
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Maryland
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Maryland
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Maryland
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Maryland
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maryland
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maryland
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maryland
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maryland
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maryland
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maryland
+106,0,0-5 Years,Population of two or more races:,All Time,Maryland
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Maryland
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Maryland
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Maryland
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Maryland
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Maryland
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Maryland
+113,5,6-10 Years,White alone,All Time,Maryland
+114,2,6-10 Years,White alone,< 30 Days,Maryland
+115,0,6-10 Years,White alone,30 to < 90 Days,Maryland
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Maryland
+117,1,6-10 Years,White alone,6 Months to < 1 Year,Maryland
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Maryland
+119,1,6-10 Years,White alone,2 Years to < 3 Years,Maryland
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Maryland
+121,1,6-10 Years,White alone,5 or More Years,Maryland
+122,3,6-10 Years,Black or African American alone,All Time,Maryland
+123,0,6-10 Years,Black or African American alone,< 30 Days,Maryland
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Maryland
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Maryland
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Maryland
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Maryland
+128,2,6-10 Years,Black or African American alone,2 Years to < 3 Years,Maryland
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Maryland
+130,0,6-10 Years,Black or African American alone,5 or More Years,Maryland
+131,3,6-10 Years,Hispanic or Latino,All Time,Maryland
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Maryland
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Maryland
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Maryland
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Maryland
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Maryland
+137,1,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Maryland
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Maryland
+139,2,6-10 Years,Hispanic or Latino,5 or More Years,Maryland
+140,1,6-10 Years,Asian alone,All Time,Maryland
+141,0,6-10 Years,Asian alone,< 30 Days,Maryland
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Maryland
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Maryland
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Maryland
+145,1,6-10 Years,Asian alone,2 Years to < 3 Years,Maryland
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Maryland
+147,0,6-10 Years,Asian alone,5 or More Years,Maryland
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Maryland
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maryland
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maryland
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maryland
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maryland
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maryland
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maryland
+155,1,6-10 Years,Population of two or more races:,All Time,Maryland
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Maryland
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Maryland
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Maryland
+159,1,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Maryland
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Maryland
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Maryland
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Maryland
+163,6,11-17 Years,White alone,All Time,Maryland
+164,0,11-17 Years,White alone,< 30 Days,Maryland
+165,1,11-17 Years,White alone,30 to < 90 Days,Maryland
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Maryland
+167,2,11-17 Years,White alone,6 Months to < 1 Year,Maryland
+168,2,11-17 Years,White alone,1 Year to < 2 Years,Maryland
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Maryland
+170,1,11-17 Years,White alone,3 Years to < 5 Years,Maryland
+171,0,11-17 Years,White alone,5 or More Years,Maryland
+172,4,11-17 Years,Black or African American alone,All Time,Maryland
+173,0,11-17 Years,Black or African American alone,< 30 Days,Maryland
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Maryland
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Maryland
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Maryland
+177,1,11-17 Years,Black or African American alone,1 Year to < 2 Years,Maryland
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Maryland
+179,1,11-17 Years,Black or African American alone,3 Years to < 5 Years,Maryland
+180,1,11-17 Years,Black or African American alone,5 or More Years,Maryland
+181,4,11-17 Years,Hispanic or Latino,All Time,Maryland
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Maryland
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,Maryland
+184,1,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Maryland
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Maryland
+186,1,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Maryland
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Maryland
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Maryland
+189,1,11-17 Years,Hispanic or Latino,5 or More Years,Maryland
+190,1,11-17 Years,Asian alone,All Time,Maryland
+191,0,11-17 Years,Asian alone,< 30 Days,Maryland
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Maryland
+193,1,11-17 Years,Asian alone,90 Days to < 6 Months,Maryland
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Maryland
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Maryland
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Maryland
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Maryland
+198,0,11-17 Years,Asian alone,5 or More Years,Maryland
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Maryland
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maryland
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maryland
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maryland
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Maryland
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maryland
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maryland
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maryland
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maryland
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maryland
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maryland
+210,0,11-17 Years,Population of two or more races:,All Time,Maryland
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Maryland
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Maryland
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Maryland
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Maryland
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Maryland
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Maryland
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Maryland
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Maryland
+219,51,18-34 Years,White alone,All Time,Maryland
+220,1,18-34 Years,White alone,< 30 Days,Maryland
+221,2,18-34 Years,White alone,30 to < 90 Days,Maryland
+222,5,18-34 Years,White alone,90 Days to < 6 Months,Maryland
+223,11,18-34 Years,White alone,6 Months to < 1 Year,Maryland
+224,13,18-34 Years,White alone,1 Year to < 2 Years,Maryland
+225,10,18-34 Years,White alone,2 Years to < 3 Years,Maryland
+226,6,18-34 Years,White alone,3 Years to < 5 Years,Maryland
+227,3,18-34 Years,White alone,5 or More Years,Maryland
+228,114,18-34 Years,Black or African American alone,All Time,Maryland
+229,7,18-34 Years,Black or African American alone,< 30 Days,Maryland
+230,8,18-34 Years,Black or African American alone,30 to < 90 Days,Maryland
+231,17,18-34 Years,Black or African American alone,90 Days to < 6 Months,Maryland
+232,15,18-34 Years,Black or African American alone,6 Months to < 1 Year,Maryland
+233,26,18-34 Years,Black or African American alone,1 Year to < 2 Years,Maryland
+234,9,18-34 Years,Black or African American alone,2 Years to < 3 Years,Maryland
+235,18,18-34 Years,Black or African American alone,3 Years to < 5 Years,Maryland
+236,14,18-34 Years,Black or African American alone,5 or More Years,Maryland
+237,26,18-34 Years,Hispanic or Latino,All Time,Maryland
+238,2,18-34 Years,Hispanic or Latino,< 30 Days,Maryland
+239,1,18-34 Years,Hispanic or Latino,30 to < 90 Days,Maryland
+240,5,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Maryland
+241,5,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Maryland
+242,3,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Maryland
+243,4,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Maryland
+244,5,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Maryland
+245,1,18-34 Years,Hispanic or Latino,5 or More Years,Maryland
+246,6,18-34 Years,Asian alone,All Time,Maryland
+247,0,18-34 Years,Asian alone,< 30 Days,Maryland
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Maryland
+249,2,18-34 Years,Asian alone,90 Days to < 6 Months,Maryland
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Maryland
+251,4,18-34 Years,Asian alone,1 Year to < 2 Years,Maryland
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Maryland
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Maryland
+254,0,18-34 Years,Asian alone,5 or More Years,Maryland
+255,2,18-34 Years,American Indian and Alaska Native alone,All Time,Maryland
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Maryland
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Maryland
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maryland
+259,1,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maryland
+260,1,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maryland
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Maryland
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maryland
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Maryland
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maryland
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maryland
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maryland
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maryland
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maryland
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maryland
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maryland
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maryland
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maryland
+273,1,18-34 Years,Population of two or more races:,All Time,Maryland
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Maryland
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Maryland
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Maryland
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Maryland
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Maryland
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Maryland
+280,1,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Maryland
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Maryland
+282,159,35-49 Years,White alone,All Time,Maryland
+283,8,35-49 Years,White alone,< 30 Days,Maryland
+284,16,35-49 Years,White alone,30 to < 90 Days,Maryland
+285,14,35-49 Years,White alone,90 Days to < 6 Months,Maryland
+286,22,35-49 Years,White alone,6 Months to < 1 Year,Maryland
+287,38,35-49 Years,White alone,1 Year to < 2 Years,Maryland
+288,18,35-49 Years,White alone,2 Years to < 3 Years,Maryland
+289,22,35-49 Years,White alone,3 Years to < 5 Years,Maryland
+290,21,35-49 Years,White alone,5 or More Years,Maryland
+291,406,35-49 Years,Black or African American alone,All Time,Maryland
+292,10,35-49 Years,Black or African American alone,< 30 Days,Maryland
+293,39,35-49 Years,Black or African American alone,30 to < 90 Days,Maryland
+294,41,35-49 Years,Black or African American alone,90 Days to < 6 Months,Maryland
+295,76,35-49 Years,Black or African American alone,6 Months to < 1 Year,Maryland
+296,89,35-49 Years,Black or African American alone,1 Year to < 2 Years,Maryland
+297,58,35-49 Years,Black or African American alone,2 Years to < 3 Years,Maryland
+298,44,35-49 Years,Black or African American alone,3 Years to < 5 Years,Maryland
+299,49,35-49 Years,Black or African American alone,5 or More Years,Maryland
+300,43,35-49 Years,Hispanic or Latino,All Time,Maryland
+301,3,35-49 Years,Hispanic or Latino,< 30 Days,Maryland
+302,3,35-49 Years,Hispanic or Latino,30 to < 90 Days,Maryland
+303,4,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Maryland
+304,9,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Maryland
+305,15,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Maryland
+306,2,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Maryland
+307,3,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Maryland
+308,4,35-49 Years,Hispanic or Latino,5 or More Years,Maryland
+309,46,35-49 Years,Asian alone,All Time,Maryland
+310,0,35-49 Years,Asian alone,< 30 Days,Maryland
+311,2,35-49 Years,Asian alone,30 to < 90 Days,Maryland
+312,4,35-49 Years,Asian alone,90 Days to < 6 Months,Maryland
+313,9,35-49 Years,Asian alone,6 Months to < 1 Year,Maryland
+314,9,35-49 Years,Asian alone,1 Year to < 2 Years,Maryland
+315,6,35-49 Years,Asian alone,2 Years to < 3 Years,Maryland
+316,13,35-49 Years,Asian alone,3 Years to < 5 Years,Maryland
+317,3,35-49 Years,Asian alone,5 or More Years,Maryland
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,Maryland
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Maryland
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Maryland
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maryland
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maryland
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maryland
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Maryland
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maryland
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Maryland
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maryland
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maryland
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maryland
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maryland
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maryland
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maryland
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maryland
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maryland
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maryland
+336,2,35-49 Years,Population of two or more races:,All Time,Maryland
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Maryland
+338,1,35-49 Years,Population of two or more races:,30 to < 90 Days,Maryland
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Maryland
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Maryland
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Maryland
+342,1,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Maryland
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Maryland
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Maryland
+345,445,50-64 Years,White alone,All Time,Maryland
+346,19,50-64 Years,White alone,< 30 Days,Maryland
+347,21,50-64 Years,White alone,30 to < 90 Days,Maryland
+348,47,50-64 Years,White alone,90 Days to < 6 Months,Maryland
+349,62,50-64 Years,White alone,6 Months to < 1 Year,Maryland
+350,80,50-64 Years,White alone,1 Year to < 2 Years,Maryland
+351,53,50-64 Years,White alone,2 Years to < 3 Years,Maryland
+352,74,50-64 Years,White alone,3 Years to < 5 Years,Maryland
+353,89,50-64 Years,White alone,5 or More Years,Maryland
+354,777,50-64 Years,Black or African American alone,All Time,Maryland
+355,41,50-64 Years,Black or African American alone,< 30 Days,Maryland
+356,60,50-64 Years,Black or African American alone,30 to < 90 Days,Maryland
+357,64,50-64 Years,Black or African American alone,90 Days to < 6 Months,Maryland
+358,95,50-64 Years,Black or African American alone,6 Months to < 1 Year,Maryland
+359,150,50-64 Years,Black or African American alone,1 Year to < 2 Years,Maryland
+360,124,50-64 Years,Black or African American alone,2 Years to < 3 Years,Maryland
+361,134,50-64 Years,Black or African American alone,3 Years to < 5 Years,Maryland
+362,109,50-64 Years,Black or African American alone,5 or More Years,Maryland
+363,65,50-64 Years,Hispanic or Latino,All Time,Maryland
+364,5,50-64 Years,Hispanic or Latino,< 30 Days,Maryland
+365,3,50-64 Years,Hispanic or Latino,30 to < 90 Days,Maryland
+366,5,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Maryland
+367,8,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Maryland
+368,16,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Maryland
+369,14,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Maryland
+370,3,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Maryland
+371,11,50-64 Years,Hispanic or Latino,5 or More Years,Maryland
+372,69,50-64 Years,Asian alone,All Time,Maryland
+373,4,50-64 Years,Asian alone,< 30 Days,Maryland
+374,8,50-64 Years,Asian alone,30 to < 90 Days,Maryland
+375,5,50-64 Years,Asian alone,90 Days to < 6 Months,Maryland
+376,10,50-64 Years,Asian alone,6 Months to < 1 Year,Maryland
+377,16,50-64 Years,Asian alone,1 Year to < 2 Years,Maryland
+378,7,50-64 Years,Asian alone,2 Years to < 3 Years,Maryland
+379,14,50-64 Years,Asian alone,3 Years to < 5 Years,Maryland
+380,5,50-64 Years,Asian alone,5 or More Years,Maryland
+381,4,50-64 Years,American Indian and Alaska Native alone,All Time,Maryland
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Maryland
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Maryland
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maryland
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maryland
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maryland
+387,2,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Maryland
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maryland
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Maryland
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maryland
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maryland
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maryland
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maryland
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maryland
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maryland
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maryland
+397,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maryland
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maryland
+399,6,50-64 Years,Population of two or more races:,All Time,Maryland
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Maryland
+401,1,50-64 Years,Population of two or more races:,30 to < 90 Days,Maryland
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Maryland
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Maryland
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Maryland
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Maryland
+406,3,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Maryland
+407,1,50-64 Years,Population of two or more races:,5 or More Years,Maryland
+408,334,65 and Older,White alone,All Time,Maryland
+409,10,65 and Older,White alone,< 30 Days,Maryland
+410,21,65 and Older,White alone,30 to < 90 Days,Maryland
+411,30,65 and Older,White alone,90 Days to < 6 Months,Maryland
+412,23,65 and Older,White alone,6 Months to < 1 Year,Maryland
+413,64,65 and Older,White alone,1 Year to < 2 Years,Maryland
+414,40,65 and Older,White alone,2 Years to < 3 Years,Maryland
+415,76,65 and Older,White alone,3 Years to < 5 Years,Maryland
+416,70,65 and Older,White alone,5 or More Years,Maryland
+417,390,65 and Older,Black or African American alone,All Time,Maryland
+418,12,65 and Older,Black or African American alone,< 30 Days,Maryland
+419,26,65 and Older,Black or African American alone,30 to < 90 Days,Maryland
+420,26,65 and Older,Black or African American alone,90 Days to < 6 Months,Maryland
+421,60,65 and Older,Black or African American alone,6 Months to < 1 Year,Maryland
+422,73,65 and Older,Black or African American alone,1 Year to < 2 Years,Maryland
+423,51,65 and Older,Black or African American alone,2 Years to < 3 Years,Maryland
+424,79,65 and Older,Black or African American alone,3 Years to < 5 Years,Maryland
+425,63,65 and Older,Black or African American alone,5 or More Years,Maryland
+426,34,65 and Older,Hispanic or Latino,All Time,Maryland
+427,2,65 and Older,Hispanic or Latino,< 30 Days,Maryland
+428,2,65 and Older,Hispanic or Latino,30 to < 90 Days,Maryland
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Maryland
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Maryland
+431,9,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Maryland
+432,4,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Maryland
+433,9,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Maryland
+434,6,65 and Older,Hispanic or Latino,5 or More Years,Maryland
+435,55,65 and Older,Asian alone,All Time,Maryland
+436,0,65 and Older,Asian alone,< 30 Days,Maryland
+437,1,65 and Older,Asian alone,30 to < 90 Days,Maryland
+438,6,65 and Older,Asian alone,90 Days to < 6 Months,Maryland
+439,6,65 and Older,Asian alone,6 Months to < 1 Year,Maryland
+440,14,65 and Older,Asian alone,1 Year to < 2 Years,Maryland
+441,10,65 and Older,Asian alone,2 Years to < 3 Years,Maryland
+442,14,65 and Older,Asian alone,3 Years to < 5 Years,Maryland
+443,4,65 and Older,Asian alone,5 or More Years,Maryland
+444,2,65 and Older,American Indian and Alaska Native alone,All Time,Maryland
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Maryland
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Maryland
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Maryland
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Maryland
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Maryland
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Maryland
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Maryland
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Maryland
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Maryland
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maryland
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maryland
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maryland
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maryland
+458,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maryland
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maryland
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maryland
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maryland
+462,1,65 and Older,Population of two or more races:,All Time,Maryland
+463,0,65 and Older,Population of two or more races:,< 30 Days,Maryland
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Maryland
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Maryland
+466,1,65 and Older,Population of two or more races:,6 Months to < 1 Year,Maryland
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Maryland
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Maryland
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Maryland
+470,0,65 and Older,Population of two or more races:,5 or More Years,Maryland

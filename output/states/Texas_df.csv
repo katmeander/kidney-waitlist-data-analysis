@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"3,078",All Ages,White alone,All Time,Texas
+1,154,All Ages,White alone,< 30 Days,Texas
+2,353,All Ages,White alone,30 to < 90 Days,Texas
+3,301,All Ages,White alone,90 Days to < 6 Months,Texas
+4,562,All Ages,White alone,6 Months to < 1 Year,Texas
+5,745,All Ages,White alone,1 Year to < 2 Years,Texas
+6,363,All Ages,White alone,2 Years to < 3 Years,Texas
+7,378,All Ages,White alone,3 Years to < 5 Years,Texas
+8,222,All Ages,White alone,5 or More Years,Texas
+9,"2,795",All Ages,Black or African American alone,All Time,Texas
+10,110,All Ages,Black or African American alone,< 30 Days,Texas
+11,211,All Ages,Black or African American alone,30 to < 90 Days,Texas
+12,225,All Ages,Black or African American alone,90 Days to < 6 Months,Texas
+13,428,All Ages,Black or African American alone,6 Months to < 1 Year,Texas
+14,617,All Ages,Black or African American alone,1 Year to < 2 Years,Texas
+15,372,All Ages,Black or African American alone,2 Years to < 3 Years,Texas
+16,492,All Ages,Black or African American alone,3 Years to < 5 Years,Texas
+17,340,All Ages,Black or African American alone,5 or More Years,Texas
+18,"4,675",All Ages,Hispanic or Latino,All Time,Texas
+19,197,All Ages,Hispanic or Latino,< 30 Days,Texas
+20,403,All Ages,Hispanic or Latino,30 to < 90 Days,Texas
+21,419,All Ages,Hispanic or Latino,90 Days to < 6 Months,Texas
+22,793,All Ages,Hispanic or Latino,6 Months to < 1 Year,Texas
+23,"1,136",All Ages,Hispanic or Latino,1 Year to < 2 Years,Texas
+24,643,All Ages,Hispanic or Latino,2 Years to < 3 Years,Texas
+25,780,All Ages,Hispanic or Latino,3 Years to < 5 Years,Texas
+26,304,All Ages,Hispanic or Latino,5 or More Years,Texas
+27,545,All Ages,Asian alone,All Time,Texas
+28,25,All Ages,Asian alone,< 30 Days,Texas
+29,39,All Ages,Asian alone,30 to < 90 Days,Texas
+30,36,All Ages,Asian alone,90 Days to < 6 Months,Texas
+31,102,All Ages,Asian alone,6 Months to < 1 Year,Texas
+32,141,All Ages,Asian alone,1 Year to < 2 Years,Texas
+33,70,All Ages,Asian alone,2 Years to < 3 Years,Texas
+34,98,All Ages,Asian alone,3 Years to < 5 Years,Texas
+35,34,All Ages,Asian alone,5 or More Years,Texas
+36,32,All Ages,American Indian and Alaska Native alone,All Time,Texas
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Texas
+38,1,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Texas
+39,4,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Texas
+40,7,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Texas
+41,3,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Texas
+42,5,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Texas
+43,8,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Texas
+44,4,All Ages,American Indian and Alaska Native alone,5 or More Years,Texas
+45,24,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Texas
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Texas
+47,3,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Texas
+48,2,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Texas
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Texas
+50,3,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Texas
+51,6,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Texas
+52,9,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Texas
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Texas
+54,32,All Ages,Population of two or more races:,All Time,Texas
+55,4,All Ages,Population of two or more races:,< 30 Days,Texas
+56,5,All Ages,Population of two or more races:,30 to < 90 Days,Texas
+57,6,All Ages,Population of two or more races:,90 Days to < 6 Months,Texas
+58,5,All Ages,Population of two or more races:,6 Months to < 1 Year,Texas
+59,3,All Ages,Population of two or more races:,1 Year to < 2 Years,Texas
+60,7,All Ages,Population of two or more races:,2 Years to < 3 Years,Texas
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,Texas
+62,0,All Ages,Population of two or more races:,5 or More Years,Texas
+63,35,0-5 Years,White alone,All Time,Texas
+64,4,0-5 Years,White alone,< 30 Days,Texas
+65,4,0-5 Years,White alone,30 to < 90 Days,Texas
+66,5,0-5 Years,White alone,90 Days to < 6 Months,Texas
+67,14,0-5 Years,White alone,6 Months to < 1 Year,Texas
+68,5,0-5 Years,White alone,1 Year to < 2 Years,Texas
+69,1,0-5 Years,White alone,2 Years to < 3 Years,Texas
+70,1,0-5 Years,White alone,3 Years to < 5 Years,Texas
+71,1,0-5 Years,White alone,5 or More Years,Texas
+72,12,0-5 Years,Black or African American alone,All Time,Texas
+73,0,0-5 Years,Black or African American alone,< 30 Days,Texas
+74,3,0-5 Years,Black or African American alone,30 to < 90 Days,Texas
+75,1,0-5 Years,Black or African American alone,90 Days to < 6 Months,Texas
+76,4,0-5 Years,Black or African American alone,6 Months to < 1 Year,Texas
+77,4,0-5 Years,Black or African American alone,1 Year to < 2 Years,Texas
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Texas
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Texas
+80,19,0-5 Years,Hispanic or Latino,All Time,Texas
+81,4,0-5 Years,Hispanic or Latino,< 30 Days,Texas
+82,4,0-5 Years,Hispanic or Latino,30 to < 90 Days,Texas
+83,5,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Texas
+84,2,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Texas
+85,3,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Texas
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Texas
+87,1,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Texas
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Texas
+89,1,0-5 Years,Asian alone,All Time,Texas
+90,0,0-5 Years,Asian alone,< 30 Days,Texas
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Texas
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Texas
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Texas
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Texas
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Texas
+96,1,0-5 Years,Asian alone,3 Years to < 5 Years,Texas
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Texas
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Texas
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Texas
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Texas
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Texas
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Texas
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Texas
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Texas
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Texas
+106,2,0-5 Years,Population of two or more races:,All Time,Texas
+107,1,0-5 Years,Population of two or more races:,< 30 Days,Texas
+108,1,0-5 Years,Population of two or more races:,30 to < 90 Days,Texas
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Texas
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Texas
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Texas
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Texas
+113,21,6-10 Years,White alone,All Time,Texas
+114,2,6-10 Years,White alone,< 30 Days,Texas
+115,3,6-10 Years,White alone,30 to < 90 Days,Texas
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Texas
+117,5,6-10 Years,White alone,6 Months to < 1 Year,Texas
+118,3,6-10 Years,White alone,1 Year to < 2 Years,Texas
+119,2,6-10 Years,White alone,2 Years to < 3 Years,Texas
+120,3,6-10 Years,White alone,3 Years to < 5 Years,Texas
+121,3,6-10 Years,White alone,5 or More Years,Texas
+122,5,6-10 Years,Black or African American alone,All Time,Texas
+123,0,6-10 Years,Black or African American alone,< 30 Days,Texas
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Texas
+125,1,6-10 Years,Black or African American alone,90 Days to < 6 Months,Texas
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Texas
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Texas
+128,1,6-10 Years,Black or African American alone,2 Years to < 3 Years,Texas
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Texas
+130,2,6-10 Years,Black or African American alone,5 or More Years,Texas
+131,19,6-10 Years,Hispanic or Latino,All Time,Texas
+132,1,6-10 Years,Hispanic or Latino,< 30 Days,Texas
+133,3,6-10 Years,Hispanic or Latino,30 to < 90 Days,Texas
+134,1,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Texas
+135,4,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Texas
+136,4,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Texas
+137,1,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Texas
+138,1,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Texas
+139,4,6-10 Years,Hispanic or Latino,5 or More Years,Texas
+140,2,6-10 Years,Asian alone,All Time,Texas
+141,0,6-10 Years,Asian alone,< 30 Days,Texas
+142,1,6-10 Years,Asian alone,30 to < 90 Days,Texas
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Texas
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Texas
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Texas
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Texas
+147,1,6-10 Years,Asian alone,5 or More Years,Texas
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Texas
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Texas
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Texas
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Texas
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Texas
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Texas
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Texas
+155,1,6-10 Years,Population of two or more races:,All Time,Texas
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Texas
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Texas
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Texas
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Texas
+160,1,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Texas
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Texas
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Texas
+163,18,11-17 Years,White alone,All Time,Texas
+164,1,11-17 Years,White alone,< 30 Days,Texas
+165,4,11-17 Years,White alone,30 to < 90 Days,Texas
+166,1,11-17 Years,White alone,90 Days to < 6 Months,Texas
+167,3,11-17 Years,White alone,6 Months to < 1 Year,Texas
+168,3,11-17 Years,White alone,1 Year to < 2 Years,Texas
+169,2,11-17 Years,White alone,2 Years to < 3 Years,Texas
+170,4,11-17 Years,White alone,3 Years to < 5 Years,Texas
+171,0,11-17 Years,White alone,5 or More Years,Texas
+172,9,11-17 Years,Black or African American alone,All Time,Texas
+173,1,11-17 Years,Black or African American alone,< 30 Days,Texas
+174,2,11-17 Years,Black or African American alone,30 to < 90 Days,Texas
+175,2,11-17 Years,Black or African American alone,90 Days to < 6 Months,Texas
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Texas
+177,2,11-17 Years,Black or African American alone,1 Year to < 2 Years,Texas
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Texas
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Texas
+180,1,11-17 Years,Black or African American alone,5 or More Years,Texas
+181,27,11-17 Years,Hispanic or Latino,All Time,Texas
+182,2,11-17 Years,Hispanic or Latino,< 30 Days,Texas
+183,7,11-17 Years,Hispanic or Latino,30 to < 90 Days,Texas
+184,4,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Texas
+185,3,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Texas
+186,2,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Texas
+187,4,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Texas
+188,2,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Texas
+189,3,11-17 Years,Hispanic or Latino,5 or More Years,Texas
+190,3,11-17 Years,Asian alone,All Time,Texas
+191,1,11-17 Years,Asian alone,< 30 Days,Texas
+192,1,11-17 Years,Asian alone,30 to < 90 Days,Texas
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Texas
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Texas
+195,1,11-17 Years,Asian alone,1 Year to < 2 Years,Texas
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Texas
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Texas
+198,0,11-17 Years,Asian alone,5 or More Years,Texas
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Texas
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Texas
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Texas
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Texas
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Texas
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Texas
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Texas
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Texas
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Texas
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Texas
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Texas
+210,0,11-17 Years,Population of two or more races:,All Time,Texas
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Texas
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Texas
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Texas
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Texas
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Texas
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Texas
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Texas
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Texas
+219,208,18-34 Years,White alone,All Time,Texas
+220,7,18-34 Years,White alone,< 30 Days,Texas
+221,31,18-34 Years,White alone,30 to < 90 Days,Texas
+222,24,18-34 Years,White alone,90 Days to < 6 Months,Texas
+223,41,18-34 Years,White alone,6 Months to < 1 Year,Texas
+224,57,18-34 Years,White alone,1 Year to < 2 Years,Texas
+225,25,18-34 Years,White alone,2 Years to < 3 Years,Texas
+226,16,18-34 Years,White alone,3 Years to < 5 Years,Texas
+227,7,18-34 Years,White alone,5 or More Years,Texas
+228,189,18-34 Years,Black or African American alone,All Time,Texas
+229,13,18-34 Years,Black or African American alone,< 30 Days,Texas
+230,20,18-34 Years,Black or African American alone,30 to < 90 Days,Texas
+231,23,18-34 Years,Black or African American alone,90 Days to < 6 Months,Texas
+232,37,18-34 Years,Black or African American alone,6 Months to < 1 Year,Texas
+233,42,18-34 Years,Black or African American alone,1 Year to < 2 Years,Texas
+234,22,18-34 Years,Black or African American alone,2 Years to < 3 Years,Texas
+235,18,18-34 Years,Black or African American alone,3 Years to < 5 Years,Texas
+236,14,18-34 Years,Black or African American alone,5 or More Years,Texas
+237,465,18-34 Years,Hispanic or Latino,All Time,Texas
+238,34,18-34 Years,Hispanic or Latino,< 30 Days,Texas
+239,51,18-34 Years,Hispanic or Latino,30 to < 90 Days,Texas
+240,46,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Texas
+241,99,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Texas
+242,110,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Texas
+243,63,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Texas
+244,47,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Texas
+245,15,18-34 Years,Hispanic or Latino,5 or More Years,Texas
+246,37,18-34 Years,Asian alone,All Time,Texas
+247,2,18-34 Years,Asian alone,< 30 Days,Texas
+248,3,18-34 Years,Asian alone,30 to < 90 Days,Texas
+249,3,18-34 Years,Asian alone,90 Days to < 6 Months,Texas
+250,10,18-34 Years,Asian alone,6 Months to < 1 Year,Texas
+251,14,18-34 Years,Asian alone,1 Year to < 2 Years,Texas
+252,3,18-34 Years,Asian alone,2 Years to < 3 Years,Texas
+253,1,18-34 Years,Asian alone,3 Years to < 5 Years,Texas
+254,1,18-34 Years,Asian alone,5 or More Years,Texas
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Texas
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Texas
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Texas
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Texas
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Texas
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Texas
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Texas
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Texas
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Texas
+264,2,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Texas
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Texas
+266,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Texas
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Texas
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Texas
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Texas
+270,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Texas
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Texas
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Texas
+273,3,18-34 Years,Population of two or more races:,All Time,Texas
+274,1,18-34 Years,Population of two or more races:,< 30 Days,Texas
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Texas
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Texas
+277,1,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Texas
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Texas
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Texas
+280,1,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Texas
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Texas
+282,589,35-49 Years,White alone,All Time,Texas
+283,31,35-49 Years,White alone,< 30 Days,Texas
+284,63,35-49 Years,White alone,30 to < 90 Days,Texas
+285,62,35-49 Years,White alone,90 Days to < 6 Months,Texas
+286,133,35-49 Years,White alone,6 Months to < 1 Year,Texas
+287,139,35-49 Years,White alone,1 Year to < 2 Years,Texas
+288,65,35-49 Years,White alone,2 Years to < 3 Years,Texas
+289,69,35-49 Years,White alone,3 Years to < 5 Years,Texas
+290,27,35-49 Years,White alone,5 or More Years,Texas
+291,793,35-49 Years,Black or African American alone,All Time,Texas
+292,29,35-49 Years,Black or African American alone,< 30 Days,Texas
+293,66,35-49 Years,Black or African American alone,30 to < 90 Days,Texas
+294,63,35-49 Years,Black or African American alone,90 Days to < 6 Months,Texas
+295,128,35-49 Years,Black or African American alone,6 Months to < 1 Year,Texas
+296,218,35-49 Years,Black or African American alone,1 Year to < 2 Years,Texas
+297,106,35-49 Years,Black or African American alone,2 Years to < 3 Years,Texas
+298,106,35-49 Years,Black or African American alone,3 Years to < 5 Years,Texas
+299,77,35-49 Years,Black or African American alone,5 or More Years,Texas
+300,"1,251",35-49 Years,Hispanic or Latino,All Time,Texas
+301,38,35-49 Years,Hispanic or Latino,< 30 Days,Texas
+302,89,35-49 Years,Hispanic or Latino,30 to < 90 Days,Texas
+303,132,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Texas
+304,241,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Texas
+305,303,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Texas
+306,186,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Texas
+307,189,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Texas
+308,73,35-49 Years,Hispanic or Latino,5 or More Years,Texas
+309,150,35-49 Years,Asian alone,All Time,Texas
+310,7,35-49 Years,Asian alone,< 30 Days,Texas
+311,13,35-49 Years,Asian alone,30 to < 90 Days,Texas
+312,15,35-49 Years,Asian alone,90 Days to < 6 Months,Texas
+313,32,35-49 Years,Asian alone,6 Months to < 1 Year,Texas
+314,39,35-49 Years,Asian alone,1 Year to < 2 Years,Texas
+315,20,35-49 Years,Asian alone,2 Years to < 3 Years,Texas
+316,18,35-49 Years,Asian alone,3 Years to < 5 Years,Texas
+317,6,35-49 Years,Asian alone,5 or More Years,Texas
+318,8,35-49 Years,American Indian and Alaska Native alone,All Time,Texas
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Texas
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Texas
+321,2,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Texas
+322,3,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Texas
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Texas
+324,3,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Texas
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Texas
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Texas
+327,6,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Texas
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Texas
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Texas
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Texas
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Texas
+332,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Texas
+333,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Texas
+334,4,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Texas
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Texas
+336,9,35-49 Years,Population of two or more races:,All Time,Texas
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Texas
+338,2,35-49 Years,Population of two or more races:,30 to < 90 Days,Texas
+339,4,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Texas
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Texas
+341,2,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Texas
+342,1,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Texas
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Texas
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Texas
+345,"1,356",50-64 Years,White alone,All Time,Texas
+346,75,50-64 Years,White alone,< 30 Days,Texas
+347,169,50-64 Years,White alone,30 to < 90 Days,Texas
+348,141,50-64 Years,White alone,90 Days to < 6 Months,Texas
+349,218,50-64 Years,White alone,6 Months to < 1 Year,Texas
+350,335,50-64 Years,White alone,1 Year to < 2 Years,Texas
+351,155,50-64 Years,White alone,2 Years to < 3 Years,Texas
+352,179,50-64 Years,White alone,3 Years to < 5 Years,Texas
+353,84,50-64 Years,White alone,5 or More Years,Texas
+354,"1,244",50-64 Years,Black or African American alone,All Time,Texas
+355,43,50-64 Years,Black or African American alone,< 30 Days,Texas
+356,91,50-64 Years,Black or African American alone,30 to < 90 Days,Texas
+357,86,50-64 Years,Black or African American alone,90 Days to < 6 Months,Texas
+358,188,50-64 Years,Black or African American alone,6 Months to < 1 Year,Texas
+359,251,50-64 Years,Black or African American alone,1 Year to < 2 Years,Texas
+360,161,50-64 Years,Black or African American alone,2 Years to < 3 Years,Texas
+361,251,50-64 Years,Black or African American alone,3 Years to < 5 Years,Texas
+362,173,50-64 Years,Black or African American alone,5 or More Years,Texas
+363,"2,252",50-64 Years,Hispanic or Latino,All Time,Texas
+364,93,50-64 Years,Hispanic or Latino,< 30 Days,Texas
+365,189,50-64 Years,Hispanic or Latino,30 to < 90 Days,Texas
+366,191,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Texas
+367,364,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Texas
+368,556,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Texas
+369,306,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Texas
+370,413,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Texas
+371,140,50-64 Years,Hispanic or Latino,5 or More Years,Texas
+372,231,50-64 Years,Asian alone,All Time,Texas
+373,8,50-64 Years,Asian alone,< 30 Days,Texas
+374,16,50-64 Years,Asian alone,30 to < 90 Days,Texas
+375,14,50-64 Years,Asian alone,90 Days to < 6 Months,Texas
+376,39,50-64 Years,Asian alone,6 Months to < 1 Year,Texas
+377,65,50-64 Years,Asian alone,1 Year to < 2 Years,Texas
+378,26,50-64 Years,Asian alone,2 Years to < 3 Years,Texas
+379,48,50-64 Years,Asian alone,3 Years to < 5 Years,Texas
+380,15,50-64 Years,Asian alone,5 or More Years,Texas
+381,19,50-64 Years,American Indian and Alaska Native alone,All Time,Texas
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Texas
+383,1,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Texas
+384,2,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Texas
+385,4,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Texas
+386,3,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Texas
+387,2,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Texas
+388,5,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Texas
+389,2,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Texas
+390,14,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Texas
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Texas
+392,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Texas
+393,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Texas
+394,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Texas
+395,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Texas
+396,4,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Texas
+397,3,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Texas
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Texas
+399,14,50-64 Years,Population of two or more races:,All Time,Texas
+400,1,50-64 Years,Population of two or more races:,< 30 Days,Texas
+401,2,50-64 Years,Population of two or more races:,30 to < 90 Days,Texas
+402,2,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Texas
+403,4,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Texas
+404,1,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Texas
+405,3,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Texas
+406,1,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Texas
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Texas
+408,851,65 and Older,White alone,All Time,Texas
+409,34,65 and Older,White alone,< 30 Days,Texas
+410,79,65 and Older,White alone,30 to < 90 Days,Texas
+411,68,65 and Older,White alone,90 Days to < 6 Months,Texas
+412,148,65 and Older,White alone,6 Months to < 1 Year,Texas
+413,203,65 and Older,White alone,1 Year to < 2 Years,Texas
+414,113,65 and Older,White alone,2 Years to < 3 Years,Texas
+415,106,65 and Older,White alone,3 Years to < 5 Years,Texas
+416,100,65 and Older,White alone,5 or More Years,Texas
+417,543,65 and Older,Black or African American alone,All Time,Texas
+418,24,65 and Older,Black or African American alone,< 30 Days,Texas
+419,29,65 and Older,Black or African American alone,30 to < 90 Days,Texas
+420,49,65 and Older,Black or African American alone,90 Days to < 6 Months,Texas
+421,70,65 and Older,Black or African American alone,6 Months to < 1 Year,Texas
+422,99,65 and Older,Black or African American alone,1 Year to < 2 Years,Texas
+423,82,65 and Older,Black or African American alone,2 Years to < 3 Years,Texas
+424,117,65 and Older,Black or African American alone,3 Years to < 5 Years,Texas
+425,73,65 and Older,Black or African American alone,5 or More Years,Texas
+426,642,65 and Older,Hispanic or Latino,All Time,Texas
+427,25,65 and Older,Hispanic or Latino,< 30 Days,Texas
+428,60,65 and Older,Hispanic or Latino,30 to < 90 Days,Texas
+429,40,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Texas
+430,80,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Texas
+431,158,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Texas
+432,83,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Texas
+433,127,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Texas
+434,69,65 and Older,Hispanic or Latino,5 or More Years,Texas
+435,121,65 and Older,Asian alone,All Time,Texas
+436,7,65 and Older,Asian alone,< 30 Days,Texas
+437,5,65 and Older,Asian alone,30 to < 90 Days,Texas
+438,4,65 and Older,Asian alone,90 Days to < 6 Months,Texas
+439,21,65 and Older,Asian alone,6 Months to < 1 Year,Texas
+440,22,65 and Older,Asian alone,1 Year to < 2 Years,Texas
+441,21,65 and Older,Asian alone,2 Years to < 3 Years,Texas
+442,30,65 and Older,Asian alone,3 Years to < 5 Years,Texas
+443,11,65 and Older,Asian alone,5 or More Years,Texas
+444,5,65 and Older,American Indian and Alaska Native alone,All Time,Texas
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Texas
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Texas
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Texas
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Texas
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Texas
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Texas
+451,3,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Texas
+452,2,65 and Older,American Indian and Alaska Native alone,5 or More Years,Texas
+453,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Texas
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Texas
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Texas
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Texas
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Texas
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Texas
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Texas
+460,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Texas
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Texas
+462,3,65 and Older,Population of two or more races:,All Time,Texas
+463,1,65 and Older,Population of two or more races:,< 30 Days,Texas
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Texas
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Texas
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Texas
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Texas
+468,2,65 and Older,Population of two or more races:,2 Years to < 3 Years,Texas
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Texas
+470,0,65 and Older,Population of two or more races:,5 or More Years,Texas

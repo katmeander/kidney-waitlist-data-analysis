@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"1,621",All Ages,White alone,All Time,Ohio
+1,115,All Ages,White alone,< 30 Days,Ohio
+2,165,All Ages,White alone,30 to < 90 Days,Ohio
+3,156,All Ages,White alone,90 Days to < 6 Months,Ohio
+4,291,All Ages,White alone,6 Months to < 1 Year,Ohio
+5,388,All Ages,White alone,1 Year to < 2 Years,Ohio
+6,209,All Ages,White alone,2 Years to < 3 Years,Ohio
+7,196,All Ages,White alone,3 Years to < 5 Years,Ohio
+8,101,All Ages,White alone,5 or More Years,Ohio
+9,803,All Ages,Black or African American alone,All Time,Ohio
+10,41,All Ages,Black or African American alone,< 30 Days,Ohio
+11,60,All Ages,Black or African American alone,30 to < 90 Days,Ohio
+12,66,All Ages,Black or African American alone,90 Days to < 6 Months,Ohio
+13,120,All Ages,Black or African American alone,6 Months to < 1 Year,Ohio
+14,186,All Ages,Black or African American alone,1 Year to < 2 Years,Ohio
+15,125,All Ages,Black or African American alone,2 Years to < 3 Years,Ohio
+16,116,All Ages,Black or African American alone,3 Years to < 5 Years,Ohio
+17,89,All Ages,Black or African American alone,5 or More Years,Ohio
+18,67,All Ages,Hispanic or Latino,All Time,Ohio
+19,5,All Ages,Hispanic or Latino,< 30 Days,Ohio
+20,5,All Ages,Hispanic or Latino,30 to < 90 Days,Ohio
+21,5,All Ages,Hispanic or Latino,90 Days to < 6 Months,Ohio
+22,16,All Ages,Hispanic or Latino,6 Months to < 1 Year,Ohio
+23,13,All Ages,Hispanic or Latino,1 Year to < 2 Years,Ohio
+24,10,All Ages,Hispanic or Latino,2 Years to < 3 Years,Ohio
+25,10,All Ages,Hispanic or Latino,3 Years to < 5 Years,Ohio
+26,3,All Ages,Hispanic or Latino,5 or More Years,Ohio
+27,51,All Ages,Asian alone,All Time,Ohio
+28,3,All Ages,Asian alone,< 30 Days,Ohio
+29,2,All Ages,Asian alone,30 to < 90 Days,Ohio
+30,5,All Ages,Asian alone,90 Days to < 6 Months,Ohio
+31,7,All Ages,Asian alone,6 Months to < 1 Year,Ohio
+32,14,All Ages,Asian alone,1 Year to < 2 Years,Ohio
+33,9,All Ages,Asian alone,2 Years to < 3 Years,Ohio
+34,8,All Ages,Asian alone,3 Years to < 5 Years,Ohio
+35,3,All Ages,Asian alone,5 or More Years,Ohio
+36,2,All Ages,American Indian and Alaska Native alone,All Time,Ohio
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Ohio
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Ohio
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Ohio
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Ohio
+41,1,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Ohio
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Ohio
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Ohio
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Ohio
+45,3,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Ohio
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Ohio
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Ohio
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Ohio
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Ohio
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Ohio
+51,1,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Ohio
+52,1,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Ohio
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Ohio
+54,5,All Ages,Population of two or more races:,All Time,Ohio
+55,0,All Ages,Population of two or more races:,< 30 Days,Ohio
+56,1,All Ages,Population of two or more races:,30 to < 90 Days,Ohio
+57,1,All Ages,Population of two or more races:,90 Days to < 6 Months,Ohio
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Ohio
+59,3,All Ages,Population of two or more races:,1 Year to < 2 Years,Ohio
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Ohio
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Ohio
+62,0,All Ages,Population of two or more races:,5 or More Years,Ohio
+63,13,0-5 Years,White alone,All Time,Ohio
+64,0,0-5 Years,White alone,< 30 Days,Ohio
+65,4,0-5 Years,White alone,30 to < 90 Days,Ohio
+66,1,0-5 Years,White alone,90 Days to < 6 Months,Ohio
+67,5,0-5 Years,White alone,6 Months to < 1 Year,Ohio
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Ohio
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Ohio
+70,2,0-5 Years,White alone,3 Years to < 5 Years,Ohio
+71,0,0-5 Years,White alone,5 or More Years,Ohio
+72,8,0-5 Years,Black or African American alone,All Time,Ohio
+73,0,0-5 Years,Black or African American alone,< 30 Days,Ohio
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Ohio
+75,5,0-5 Years,Black or African American alone,90 Days to < 6 Months,Ohio
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Ohio
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Ohio
+78,3,0-5 Years,Black or African American alone,2 Years to < 3 Years,Ohio
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Ohio
+80,2,0-5 Years,Hispanic or Latino,All Time,Ohio
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Ohio
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Ohio
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Ohio
+84,2,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Ohio
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Ohio
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Ohio
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Ohio
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Ohio
+89,0,0-5 Years,Asian alone,All Time,Ohio
+90,0,0-5 Years,Asian alone,< 30 Days,Ohio
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Ohio
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Ohio
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Ohio
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Ohio
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Ohio
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Ohio
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Ohio
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Ohio
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Ohio
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Ohio
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Ohio
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Ohio
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Ohio
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Ohio
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Ohio
+106,1,0-5 Years,Population of two or more races:,All Time,Ohio
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Ohio
+108,1,0-5 Years,Population of two or more races:,30 to < 90 Days,Ohio
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Ohio
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Ohio
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Ohio
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Ohio
+113,13,6-10 Years,White alone,All Time,Ohio
+114,1,6-10 Years,White alone,< 30 Days,Ohio
+115,1,6-10 Years,White alone,30 to < 90 Days,Ohio
+116,4,6-10 Years,White alone,90 Days to < 6 Months,Ohio
+117,1,6-10 Years,White alone,6 Months to < 1 Year,Ohio
+118,2,6-10 Years,White alone,1 Year to < 2 Years,Ohio
+119,1,6-10 Years,White alone,2 Years to < 3 Years,Ohio
+120,2,6-10 Years,White alone,3 Years to < 5 Years,Ohio
+121,1,6-10 Years,White alone,5 or More Years,Ohio
+122,6,6-10 Years,Black or African American alone,All Time,Ohio
+123,2,6-10 Years,Black or African American alone,< 30 Days,Ohio
+124,1,6-10 Years,Black or African American alone,30 to < 90 Days,Ohio
+125,1,6-10 Years,Black or African American alone,90 Days to < 6 Months,Ohio
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Ohio
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Ohio
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Ohio
+129,1,6-10 Years,Black or African American alone,3 Years to < 5 Years,Ohio
+130,0,6-10 Years,Black or African American alone,5 or More Years,Ohio
+131,0,6-10 Years,Hispanic or Latino,All Time,Ohio
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Ohio
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Ohio
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Ohio
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Ohio
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Ohio
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Ohio
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Ohio
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Ohio
+140,0,6-10 Years,Asian alone,All Time,Ohio
+141,0,6-10 Years,Asian alone,< 30 Days,Ohio
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Ohio
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Ohio
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Ohio
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Ohio
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Ohio
+147,0,6-10 Years,Asian alone,5 or More Years,Ohio
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Ohio
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Ohio
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Ohio
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Ohio
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Ohio
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Ohio
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Ohio
+155,0,6-10 Years,Population of two or more races:,All Time,Ohio
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Ohio
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Ohio
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Ohio
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Ohio
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Ohio
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Ohio
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Ohio
+163,23,11-17 Years,White alone,All Time,Ohio
+164,1,11-17 Years,White alone,< 30 Days,Ohio
+165,5,11-17 Years,White alone,30 to < 90 Days,Ohio
+166,2,11-17 Years,White alone,90 Days to < 6 Months,Ohio
+167,10,11-17 Years,White alone,6 Months to < 1 Year,Ohio
+168,4,11-17 Years,White alone,1 Year to < 2 Years,Ohio
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Ohio
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Ohio
+171,0,11-17 Years,White alone,5 or More Years,Ohio
+172,5,11-17 Years,Black or African American alone,All Time,Ohio
+173,0,11-17 Years,Black or African American alone,< 30 Days,Ohio
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Ohio
+175,1,11-17 Years,Black or African American alone,90 Days to < 6 Months,Ohio
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Ohio
+177,2,11-17 Years,Black or African American alone,1 Year to < 2 Years,Ohio
+178,1,11-17 Years,Black or African American alone,2 Years to < 3 Years,Ohio
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Ohio
+180,1,11-17 Years,Black or African American alone,5 or More Years,Ohio
+181,1,11-17 Years,Hispanic or Latino,All Time,Ohio
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Ohio
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Ohio
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Ohio
+185,1,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Ohio
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Ohio
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Ohio
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Ohio
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Ohio
+190,0,11-17 Years,Asian alone,All Time,Ohio
+191,0,11-17 Years,Asian alone,< 30 Days,Ohio
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Ohio
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Ohio
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Ohio
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Ohio
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Ohio
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Ohio
+198,0,11-17 Years,Asian alone,5 or More Years,Ohio
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Ohio
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Ohio
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Ohio
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Ohio
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Ohio
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Ohio
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Ohio
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Ohio
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Ohio
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Ohio
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Ohio
+210,0,11-17 Years,Population of two or more races:,All Time,Ohio
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Ohio
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Ohio
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Ohio
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Ohio
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Ohio
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Ohio
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Ohio
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Ohio
+219,125,18-34 Years,White alone,All Time,Ohio
+220,10,18-34 Years,White alone,< 30 Days,Ohio
+221,17,18-34 Years,White alone,30 to < 90 Days,Ohio
+222,14,18-34 Years,White alone,90 Days to < 6 Months,Ohio
+223,22,18-34 Years,White alone,6 Months to < 1 Year,Ohio
+224,34,18-34 Years,White alone,1 Year to < 2 Years,Ohio
+225,17,18-34 Years,White alone,2 Years to < 3 Years,Ohio
+226,7,18-34 Years,White alone,3 Years to < 5 Years,Ohio
+227,4,18-34 Years,White alone,5 or More Years,Ohio
+228,83,18-34 Years,Black or African American alone,All Time,Ohio
+229,4,18-34 Years,Black or African American alone,< 30 Days,Ohio
+230,5,18-34 Years,Black or African American alone,30 to < 90 Days,Ohio
+231,8,18-34 Years,Black or African American alone,90 Days to < 6 Months,Ohio
+232,15,18-34 Years,Black or African American alone,6 Months to < 1 Year,Ohio
+233,20,18-34 Years,Black or African American alone,1 Year to < 2 Years,Ohio
+234,12,18-34 Years,Black or African American alone,2 Years to < 3 Years,Ohio
+235,16,18-34 Years,Black or African American alone,3 Years to < 5 Years,Ohio
+236,3,18-34 Years,Black or African American alone,5 or More Years,Ohio
+237,11,18-34 Years,Hispanic or Latino,All Time,Ohio
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,Ohio
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Ohio
+240,1,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Ohio
+241,2,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Ohio
+242,2,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Ohio
+243,4,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Ohio
+244,1,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Ohio
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Ohio
+246,1,18-34 Years,Asian alone,All Time,Ohio
+247,1,18-34 Years,Asian alone,< 30 Days,Ohio
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Ohio
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Ohio
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Ohio
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Ohio
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Ohio
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Ohio
+254,0,18-34 Years,Asian alone,5 or More Years,Ohio
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Ohio
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Ohio
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Ohio
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Ohio
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Ohio
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Ohio
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Ohio
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Ohio
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Ohio
+264,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Ohio
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Ohio
+266,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Ohio
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Ohio
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Ohio
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Ohio
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Ohio
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Ohio
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Ohio
+273,1,18-34 Years,Population of two or more races:,All Time,Ohio
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Ohio
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Ohio
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Ohio
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Ohio
+278,1,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Ohio
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Ohio
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Ohio
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Ohio
+282,315,35-49 Years,White alone,All Time,Ohio
+283,19,35-49 Years,White alone,< 30 Days,Ohio
+284,34,35-49 Years,White alone,30 to < 90 Days,Ohio
+285,37,35-49 Years,White alone,90 Days to < 6 Months,Ohio
+286,41,35-49 Years,White alone,6 Months to < 1 Year,Ohio
+287,83,35-49 Years,White alone,1 Year to < 2 Years,Ohio
+288,43,35-49 Years,White alone,2 Years to < 3 Years,Ohio
+289,35,35-49 Years,White alone,3 Years to < 5 Years,Ohio
+290,23,35-49 Years,White alone,5 or More Years,Ohio
+291,207,35-49 Years,Black or African American alone,All Time,Ohio
+292,9,35-49 Years,Black or African American alone,< 30 Days,Ohio
+293,11,35-49 Years,Black or African American alone,30 to < 90 Days,Ohio
+294,13,35-49 Years,Black or African American alone,90 Days to < 6 Months,Ohio
+295,37,35-49 Years,Black or African American alone,6 Months to < 1 Year,Ohio
+296,53,35-49 Years,Black or African American alone,1 Year to < 2 Years,Ohio
+297,39,35-49 Years,Black or African American alone,2 Years to < 3 Years,Ohio
+298,27,35-49 Years,Black or African American alone,3 Years to < 5 Years,Ohio
+299,18,35-49 Years,Black or African American alone,5 or More Years,Ohio
+300,23,35-49 Years,Hispanic or Latino,All Time,Ohio
+301,1,35-49 Years,Hispanic or Latino,< 30 Days,Ohio
+302,3,35-49 Years,Hispanic or Latino,30 to < 90 Days,Ohio
+303,2,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Ohio
+304,6,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Ohio
+305,6,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Ohio
+306,4,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Ohio
+307,1,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Ohio
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Ohio
+309,17,35-49 Years,Asian alone,All Time,Ohio
+310,0,35-49 Years,Asian alone,< 30 Days,Ohio
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Ohio
+312,2,35-49 Years,Asian alone,90 Days to < 6 Months,Ohio
+313,4,35-49 Years,Asian alone,6 Months to < 1 Year,Ohio
+314,6,35-49 Years,Asian alone,1 Year to < 2 Years,Ohio
+315,1,35-49 Years,Asian alone,2 Years to < 3 Years,Ohio
+316,3,35-49 Years,Asian alone,3 Years to < 5 Years,Ohio
+317,0,35-49 Years,Asian alone,5 or More Years,Ohio
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Ohio
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Ohio
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Ohio
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Ohio
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Ohio
+323,1,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Ohio
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Ohio
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Ohio
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Ohio
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Ohio
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Ohio
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Ohio
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Ohio
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Ohio
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Ohio
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Ohio
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Ohio
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Ohio
+336,2,35-49 Years,Population of two or more races:,All Time,Ohio
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Ohio
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Ohio
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Ohio
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Ohio
+341,2,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Ohio
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Ohio
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Ohio
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Ohio
+345,666,50-64 Years,White alone,All Time,Ohio
+346,52,50-64 Years,White alone,< 30 Days,Ohio
+347,65,50-64 Years,White alone,30 to < 90 Days,Ohio
+348,58,50-64 Years,White alone,90 Days to < 6 Months,Ohio
+349,130,50-64 Years,White alone,6 Months to < 1 Year,Ohio
+350,154,50-64 Years,White alone,1 Year to < 2 Years,Ohio
+351,86,50-64 Years,White alone,2 Years to < 3 Years,Ohio
+352,87,50-64 Years,White alone,3 Years to < 5 Years,Ohio
+353,34,50-64 Years,White alone,5 or More Years,Ohio
+354,338,50-64 Years,Black or African American alone,All Time,Ohio
+355,21,50-64 Years,Black or African American alone,< 30 Days,Ohio
+356,29,50-64 Years,Black or African American alone,30 to < 90 Days,Ohio
+357,32,50-64 Years,Black or African American alone,90 Days to < 6 Months,Ohio
+358,44,50-64 Years,Black or African American alone,6 Months to < 1 Year,Ohio
+359,70,50-64 Years,Black or African American alone,1 Year to < 2 Years,Ohio
+360,47,50-64 Years,Black or African American alone,2 Years to < 3 Years,Ohio
+361,54,50-64 Years,Black or African American alone,3 Years to < 5 Years,Ohio
+362,41,50-64 Years,Black or African American alone,5 or More Years,Ohio
+363,21,50-64 Years,Hispanic or Latino,All Time,Ohio
+364,2,50-64 Years,Hispanic or Latino,< 30 Days,Ohio
+365,1,50-64 Years,Hispanic or Latino,30 to < 90 Days,Ohio
+366,1,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Ohio
+367,4,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Ohio
+368,3,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Ohio
+369,1,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Ohio
+370,6,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Ohio
+371,3,50-64 Years,Hispanic or Latino,5 or More Years,Ohio
+372,20,50-64 Years,Asian alone,All Time,Ohio
+373,2,50-64 Years,Asian alone,< 30 Days,Ohio
+374,1,50-64 Years,Asian alone,30 to < 90 Days,Ohio
+375,2,50-64 Years,Asian alone,90 Days to < 6 Months,Ohio
+376,2,50-64 Years,Asian alone,6 Months to < 1 Year,Ohio
+377,5,50-64 Years,Asian alone,1 Year to < 2 Years,Ohio
+378,3,50-64 Years,Asian alone,2 Years to < 3 Years,Ohio
+379,4,50-64 Years,Asian alone,3 Years to < 5 Years,Ohio
+380,1,50-64 Years,Asian alone,5 or More Years,Ohio
+381,0,50-64 Years,American Indian and Alaska Native alone,All Time,Ohio
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Ohio
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Ohio
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Ohio
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Ohio
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Ohio
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Ohio
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Ohio
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Ohio
+390,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Ohio
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Ohio
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Ohio
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Ohio
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Ohio
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Ohio
+396,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Ohio
+397,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Ohio
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Ohio
+399,0,50-64 Years,Population of two or more races:,All Time,Ohio
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Ohio
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Ohio
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Ohio
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Ohio
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Ohio
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Ohio
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Ohio
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Ohio
+408,466,65 and Older,White alone,All Time,Ohio
+409,32,65 and Older,White alone,< 30 Days,Ohio
+410,39,65 and Older,White alone,30 to < 90 Days,Ohio
+411,40,65 and Older,White alone,90 Days to < 6 Months,Ohio
+412,82,65 and Older,White alone,6 Months to < 1 Year,Ohio
+413,110,65 and Older,White alone,1 Year to < 2 Years,Ohio
+414,61,65 and Older,White alone,2 Years to < 3 Years,Ohio
+415,63,65 and Older,White alone,3 Years to < 5 Years,Ohio
+416,39,65 and Older,White alone,5 or More Years,Ohio
+417,156,65 and Older,Black or African American alone,All Time,Ohio
+418,5,65 and Older,Black or African American alone,< 30 Days,Ohio
+419,14,65 and Older,Black or African American alone,30 to < 90 Days,Ohio
+420,6,65 and Older,Black or African American alone,90 Days to < 6 Months,Ohio
+421,24,65 and Older,Black or African American alone,6 Months to < 1 Year,Ohio
+422,40,65 and Older,Black or African American alone,1 Year to < 2 Years,Ohio
+423,23,65 and Older,Black or African American alone,2 Years to < 3 Years,Ohio
+424,18,65 and Older,Black or African American alone,3 Years to < 5 Years,Ohio
+425,26,65 and Older,Black or African American alone,5 or More Years,Ohio
+426,9,65 and Older,Hispanic or Latino,All Time,Ohio
+427,1,65 and Older,Hispanic or Latino,< 30 Days,Ohio
+428,1,65 and Older,Hispanic or Latino,30 to < 90 Days,Ohio
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Ohio
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Ohio
+431,2,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Ohio
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Ohio
+433,2,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Ohio
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Ohio
+435,13,65 and Older,Asian alone,All Time,Ohio
+436,0,65 and Older,Asian alone,< 30 Days,Ohio
+437,0,65 and Older,Asian alone,30 to < 90 Days,Ohio
+438,1,65 and Older,Asian alone,90 Days to < 6 Months,Ohio
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,Ohio
+440,3,65 and Older,Asian alone,1 Year to < 2 Years,Ohio
+441,5,65 and Older,Asian alone,2 Years to < 3 Years,Ohio
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,Ohio
+443,2,65 and Older,Asian alone,5 or More Years,Ohio
+444,1,65 and Older,American Indian and Alaska Native alone,All Time,Ohio
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Ohio
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Ohio
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Ohio
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Ohio
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Ohio
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Ohio
+451,1,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Ohio
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Ohio
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Ohio
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Ohio
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Ohio
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Ohio
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Ohio
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Ohio
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Ohio
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Ohio
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Ohio
+462,1,65 and Older,Population of two or more races:,All Time,Ohio
+463,0,65 and Older,Population of two or more races:,< 30 Days,Ohio
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Ohio
+465,1,65 and Older,Population of two or more races:,90 Days to < 6 Months,Ohio
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Ohio
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Ohio
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Ohio
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Ohio
+470,0,65 and Older,Population of two or more races:,5 or More Years,Ohio

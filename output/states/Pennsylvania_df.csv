@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"2,772",All Ages,White alone,All Time,Pennsylvania
+1,109,All Ages,White alone,< 30 Days,Pennsylvania
+2,254,All Ages,White alone,30 to < 90 Days,Pennsylvania
+3,270,All Ages,White alone,90 Days to < 6 Months,Pennsylvania
+4,491,All Ages,White alone,6 Months to < 1 Year,Pennsylvania
+5,598,All Ages,White alone,1 Year to < 2 Years,Pennsylvania
+6,349,All Ages,White alone,2 Years to < 3 Years,Pennsylvania
+7,430,All Ages,White alone,3 Years to < 5 Years,Pennsylvania
+8,271,All Ages,White alone,5 or More Years,Pennsylvania
+9,"1,844",All Ages,Black or African American alone,All Time,Pennsylvania
+10,55,All Ages,Black or African American alone,< 30 Days,Pennsylvania
+11,109,All Ages,Black or African American alone,30 to < 90 Days,Pennsylvania
+12,133,All Ages,Black or African American alone,90 Days to < 6 Months,Pennsylvania
+13,241,All Ages,Black or African American alone,6 Months to < 1 Year,Pennsylvania
+14,413,All Ages,Black or African American alone,1 Year to < 2 Years,Pennsylvania
+15,227,All Ages,Black or African American alone,2 Years to < 3 Years,Pennsylvania
+16,366,All Ages,Black or African American alone,3 Years to < 5 Years,Pennsylvania
+17,300,All Ages,Black or African American alone,5 or More Years,Pennsylvania
+18,422,All Ages,Hispanic or Latino,All Time,Pennsylvania
+19,13,All Ages,Hispanic or Latino,< 30 Days,Pennsylvania
+20,29,All Ages,Hispanic or Latino,30 to < 90 Days,Pennsylvania
+21,34,All Ages,Hispanic or Latino,90 Days to < 6 Months,Pennsylvania
+22,77,All Ages,Hispanic or Latino,6 Months to < 1 Year,Pennsylvania
+23,90,All Ages,Hispanic or Latino,1 Year to < 2 Years,Pennsylvania
+24,69,All Ages,Hispanic or Latino,2 Years to < 3 Years,Pennsylvania
+25,69,All Ages,Hispanic or Latino,3 Years to < 5 Years,Pennsylvania
+26,41,All Ages,Hispanic or Latino,5 or More Years,Pennsylvania
+27,245,All Ages,Asian alone,All Time,Pennsylvania
+28,6,All Ages,Asian alone,< 30 Days,Pennsylvania
+29,17,All Ages,Asian alone,30 to < 90 Days,Pennsylvania
+30,28,All Ages,Asian alone,90 Days to < 6 Months,Pennsylvania
+31,26,All Ages,Asian alone,6 Months to < 1 Year,Pennsylvania
+32,65,All Ages,Asian alone,1 Year to < 2 Years,Pennsylvania
+33,22,All Ages,Asian alone,2 Years to < 3 Years,Pennsylvania
+34,57,All Ages,Asian alone,3 Years to < 5 Years,Pennsylvania
+35,24,All Ages,Asian alone,5 or More Years,Pennsylvania
+36,8,All Ages,American Indian and Alaska Native alone,All Time,Pennsylvania
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Pennsylvania
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Pennsylvania
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Pennsylvania
+40,3,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Pennsylvania
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Pennsylvania
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Pennsylvania
+43,2,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Pennsylvania
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Pennsylvania
+45,2,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Pennsylvania
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Pennsylvania
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Pennsylvania
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Pennsylvania
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Pennsylvania
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Pennsylvania
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Pennsylvania
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Pennsylvania
+53,1,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Pennsylvania
+54,23,All Ages,Population of two or more races:,All Time,Pennsylvania
+55,0,All Ages,Population of two or more races:,< 30 Days,Pennsylvania
+56,4,All Ages,Population of two or more races:,30 to < 90 Days,Pennsylvania
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,Pennsylvania
+58,3,All Ages,Population of two or more races:,6 Months to < 1 Year,Pennsylvania
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Pennsylvania
+60,4,All Ages,Population of two or more races:,2 Years to < 3 Years,Pennsylvania
+61,5,All Ages,Population of two or more races:,3 Years to < 5 Years,Pennsylvania
+62,5,All Ages,Population of two or more races:,5 or More Years,Pennsylvania
+63,12,0-5 Years,White alone,All Time,Pennsylvania
+64,0,0-5 Years,White alone,< 30 Days,Pennsylvania
+65,3,0-5 Years,White alone,30 to < 90 Days,Pennsylvania
+66,2,0-5 Years,White alone,90 Days to < 6 Months,Pennsylvania
+67,3,0-5 Years,White alone,6 Months to < 1 Year,Pennsylvania
+68,3,0-5 Years,White alone,1 Year to < 2 Years,Pennsylvania
+69,1,0-5 Years,White alone,2 Years to < 3 Years,Pennsylvania
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Pennsylvania
+71,0,0-5 Years,White alone,5 or More Years,Pennsylvania
+72,2,0-5 Years,Black or African American alone,All Time,Pennsylvania
+73,0,0-5 Years,Black or African American alone,< 30 Days,Pennsylvania
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Pennsylvania
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Pennsylvania
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Pennsylvania
+77,1,0-5 Years,Black or African American alone,1 Year to < 2 Years,Pennsylvania
+78,1,0-5 Years,Black or African American alone,2 Years to < 3 Years,Pennsylvania
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Pennsylvania
+80,6,0-5 Years,Hispanic or Latino,All Time,Pennsylvania
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Pennsylvania
+82,1,0-5 Years,Hispanic or Latino,30 to < 90 Days,Pennsylvania
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Pennsylvania
+84,4,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Pennsylvania
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Pennsylvania
+86,1,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Pennsylvania
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Pennsylvania
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Pennsylvania
+89,1,0-5 Years,Asian alone,All Time,Pennsylvania
+90,0,0-5 Years,Asian alone,< 30 Days,Pennsylvania
+91,1,0-5 Years,Asian alone,30 to < 90 Days,Pennsylvania
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Pennsylvania
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Pennsylvania
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Pennsylvania
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Pennsylvania
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Pennsylvania
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Pennsylvania
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Pennsylvania
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Pennsylvania
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Pennsylvania
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Pennsylvania
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Pennsylvania
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Pennsylvania
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Pennsylvania
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Pennsylvania
+106,0,0-5 Years,Population of two or more races:,All Time,Pennsylvania
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Pennsylvania
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Pennsylvania
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Pennsylvania
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Pennsylvania
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Pennsylvania
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Pennsylvania
+113,13,6-10 Years,White alone,All Time,Pennsylvania
+114,0,6-10 Years,White alone,< 30 Days,Pennsylvania
+115,0,6-10 Years,White alone,30 to < 90 Days,Pennsylvania
+116,2,6-10 Years,White alone,90 Days to < 6 Months,Pennsylvania
+117,2,6-10 Years,White alone,6 Months to < 1 Year,Pennsylvania
+118,1,6-10 Years,White alone,1 Year to < 2 Years,Pennsylvania
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Pennsylvania
+120,3,6-10 Years,White alone,3 Years to < 5 Years,Pennsylvania
+121,5,6-10 Years,White alone,5 or More Years,Pennsylvania
+122,8,6-10 Years,Black or African American alone,All Time,Pennsylvania
+123,0,6-10 Years,Black or African American alone,< 30 Days,Pennsylvania
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Pennsylvania
+125,1,6-10 Years,Black or African American alone,90 Days to < 6 Months,Pennsylvania
+126,1,6-10 Years,Black or African American alone,6 Months to < 1 Year,Pennsylvania
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Pennsylvania
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Pennsylvania
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Pennsylvania
+130,5,6-10 Years,Black or African American alone,5 or More Years,Pennsylvania
+131,4,6-10 Years,Hispanic or Latino,All Time,Pennsylvania
+132,1,6-10 Years,Hispanic or Latino,< 30 Days,Pennsylvania
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Pennsylvania
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Pennsylvania
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Pennsylvania
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Pennsylvania
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Pennsylvania
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Pennsylvania
+139,3,6-10 Years,Hispanic or Latino,5 or More Years,Pennsylvania
+140,2,6-10 Years,Asian alone,All Time,Pennsylvania
+141,0,6-10 Years,Asian alone,< 30 Days,Pennsylvania
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Pennsylvania
+143,1,6-10 Years,Asian alone,6 Months to < 1 Year,Pennsylvania
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Pennsylvania
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Pennsylvania
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Pennsylvania
+147,1,6-10 Years,Asian alone,5 or More Years,Pennsylvania
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Pennsylvania
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Pennsylvania
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Pennsylvania
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Pennsylvania
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Pennsylvania
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Pennsylvania
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Pennsylvania
+155,0,6-10 Years,Population of two or more races:,All Time,Pennsylvania
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Pennsylvania
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Pennsylvania
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Pennsylvania
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Pennsylvania
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Pennsylvania
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Pennsylvania
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Pennsylvania
+163,19,11-17 Years,White alone,All Time,Pennsylvania
+164,1,11-17 Years,White alone,< 30 Days,Pennsylvania
+165,5,11-17 Years,White alone,30 to < 90 Days,Pennsylvania
+166,1,11-17 Years,White alone,90 Days to < 6 Months,Pennsylvania
+167,5,11-17 Years,White alone,6 Months to < 1 Year,Pennsylvania
+168,3,11-17 Years,White alone,1 Year to < 2 Years,Pennsylvania
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Pennsylvania
+170,1,11-17 Years,White alone,3 Years to < 5 Years,Pennsylvania
+171,2,11-17 Years,White alone,5 or More Years,Pennsylvania
+172,4,11-17 Years,Black or African American alone,All Time,Pennsylvania
+173,0,11-17 Years,Black or African American alone,< 30 Days,Pennsylvania
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Pennsylvania
+175,1,11-17 Years,Black or African American alone,90 Days to < 6 Months,Pennsylvania
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Pennsylvania
+177,1,11-17 Years,Black or African American alone,1 Year to < 2 Years,Pennsylvania
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Pennsylvania
+179,2,11-17 Years,Black or African American alone,3 Years to < 5 Years,Pennsylvania
+180,0,11-17 Years,Black or African American alone,5 or More Years,Pennsylvania
+181,7,11-17 Years,Hispanic or Latino,All Time,Pennsylvania
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Pennsylvania
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,Pennsylvania
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Pennsylvania
+185,4,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Pennsylvania
+186,1,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Pennsylvania
+187,1,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Pennsylvania
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Pennsylvania
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Pennsylvania
+190,2,11-17 Years,Asian alone,All Time,Pennsylvania
+191,0,11-17 Years,Asian alone,< 30 Days,Pennsylvania
+192,1,11-17 Years,Asian alone,30 to < 90 Days,Pennsylvania
+193,1,11-17 Years,Asian alone,90 Days to < 6 Months,Pennsylvania
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Pennsylvania
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Pennsylvania
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Pennsylvania
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Pennsylvania
+198,0,11-17 Years,Asian alone,5 or More Years,Pennsylvania
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Pennsylvania
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Pennsylvania
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Pennsylvania
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Pennsylvania
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Pennsylvania
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Pennsylvania
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Pennsylvania
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Pennsylvania
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Pennsylvania
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Pennsylvania
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Pennsylvania
+210,1,11-17 Years,Population of two or more races:,All Time,Pennsylvania
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Pennsylvania
+212,1,11-17 Years,Population of two or more races:,30 to < 90 Days,Pennsylvania
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Pennsylvania
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Pennsylvania
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Pennsylvania
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Pennsylvania
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Pennsylvania
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Pennsylvania
+219,165,18-34 Years,White alone,All Time,Pennsylvania
+220,5,18-34 Years,White alone,< 30 Days,Pennsylvania
+221,25,18-34 Years,White alone,30 to < 90 Days,Pennsylvania
+222,21,18-34 Years,White alone,90 Days to < 6 Months,Pennsylvania
+223,34,18-34 Years,White alone,6 Months to < 1 Year,Pennsylvania
+224,34,18-34 Years,White alone,1 Year to < 2 Years,Pennsylvania
+225,20,18-34 Years,White alone,2 Years to < 3 Years,Pennsylvania
+226,20,18-34 Years,White alone,3 Years to < 5 Years,Pennsylvania
+227,6,18-34 Years,White alone,5 or More Years,Pennsylvania
+228,134,18-34 Years,Black or African American alone,All Time,Pennsylvania
+229,3,18-34 Years,Black or African American alone,< 30 Days,Pennsylvania
+230,12,18-34 Years,Black or African American alone,30 to < 90 Days,Pennsylvania
+231,8,18-34 Years,Black or African American alone,90 Days to < 6 Months,Pennsylvania
+232,21,18-34 Years,Black or African American alone,6 Months to < 1 Year,Pennsylvania
+233,36,18-34 Years,Black or African American alone,1 Year to < 2 Years,Pennsylvania
+234,18,18-34 Years,Black or African American alone,2 Years to < 3 Years,Pennsylvania
+235,16,18-34 Years,Black or African American alone,3 Years to < 5 Years,Pennsylvania
+236,20,18-34 Years,Black or African American alone,5 or More Years,Pennsylvania
+237,58,18-34 Years,Hispanic or Latino,All Time,Pennsylvania
+238,2,18-34 Years,Hispanic or Latino,< 30 Days,Pennsylvania
+239,6,18-34 Years,Hispanic or Latino,30 to < 90 Days,Pennsylvania
+240,3,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Pennsylvania
+241,15,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Pennsylvania
+242,12,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Pennsylvania
+243,9,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Pennsylvania
+244,9,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Pennsylvania
+245,2,18-34 Years,Hispanic or Latino,5 or More Years,Pennsylvania
+246,17,18-34 Years,Asian alone,All Time,Pennsylvania
+247,1,18-34 Years,Asian alone,< 30 Days,Pennsylvania
+248,2,18-34 Years,Asian alone,30 to < 90 Days,Pennsylvania
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Pennsylvania
+250,2,18-34 Years,Asian alone,6 Months to < 1 Year,Pennsylvania
+251,4,18-34 Years,Asian alone,1 Year to < 2 Years,Pennsylvania
+252,2,18-34 Years,Asian alone,2 Years to < 3 Years,Pennsylvania
+253,6,18-34 Years,Asian alone,3 Years to < 5 Years,Pennsylvania
+254,0,18-34 Years,Asian alone,5 or More Years,Pennsylvania
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Pennsylvania
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Pennsylvania
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Pennsylvania
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Pennsylvania
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Pennsylvania
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Pennsylvania
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Pennsylvania
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Pennsylvania
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Pennsylvania
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Pennsylvania
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Pennsylvania
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Pennsylvania
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Pennsylvania
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Pennsylvania
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Pennsylvania
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Pennsylvania
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Pennsylvania
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Pennsylvania
+273,1,18-34 Years,Population of two or more races:,All Time,Pennsylvania
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Pennsylvania
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Pennsylvania
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Pennsylvania
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Pennsylvania
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Pennsylvania
+279,1,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Pennsylvania
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Pennsylvania
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Pennsylvania
+282,492,35-49 Years,White alone,All Time,Pennsylvania
+283,26,35-49 Years,White alone,< 30 Days,Pennsylvania
+284,43,35-49 Years,White alone,30 to < 90 Days,Pennsylvania
+285,50,35-49 Years,White alone,90 Days to < 6 Months,Pennsylvania
+286,79,35-49 Years,White alone,6 Months to < 1 Year,Pennsylvania
+287,115,35-49 Years,White alone,1 Year to < 2 Years,Pennsylvania
+288,65,35-49 Years,White alone,2 Years to < 3 Years,Pennsylvania
+289,74,35-49 Years,White alone,3 Years to < 5 Years,Pennsylvania
+290,40,35-49 Years,White alone,5 or More Years,Pennsylvania
+291,415,35-49 Years,Black or African American alone,All Time,Pennsylvania
+292,13,35-49 Years,Black or African American alone,< 30 Days,Pennsylvania
+293,27,35-49 Years,Black or African American alone,30 to < 90 Days,Pennsylvania
+294,36,35-49 Years,Black or African American alone,90 Days to < 6 Months,Pennsylvania
+295,62,35-49 Years,Black or African American alone,6 Months to < 1 Year,Pennsylvania
+296,104,35-49 Years,Black or African American alone,1 Year to < 2 Years,Pennsylvania
+297,47,35-49 Years,Black or African American alone,2 Years to < 3 Years,Pennsylvania
+298,82,35-49 Years,Black or African American alone,3 Years to < 5 Years,Pennsylvania
+299,44,35-49 Years,Black or African American alone,5 or More Years,Pennsylvania
+300,127,35-49 Years,Hispanic or Latino,All Time,Pennsylvania
+301,2,35-49 Years,Hispanic or Latino,< 30 Days,Pennsylvania
+302,10,35-49 Years,Hispanic or Latino,30 to < 90 Days,Pennsylvania
+303,13,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Pennsylvania
+304,16,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Pennsylvania
+305,31,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Pennsylvania
+306,22,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Pennsylvania
+307,26,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Pennsylvania
+308,7,35-49 Years,Hispanic or Latino,5 or More Years,Pennsylvania
+309,66,35-49 Years,Asian alone,All Time,Pennsylvania
+310,2,35-49 Years,Asian alone,< 30 Days,Pennsylvania
+311,8,35-49 Years,Asian alone,30 to < 90 Days,Pennsylvania
+312,13,35-49 Years,Asian alone,90 Days to < 6 Months,Pennsylvania
+313,5,35-49 Years,Asian alone,6 Months to < 1 Year,Pennsylvania
+314,17,35-49 Years,Asian alone,1 Year to < 2 Years,Pennsylvania
+315,5,35-49 Years,Asian alone,2 Years to < 3 Years,Pennsylvania
+316,12,35-49 Years,Asian alone,3 Years to < 5 Years,Pennsylvania
+317,4,35-49 Years,Asian alone,5 or More Years,Pennsylvania
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Pennsylvania
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Pennsylvania
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Pennsylvania
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Pennsylvania
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Pennsylvania
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Pennsylvania
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Pennsylvania
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Pennsylvania
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Pennsylvania
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Pennsylvania
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Pennsylvania
+329,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Pennsylvania
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Pennsylvania
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Pennsylvania
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Pennsylvania
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Pennsylvania
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Pennsylvania
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Pennsylvania
+336,4,35-49 Years,Population of two or more races:,All Time,Pennsylvania
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Pennsylvania
+338,3,35-49 Years,Population of two or more races:,30 to < 90 Days,Pennsylvania
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Pennsylvania
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Pennsylvania
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Pennsylvania
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Pennsylvania
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Pennsylvania
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Pennsylvania
+345,"1,119",50-64 Years,White alone,All Time,Pennsylvania
+346,47,50-64 Years,White alone,< 30 Days,Pennsylvania
+347,111,50-64 Years,White alone,30 to < 90 Days,Pennsylvania
+348,110,50-64 Years,White alone,90 Days to < 6 Months,Pennsylvania
+349,218,50-64 Years,White alone,6 Months to < 1 Year,Pennsylvania
+350,240,50-64 Years,White alone,1 Year to < 2 Years,Pennsylvania
+351,137,50-64 Years,White alone,2 Years to < 3 Years,Pennsylvania
+352,159,50-64 Years,White alone,3 Years to < 5 Years,Pennsylvania
+353,97,50-64 Years,White alone,5 or More Years,Pennsylvania
+354,834,50-64 Years,Black or African American alone,All Time,Pennsylvania
+355,31,50-64 Years,Black or African American alone,< 30 Days,Pennsylvania
+356,46,50-64 Years,Black or African American alone,30 to < 90 Days,Pennsylvania
+357,66,50-64 Years,Black or African American alone,90 Days to < 6 Months,Pennsylvania
+358,105,50-64 Years,Black or African American alone,6 Months to < 1 Year,Pennsylvania
+359,176,50-64 Years,Black or African American alone,1 Year to < 2 Years,Pennsylvania
+360,106,50-64 Years,Black or African American alone,2 Years to < 3 Years,Pennsylvania
+361,164,50-64 Years,Black or African American alone,3 Years to < 5 Years,Pennsylvania
+362,140,50-64 Years,Black or African American alone,5 or More Years,Pennsylvania
+363,156,50-64 Years,Hispanic or Latino,All Time,Pennsylvania
+364,7,50-64 Years,Hispanic or Latino,< 30 Days,Pennsylvania
+365,8,50-64 Years,Hispanic or Latino,30 to < 90 Days,Pennsylvania
+366,14,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Pennsylvania
+367,29,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Pennsylvania
+368,31,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Pennsylvania
+369,28,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Pennsylvania
+370,20,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Pennsylvania
+371,19,50-64 Years,Hispanic or Latino,5 or More Years,Pennsylvania
+372,92,50-64 Years,Asian alone,All Time,Pennsylvania
+373,1,50-64 Years,Asian alone,< 30 Days,Pennsylvania
+374,2,50-64 Years,Asian alone,30 to < 90 Days,Pennsylvania
+375,9,50-64 Years,Asian alone,90 Days to < 6 Months,Pennsylvania
+376,11,50-64 Years,Asian alone,6 Months to < 1 Year,Pennsylvania
+377,32,50-64 Years,Asian alone,1 Year to < 2 Years,Pennsylvania
+378,12,50-64 Years,Asian alone,2 Years to < 3 Years,Pennsylvania
+379,17,50-64 Years,Asian alone,3 Years to < 5 Years,Pennsylvania
+380,8,50-64 Years,Asian alone,5 or More Years,Pennsylvania
+381,5,50-64 Years,American Indian and Alaska Native alone,All Time,Pennsylvania
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Pennsylvania
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Pennsylvania
+384,1,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Pennsylvania
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Pennsylvania
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Pennsylvania
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Pennsylvania
+388,2,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Pennsylvania
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Pennsylvania
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Pennsylvania
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Pennsylvania
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Pennsylvania
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Pennsylvania
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Pennsylvania
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Pennsylvania
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Pennsylvania
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Pennsylvania
+398,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Pennsylvania
+399,10,50-64 Years,Population of two or more races:,All Time,Pennsylvania
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Pennsylvania
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Pennsylvania
+402,2,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Pennsylvania
+403,1,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Pennsylvania
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Pennsylvania
+405,3,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Pennsylvania
+406,3,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Pennsylvania
+407,1,50-64 Years,Population of two or more races:,5 or More Years,Pennsylvania
+408,952,65 and Older,White alone,All Time,Pennsylvania
+409,30,65 and Older,White alone,< 30 Days,Pennsylvania
+410,67,65 and Older,White alone,30 to < 90 Days,Pennsylvania
+411,84,65 and Older,White alone,90 Days to < 6 Months,Pennsylvania
+412,150,65 and Older,White alone,6 Months to < 1 Year,Pennsylvania
+413,202,65 and Older,White alone,1 Year to < 2 Years,Pennsylvania
+414,125,65 and Older,White alone,2 Years to < 3 Years,Pennsylvania
+415,173,65 and Older,White alone,3 Years to < 5 Years,Pennsylvania
+416,121,65 and Older,White alone,5 or More Years,Pennsylvania
+417,447,65 and Older,Black or African American alone,All Time,Pennsylvania
+418,8,65 and Older,Black or African American alone,< 30 Days,Pennsylvania
+419,24,65 and Older,Black or African American alone,30 to < 90 Days,Pennsylvania
+420,21,65 and Older,Black or African American alone,90 Days to < 6 Months,Pennsylvania
+421,52,65 and Older,Black or African American alone,6 Months to < 1 Year,Pennsylvania
+422,94,65 and Older,Black or African American alone,1 Year to < 2 Years,Pennsylvania
+423,55,65 and Older,Black or African American alone,2 Years to < 3 Years,Pennsylvania
+424,102,65 and Older,Black or African American alone,3 Years to < 5 Years,Pennsylvania
+425,91,65 and Older,Black or African American alone,5 or More Years,Pennsylvania
+426,64,65 and Older,Hispanic or Latino,All Time,Pennsylvania
+427,1,65 and Older,Hispanic or Latino,< 30 Days,Pennsylvania
+428,3,65 and Older,Hispanic or Latino,30 to < 90 Days,Pennsylvania
+429,4,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Pennsylvania
+430,9,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Pennsylvania
+431,15,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Pennsylvania
+432,8,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Pennsylvania
+433,14,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Pennsylvania
+434,10,65 and Older,Hispanic or Latino,5 or More Years,Pennsylvania
+435,65,65 and Older,Asian alone,All Time,Pennsylvania
+436,2,65 and Older,Asian alone,< 30 Days,Pennsylvania
+437,3,65 and Older,Asian alone,30 to < 90 Days,Pennsylvania
+438,5,65 and Older,Asian alone,90 Days to < 6 Months,Pennsylvania
+439,7,65 and Older,Asian alone,6 Months to < 1 Year,Pennsylvania
+440,12,65 and Older,Asian alone,1 Year to < 2 Years,Pennsylvania
+441,3,65 and Older,Asian alone,2 Years to < 3 Years,Pennsylvania
+442,22,65 and Older,Asian alone,3 Years to < 5 Years,Pennsylvania
+443,11,65 and Older,Asian alone,5 or More Years,Pennsylvania
+444,2,65 and Older,American Indian and Alaska Native alone,All Time,Pennsylvania
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Pennsylvania
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Pennsylvania
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Pennsylvania
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Pennsylvania
+449,1,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Pennsylvania
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Pennsylvania
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Pennsylvania
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Pennsylvania
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Pennsylvania
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Pennsylvania
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Pennsylvania
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Pennsylvania
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Pennsylvania
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Pennsylvania
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Pennsylvania
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Pennsylvania
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Pennsylvania
+462,7,65 and Older,Population of two or more races:,All Time,Pennsylvania
+463,0,65 and Older,Population of two or more races:,< 30 Days,Pennsylvania
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Pennsylvania
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Pennsylvania
+466,2,65 and Older,Population of two or more races:,6 Months to < 1 Year,Pennsylvania
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Pennsylvania
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Pennsylvania
+469,1,65 and Older,Population of two or more races:,3 Years to < 5 Years,Pennsylvania
+470,4,65 and Older,Population of two or more races:,5 or More Years,Pennsylvania

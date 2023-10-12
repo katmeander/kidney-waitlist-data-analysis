@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,269,All Ages,White alone,All Time,Nevada
+1,13,All Ages,White alone,< 30 Days,Nevada
+2,37,All Ages,White alone,30 to < 90 Days,Nevada
+3,29,All Ages,White alone,90 Days to < 6 Months,Nevada
+4,38,All Ages,White alone,6 Months to < 1 Year,Nevada
+5,59,All Ages,White alone,1 Year to < 2 Years,Nevada
+6,29,All Ages,White alone,2 Years to < 3 Years,Nevada
+7,34,All Ages,White alone,3 Years to < 5 Years,Nevada
+8,30,All Ages,White alone,5 or More Years,Nevada
+9,124,All Ages,Black or African American alone,All Time,Nevada
+10,6,All Ages,Black or African American alone,< 30 Days,Nevada
+11,10,All Ages,Black or African American alone,30 to < 90 Days,Nevada
+12,9,All Ages,Black or African American alone,90 Days to < 6 Months,Nevada
+13,36,All Ages,Black or African American alone,6 Months to < 1 Year,Nevada
+14,25,All Ages,Black or African American alone,1 Year to < 2 Years,Nevada
+15,16,All Ages,Black or African American alone,2 Years to < 3 Years,Nevada
+16,12,All Ages,Black or African American alone,3 Years to < 5 Years,Nevada
+17,10,All Ages,Black or African American alone,5 or More Years,Nevada
+18,174,All Ages,Hispanic or Latino,All Time,Nevada
+19,6,All Ages,Hispanic or Latino,< 30 Days,Nevada
+20,20,All Ages,Hispanic or Latino,30 to < 90 Days,Nevada
+21,17,All Ages,Hispanic or Latino,90 Days to < 6 Months,Nevada
+22,34,All Ages,Hispanic or Latino,6 Months to < 1 Year,Nevada
+23,35,All Ages,Hispanic or Latino,1 Year to < 2 Years,Nevada
+24,28,All Ages,Hispanic or Latino,2 Years to < 3 Years,Nevada
+25,25,All Ages,Hispanic or Latino,3 Years to < 5 Years,Nevada
+26,9,All Ages,Hispanic or Latino,5 or More Years,Nevada
+27,91,All Ages,Asian alone,All Time,Nevada
+28,8,All Ages,Asian alone,< 30 Days,Nevada
+29,5,All Ages,Asian alone,30 to < 90 Days,Nevada
+30,14,All Ages,Asian alone,90 Days to < 6 Months,Nevada
+31,21,All Ages,Asian alone,6 Months to < 1 Year,Nevada
+32,20,All Ages,Asian alone,1 Year to < 2 Years,Nevada
+33,9,All Ages,Asian alone,2 Years to < 3 Years,Nevada
+34,4,All Ages,Asian alone,3 Years to < 5 Years,Nevada
+35,10,All Ages,Asian alone,5 or More Years,Nevada
+36,9,All Ages,American Indian and Alaska Native alone,All Time,Nevada
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Nevada
+38,1,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Nevada
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Nevada
+40,3,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Nevada
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Nevada
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Nevada
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Nevada
+44,1,All Ages,American Indian and Alaska Native alone,5 or More Years,Nevada
+45,19,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Nevada
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nevada
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nevada
+48,1,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nevada
+49,6,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nevada
+50,5,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nevada
+51,1,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nevada
+52,2,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nevada
+53,3,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nevada
+54,11,All Ages,Population of two or more races:,All Time,Nevada
+55,0,All Ages,Population of two or more races:,< 30 Days,Nevada
+56,3,All Ages,Population of two or more races:,30 to < 90 Days,Nevada
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Nevada
+58,2,All Ages,Population of two or more races:,6 Months to < 1 Year,Nevada
+59,1,All Ages,Population of two or more races:,1 Year to < 2 Years,Nevada
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Nevada
+61,3,All Ages,Population of two or more races:,3 Years to < 5 Years,Nevada
+62,2,All Ages,Population of two or more races:,5 or More Years,Nevada
+63,3,0-5 Years,White alone,All Time,Nevada
+64,0,0-5 Years,White alone,< 30 Days,Nevada
+65,1,0-5 Years,White alone,30 to < 90 Days,Nevada
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Nevada
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Nevada
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Nevada
+69,1,0-5 Years,White alone,2 Years to < 3 Years,Nevada
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Nevada
+71,0,0-5 Years,White alone,5 or More Years,Nevada
+72,3,0-5 Years,Black or African American alone,All Time,Nevada
+73,0,0-5 Years,Black or African American alone,< 30 Days,Nevada
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Nevada
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Nevada
+76,3,0-5 Years,Black or African American alone,6 Months to < 1 Year,Nevada
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Nevada
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Nevada
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Nevada
+80,1,0-5 Years,Hispanic or Latino,All Time,Nevada
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Nevada
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Nevada
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Nevada
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Nevada
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Nevada
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Nevada
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Nevada
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Nevada
+89,0,0-5 Years,Asian alone,All Time,Nevada
+90,0,0-5 Years,Asian alone,< 30 Days,Nevada
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Nevada
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Nevada
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Nevada
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Nevada
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Nevada
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Nevada
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Nevada
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Nevada
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Nevada
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nevada
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nevada
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nevada
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nevada
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nevada
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nevada
+106,1,0-5 Years,Population of two or more races:,All Time,Nevada
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Nevada
+108,1,0-5 Years,Population of two or more races:,30 to < 90 Days,Nevada
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Nevada
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Nevada
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Nevada
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Nevada
+113,4,6-10 Years,White alone,All Time,Nevada
+114,0,6-10 Years,White alone,< 30 Days,Nevada
+115,2,6-10 Years,White alone,30 to < 90 Days,Nevada
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Nevada
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Nevada
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Nevada
+119,1,6-10 Years,White alone,2 Years to < 3 Years,Nevada
+120,1,6-10 Years,White alone,3 Years to < 5 Years,Nevada
+121,0,6-10 Years,White alone,5 or More Years,Nevada
+122,0,6-10 Years,Black or African American alone,All Time,Nevada
+123,0,6-10 Years,Black or African American alone,< 30 Days,Nevada
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Nevada
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Nevada
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Nevada
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Nevada
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Nevada
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Nevada
+130,0,6-10 Years,Black or African American alone,5 or More Years,Nevada
+131,0,6-10 Years,Hispanic or Latino,All Time,Nevada
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Nevada
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Nevada
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Nevada
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Nevada
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Nevada
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Nevada
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Nevada
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Nevada
+140,0,6-10 Years,Asian alone,All Time,Nevada
+141,0,6-10 Years,Asian alone,< 30 Days,Nevada
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Nevada
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Nevada
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Nevada
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Nevada
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Nevada
+147,0,6-10 Years,Asian alone,5 or More Years,Nevada
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Nevada
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nevada
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nevada
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nevada
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nevada
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nevada
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nevada
+155,0,6-10 Years,Population of two or more races:,All Time,Nevada
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Nevada
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Nevada
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Nevada
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Nevada
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Nevada
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Nevada
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Nevada
+163,2,11-17 Years,White alone,All Time,Nevada
+164,0,11-17 Years,White alone,< 30 Days,Nevada
+165,0,11-17 Years,White alone,30 to < 90 Days,Nevada
+166,1,11-17 Years,White alone,90 Days to < 6 Months,Nevada
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Nevada
+168,1,11-17 Years,White alone,1 Year to < 2 Years,Nevada
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Nevada
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Nevada
+171,0,11-17 Years,White alone,5 or More Years,Nevada
+172,1,11-17 Years,Black or African American alone,All Time,Nevada
+173,0,11-17 Years,Black or African American alone,< 30 Days,Nevada
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Nevada
+175,1,11-17 Years,Black or African American alone,90 Days to < 6 Months,Nevada
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Nevada
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Nevada
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Nevada
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Nevada
+180,0,11-17 Years,Black or African American alone,5 or More Years,Nevada
+181,0,11-17 Years,Hispanic or Latino,All Time,Nevada
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Nevada
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Nevada
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Nevada
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Nevada
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Nevada
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Nevada
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Nevada
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Nevada
+190,0,11-17 Years,Asian alone,All Time,Nevada
+191,0,11-17 Years,Asian alone,< 30 Days,Nevada
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Nevada
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Nevada
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Nevada
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Nevada
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Nevada
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Nevada
+198,0,11-17 Years,Asian alone,5 or More Years,Nevada
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Nevada
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nevada
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nevada
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nevada
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Nevada
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nevada
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nevada
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nevada
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nevada
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nevada
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nevada
+210,1,11-17 Years,Population of two or more races:,All Time,Nevada
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Nevada
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Nevada
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Nevada
+214,1,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Nevada
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Nevada
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Nevada
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Nevada
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Nevada
+219,15,18-34 Years,White alone,All Time,Nevada
+220,1,18-34 Years,White alone,< 30 Days,Nevada
+221,1,18-34 Years,White alone,30 to < 90 Days,Nevada
+222,2,18-34 Years,White alone,90 Days to < 6 Months,Nevada
+223,5,18-34 Years,White alone,6 Months to < 1 Year,Nevada
+224,4,18-34 Years,White alone,1 Year to < 2 Years,Nevada
+225,1,18-34 Years,White alone,2 Years to < 3 Years,Nevada
+226,1,18-34 Years,White alone,3 Years to < 5 Years,Nevada
+227,0,18-34 Years,White alone,5 or More Years,Nevada
+228,16,18-34 Years,Black or African American alone,All Time,Nevada
+229,2,18-34 Years,Black or African American alone,< 30 Days,Nevada
+230,1,18-34 Years,Black or African American alone,30 to < 90 Days,Nevada
+231,1,18-34 Years,Black or African American alone,90 Days to < 6 Months,Nevada
+232,3,18-34 Years,Black or African American alone,6 Months to < 1 Year,Nevada
+233,2,18-34 Years,Black or African American alone,1 Year to < 2 Years,Nevada
+234,4,18-34 Years,Black or African American alone,2 Years to < 3 Years,Nevada
+235,3,18-34 Years,Black or African American alone,3 Years to < 5 Years,Nevada
+236,0,18-34 Years,Black or African American alone,5 or More Years,Nevada
+237,43,18-34 Years,Hispanic or Latino,All Time,Nevada
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Nevada
+239,5,18-34 Years,Hispanic or Latino,30 to < 90 Days,Nevada
+240,7,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Nevada
+241,9,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Nevada
+242,8,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Nevada
+243,6,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Nevada
+244,6,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Nevada
+245,2,18-34 Years,Hispanic or Latino,5 or More Years,Nevada
+246,5,18-34 Years,Asian alone,All Time,Nevada
+247,1,18-34 Years,Asian alone,< 30 Days,Nevada
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Nevada
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Nevada
+250,2,18-34 Years,Asian alone,6 Months to < 1 Year,Nevada
+251,2,18-34 Years,Asian alone,1 Year to < 2 Years,Nevada
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Nevada
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Nevada
+254,0,18-34 Years,Asian alone,5 or More Years,Nevada
+255,1,18-34 Years,American Indian and Alaska Native alone,All Time,Nevada
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Nevada
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Nevada
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nevada
+259,1,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nevada
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nevada
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Nevada
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nevada
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Nevada
+264,2,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nevada
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nevada
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nevada
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nevada
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nevada
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nevada
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nevada
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nevada
+272,2,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nevada
+273,0,18-34 Years,Population of two or more races:,All Time,Nevada
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Nevada
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Nevada
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Nevada
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Nevada
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Nevada
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Nevada
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Nevada
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Nevada
+282,44,35-49 Years,White alone,All Time,Nevada
+283,4,35-49 Years,White alone,< 30 Days,Nevada
+284,8,35-49 Years,White alone,30 to < 90 Days,Nevada
+285,5,35-49 Years,White alone,90 Days to < 6 Months,Nevada
+286,6,35-49 Years,White alone,6 Months to < 1 Year,Nevada
+287,8,35-49 Years,White alone,1 Year to < 2 Years,Nevada
+288,2,35-49 Years,White alone,2 Years to < 3 Years,Nevada
+289,7,35-49 Years,White alone,3 Years to < 5 Years,Nevada
+290,4,35-49 Years,White alone,5 or More Years,Nevada
+291,41,35-49 Years,Black or African American alone,All Time,Nevada
+292,1,35-49 Years,Black or African American alone,< 30 Days,Nevada
+293,3,35-49 Years,Black or African American alone,30 to < 90 Days,Nevada
+294,3,35-49 Years,Black or African American alone,90 Days to < 6 Months,Nevada
+295,15,35-49 Years,Black or African American alone,6 Months to < 1 Year,Nevada
+296,9,35-49 Years,Black or African American alone,1 Year to < 2 Years,Nevada
+297,5,35-49 Years,Black or African American alone,2 Years to < 3 Years,Nevada
+298,2,35-49 Years,Black or African American alone,3 Years to < 5 Years,Nevada
+299,3,35-49 Years,Black or African American alone,5 or More Years,Nevada
+300,39,35-49 Years,Hispanic or Latino,All Time,Nevada
+301,1,35-49 Years,Hispanic or Latino,< 30 Days,Nevada
+302,2,35-49 Years,Hispanic or Latino,30 to < 90 Days,Nevada
+303,4,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Nevada
+304,6,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Nevada
+305,8,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Nevada
+306,11,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Nevada
+307,5,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Nevada
+308,2,35-49 Years,Hispanic or Latino,5 or More Years,Nevada
+309,31,35-49 Years,Asian alone,All Time,Nevada
+310,3,35-49 Years,Asian alone,< 30 Days,Nevada
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Nevada
+312,7,35-49 Years,Asian alone,90 Days to < 6 Months,Nevada
+313,7,35-49 Years,Asian alone,6 Months to < 1 Year,Nevada
+314,6,35-49 Years,Asian alone,1 Year to < 2 Years,Nevada
+315,6,35-49 Years,Asian alone,2 Years to < 3 Years,Nevada
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Nevada
+317,1,35-49 Years,Asian alone,5 or More Years,Nevada
+318,3,35-49 Years,American Indian and Alaska Native alone,All Time,Nevada
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Nevada
+320,1,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Nevada
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nevada
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nevada
+323,1,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nevada
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Nevada
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nevada
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Nevada
+327,7,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nevada
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nevada
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nevada
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nevada
+331,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nevada
+332,3,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nevada
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nevada
+334,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nevada
+335,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nevada
+336,6,35-49 Years,Population of two or more races:,All Time,Nevada
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Nevada
+338,2,35-49 Years,Population of two or more races:,30 to < 90 Days,Nevada
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Nevada
+340,1,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Nevada
+341,1,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Nevada
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Nevada
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Nevada
+344,1,35-49 Years,Population of two or more races:,5 or More Years,Nevada
+345,110,50-64 Years,White alone,All Time,Nevada
+346,4,50-64 Years,White alone,< 30 Days,Nevada
+347,14,50-64 Years,White alone,30 to < 90 Days,Nevada
+348,14,50-64 Years,White alone,90 Days to < 6 Months,Nevada
+349,17,50-64 Years,White alone,6 Months to < 1 Year,Nevada
+350,27,50-64 Years,White alone,1 Year to < 2 Years,Nevada
+351,11,50-64 Years,White alone,2 Years to < 3 Years,Nevada
+352,12,50-64 Years,White alone,3 Years to < 5 Years,Nevada
+353,11,50-64 Years,White alone,5 or More Years,Nevada
+354,39,50-64 Years,Black or African American alone,All Time,Nevada
+355,2,50-64 Years,Black or African American alone,< 30 Days,Nevada
+356,4,50-64 Years,Black or African American alone,30 to < 90 Days,Nevada
+357,2,50-64 Years,Black or African American alone,90 Days to < 6 Months,Nevada
+358,7,50-64 Years,Black or African American alone,6 Months to < 1 Year,Nevada
+359,12,50-64 Years,Black or African American alone,1 Year to < 2 Years,Nevada
+360,4,50-64 Years,Black or African American alone,2 Years to < 3 Years,Nevada
+361,2,50-64 Years,Black or African American alone,3 Years to < 5 Years,Nevada
+362,6,50-64 Years,Black or African American alone,5 or More Years,Nevada
+363,62,50-64 Years,Hispanic or Latino,All Time,Nevada
+364,3,50-64 Years,Hispanic or Latino,< 30 Days,Nevada
+365,10,50-64 Years,Hispanic or Latino,30 to < 90 Days,Nevada
+366,4,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Nevada
+367,14,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Nevada
+368,10,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Nevada
+369,7,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Nevada
+370,9,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Nevada
+371,5,50-64 Years,Hispanic or Latino,5 or More Years,Nevada
+372,30,50-64 Years,Asian alone,All Time,Nevada
+373,2,50-64 Years,Asian alone,< 30 Days,Nevada
+374,3,50-64 Years,Asian alone,30 to < 90 Days,Nevada
+375,5,50-64 Years,Asian alone,90 Days to < 6 Months,Nevada
+376,6,50-64 Years,Asian alone,6 Months to < 1 Year,Nevada
+377,3,50-64 Years,Asian alone,1 Year to < 2 Years,Nevada
+378,1,50-64 Years,Asian alone,2 Years to < 3 Years,Nevada
+379,4,50-64 Years,Asian alone,3 Years to < 5 Years,Nevada
+380,6,50-64 Years,Asian alone,5 or More Years,Nevada
+381,5,50-64 Years,American Indian and Alaska Native alone,All Time,Nevada
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Nevada
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Nevada
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nevada
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nevada
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nevada
+387,1,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Nevada
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nevada
+389,1,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Nevada
+390,7,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nevada
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nevada
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nevada
+393,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nevada
+394,3,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nevada
+395,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nevada
+396,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nevada
+397,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nevada
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nevada
+399,3,50-64 Years,Population of two or more races:,All Time,Nevada
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Nevada
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Nevada
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Nevada
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Nevada
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Nevada
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Nevada
+406,2,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Nevada
+407,1,50-64 Years,Population of two or more races:,5 or More Years,Nevada
+408,91,65 and Older,White alone,All Time,Nevada
+409,4,65 and Older,White alone,< 30 Days,Nevada
+410,11,65 and Older,White alone,30 to < 90 Days,Nevada
+411,7,65 and Older,White alone,90 Days to < 6 Months,Nevada
+412,10,65 and Older,White alone,6 Months to < 1 Year,Nevada
+413,18,65 and Older,White alone,1 Year to < 2 Years,Nevada
+414,13,65 and Older,White alone,2 Years to < 3 Years,Nevada
+415,13,65 and Older,White alone,3 Years to < 5 Years,Nevada
+416,15,65 and Older,White alone,5 or More Years,Nevada
+417,24,65 and Older,Black or African American alone,All Time,Nevada
+418,1,65 and Older,Black or African American alone,< 30 Days,Nevada
+419,2,65 and Older,Black or African American alone,30 to < 90 Days,Nevada
+420,2,65 and Older,Black or African American alone,90 Days to < 6 Months,Nevada
+421,8,65 and Older,Black or African American alone,6 Months to < 1 Year,Nevada
+422,2,65 and Older,Black or African American alone,1 Year to < 2 Years,Nevada
+423,3,65 and Older,Black or African American alone,2 Years to < 3 Years,Nevada
+424,5,65 and Older,Black or African American alone,3 Years to < 5 Years,Nevada
+425,1,65 and Older,Black or African American alone,5 or More Years,Nevada
+426,29,65 and Older,Hispanic or Latino,All Time,Nevada
+427,2,65 and Older,Hispanic or Latino,< 30 Days,Nevada
+428,3,65 and Older,Hispanic or Latino,30 to < 90 Days,Nevada
+429,2,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Nevada
+430,5,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Nevada
+431,8,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Nevada
+432,4,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Nevada
+433,5,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Nevada
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Nevada
+435,25,65 and Older,Asian alone,All Time,Nevada
+436,2,65 and Older,Asian alone,< 30 Days,Nevada
+437,1,65 and Older,Asian alone,30 to < 90 Days,Nevada
+438,2,65 and Older,Asian alone,90 Days to < 6 Months,Nevada
+439,6,65 and Older,Asian alone,6 Months to < 1 Year,Nevada
+440,9,65 and Older,Asian alone,1 Year to < 2 Years,Nevada
+441,2,65 and Older,Asian alone,2 Years to < 3 Years,Nevada
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Nevada
+443,3,65 and Older,Asian alone,5 or More Years,Nevada
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Nevada
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Nevada
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Nevada
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Nevada
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Nevada
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Nevada
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Nevada
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Nevada
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Nevada
+453,3,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Nevada
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nevada
+455,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nevada
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nevada
+457,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nevada
+458,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nevada
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nevada
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nevada
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nevada
+462,0,65 and Older,Population of two or more races:,All Time,Nevada
+463,0,65 and Older,Population of two or more races:,< 30 Days,Nevada
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Nevada
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Nevada
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Nevada
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Nevada
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Nevada
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Nevada
+470,0,65 and Older,Population of two or more races:,5 or More Years,Nevada

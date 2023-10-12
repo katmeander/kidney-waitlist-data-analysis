@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,957,All Ages,White alone,All Time,Indiana
+1,48,All Ages,White alone,< 30 Days,Indiana
+2,105,All Ages,White alone,30 to < 90 Days,Indiana
+3,117,All Ages,White alone,90 Days to < 6 Months,Indiana
+4,180,All Ages,White alone,6 Months to < 1 Year,Indiana
+5,235,All Ages,White alone,1 Year to < 2 Years,Indiana
+6,111,All Ages,White alone,2 Years to < 3 Years,Indiana
+7,116,All Ages,White alone,3 Years to < 5 Years,Indiana
+8,45,All Ages,White alone,5 or More Years,Indiana
+9,420,All Ages,Black or African American alone,All Time,Indiana
+10,8,All Ages,Black or African American alone,< 30 Days,Indiana
+11,41,All Ages,Black or African American alone,30 to < 90 Days,Indiana
+12,35,All Ages,Black or African American alone,90 Days to < 6 Months,Indiana
+13,78,All Ages,Black or African American alone,6 Months to < 1 Year,Indiana
+14,124,All Ages,Black or African American alone,1 Year to < 2 Years,Indiana
+15,52,All Ages,Black or African American alone,2 Years to < 3 Years,Indiana
+16,49,All Ages,Black or African American alone,3 Years to < 5 Years,Indiana
+17,33,All Ages,Black or African American alone,5 or More Years,Indiana
+18,116,All Ages,Hispanic or Latino,All Time,Indiana
+19,1,All Ages,Hispanic or Latino,< 30 Days,Indiana
+20,13,All Ages,Hispanic or Latino,30 to < 90 Days,Indiana
+21,9,All Ages,Hispanic or Latino,90 Days to < 6 Months,Indiana
+22,20,All Ages,Hispanic or Latino,6 Months to < 1 Year,Indiana
+23,31,All Ages,Hispanic or Latino,1 Year to < 2 Years,Indiana
+24,14,All Ages,Hispanic or Latino,2 Years to < 3 Years,Indiana
+25,23,All Ages,Hispanic or Latino,3 Years to < 5 Years,Indiana
+26,5,All Ages,Hispanic or Latino,5 or More Years,Indiana
+27,44,All Ages,Asian alone,All Time,Indiana
+28,0,All Ages,Asian alone,< 30 Days,Indiana
+29,3,All Ages,Asian alone,30 to < 90 Days,Indiana
+30,6,All Ages,Asian alone,90 Days to < 6 Months,Indiana
+31,13,All Ages,Asian alone,6 Months to < 1 Year,Indiana
+32,14,All Ages,Asian alone,1 Year to < 2 Years,Indiana
+33,2,All Ages,Asian alone,2 Years to < 3 Years,Indiana
+34,4,All Ages,Asian alone,3 Years to < 5 Years,Indiana
+35,2,All Ages,Asian alone,5 or More Years,Indiana
+36,3,All Ages,American Indian and Alaska Native alone,All Time,Indiana
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Indiana
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Indiana
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Indiana
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Indiana
+41,1,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Indiana
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Indiana
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Indiana
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Indiana
+45,2,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Indiana
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Indiana
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Indiana
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Indiana
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Indiana
+50,2,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Indiana
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Indiana
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Indiana
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Indiana
+54,2,All Ages,Population of two or more races:,All Time,Indiana
+55,0,All Ages,Population of two or more races:,< 30 Days,Indiana
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Indiana
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Indiana
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Indiana
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Indiana
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Indiana
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,Indiana
+62,0,All Ages,Population of two or more races:,5 or More Years,Indiana
+63,8,0-5 Years,White alone,All Time,Indiana
+64,3,0-5 Years,White alone,< 30 Days,Indiana
+65,1,0-5 Years,White alone,30 to < 90 Days,Indiana
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Indiana
+67,2,0-5 Years,White alone,6 Months to < 1 Year,Indiana
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Indiana
+69,1,0-5 Years,White alone,2 Years to < 3 Years,Indiana
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Indiana
+71,0,0-5 Years,White alone,5 or More Years,Indiana
+72,0,0-5 Years,Black or African American alone,All Time,Indiana
+73,0,0-5 Years,Black or African American alone,< 30 Days,Indiana
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Indiana
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Indiana
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Indiana
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Indiana
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Indiana
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Indiana
+80,1,0-5 Years,Hispanic or Latino,All Time,Indiana
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Indiana
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Indiana
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Indiana
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Indiana
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Indiana
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Indiana
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Indiana
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Indiana
+89,0,0-5 Years,Asian alone,All Time,Indiana
+90,0,0-5 Years,Asian alone,< 30 Days,Indiana
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Indiana
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Indiana
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Indiana
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Indiana
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Indiana
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Indiana
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Indiana
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Indiana
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Indiana
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Indiana
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Indiana
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Indiana
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Indiana
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Indiana
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Indiana
+106,0,0-5 Years,Population of two or more races:,All Time,Indiana
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Indiana
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Indiana
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Indiana
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Indiana
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Indiana
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Indiana
+113,10,6-10 Years,White alone,All Time,Indiana
+114,0,6-10 Years,White alone,< 30 Days,Indiana
+115,1,6-10 Years,White alone,30 to < 90 Days,Indiana
+116,1,6-10 Years,White alone,90 Days to < 6 Months,Indiana
+117,2,6-10 Years,White alone,6 Months to < 1 Year,Indiana
+118,2,6-10 Years,White alone,1 Year to < 2 Years,Indiana
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Indiana
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Indiana
+121,4,6-10 Years,White alone,5 or More Years,Indiana
+122,1,6-10 Years,Black or African American alone,All Time,Indiana
+123,0,6-10 Years,Black or African American alone,< 30 Days,Indiana
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Indiana
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Indiana
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Indiana
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Indiana
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Indiana
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Indiana
+130,1,6-10 Years,Black or African American alone,5 or More Years,Indiana
+131,0,6-10 Years,Hispanic or Latino,All Time,Indiana
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Indiana
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Indiana
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Indiana
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Indiana
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Indiana
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Indiana
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Indiana
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Indiana
+140,0,6-10 Years,Asian alone,All Time,Indiana
+141,0,6-10 Years,Asian alone,< 30 Days,Indiana
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Indiana
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Indiana
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Indiana
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Indiana
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Indiana
+147,0,6-10 Years,Asian alone,5 or More Years,Indiana
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Indiana
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Indiana
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Indiana
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Indiana
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Indiana
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Indiana
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Indiana
+155,0,6-10 Years,Population of two or more races:,All Time,Indiana
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Indiana
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Indiana
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Indiana
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Indiana
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Indiana
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Indiana
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Indiana
+163,4,11-17 Years,White alone,All Time,Indiana
+164,1,11-17 Years,White alone,< 30 Days,Indiana
+165,2,11-17 Years,White alone,30 to < 90 Days,Indiana
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Indiana
+167,1,11-17 Years,White alone,6 Months to < 1 Year,Indiana
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Indiana
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Indiana
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Indiana
+171,0,11-17 Years,White alone,5 or More Years,Indiana
+172,1,11-17 Years,Black or African American alone,All Time,Indiana
+173,0,11-17 Years,Black or African American alone,< 30 Days,Indiana
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Indiana
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Indiana
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Indiana
+177,1,11-17 Years,Black or African American alone,1 Year to < 2 Years,Indiana
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Indiana
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Indiana
+180,0,11-17 Years,Black or African American alone,5 or More Years,Indiana
+181,1,11-17 Years,Hispanic or Latino,All Time,Indiana
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Indiana
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,Indiana
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Indiana
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Indiana
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Indiana
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Indiana
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Indiana
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Indiana
+190,0,11-17 Years,Asian alone,All Time,Indiana
+191,0,11-17 Years,Asian alone,< 30 Days,Indiana
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Indiana
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Indiana
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Indiana
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Indiana
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Indiana
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Indiana
+198,0,11-17 Years,Asian alone,5 or More Years,Indiana
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Indiana
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Indiana
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Indiana
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Indiana
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Indiana
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Indiana
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Indiana
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Indiana
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Indiana
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Indiana
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Indiana
+210,0,11-17 Years,Population of two or more races:,All Time,Indiana
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Indiana
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Indiana
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Indiana
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Indiana
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Indiana
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Indiana
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Indiana
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Indiana
+219,85,18-34 Years,White alone,All Time,Indiana
+220,2,18-34 Years,White alone,< 30 Days,Indiana
+221,11,18-34 Years,White alone,30 to < 90 Days,Indiana
+222,16,18-34 Years,White alone,90 Days to < 6 Months,Indiana
+223,11,18-34 Years,White alone,6 Months to < 1 Year,Indiana
+224,21,18-34 Years,White alone,1 Year to < 2 Years,Indiana
+225,12,18-34 Years,White alone,2 Years to < 3 Years,Indiana
+226,11,18-34 Years,White alone,3 Years to < 5 Years,Indiana
+227,1,18-34 Years,White alone,5 or More Years,Indiana
+228,44,18-34 Years,Black or African American alone,All Time,Indiana
+229,0,18-34 Years,Black or African American alone,< 30 Days,Indiana
+230,4,18-34 Years,Black or African American alone,30 to < 90 Days,Indiana
+231,5,18-34 Years,Black or African American alone,90 Days to < 6 Months,Indiana
+232,12,18-34 Years,Black or African American alone,6 Months to < 1 Year,Indiana
+233,17,18-34 Years,Black or African American alone,1 Year to < 2 Years,Indiana
+234,4,18-34 Years,Black or African American alone,2 Years to < 3 Years,Indiana
+235,2,18-34 Years,Black or African American alone,3 Years to < 5 Years,Indiana
+236,0,18-34 Years,Black or African American alone,5 or More Years,Indiana
+237,21,18-34 Years,Hispanic or Latino,All Time,Indiana
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Indiana
+239,2,18-34 Years,Hispanic or Latino,30 to < 90 Days,Indiana
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Indiana
+241,6,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Indiana
+242,4,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Indiana
+243,5,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Indiana
+244,4,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Indiana
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Indiana
+246,8,18-34 Years,Asian alone,All Time,Indiana
+247,0,18-34 Years,Asian alone,< 30 Days,Indiana
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Indiana
+249,1,18-34 Years,Asian alone,90 Days to < 6 Months,Indiana
+250,2,18-34 Years,Asian alone,6 Months to < 1 Year,Indiana
+251,2,18-34 Years,Asian alone,1 Year to < 2 Years,Indiana
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Indiana
+253,2,18-34 Years,Asian alone,3 Years to < 5 Years,Indiana
+254,0,18-34 Years,Asian alone,5 or More Years,Indiana
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Indiana
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Indiana
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Indiana
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Indiana
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Indiana
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Indiana
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Indiana
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Indiana
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Indiana
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Indiana
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Indiana
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Indiana
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Indiana
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Indiana
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Indiana
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Indiana
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Indiana
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Indiana
+273,0,18-34 Years,Population of two or more races:,All Time,Indiana
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Indiana
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Indiana
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Indiana
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Indiana
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Indiana
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Indiana
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Indiana
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Indiana
+282,184,35-49 Years,White alone,All Time,Indiana
+283,10,35-49 Years,White alone,< 30 Days,Indiana
+284,22,35-49 Years,White alone,30 to < 90 Days,Indiana
+285,18,35-49 Years,White alone,90 Days to < 6 Months,Indiana
+286,35,35-49 Years,White alone,6 Months to < 1 Year,Indiana
+287,52,35-49 Years,White alone,1 Year to < 2 Years,Indiana
+288,22,35-49 Years,White alone,2 Years to < 3 Years,Indiana
+289,22,35-49 Years,White alone,3 Years to < 5 Years,Indiana
+290,3,35-49 Years,White alone,5 or More Years,Indiana
+291,117,35-49 Years,Black or African American alone,All Time,Indiana
+292,3,35-49 Years,Black or African American alone,< 30 Days,Indiana
+293,13,35-49 Years,Black or African American alone,30 to < 90 Days,Indiana
+294,10,35-49 Years,Black or African American alone,90 Days to < 6 Months,Indiana
+295,23,35-49 Years,Black or African American alone,6 Months to < 1 Year,Indiana
+296,30,35-49 Years,Black or African American alone,1 Year to < 2 Years,Indiana
+297,15,35-49 Years,Black or African American alone,2 Years to < 3 Years,Indiana
+298,15,35-49 Years,Black or African American alone,3 Years to < 5 Years,Indiana
+299,8,35-49 Years,Black or African American alone,5 or More Years,Indiana
+300,33,35-49 Years,Hispanic or Latino,All Time,Indiana
+301,1,35-49 Years,Hispanic or Latino,< 30 Days,Indiana
+302,2,35-49 Years,Hispanic or Latino,30 to < 90 Days,Indiana
+303,4,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Indiana
+304,3,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Indiana
+305,8,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Indiana
+306,4,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Indiana
+307,6,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Indiana
+308,5,35-49 Years,Hispanic or Latino,5 or More Years,Indiana
+309,16,35-49 Years,Asian alone,All Time,Indiana
+310,0,35-49 Years,Asian alone,< 30 Days,Indiana
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Indiana
+312,1,35-49 Years,Asian alone,90 Days to < 6 Months,Indiana
+313,6,35-49 Years,Asian alone,6 Months to < 1 Year,Indiana
+314,5,35-49 Years,Asian alone,1 Year to < 2 Years,Indiana
+315,1,35-49 Years,Asian alone,2 Years to < 3 Years,Indiana
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,Indiana
+317,1,35-49 Years,Asian alone,5 or More Years,Indiana
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,Indiana
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Indiana
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Indiana
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Indiana
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Indiana
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Indiana
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Indiana
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Indiana
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Indiana
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Indiana
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Indiana
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Indiana
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Indiana
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Indiana
+332,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Indiana
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Indiana
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Indiana
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Indiana
+336,0,35-49 Years,Population of two or more races:,All Time,Indiana
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Indiana
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Indiana
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Indiana
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Indiana
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Indiana
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Indiana
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Indiana
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Indiana
+345,393,50-64 Years,White alone,All Time,Indiana
+346,20,50-64 Years,White alone,< 30 Days,Indiana
+347,50,50-64 Years,White alone,30 to < 90 Days,Indiana
+348,43,50-64 Years,White alone,90 Days to < 6 Months,Indiana
+349,74,50-64 Years,White alone,6 Months to < 1 Year,Indiana
+350,97,50-64 Years,White alone,1 Year to < 2 Years,Indiana
+351,40,50-64 Years,White alone,2 Years to < 3 Years,Indiana
+352,52,50-64 Years,White alone,3 Years to < 5 Years,Indiana
+353,17,50-64 Years,White alone,5 or More Years,Indiana
+354,186,50-64 Years,Black or African American alone,All Time,Indiana
+355,5,50-64 Years,Black or African American alone,< 30 Days,Indiana
+356,19,50-64 Years,Black or African American alone,30 to < 90 Days,Indiana
+357,14,50-64 Years,Black or African American alone,90 Days to < 6 Months,Indiana
+358,33,50-64 Years,Black or African American alone,6 Months to < 1 Year,Indiana
+359,53,50-64 Years,Black or African American alone,1 Year to < 2 Years,Indiana
+360,20,50-64 Years,Black or African American alone,2 Years to < 3 Years,Indiana
+361,25,50-64 Years,Black or African American alone,3 Years to < 5 Years,Indiana
+362,17,50-64 Years,Black or African American alone,5 or More Years,Indiana
+363,44,50-64 Years,Hispanic or Latino,All Time,Indiana
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Indiana
+365,3,50-64 Years,Hispanic or Latino,30 to < 90 Days,Indiana
+366,5,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Indiana
+367,7,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Indiana
+368,15,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Indiana
+369,4,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Indiana
+370,10,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Indiana
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Indiana
+372,13,50-64 Years,Asian alone,All Time,Indiana
+373,0,50-64 Years,Asian alone,< 30 Days,Indiana
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Indiana
+375,3,50-64 Years,Asian alone,90 Days to < 6 Months,Indiana
+376,2,50-64 Years,Asian alone,6 Months to < 1 Year,Indiana
+377,6,50-64 Years,Asian alone,1 Year to < 2 Years,Indiana
+378,1,50-64 Years,Asian alone,2 Years to < 3 Years,Indiana
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Indiana
+380,1,50-64 Years,Asian alone,5 or More Years,Indiana
+381,2,50-64 Years,American Indian and Alaska Native alone,All Time,Indiana
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Indiana
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Indiana
+384,1,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Indiana
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Indiana
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Indiana
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Indiana
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Indiana
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Indiana
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Indiana
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Indiana
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Indiana
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Indiana
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Indiana
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Indiana
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Indiana
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Indiana
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Indiana
+399,2,50-64 Years,Population of two or more races:,All Time,Indiana
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Indiana
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Indiana
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Indiana
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Indiana
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Indiana
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Indiana
+406,2,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Indiana
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Indiana
+408,273,65 and Older,White alone,All Time,Indiana
+409,12,65 and Older,White alone,< 30 Days,Indiana
+410,18,65 and Older,White alone,30 to < 90 Days,Indiana
+411,39,65 and Older,White alone,90 Days to < 6 Months,Indiana
+412,55,65 and Older,White alone,6 Months to < 1 Year,Indiana
+413,62,65 and Older,White alone,1 Year to < 2 Years,Indiana
+414,36,65 and Older,White alone,2 Years to < 3 Years,Indiana
+415,31,65 and Older,White alone,3 Years to < 5 Years,Indiana
+416,20,65 and Older,White alone,5 or More Years,Indiana
+417,71,65 and Older,Black or African American alone,All Time,Indiana
+418,0,65 and Older,Black or African American alone,< 30 Days,Indiana
+419,5,65 and Older,Black or African American alone,30 to < 90 Days,Indiana
+420,6,65 and Older,Black or African American alone,90 Days to < 6 Months,Indiana
+421,10,65 and Older,Black or African American alone,6 Months to < 1 Year,Indiana
+422,23,65 and Older,Black or African American alone,1 Year to < 2 Years,Indiana
+423,13,65 and Older,Black or African American alone,2 Years to < 3 Years,Indiana
+424,7,65 and Older,Black or African American alone,3 Years to < 5 Years,Indiana
+425,7,65 and Older,Black or African American alone,5 or More Years,Indiana
+426,16,65 and Older,Hispanic or Latino,All Time,Indiana
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Indiana
+428,5,65 and Older,Hispanic or Latino,30 to < 90 Days,Indiana
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Indiana
+430,4,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Indiana
+431,3,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Indiana
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Indiana
+433,3,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Indiana
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Indiana
+435,7,65 and Older,Asian alone,All Time,Indiana
+436,0,65 and Older,Asian alone,< 30 Days,Indiana
+437,1,65 and Older,Asian alone,30 to < 90 Days,Indiana
+438,1,65 and Older,Asian alone,90 Days to < 6 Months,Indiana
+439,3,65 and Older,Asian alone,6 Months to < 1 Year,Indiana
+440,1,65 and Older,Asian alone,1 Year to < 2 Years,Indiana
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Indiana
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,Indiana
+443,0,65 and Older,Asian alone,5 or More Years,Indiana
+444,1,65 and Older,American Indian and Alaska Native alone,All Time,Indiana
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Indiana
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Indiana
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Indiana
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Indiana
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Indiana
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Indiana
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Indiana
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Indiana
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Indiana
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Indiana
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Indiana
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Indiana
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Indiana
+458,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Indiana
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Indiana
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Indiana
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Indiana
+462,0,65 and Older,Population of two or more races:,All Time,Indiana
+463,0,65 and Older,Population of two or more races:,< 30 Days,Indiana
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Indiana
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Indiana
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Indiana
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Indiana
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Indiana
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Indiana
+470,0,65 and Older,Population of two or more races:,5 or More Years,Indiana

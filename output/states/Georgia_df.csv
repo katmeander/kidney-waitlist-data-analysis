@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,901,All Ages,White alone,All Time,Georgia
+1,47,All Ages,White alone,< 30 Days,Georgia
+2,102,All Ages,White alone,30 to < 90 Days,Georgia
+3,90,All Ages,White alone,90 Days to < 6 Months,Georgia
+4,144,All Ages,White alone,6 Months to < 1 Year,Georgia
+5,212,All Ages,White alone,1 Year to < 2 Years,Georgia
+6,116,All Ages,White alone,2 Years to < 3 Years,Georgia
+7,122,All Ages,White alone,3 Years to < 5 Years,Georgia
+8,68,All Ages,White alone,5 or More Years,Georgia
+9,"2,127",All Ages,Black or African American alone,All Time,Georgia
+10,75,All Ages,Black or African American alone,< 30 Days,Georgia
+11,142,All Ages,Black or African American alone,30 to < 90 Days,Georgia
+12,169,All Ages,Black or African American alone,90 Days to < 6 Months,Georgia
+13,320,All Ages,Black or African American alone,6 Months to < 1 Year,Georgia
+14,519,All Ages,Black or African American alone,1 Year to < 2 Years,Georgia
+15,260,All Ages,Black or African American alone,2 Years to < 3 Years,Georgia
+16,364,All Ages,Black or African American alone,3 Years to < 5 Years,Georgia
+17,278,All Ages,Black or African American alone,5 or More Years,Georgia
+18,162,All Ages,Hispanic or Latino,All Time,Georgia
+19,5,All Ages,Hispanic or Latino,< 30 Days,Georgia
+20,10,All Ages,Hispanic or Latino,30 to < 90 Days,Georgia
+21,16,All Ages,Hispanic or Latino,90 Days to < 6 Months,Georgia
+22,27,All Ages,Hispanic or Latino,6 Months to < 1 Year,Georgia
+23,39,All Ages,Hispanic or Latino,1 Year to < 2 Years,Georgia
+24,16,All Ages,Hispanic or Latino,2 Years to < 3 Years,Georgia
+25,32,All Ages,Hispanic or Latino,3 Years to < 5 Years,Georgia
+26,17,All Ages,Hispanic or Latino,5 or More Years,Georgia
+27,130,All Ages,Asian alone,All Time,Georgia
+28,7,All Ages,Asian alone,< 30 Days,Georgia
+29,14,All Ages,Asian alone,30 to < 90 Days,Georgia
+30,14,All Ages,Asian alone,90 Days to < 6 Months,Georgia
+31,18,All Ages,Asian alone,6 Months to < 1 Year,Georgia
+32,30,All Ages,Asian alone,1 Year to < 2 Years,Georgia
+33,18,All Ages,Asian alone,2 Years to < 3 Years,Georgia
+34,16,All Ages,Asian alone,3 Years to < 5 Years,Georgia
+35,13,All Ages,Asian alone,5 or More Years,Georgia
+36,4,All Ages,American Indian and Alaska Native alone,All Time,Georgia
+37,1,All Ages,American Indian and Alaska Native alone,< 30 Days,Georgia
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Georgia
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Georgia
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Georgia
+41,1,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Georgia
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Georgia
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Georgia
+44,1,All Ages,American Indian and Alaska Native alone,5 or More Years,Georgia
+45,3,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Georgia
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Georgia
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Georgia
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Georgia
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Georgia
+50,2,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Georgia
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Georgia
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Georgia
+53,1,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Georgia
+54,6,All Ages,Population of two or more races:,All Time,Georgia
+55,0,All Ages,Population of two or more races:,< 30 Days,Georgia
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Georgia
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Georgia
+58,2,All Ages,Population of two or more races:,6 Months to < 1 Year,Georgia
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Georgia
+60,3,All Ages,Population of two or more races:,2 Years to < 3 Years,Georgia
+61,1,All Ages,Population of two or more races:,3 Years to < 5 Years,Georgia
+62,0,All Ages,Population of two or more races:,5 or More Years,Georgia
+63,9,0-5 Years,White alone,All Time,Georgia
+64,2,0-5 Years,White alone,< 30 Days,Georgia
+65,2,0-5 Years,White alone,30 to < 90 Days,Georgia
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Georgia
+67,3,0-5 Years,White alone,6 Months to < 1 Year,Georgia
+68,2,0-5 Years,White alone,1 Year to < 2 Years,Georgia
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Georgia
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Georgia
+71,0,0-5 Years,White alone,5 or More Years,Georgia
+72,8,0-5 Years,Black or African American alone,All Time,Georgia
+73,2,0-5 Years,Black or African American alone,< 30 Days,Georgia
+74,2,0-5 Years,Black or African American alone,30 to < 90 Days,Georgia
+75,1,0-5 Years,Black or African American alone,90 Days to < 6 Months,Georgia
+76,2,0-5 Years,Black or African American alone,6 Months to < 1 Year,Georgia
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Georgia
+78,1,0-5 Years,Black or African American alone,2 Years to < 3 Years,Georgia
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Georgia
+80,4,0-5 Years,Hispanic or Latino,All Time,Georgia
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Georgia
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Georgia
+83,1,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Georgia
+84,2,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Georgia
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Georgia
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Georgia
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Georgia
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Georgia
+89,0,0-5 Years,Asian alone,All Time,Georgia
+90,0,0-5 Years,Asian alone,< 30 Days,Georgia
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Georgia
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Georgia
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Georgia
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Georgia
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Georgia
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Georgia
+97,1,0-5 Years,American Indian and Alaska Native alone,All Time,Georgia
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Georgia
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Georgia
+100,1,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Georgia
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Georgia
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Georgia
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Georgia
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Georgia
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Georgia
+106,0,0-5 Years,Population of two or more races:,All Time,Georgia
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Georgia
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Georgia
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Georgia
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Georgia
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Georgia
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Georgia
+113,5,6-10 Years,White alone,All Time,Georgia
+114,0,6-10 Years,White alone,< 30 Days,Georgia
+115,1,6-10 Years,White alone,30 to < 90 Days,Georgia
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Georgia
+117,2,6-10 Years,White alone,6 Months to < 1 Year,Georgia
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Georgia
+119,1,6-10 Years,White alone,2 Years to < 3 Years,Georgia
+120,1,6-10 Years,White alone,3 Years to < 5 Years,Georgia
+121,0,6-10 Years,White alone,5 or More Years,Georgia
+122,12,6-10 Years,Black or African American alone,All Time,Georgia
+123,0,6-10 Years,Black or African American alone,< 30 Days,Georgia
+124,1,6-10 Years,Black or African American alone,30 to < 90 Days,Georgia
+125,2,6-10 Years,Black or African American alone,90 Days to < 6 Months,Georgia
+126,1,6-10 Years,Black or African American alone,6 Months to < 1 Year,Georgia
+127,3,6-10 Years,Black or African American alone,1 Year to < 2 Years,Georgia
+128,2,6-10 Years,Black or African American alone,2 Years to < 3 Years,Georgia
+129,1,6-10 Years,Black or African American alone,3 Years to < 5 Years,Georgia
+130,2,6-10 Years,Black or African American alone,5 or More Years,Georgia
+131,0,6-10 Years,Hispanic or Latino,All Time,Georgia
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Georgia
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Georgia
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Georgia
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Georgia
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Georgia
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Georgia
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Georgia
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Georgia
+140,0,6-10 Years,Asian alone,All Time,Georgia
+141,0,6-10 Years,Asian alone,< 30 Days,Georgia
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Georgia
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Georgia
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Georgia
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Georgia
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Georgia
+147,0,6-10 Years,Asian alone,5 or More Years,Georgia
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Georgia
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Georgia
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Georgia
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Georgia
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Georgia
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Georgia
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Georgia
+155,0,6-10 Years,Population of two or more races:,All Time,Georgia
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Georgia
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Georgia
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Georgia
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Georgia
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Georgia
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Georgia
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Georgia
+163,6,11-17 Years,White alone,All Time,Georgia
+164,0,11-17 Years,White alone,< 30 Days,Georgia
+165,1,11-17 Years,White alone,30 to < 90 Days,Georgia
+166,1,11-17 Years,White alone,90 Days to < 6 Months,Georgia
+167,1,11-17 Years,White alone,6 Months to < 1 Year,Georgia
+168,2,11-17 Years,White alone,1 Year to < 2 Years,Georgia
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Georgia
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Georgia
+171,1,11-17 Years,White alone,5 or More Years,Georgia
+172,17,11-17 Years,Black or African American alone,All Time,Georgia
+173,1,11-17 Years,Black or African American alone,< 30 Days,Georgia
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,Georgia
+175,3,11-17 Years,Black or African American alone,90 Days to < 6 Months,Georgia
+176,3,11-17 Years,Black or African American alone,6 Months to < 1 Year,Georgia
+177,2,11-17 Years,Black or African American alone,1 Year to < 2 Years,Georgia
+178,1,11-17 Years,Black or African American alone,2 Years to < 3 Years,Georgia
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Georgia
+180,6,11-17 Years,Black or African American alone,5 or More Years,Georgia
+181,5,11-17 Years,Hispanic or Latino,All Time,Georgia
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Georgia
+183,2,11-17 Years,Hispanic or Latino,30 to < 90 Days,Georgia
+184,1,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Georgia
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Georgia
+186,2,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Georgia
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Georgia
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Georgia
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Georgia
+190,2,11-17 Years,Asian alone,All Time,Georgia
+191,0,11-17 Years,Asian alone,< 30 Days,Georgia
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Georgia
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Georgia
+194,1,11-17 Years,Asian alone,6 Months to < 1 Year,Georgia
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Georgia
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Georgia
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Georgia
+198,1,11-17 Years,Asian alone,5 or More Years,Georgia
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Georgia
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Georgia
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Georgia
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Georgia
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Georgia
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Georgia
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Georgia
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Georgia
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Georgia
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Georgia
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Georgia
+210,0,11-17 Years,Population of two or more races:,All Time,Georgia
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Georgia
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Georgia
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Georgia
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Georgia
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Georgia
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Georgia
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Georgia
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Georgia
+219,61,18-34 Years,White alone,All Time,Georgia
+220,6,18-34 Years,White alone,< 30 Days,Georgia
+221,8,18-34 Years,White alone,30 to < 90 Days,Georgia
+222,5,18-34 Years,White alone,90 Days to < 6 Months,Georgia
+223,8,18-34 Years,White alone,6 Months to < 1 Year,Georgia
+224,12,18-34 Years,White alone,1 Year to < 2 Years,Georgia
+225,9,18-34 Years,White alone,2 Years to < 3 Years,Georgia
+226,8,18-34 Years,White alone,3 Years to < 5 Years,Georgia
+227,5,18-34 Years,White alone,5 or More Years,Georgia
+228,149,18-34 Years,Black or African American alone,All Time,Georgia
+229,7,18-34 Years,Black or African American alone,< 30 Days,Georgia
+230,16,18-34 Years,Black or African American alone,30 to < 90 Days,Georgia
+231,9,18-34 Years,Black or African American alone,90 Days to < 6 Months,Georgia
+232,20,18-34 Years,Black or African American alone,6 Months to < 1 Year,Georgia
+233,49,18-34 Years,Black or African American alone,1 Year to < 2 Years,Georgia
+234,15,18-34 Years,Black or African American alone,2 Years to < 3 Years,Georgia
+235,21,18-34 Years,Black or African American alone,3 Years to < 5 Years,Georgia
+236,12,18-34 Years,Black or African American alone,5 or More Years,Georgia
+237,27,18-34 Years,Hispanic or Latino,All Time,Georgia
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,Georgia
+239,2,18-34 Years,Hispanic or Latino,30 to < 90 Days,Georgia
+240,3,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Georgia
+241,4,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Georgia
+242,6,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Georgia
+243,5,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Georgia
+244,6,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Georgia
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Georgia
+246,9,18-34 Years,Asian alone,All Time,Georgia
+247,0,18-34 Years,Asian alone,< 30 Days,Georgia
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Georgia
+249,3,18-34 Years,Asian alone,90 Days to < 6 Months,Georgia
+250,3,18-34 Years,Asian alone,6 Months to < 1 Year,Georgia
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Georgia
+252,2,18-34 Years,Asian alone,2 Years to < 3 Years,Georgia
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Georgia
+254,0,18-34 Years,Asian alone,5 or More Years,Georgia
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Georgia
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Georgia
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Georgia
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Georgia
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Georgia
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Georgia
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Georgia
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Georgia
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Georgia
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Georgia
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Georgia
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Georgia
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Georgia
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Georgia
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Georgia
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Georgia
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Georgia
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Georgia
+273,1,18-34 Years,Population of two or more races:,All Time,Georgia
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Georgia
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Georgia
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Georgia
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Georgia
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Georgia
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Georgia
+280,1,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Georgia
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Georgia
+282,168,35-49 Years,White alone,All Time,Georgia
+283,5,35-49 Years,White alone,< 30 Days,Georgia
+284,17,35-49 Years,White alone,30 to < 90 Days,Georgia
+285,26,35-49 Years,White alone,90 Days to < 6 Months,Georgia
+286,35,35-49 Years,White alone,6 Months to < 1 Year,Georgia
+287,32,35-49 Years,White alone,1 Year to < 2 Years,Georgia
+288,20,35-49 Years,White alone,2 Years to < 3 Years,Georgia
+289,24,35-49 Years,White alone,3 Years to < 5 Years,Georgia
+290,9,35-49 Years,White alone,5 or More Years,Georgia
+291,577,35-49 Years,Black or African American alone,All Time,Georgia
+292,28,35-49 Years,Black or African American alone,< 30 Days,Georgia
+293,42,35-49 Years,Black or African American alone,30 to < 90 Days,Georgia
+294,54,35-49 Years,Black or African American alone,90 Days to < 6 Months,Georgia
+295,92,35-49 Years,Black or African American alone,6 Months to < 1 Year,Georgia
+296,140,35-49 Years,Black or African American alone,1 Year to < 2 Years,Georgia
+297,74,35-49 Years,Black or African American alone,2 Years to < 3 Years,Georgia
+298,85,35-49 Years,Black or African American alone,3 Years to < 5 Years,Georgia
+299,62,35-49 Years,Black or African American alone,5 or More Years,Georgia
+300,35,35-49 Years,Hispanic or Latino,All Time,Georgia
+301,2,35-49 Years,Hispanic or Latino,< 30 Days,Georgia
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Georgia
+303,2,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Georgia
+304,9,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Georgia
+305,9,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Georgia
+306,3,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Georgia
+307,5,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Georgia
+308,5,35-49 Years,Hispanic or Latino,5 or More Years,Georgia
+309,34,35-49 Years,Asian alone,All Time,Georgia
+310,0,35-49 Years,Asian alone,< 30 Days,Georgia
+311,6,35-49 Years,Asian alone,30 to < 90 Days,Georgia
+312,4,35-49 Years,Asian alone,90 Days to < 6 Months,Georgia
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,Georgia
+314,10,35-49 Years,Asian alone,1 Year to < 2 Years,Georgia
+315,9,35-49 Years,Asian alone,2 Years to < 3 Years,Georgia
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,Georgia
+317,3,35-49 Years,Asian alone,5 or More Years,Georgia
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Georgia
+319,1,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Georgia
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Georgia
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Georgia
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Georgia
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Georgia
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Georgia
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Georgia
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Georgia
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Georgia
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Georgia
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Georgia
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Georgia
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Georgia
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Georgia
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Georgia
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Georgia
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Georgia
+336,1,35-49 Years,Population of two or more races:,All Time,Georgia
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Georgia
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Georgia
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Georgia
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Georgia
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Georgia
+342,1,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Georgia
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Georgia
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Georgia
+345,367,50-64 Years,White alone,All Time,Georgia
+346,26,50-64 Years,White alone,< 30 Days,Georgia
+347,41,50-64 Years,White alone,30 to < 90 Days,Georgia
+348,31,50-64 Years,White alone,90 Days to < 6 Months,Georgia
+349,54,50-64 Years,White alone,6 Months to < 1 Year,Georgia
+350,86,50-64 Years,White alone,1 Year to < 2 Years,Georgia
+351,56,50-64 Years,White alone,2 Years to < 3 Years,Georgia
+352,45,50-64 Years,White alone,3 Years to < 5 Years,Georgia
+353,28,50-64 Years,White alone,5 or More Years,Georgia
+354,"1,008",50-64 Years,Black or African American alone,All Time,Georgia
+355,28,50-64 Years,Black or African American alone,< 30 Days,Georgia
+356,59,50-64 Years,Black or African American alone,30 to < 90 Days,Georgia
+357,65,50-64 Years,Black or African American alone,90 Days to < 6 Months,Georgia
+358,163,50-64 Years,Black or African American alone,6 Months to < 1 Year,Georgia
+359,234,50-64 Years,Black or African American alone,1 Year to < 2 Years,Georgia
+360,123,50-64 Years,Black or African American alone,2 Years to < 3 Years,Georgia
+361,186,50-64 Years,Black or African American alone,3 Years to < 5 Years,Georgia
+362,150,50-64 Years,Black or African American alone,5 or More Years,Georgia
+363,71,50-64 Years,Hispanic or Latino,All Time,Georgia
+364,1,50-64 Years,Hispanic or Latino,< 30 Days,Georgia
+365,6,50-64 Years,Hispanic or Latino,30 to < 90 Days,Georgia
+366,8,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Georgia
+367,9,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Georgia
+368,14,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Georgia
+369,7,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Georgia
+370,17,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Georgia
+371,9,50-64 Years,Hispanic or Latino,5 or More Years,Georgia
+372,61,50-64 Years,Asian alone,All Time,Georgia
+373,7,50-64 Years,Asian alone,< 30 Days,Georgia
+374,6,50-64 Years,Asian alone,30 to < 90 Days,Georgia
+375,5,50-64 Years,Asian alone,90 Days to < 6 Months,Georgia
+376,7,50-64 Years,Asian alone,6 Months to < 1 Year,Georgia
+377,15,50-64 Years,Asian alone,1 Year to < 2 Years,Georgia
+378,6,50-64 Years,Asian alone,2 Years to < 3 Years,Georgia
+379,8,50-64 Years,Asian alone,3 Years to < 5 Years,Georgia
+380,7,50-64 Years,Asian alone,5 or More Years,Georgia
+381,1,50-64 Years,American Indian and Alaska Native alone,All Time,Georgia
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Georgia
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Georgia
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Georgia
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Georgia
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Georgia
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Georgia
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Georgia
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Georgia
+390,3,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Georgia
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Georgia
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Georgia
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Georgia
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Georgia
+395,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Georgia
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Georgia
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Georgia
+398,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Georgia
+399,3,50-64 Years,Population of two or more races:,All Time,Georgia
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Georgia
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Georgia
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Georgia
+403,1,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Georgia
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Georgia
+405,2,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Georgia
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Georgia
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Georgia
+408,285,65 and Older,White alone,All Time,Georgia
+409,8,65 and Older,White alone,< 30 Days,Georgia
+410,32,65 and Older,White alone,30 to < 90 Days,Georgia
+411,27,65 and Older,White alone,90 Days to < 6 Months,Georgia
+412,41,65 and Older,White alone,6 Months to < 1 Year,Georgia
+413,78,65 and Older,White alone,1 Year to < 2 Years,Georgia
+414,30,65 and Older,White alone,2 Years to < 3 Years,Georgia
+415,44,65 and Older,White alone,3 Years to < 5 Years,Georgia
+416,25,65 and Older,White alone,5 or More Years,Georgia
+417,356,65 and Older,Black or African American alone,All Time,Georgia
+418,9,65 and Older,Black or African American alone,< 30 Days,Georgia
+419,21,65 and Older,Black or African American alone,30 to < 90 Days,Georgia
+420,35,65 and Older,Black or African American alone,90 Days to < 6 Months,Georgia
+421,39,65 and Older,Black or African American alone,6 Months to < 1 Year,Georgia
+422,91,65 and Older,Black or African American alone,1 Year to < 2 Years,Georgia
+423,44,65 and Older,Black or African American alone,2 Years to < 3 Years,Georgia
+424,71,65 and Older,Black or African American alone,3 Years to < 5 Years,Georgia
+425,46,65 and Older,Black or African American alone,5 or More Years,Georgia
+426,20,65 and Older,Hispanic or Latino,All Time,Georgia
+427,1,65 and Older,Hispanic or Latino,< 30 Days,Georgia
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Georgia
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Georgia
+430,3,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Georgia
+431,7,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Georgia
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Georgia
+433,4,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Georgia
+434,3,65 and Older,Hispanic or Latino,5 or More Years,Georgia
+435,24,65 and Older,Asian alone,All Time,Georgia
+436,0,65 and Older,Asian alone,< 30 Days,Georgia
+437,1,65 and Older,Asian alone,30 to < 90 Days,Georgia
+438,2,65 and Older,Asian alone,90 Days to < 6 Months,Georgia
+439,6,65 and Older,Asian alone,6 Months to < 1 Year,Georgia
+440,5,65 and Older,Asian alone,1 Year to < 2 Years,Georgia
+441,1,65 and Older,Asian alone,2 Years to < 3 Years,Georgia
+442,7,65 and Older,Asian alone,3 Years to < 5 Years,Georgia
+443,2,65 and Older,Asian alone,5 or More Years,Georgia
+444,1,65 and Older,American Indian and Alaska Native alone,All Time,Georgia
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Georgia
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Georgia
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Georgia
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Georgia
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Georgia
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Georgia
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Georgia
+452,1,65 and Older,American Indian and Alaska Native alone,5 or More Years,Georgia
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Georgia
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Georgia
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Georgia
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Georgia
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Georgia
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Georgia
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Georgia
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Georgia
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Georgia
+462,1,65 and Older,Population of two or more races:,All Time,Georgia
+463,0,65 and Older,Population of two or more races:,< 30 Days,Georgia
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Georgia
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Georgia
+466,1,65 and Older,Population of two or more races:,6 Months to < 1 Year,Georgia
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Georgia
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Georgia
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Georgia
+470,0,65 and Older,Population of two or more races:,5 or More Years,Georgia

@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"2,240",All Ages,White alone,All Time,Massachusetts
+1,72,All Ages,White alone,< 30 Days,Massachusetts
+2,116,All Ages,White alone,30 to < 90 Days,Massachusetts
+3,154,All Ages,White alone,90 Days to < 6 Months,Massachusetts
+4,250,All Ages,White alone,6 Months to < 1 Year,Massachusetts
+5,502,All Ages,White alone,1 Year to < 2 Years,Massachusetts
+6,399,All Ages,White alone,2 Years to < 3 Years,Massachusetts
+7,424,All Ages,White alone,3 Years to < 5 Years,Massachusetts
+8,323,All Ages,White alone,5 or More Years,Massachusetts
+9,679,All Ages,Black or African American alone,All Time,Massachusetts
+10,7,All Ages,Black or African American alone,< 30 Days,Massachusetts
+11,32,All Ages,Black or African American alone,30 to < 90 Days,Massachusetts
+12,47,All Ages,Black or African American alone,90 Days to < 6 Months,Massachusetts
+13,77,All Ages,Black or African American alone,6 Months to < 1 Year,Massachusetts
+14,168,All Ages,Black or African American alone,1 Year to < 2 Years,Massachusetts
+15,112,All Ages,Black or African American alone,2 Years to < 3 Years,Massachusetts
+16,145,All Ages,Black or African American alone,3 Years to < 5 Years,Massachusetts
+17,91,All Ages,Black or African American alone,5 or More Years,Massachusetts
+18,587,All Ages,Hispanic or Latino,All Time,Massachusetts
+19,7,All Ages,Hispanic or Latino,< 30 Days,Massachusetts
+20,36,All Ages,Hispanic or Latino,30 to < 90 Days,Massachusetts
+21,37,All Ages,Hispanic or Latino,90 Days to < 6 Months,Massachusetts
+22,76,All Ages,Hispanic or Latino,6 Months to < 1 Year,Massachusetts
+23,140,All Ages,Hispanic or Latino,1 Year to < 2 Years,Massachusetts
+24,109,All Ages,Hispanic or Latino,2 Years to < 3 Years,Massachusetts
+25,119,All Ages,Hispanic or Latino,3 Years to < 5 Years,Massachusetts
+26,63,All Ages,Hispanic or Latino,5 or More Years,Massachusetts
+27,286,All Ages,Asian alone,All Time,Massachusetts
+28,6,All Ages,Asian alone,< 30 Days,Massachusetts
+29,14,All Ages,Asian alone,30 to < 90 Days,Massachusetts
+30,15,All Ages,Asian alone,90 Days to < 6 Months,Massachusetts
+31,31,All Ages,Asian alone,6 Months to < 1 Year,Massachusetts
+32,74,All Ages,Asian alone,1 Year to < 2 Years,Massachusetts
+33,56,All Ages,Asian alone,2 Years to < 3 Years,Massachusetts
+34,53,All Ages,Asian alone,3 Years to < 5 Years,Massachusetts
+35,37,All Ages,Asian alone,5 or More Years,Massachusetts
+36,4,All Ages,American Indian and Alaska Native alone,All Time,Massachusetts
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Massachusetts
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Massachusetts
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Massachusetts
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Massachusetts
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Massachusetts
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Massachusetts
+43,2,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Massachusetts
+44,1,All Ages,American Indian and Alaska Native alone,5 or More Years,Massachusetts
+45,6,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Massachusetts
+46,1,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Massachusetts
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Massachusetts
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Massachusetts
+49,3,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Massachusetts
+50,1,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Massachusetts
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Massachusetts
+52,1,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Massachusetts
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Massachusetts
+54,16,All Ages,Population of two or more races:,All Time,Massachusetts
+55,1,All Ages,Population of two or more races:,< 30 Days,Massachusetts
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Massachusetts
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,Massachusetts
+58,1,All Ages,Population of two or more races:,6 Months to < 1 Year,Massachusetts
+59,5,All Ages,Population of two or more races:,1 Year to < 2 Years,Massachusetts
+60,2,All Ages,Population of two or more races:,2 Years to < 3 Years,Massachusetts
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,Massachusetts
+62,3,All Ages,Population of two or more races:,5 or More Years,Massachusetts
+63,5,0-5 Years,White alone,All Time,Massachusetts
+64,0,0-5 Years,White alone,< 30 Days,Massachusetts
+65,0,0-5 Years,White alone,30 to < 90 Days,Massachusetts
+66,1,0-5 Years,White alone,90 Days to < 6 Months,Massachusetts
+67,2,0-5 Years,White alone,6 Months to < 1 Year,Massachusetts
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Massachusetts
+69,1,0-5 Years,White alone,2 Years to < 3 Years,Massachusetts
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Massachusetts
+71,0,0-5 Years,White alone,5 or More Years,Massachusetts
+72,3,0-5 Years,Black or African American alone,All Time,Massachusetts
+73,0,0-5 Years,Black or African American alone,< 30 Days,Massachusetts
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Massachusetts
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Massachusetts
+76,2,0-5 Years,Black or African American alone,6 Months to < 1 Year,Massachusetts
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Massachusetts
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Massachusetts
+79,1,0-5 Years,Black or African American alone,3 Years to < 5 Years,Massachusetts
+80,2,0-5 Years,Hispanic or Latino,All Time,Massachusetts
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Massachusetts
+82,2,0-5 Years,Hispanic or Latino,30 to < 90 Days,Massachusetts
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Massachusetts
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Massachusetts
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Massachusetts
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Massachusetts
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Massachusetts
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Massachusetts
+89,1,0-5 Years,Asian alone,All Time,Massachusetts
+90,0,0-5 Years,Asian alone,< 30 Days,Massachusetts
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Massachusetts
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Massachusetts
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Massachusetts
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Massachusetts
+95,1,0-5 Years,Asian alone,2 Years to < 3 Years,Massachusetts
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Massachusetts
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Massachusetts
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Massachusetts
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Massachusetts
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Massachusetts
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Massachusetts
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Massachusetts
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Massachusetts
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Massachusetts
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Massachusetts
+106,0,0-5 Years,Population of two or more races:,All Time,Massachusetts
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Massachusetts
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Massachusetts
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Massachusetts
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Massachusetts
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Massachusetts
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Massachusetts
+113,2,6-10 Years,White alone,All Time,Massachusetts
+114,0,6-10 Years,White alone,< 30 Days,Massachusetts
+115,1,6-10 Years,White alone,30 to < 90 Days,Massachusetts
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Massachusetts
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Massachusetts
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Massachusetts
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Massachusetts
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Massachusetts
+121,1,6-10 Years,White alone,5 or More Years,Massachusetts
+122,1,6-10 Years,Black or African American alone,All Time,Massachusetts
+123,0,6-10 Years,Black or African American alone,< 30 Days,Massachusetts
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Massachusetts
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Massachusetts
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Massachusetts
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Massachusetts
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Massachusetts
+129,1,6-10 Years,Black or African American alone,3 Years to < 5 Years,Massachusetts
+130,0,6-10 Years,Black or African American alone,5 or More Years,Massachusetts
+131,4,6-10 Years,Hispanic or Latino,All Time,Massachusetts
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Massachusetts
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Massachusetts
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Massachusetts
+135,1,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Massachusetts
+136,2,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Massachusetts
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Massachusetts
+138,1,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Massachusetts
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Massachusetts
+140,1,6-10 Years,Asian alone,All Time,Massachusetts
+141,0,6-10 Years,Asian alone,< 30 Days,Massachusetts
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Massachusetts
+143,1,6-10 Years,Asian alone,6 Months to < 1 Year,Massachusetts
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Massachusetts
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Massachusetts
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Massachusetts
+147,0,6-10 Years,Asian alone,5 or More Years,Massachusetts
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Massachusetts
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Massachusetts
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Massachusetts
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Massachusetts
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Massachusetts
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Massachusetts
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Massachusetts
+155,0,6-10 Years,Population of two or more races:,All Time,Massachusetts
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Massachusetts
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Massachusetts
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Massachusetts
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Massachusetts
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Massachusetts
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Massachusetts
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Massachusetts
+163,4,11-17 Years,White alone,All Time,Massachusetts
+164,0,11-17 Years,White alone,< 30 Days,Massachusetts
+165,0,11-17 Years,White alone,30 to < 90 Days,Massachusetts
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Massachusetts
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Massachusetts
+168,2,11-17 Years,White alone,1 Year to < 2 Years,Massachusetts
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Massachusetts
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Massachusetts
+171,1,11-17 Years,White alone,5 or More Years,Massachusetts
+172,2,11-17 Years,Black or African American alone,All Time,Massachusetts
+173,0,11-17 Years,Black or African American alone,< 30 Days,Massachusetts
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Massachusetts
+175,1,11-17 Years,Black or African American alone,90 Days to < 6 Months,Massachusetts
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Massachusetts
+177,1,11-17 Years,Black or African American alone,1 Year to < 2 Years,Massachusetts
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Massachusetts
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Massachusetts
+180,0,11-17 Years,Black or African American alone,5 or More Years,Massachusetts
+181,10,11-17 Years,Hispanic or Latino,All Time,Massachusetts
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Massachusetts
+183,2,11-17 Years,Hispanic or Latino,30 to < 90 Days,Massachusetts
+184,1,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Massachusetts
+185,1,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Massachusetts
+186,2,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Massachusetts
+187,2,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Massachusetts
+188,1,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Massachusetts
+189,1,11-17 Years,Hispanic or Latino,5 or More Years,Massachusetts
+190,1,11-17 Years,Asian alone,All Time,Massachusetts
+191,0,11-17 Years,Asian alone,< 30 Days,Massachusetts
+192,1,11-17 Years,Asian alone,30 to < 90 Days,Massachusetts
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Massachusetts
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Massachusetts
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Massachusetts
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Massachusetts
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Massachusetts
+198,0,11-17 Years,Asian alone,5 or More Years,Massachusetts
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Massachusetts
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Massachusetts
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Massachusetts
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Massachusetts
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Massachusetts
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Massachusetts
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Massachusetts
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Massachusetts
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Massachusetts
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Massachusetts
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Massachusetts
+210,0,11-17 Years,Population of two or more races:,All Time,Massachusetts
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Massachusetts
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Massachusetts
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Massachusetts
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Massachusetts
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Massachusetts
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Massachusetts
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Massachusetts
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Massachusetts
+219,126,18-34 Years,White alone,All Time,Massachusetts
+220,4,18-34 Years,White alone,< 30 Days,Massachusetts
+221,10,18-34 Years,White alone,30 to < 90 Days,Massachusetts
+222,12,18-34 Years,White alone,90 Days to < 6 Months,Massachusetts
+223,21,18-34 Years,White alone,6 Months to < 1 Year,Massachusetts
+224,29,18-34 Years,White alone,1 Year to < 2 Years,Massachusetts
+225,19,18-34 Years,White alone,2 Years to < 3 Years,Massachusetts
+226,15,18-34 Years,White alone,3 Years to < 5 Years,Massachusetts
+227,16,18-34 Years,White alone,5 or More Years,Massachusetts
+228,38,18-34 Years,Black or African American alone,All Time,Massachusetts
+229,0,18-34 Years,Black or African American alone,< 30 Days,Massachusetts
+230,4,18-34 Years,Black or African American alone,30 to < 90 Days,Massachusetts
+231,5,18-34 Years,Black or African American alone,90 Days to < 6 Months,Massachusetts
+232,10,18-34 Years,Black or African American alone,6 Months to < 1 Year,Massachusetts
+233,7,18-34 Years,Black or African American alone,1 Year to < 2 Years,Massachusetts
+234,2,18-34 Years,Black or African American alone,2 Years to < 3 Years,Massachusetts
+235,6,18-34 Years,Black or African American alone,3 Years to < 5 Years,Massachusetts
+236,4,18-34 Years,Black or African American alone,5 or More Years,Massachusetts
+237,58,18-34 Years,Hispanic or Latino,All Time,Massachusetts
+238,2,18-34 Years,Hispanic or Latino,< 30 Days,Massachusetts
+239,5,18-34 Years,Hispanic or Latino,30 to < 90 Days,Massachusetts
+240,4,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Massachusetts
+241,10,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Massachusetts
+242,19,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Massachusetts
+243,7,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Massachusetts
+244,8,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Massachusetts
+245,3,18-34 Years,Hispanic or Latino,5 or More Years,Massachusetts
+246,22,18-34 Years,Asian alone,All Time,Massachusetts
+247,3,18-34 Years,Asian alone,< 30 Days,Massachusetts
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Massachusetts
+249,1,18-34 Years,Asian alone,90 Days to < 6 Months,Massachusetts
+250,5,18-34 Years,Asian alone,6 Months to < 1 Year,Massachusetts
+251,6,18-34 Years,Asian alone,1 Year to < 2 Years,Massachusetts
+252,4,18-34 Years,Asian alone,2 Years to < 3 Years,Massachusetts
+253,2,18-34 Years,Asian alone,3 Years to < 5 Years,Massachusetts
+254,1,18-34 Years,Asian alone,5 or More Years,Massachusetts
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Massachusetts
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Massachusetts
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Massachusetts
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Massachusetts
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Massachusetts
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Massachusetts
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Massachusetts
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Massachusetts
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Massachusetts
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Massachusetts
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Massachusetts
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Massachusetts
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Massachusetts
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Massachusetts
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Massachusetts
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Massachusetts
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Massachusetts
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Massachusetts
+273,3,18-34 Years,Population of two or more races:,All Time,Massachusetts
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Massachusetts
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Massachusetts
+276,1,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Massachusetts
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Massachusetts
+278,1,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Massachusetts
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Massachusetts
+280,1,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Massachusetts
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Massachusetts
+282,368,35-49 Years,White alone,All Time,Massachusetts
+283,14,35-49 Years,White alone,< 30 Days,Massachusetts
+284,21,35-49 Years,White alone,30 to < 90 Days,Massachusetts
+285,24,35-49 Years,White alone,90 Days to < 6 Months,Massachusetts
+286,45,35-49 Years,White alone,6 Months to < 1 Year,Massachusetts
+287,93,35-49 Years,White alone,1 Year to < 2 Years,Massachusetts
+288,60,35-49 Years,White alone,2 Years to < 3 Years,Massachusetts
+289,61,35-49 Years,White alone,3 Years to < 5 Years,Massachusetts
+290,50,35-49 Years,White alone,5 or More Years,Massachusetts
+291,170,35-49 Years,Black or African American alone,All Time,Massachusetts
+292,0,35-49 Years,Black or African American alone,< 30 Days,Massachusetts
+293,7,35-49 Years,Black or African American alone,30 to < 90 Days,Massachusetts
+294,14,35-49 Years,Black or African American alone,90 Days to < 6 Months,Massachusetts
+295,17,35-49 Years,Black or African American alone,6 Months to < 1 Year,Massachusetts
+296,42,35-49 Years,Black or African American alone,1 Year to < 2 Years,Massachusetts
+297,31,35-49 Years,Black or African American alone,2 Years to < 3 Years,Massachusetts
+298,36,35-49 Years,Black or African American alone,3 Years to < 5 Years,Massachusetts
+299,23,35-49 Years,Black or African American alone,5 or More Years,Massachusetts
+300,164,35-49 Years,Hispanic or Latino,All Time,Massachusetts
+301,4,35-49 Years,Hispanic or Latino,< 30 Days,Massachusetts
+302,8,35-49 Years,Hispanic or Latino,30 to < 90 Days,Massachusetts
+303,7,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Massachusetts
+304,13,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Massachusetts
+305,38,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Massachusetts
+306,41,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Massachusetts
+307,38,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Massachusetts
+308,15,35-49 Years,Hispanic or Latino,5 or More Years,Massachusetts
+309,71,35-49 Years,Asian alone,All Time,Massachusetts
+310,1,35-49 Years,Asian alone,< 30 Days,Massachusetts
+311,5,35-49 Years,Asian alone,30 to < 90 Days,Massachusetts
+312,6,35-49 Years,Asian alone,90 Days to < 6 Months,Massachusetts
+313,7,35-49 Years,Asian alone,6 Months to < 1 Year,Massachusetts
+314,18,35-49 Years,Asian alone,1 Year to < 2 Years,Massachusetts
+315,14,35-49 Years,Asian alone,2 Years to < 3 Years,Massachusetts
+316,11,35-49 Years,Asian alone,3 Years to < 5 Years,Massachusetts
+317,9,35-49 Years,Asian alone,5 or More Years,Massachusetts
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Massachusetts
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Massachusetts
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Massachusetts
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Massachusetts
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Massachusetts
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Massachusetts
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Massachusetts
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Massachusetts
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Massachusetts
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Massachusetts
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Massachusetts
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Massachusetts
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Massachusetts
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Massachusetts
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Massachusetts
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Massachusetts
+334,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Massachusetts
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Massachusetts
+336,4,35-49 Years,Population of two or more races:,All Time,Massachusetts
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Massachusetts
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Massachusetts
+339,1,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Massachusetts
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Massachusetts
+341,1,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Massachusetts
+342,1,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Massachusetts
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Massachusetts
+344,1,35-49 Years,Population of two or more races:,5 or More Years,Massachusetts
+345,992,50-64 Years,White alone,All Time,Massachusetts
+346,37,50-64 Years,White alone,< 30 Days,Massachusetts
+347,48,50-64 Years,White alone,30 to < 90 Days,Massachusetts
+348,71,50-64 Years,White alone,90 Days to < 6 Months,Massachusetts
+349,97,50-64 Years,White alone,6 Months to < 1 Year,Massachusetts
+350,213,50-64 Years,White alone,1 Year to < 2 Years,Massachusetts
+351,193,50-64 Years,White alone,2 Years to < 3 Years,Massachusetts
+352,195,50-64 Years,White alone,3 Years to < 5 Years,Massachusetts
+353,138,50-64 Years,White alone,5 or More Years,Massachusetts
+354,312,50-64 Years,Black or African American alone,All Time,Massachusetts
+355,7,50-64 Years,Black or African American alone,< 30 Days,Massachusetts
+356,14,50-64 Years,Black or African American alone,30 to < 90 Days,Massachusetts
+357,18,50-64 Years,Black or African American alone,90 Days to < 6 Months,Massachusetts
+358,30,50-64 Years,Black or African American alone,6 Months to < 1 Year,Massachusetts
+359,81,50-64 Years,Black or African American alone,1 Year to < 2 Years,Massachusetts
+360,53,50-64 Years,Black or African American alone,2 Years to < 3 Years,Massachusetts
+361,65,50-64 Years,Black or African American alone,3 Years to < 5 Years,Massachusetts
+362,44,50-64 Years,Black or African American alone,5 or More Years,Massachusetts
+363,228,50-64 Years,Hispanic or Latino,All Time,Massachusetts
+364,1,50-64 Years,Hispanic or Latino,< 30 Days,Massachusetts
+365,16,50-64 Years,Hispanic or Latino,30 to < 90 Days,Massachusetts
+366,16,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Massachusetts
+367,34,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Massachusetts
+368,53,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Massachusetts
+369,40,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Massachusetts
+370,42,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Massachusetts
+371,26,50-64 Years,Hispanic or Latino,5 or More Years,Massachusetts
+372,113,50-64 Years,Asian alone,All Time,Massachusetts
+373,2,50-64 Years,Asian alone,< 30 Days,Massachusetts
+374,6,50-64 Years,Asian alone,30 to < 90 Days,Massachusetts
+375,5,50-64 Years,Asian alone,90 Days to < 6 Months,Massachusetts
+376,7,50-64 Years,Asian alone,6 Months to < 1 Year,Massachusetts
+377,33,50-64 Years,Asian alone,1 Year to < 2 Years,Massachusetts
+378,21,50-64 Years,Asian alone,2 Years to < 3 Years,Massachusetts
+379,21,50-64 Years,Asian alone,3 Years to < 5 Years,Massachusetts
+380,18,50-64 Years,Asian alone,5 or More Years,Massachusetts
+381,2,50-64 Years,American Indian and Alaska Native alone,All Time,Massachusetts
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Massachusetts
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Massachusetts
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Massachusetts
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Massachusetts
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Massachusetts
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Massachusetts
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Massachusetts
+389,1,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Massachusetts
+390,3,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Massachusetts
+391,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Massachusetts
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Massachusetts
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Massachusetts
+394,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Massachusetts
+395,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Massachusetts
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Massachusetts
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Massachusetts
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Massachusetts
+399,4,50-64 Years,Population of two or more races:,All Time,Massachusetts
+400,1,50-64 Years,Population of two or more races:,< 30 Days,Massachusetts
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Massachusetts
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Massachusetts
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Massachusetts
+404,1,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Massachusetts
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Massachusetts
+406,1,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Massachusetts
+407,1,50-64 Years,Population of two or more races:,5 or More Years,Massachusetts
+408,743,65 and Older,White alone,All Time,Massachusetts
+409,17,65 and Older,White alone,< 30 Days,Massachusetts
+410,36,65 and Older,White alone,30 to < 90 Days,Massachusetts
+411,46,65 and Older,White alone,90 Days to < 6 Months,Massachusetts
+412,85,65 and Older,White alone,6 Months to < 1 Year,Massachusetts
+413,164,65 and Older,White alone,1 Year to < 2 Years,Massachusetts
+414,125,65 and Older,White alone,2 Years to < 3 Years,Massachusetts
+415,153,65 and Older,White alone,3 Years to < 5 Years,Massachusetts
+416,117,65 and Older,White alone,5 or More Years,Massachusetts
+417,153,65 and Older,Black or African American alone,All Time,Massachusetts
+418,0,65 and Older,Black or African American alone,< 30 Days,Massachusetts
+419,7,65 and Older,Black or African American alone,30 to < 90 Days,Massachusetts
+420,9,65 and Older,Black or African American alone,90 Days to < 6 Months,Massachusetts
+421,18,65 and Older,Black or African American alone,6 Months to < 1 Year,Massachusetts
+422,37,65 and Older,Black or African American alone,1 Year to < 2 Years,Massachusetts
+423,26,65 and Older,Black or African American alone,2 Years to < 3 Years,Massachusetts
+424,36,65 and Older,Black or African American alone,3 Years to < 5 Years,Massachusetts
+425,20,65 and Older,Black or African American alone,5 or More Years,Massachusetts
+426,121,65 and Older,Hispanic or Latino,All Time,Massachusetts
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Massachusetts
+428,3,65 and Older,Hispanic or Latino,30 to < 90 Days,Massachusetts
+429,9,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Massachusetts
+430,17,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Massachusetts
+431,26,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Massachusetts
+432,19,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Massachusetts
+433,29,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Massachusetts
+434,18,65 and Older,Hispanic or Latino,5 or More Years,Massachusetts
+435,77,65 and Older,Asian alone,All Time,Massachusetts
+436,0,65 and Older,Asian alone,< 30 Days,Massachusetts
+437,2,65 and Older,Asian alone,30 to < 90 Days,Massachusetts
+438,3,65 and Older,Asian alone,90 Days to < 6 Months,Massachusetts
+439,11,65 and Older,Asian alone,6 Months to < 1 Year,Massachusetts
+440,17,65 and Older,Asian alone,1 Year to < 2 Years,Massachusetts
+441,16,65 and Older,Asian alone,2 Years to < 3 Years,Massachusetts
+442,19,65 and Older,Asian alone,3 Years to < 5 Years,Massachusetts
+443,9,65 and Older,Asian alone,5 or More Years,Massachusetts
+444,1,65 and Older,American Indian and Alaska Native alone,All Time,Massachusetts
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Massachusetts
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Massachusetts
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Massachusetts
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Massachusetts
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Massachusetts
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Massachusetts
+451,1,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Massachusetts
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Massachusetts
+453,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Massachusetts
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Massachusetts
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Massachusetts
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Massachusetts
+457,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Massachusetts
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Massachusetts
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Massachusetts
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Massachusetts
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Massachusetts
+462,5,65 and Older,Population of two or more races:,All Time,Massachusetts
+463,0,65 and Older,Population of two or more races:,< 30 Days,Massachusetts
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Massachusetts
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Massachusetts
+466,1,65 and Older,Population of two or more races:,6 Months to < 1 Year,Massachusetts
+467,2,65 and Older,Population of two or more races:,1 Year to < 2 Years,Massachusetts
+468,1,65 and Older,Population of two or more races:,2 Years to < 3 Years,Massachusetts
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Massachusetts
+470,1,65 and Older,Population of two or more races:,5 or More Years,Massachusetts

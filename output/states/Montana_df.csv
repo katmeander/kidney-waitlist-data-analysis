@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,150,All Ages,White alone,All Time,Montana
+1,7,All Ages,White alone,< 30 Days,Montana
+2,26,All Ages,White alone,30 to < 90 Days,Montana
+3,20,All Ages,White alone,90 Days to < 6 Months,Montana
+4,26,All Ages,White alone,6 Months to < 1 Year,Montana
+5,33,All Ages,White alone,1 Year to < 2 Years,Montana
+6,10,All Ages,White alone,2 Years to < 3 Years,Montana
+7,22,All Ages,White alone,3 Years to < 5 Years,Montana
+8,6,All Ages,White alone,5 or More Years,Montana
+9,2,All Ages,Black or African American alone,All Time,Montana
+10,0,All Ages,Black or African American alone,< 30 Days,Montana
+11,0,All Ages,Black or African American alone,30 to < 90 Days,Montana
+12,1,All Ages,Black or African American alone,90 Days to < 6 Months,Montana
+13,1,All Ages,Black or African American alone,6 Months to < 1 Year,Montana
+14,0,All Ages,Black or African American alone,1 Year to < 2 Years,Montana
+15,0,All Ages,Black or African American alone,2 Years to < 3 Years,Montana
+16,0,All Ages,Black or African American alone,3 Years to < 5 Years,Montana
+17,0,All Ages,Black or African American alone,5 or More Years,Montana
+18,7,All Ages,Hispanic or Latino,All Time,Montana
+19,0,All Ages,Hispanic or Latino,< 30 Days,Montana
+20,2,All Ages,Hispanic or Latino,30 to < 90 Days,Montana
+21,1,All Ages,Hispanic or Latino,90 Days to < 6 Months,Montana
+22,2,All Ages,Hispanic or Latino,6 Months to < 1 Year,Montana
+23,1,All Ages,Hispanic or Latino,1 Year to < 2 Years,Montana
+24,1,All Ages,Hispanic or Latino,2 Years to < 3 Years,Montana
+25,0,All Ages,Hispanic or Latino,3 Years to < 5 Years,Montana
+26,0,All Ages,Hispanic or Latino,5 or More Years,Montana
+27,7,All Ages,Asian alone,All Time,Montana
+28,0,All Ages,Asian alone,< 30 Days,Montana
+29,1,All Ages,Asian alone,30 to < 90 Days,Montana
+30,0,All Ages,Asian alone,90 Days to < 6 Months,Montana
+31,3,All Ages,Asian alone,6 Months to < 1 Year,Montana
+32,2,All Ages,Asian alone,1 Year to < 2 Years,Montana
+33,0,All Ages,Asian alone,2 Years to < 3 Years,Montana
+34,0,All Ages,Asian alone,3 Years to < 5 Years,Montana
+35,1,All Ages,Asian alone,5 or More Years,Montana
+36,16,All Ages,American Indian and Alaska Native alone,All Time,Montana
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Montana
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Montana
+39,3,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Montana
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Montana
+41,4,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Montana
+42,2,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Montana
+43,6,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Montana
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Montana
+45,0,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Montana
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Montana
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Montana
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Montana
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Montana
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Montana
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Montana
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Montana
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Montana
+54,2,All Ages,Population of two or more races:,All Time,Montana
+55,0,All Ages,Population of two or more races:,< 30 Days,Montana
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Montana
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Montana
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Montana
+59,1,All Ages,Population of two or more races:,1 Year to < 2 Years,Montana
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Montana
+61,1,All Ages,Population of two or more races:,3 Years to < 5 Years,Montana
+62,0,All Ages,Population of two or more races:,5 or More Years,Montana
+63,0,0-5 Years,White alone,All Time,Montana
+64,0,0-5 Years,White alone,< 30 Days,Montana
+65,0,0-5 Years,White alone,30 to < 90 Days,Montana
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Montana
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Montana
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Montana
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Montana
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Montana
+71,0,0-5 Years,White alone,5 or More Years,Montana
+72,0,0-5 Years,Black or African American alone,All Time,Montana
+73,0,0-5 Years,Black or African American alone,< 30 Days,Montana
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Montana
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Montana
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Montana
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Montana
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Montana
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Montana
+80,1,0-5 Years,Hispanic or Latino,All Time,Montana
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Montana
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Montana
+83,1,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Montana
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Montana
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Montana
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Montana
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Montana
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Montana
+89,0,0-5 Years,Asian alone,All Time,Montana
+90,0,0-5 Years,Asian alone,< 30 Days,Montana
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Montana
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Montana
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Montana
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Montana
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Montana
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Montana
+97,1,0-5 Years,American Indian and Alaska Native alone,All Time,Montana
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Montana
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Montana
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Montana
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Montana
+102,1,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Montana
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Montana
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Montana
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Montana
+106,0,0-5 Years,Population of two or more races:,All Time,Montana
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Montana
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Montana
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Montana
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Montana
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Montana
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Montana
+113,0,6-10 Years,White alone,All Time,Montana
+114,0,6-10 Years,White alone,< 30 Days,Montana
+115,0,6-10 Years,White alone,30 to < 90 Days,Montana
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Montana
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Montana
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Montana
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Montana
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Montana
+121,0,6-10 Years,White alone,5 or More Years,Montana
+122,0,6-10 Years,Black or African American alone,All Time,Montana
+123,0,6-10 Years,Black or African American alone,< 30 Days,Montana
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Montana
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Montana
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Montana
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Montana
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Montana
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Montana
+130,0,6-10 Years,Black or African American alone,5 or More Years,Montana
+131,0,6-10 Years,Hispanic or Latino,All Time,Montana
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Montana
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Montana
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Montana
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Montana
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Montana
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Montana
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Montana
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Montana
+140,0,6-10 Years,Asian alone,All Time,Montana
+141,0,6-10 Years,Asian alone,< 30 Days,Montana
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Montana
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Montana
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Montana
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Montana
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Montana
+147,0,6-10 Years,Asian alone,5 or More Years,Montana
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Montana
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Montana
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Montana
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Montana
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Montana
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Montana
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Montana
+155,0,6-10 Years,Population of two or more races:,All Time,Montana
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Montana
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Montana
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Montana
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Montana
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Montana
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Montana
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Montana
+163,1,11-17 Years,White alone,All Time,Montana
+164,0,11-17 Years,White alone,< 30 Days,Montana
+165,1,11-17 Years,White alone,30 to < 90 Days,Montana
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Montana
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Montana
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Montana
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Montana
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Montana
+171,0,11-17 Years,White alone,5 or More Years,Montana
+172,0,11-17 Years,Black or African American alone,All Time,Montana
+173,0,11-17 Years,Black or African American alone,< 30 Days,Montana
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Montana
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Montana
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Montana
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Montana
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Montana
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Montana
+180,0,11-17 Years,Black or African American alone,5 or More Years,Montana
+181,0,11-17 Years,Hispanic or Latino,All Time,Montana
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Montana
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Montana
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Montana
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Montana
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Montana
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Montana
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Montana
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Montana
+190,0,11-17 Years,Asian alone,All Time,Montana
+191,0,11-17 Years,Asian alone,< 30 Days,Montana
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Montana
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Montana
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Montana
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Montana
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Montana
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Montana
+198,0,11-17 Years,Asian alone,5 or More Years,Montana
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Montana
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Montana
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Montana
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Montana
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Montana
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Montana
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Montana
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Montana
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Montana
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Montana
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Montana
+210,0,11-17 Years,Population of two or more races:,All Time,Montana
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Montana
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Montana
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Montana
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Montana
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Montana
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Montana
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Montana
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Montana
+219,13,18-34 Years,White alone,All Time,Montana
+220,1,18-34 Years,White alone,< 30 Days,Montana
+221,3,18-34 Years,White alone,30 to < 90 Days,Montana
+222,2,18-34 Years,White alone,90 Days to < 6 Months,Montana
+223,0,18-34 Years,White alone,6 Months to < 1 Year,Montana
+224,2,18-34 Years,White alone,1 Year to < 2 Years,Montana
+225,2,18-34 Years,White alone,2 Years to < 3 Years,Montana
+226,1,18-34 Years,White alone,3 Years to < 5 Years,Montana
+227,2,18-34 Years,White alone,5 or More Years,Montana
+228,0,18-34 Years,Black or African American alone,All Time,Montana
+229,0,18-34 Years,Black or African American alone,< 30 Days,Montana
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,Montana
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Montana
+232,0,18-34 Years,Black or African American alone,6 Months to < 1 Year,Montana
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,Montana
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Montana
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Montana
+236,0,18-34 Years,Black or African American alone,5 or More Years,Montana
+237,2,18-34 Years,Hispanic or Latino,All Time,Montana
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Montana
+239,1,18-34 Years,Hispanic or Latino,30 to < 90 Days,Montana
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Montana
+241,1,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Montana
+242,0,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Montana
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Montana
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Montana
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Montana
+246,0,18-34 Years,Asian alone,All Time,Montana
+247,0,18-34 Years,Asian alone,< 30 Days,Montana
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Montana
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Montana
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Montana
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Montana
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Montana
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Montana
+254,0,18-34 Years,Asian alone,5 or More Years,Montana
+255,3,18-34 Years,American Indian and Alaska Native alone,All Time,Montana
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Montana
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Montana
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Montana
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Montana
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Montana
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Montana
+262,3,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Montana
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Montana
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Montana
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Montana
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Montana
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Montana
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Montana
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Montana
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Montana
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Montana
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Montana
+273,0,18-34 Years,Population of two or more races:,All Time,Montana
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Montana
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Montana
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Montana
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Montana
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Montana
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Montana
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Montana
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Montana
+282,30,35-49 Years,White alone,All Time,Montana
+283,2,35-49 Years,White alone,< 30 Days,Montana
+284,8,35-49 Years,White alone,30 to < 90 Days,Montana
+285,3,35-49 Years,White alone,90 Days to < 6 Months,Montana
+286,4,35-49 Years,White alone,6 Months to < 1 Year,Montana
+287,7,35-49 Years,White alone,1 Year to < 2 Years,Montana
+288,0,35-49 Years,White alone,2 Years to < 3 Years,Montana
+289,4,35-49 Years,White alone,3 Years to < 5 Years,Montana
+290,2,35-49 Years,White alone,5 or More Years,Montana
+291,1,35-49 Years,Black or African American alone,All Time,Montana
+292,0,35-49 Years,Black or African American alone,< 30 Days,Montana
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,Montana
+294,1,35-49 Years,Black or African American alone,90 Days to < 6 Months,Montana
+295,0,35-49 Years,Black or African American alone,6 Months to < 1 Year,Montana
+296,0,35-49 Years,Black or African American alone,1 Year to < 2 Years,Montana
+297,0,35-49 Years,Black or African American alone,2 Years to < 3 Years,Montana
+298,0,35-49 Years,Black or African American alone,3 Years to < 5 Years,Montana
+299,0,35-49 Years,Black or African American alone,5 or More Years,Montana
+300,1,35-49 Years,Hispanic or Latino,All Time,Montana
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Montana
+302,1,35-49 Years,Hispanic or Latino,30 to < 90 Days,Montana
+303,0,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Montana
+304,0,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Montana
+305,0,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Montana
+306,0,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Montana
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Montana
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Montana
+309,1,35-49 Years,Asian alone,All Time,Montana
+310,0,35-49 Years,Asian alone,< 30 Days,Montana
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Montana
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Montana
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,Montana
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,Montana
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Montana
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Montana
+317,0,35-49 Years,Asian alone,5 or More Years,Montana
+318,4,35-49 Years,American Indian and Alaska Native alone,All Time,Montana
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Montana
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Montana
+321,1,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Montana
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Montana
+323,1,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Montana
+324,2,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Montana
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Montana
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Montana
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Montana
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Montana
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Montana
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Montana
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Montana
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Montana
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Montana
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Montana
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Montana
+336,2,35-49 Years,Population of two or more races:,All Time,Montana
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Montana
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Montana
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Montana
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Montana
+341,1,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Montana
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Montana
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Montana
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Montana
+345,61,50-64 Years,White alone,All Time,Montana
+346,1,50-64 Years,White alone,< 30 Days,Montana
+347,8,50-64 Years,White alone,30 to < 90 Days,Montana
+348,11,50-64 Years,White alone,90 Days to < 6 Months,Montana
+349,12,50-64 Years,White alone,6 Months to < 1 Year,Montana
+350,14,50-64 Years,White alone,1 Year to < 2 Years,Montana
+351,5,50-64 Years,White alone,2 Years to < 3 Years,Montana
+352,10,50-64 Years,White alone,3 Years to < 5 Years,Montana
+353,0,50-64 Years,White alone,5 or More Years,Montana
+354,1,50-64 Years,Black or African American alone,All Time,Montana
+355,0,50-64 Years,Black or African American alone,< 30 Days,Montana
+356,0,50-64 Years,Black or African American alone,30 to < 90 Days,Montana
+357,0,50-64 Years,Black or African American alone,90 Days to < 6 Months,Montana
+358,1,50-64 Years,Black or African American alone,6 Months to < 1 Year,Montana
+359,0,50-64 Years,Black or African American alone,1 Year to < 2 Years,Montana
+360,0,50-64 Years,Black or African American alone,2 Years to < 3 Years,Montana
+361,0,50-64 Years,Black or African American alone,3 Years to < 5 Years,Montana
+362,0,50-64 Years,Black or African American alone,5 or More Years,Montana
+363,1,50-64 Years,Hispanic or Latino,All Time,Montana
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Montana
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Montana
+366,0,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Montana
+367,0,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Montana
+368,1,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Montana
+369,0,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Montana
+370,0,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Montana
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Montana
+372,4,50-64 Years,Asian alone,All Time,Montana
+373,0,50-64 Years,Asian alone,< 30 Days,Montana
+374,1,50-64 Years,Asian alone,30 to < 90 Days,Montana
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Montana
+376,1,50-64 Years,Asian alone,6 Months to < 1 Year,Montana
+377,1,50-64 Years,Asian alone,1 Year to < 2 Years,Montana
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Montana
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Montana
+380,1,50-64 Years,Asian alone,5 or More Years,Montana
+381,6,50-64 Years,American Indian and Alaska Native alone,All Time,Montana
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Montana
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Montana
+384,2,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Montana
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Montana
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Montana
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Montana
+388,3,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Montana
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Montana
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Montana
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Montana
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Montana
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Montana
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Montana
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Montana
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Montana
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Montana
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Montana
+399,0,50-64 Years,Population of two or more races:,All Time,Montana
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Montana
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Montana
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Montana
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Montana
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Montana
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Montana
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Montana
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Montana
+408,45,65 and Older,White alone,All Time,Montana
+409,3,65 and Older,White alone,< 30 Days,Montana
+410,6,65 and Older,White alone,30 to < 90 Days,Montana
+411,4,65 and Older,White alone,90 Days to < 6 Months,Montana
+412,10,65 and Older,White alone,6 Months to < 1 Year,Montana
+413,10,65 and Older,White alone,1 Year to < 2 Years,Montana
+414,3,65 and Older,White alone,2 Years to < 3 Years,Montana
+415,7,65 and Older,White alone,3 Years to < 5 Years,Montana
+416,2,65 and Older,White alone,5 or More Years,Montana
+417,0,65 and Older,Black or African American alone,All Time,Montana
+418,0,65 and Older,Black or African American alone,< 30 Days,Montana
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,Montana
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,Montana
+421,0,65 and Older,Black or African American alone,6 Months to < 1 Year,Montana
+422,0,65 and Older,Black or African American alone,1 Year to < 2 Years,Montana
+423,0,65 and Older,Black or African American alone,2 Years to < 3 Years,Montana
+424,0,65 and Older,Black or African American alone,3 Years to < 5 Years,Montana
+425,0,65 and Older,Black or African American alone,5 or More Years,Montana
+426,2,65 and Older,Hispanic or Latino,All Time,Montana
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Montana
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Montana
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Montana
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Montana
+431,0,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Montana
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Montana
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Montana
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Montana
+435,2,65 and Older,Asian alone,All Time,Montana
+436,0,65 and Older,Asian alone,< 30 Days,Montana
+437,0,65 and Older,Asian alone,30 to < 90 Days,Montana
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Montana
+439,2,65 and Older,Asian alone,6 Months to < 1 Year,Montana
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,Montana
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Montana
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Montana
+443,0,65 and Older,Asian alone,5 or More Years,Montana
+444,2,65 and Older,American Indian and Alaska Native alone,All Time,Montana
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Montana
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Montana
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Montana
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Montana
+449,1,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Montana
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Montana
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Montana
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Montana
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Montana
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Montana
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Montana
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Montana
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Montana
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Montana
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Montana
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Montana
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Montana
+462,0,65 and Older,Population of two or more races:,All Time,Montana
+463,0,65 and Older,Population of two or more races:,< 30 Days,Montana
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Montana
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Montana
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Montana
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Montana
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Montana
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Montana
+470,0,65 and Older,Population of two or more races:,5 or More Years,Montana

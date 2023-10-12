@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,202,All Ages,White alone,All Time,Idaho
+1,6,All Ages,White alone,< 30 Days,Idaho
+2,21,All Ages,White alone,30 to < 90 Days,Idaho
+3,16,All Ages,White alone,90 Days to < 6 Months,Idaho
+4,44,All Ages,White alone,6 Months to < 1 Year,Idaho
+5,47,All Ages,White alone,1 Year to < 2 Years,Idaho
+6,34,All Ages,White alone,2 Years to < 3 Years,Idaho
+7,20,All Ages,White alone,3 Years to < 5 Years,Idaho
+8,14,All Ages,White alone,5 or More Years,Idaho
+9,3,All Ages,Black or African American alone,All Time,Idaho
+10,0,All Ages,Black or African American alone,< 30 Days,Idaho
+11,0,All Ages,Black or African American alone,30 to < 90 Days,Idaho
+12,0,All Ages,Black or African American alone,90 Days to < 6 Months,Idaho
+13,1,All Ages,Black or African American alone,6 Months to < 1 Year,Idaho
+14,1,All Ages,Black or African American alone,1 Year to < 2 Years,Idaho
+15,1,All Ages,Black or African American alone,2 Years to < 3 Years,Idaho
+16,0,All Ages,Black or African American alone,3 Years to < 5 Years,Idaho
+17,0,All Ages,Black or African American alone,5 or More Years,Idaho
+18,39,All Ages,Hispanic or Latino,All Time,Idaho
+19,4,All Ages,Hispanic or Latino,< 30 Days,Idaho
+20,3,All Ages,Hispanic or Latino,30 to < 90 Days,Idaho
+21,1,All Ages,Hispanic or Latino,90 Days to < 6 Months,Idaho
+22,11,All Ages,Hispanic or Latino,6 Months to < 1 Year,Idaho
+23,7,All Ages,Hispanic or Latino,1 Year to < 2 Years,Idaho
+24,11,All Ages,Hispanic or Latino,2 Years to < 3 Years,Idaho
+25,2,All Ages,Hispanic or Latino,3 Years to < 5 Years,Idaho
+26,0,All Ages,Hispanic or Latino,5 or More Years,Idaho
+27,4,All Ages,Asian alone,All Time,Idaho
+28,1,All Ages,Asian alone,< 30 Days,Idaho
+29,2,All Ages,Asian alone,30 to < 90 Days,Idaho
+30,0,All Ages,Asian alone,90 Days to < 6 Months,Idaho
+31,0,All Ages,Asian alone,6 Months to < 1 Year,Idaho
+32,1,All Ages,Asian alone,1 Year to < 2 Years,Idaho
+33,0,All Ages,Asian alone,2 Years to < 3 Years,Idaho
+34,0,All Ages,Asian alone,3 Years to < 5 Years,Idaho
+35,0,All Ages,Asian alone,5 or More Years,Idaho
+36,7,All Ages,American Indian and Alaska Native alone,All Time,Idaho
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Idaho
+38,1,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Idaho
+39,2,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Idaho
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Idaho
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Idaho
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Idaho
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Idaho
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Idaho
+45,6,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Idaho
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Idaho
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Idaho
+48,1,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Idaho
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Idaho
+50,3,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Idaho
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Idaho
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Idaho
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Idaho
+54,4,All Ages,Population of two or more races:,All Time,Idaho
+55,0,All Ages,Population of two or more races:,< 30 Days,Idaho
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Idaho
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,Idaho
+58,1,All Ages,Population of two or more races:,6 Months to < 1 Year,Idaho
+59,1,All Ages,Population of two or more races:,1 Year to < 2 Years,Idaho
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Idaho
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Idaho
+62,0,All Ages,Population of two or more races:,5 or More Years,Idaho
+63,0,0-5 Years,White alone,All Time,Idaho
+64,0,0-5 Years,White alone,< 30 Days,Idaho
+65,0,0-5 Years,White alone,30 to < 90 Days,Idaho
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Idaho
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Idaho
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Idaho
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Idaho
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Idaho
+71,0,0-5 Years,White alone,5 or More Years,Idaho
+72,0,0-5 Years,Black or African American alone,All Time,Idaho
+73,0,0-5 Years,Black or African American alone,< 30 Days,Idaho
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Idaho
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Idaho
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Idaho
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Idaho
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Idaho
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Idaho
+80,1,0-5 Years,Hispanic or Latino,All Time,Idaho
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Idaho
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Idaho
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Idaho
+84,1,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Idaho
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Idaho
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Idaho
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Idaho
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Idaho
+89,0,0-5 Years,Asian alone,All Time,Idaho
+90,0,0-5 Years,Asian alone,< 30 Days,Idaho
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Idaho
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Idaho
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Idaho
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Idaho
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Idaho
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Idaho
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Idaho
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Idaho
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Idaho
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Idaho
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Idaho
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Idaho
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Idaho
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Idaho
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Idaho
+106,0,0-5 Years,Population of two or more races:,All Time,Idaho
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Idaho
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Idaho
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Idaho
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Idaho
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Idaho
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Idaho
+113,1,6-10 Years,White alone,All Time,Idaho
+114,0,6-10 Years,White alone,< 30 Days,Idaho
+115,0,6-10 Years,White alone,30 to < 90 Days,Idaho
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Idaho
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Idaho
+118,1,6-10 Years,White alone,1 Year to < 2 Years,Idaho
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Idaho
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Idaho
+121,0,6-10 Years,White alone,5 or More Years,Idaho
+122,0,6-10 Years,Black or African American alone,All Time,Idaho
+123,0,6-10 Years,Black or African American alone,< 30 Days,Idaho
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Idaho
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Idaho
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Idaho
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Idaho
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Idaho
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Idaho
+130,0,6-10 Years,Black or African American alone,5 or More Years,Idaho
+131,0,6-10 Years,Hispanic or Latino,All Time,Idaho
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Idaho
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Idaho
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Idaho
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Idaho
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Idaho
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Idaho
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Idaho
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Idaho
+140,0,6-10 Years,Asian alone,All Time,Idaho
+141,0,6-10 Years,Asian alone,< 30 Days,Idaho
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Idaho
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Idaho
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Idaho
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Idaho
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Idaho
+147,0,6-10 Years,Asian alone,5 or More Years,Idaho
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Idaho
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Idaho
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Idaho
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Idaho
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Idaho
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Idaho
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Idaho
+155,0,6-10 Years,Population of two or more races:,All Time,Idaho
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Idaho
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Idaho
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Idaho
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Idaho
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Idaho
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Idaho
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Idaho
+163,0,11-17 Years,White alone,All Time,Idaho
+164,0,11-17 Years,White alone,< 30 Days,Idaho
+165,0,11-17 Years,White alone,30 to < 90 Days,Idaho
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Idaho
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Idaho
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Idaho
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Idaho
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Idaho
+171,0,11-17 Years,White alone,5 or More Years,Idaho
+172,0,11-17 Years,Black or African American alone,All Time,Idaho
+173,0,11-17 Years,Black or African American alone,< 30 Days,Idaho
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Idaho
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Idaho
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Idaho
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Idaho
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Idaho
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Idaho
+180,0,11-17 Years,Black or African American alone,5 or More Years,Idaho
+181,0,11-17 Years,Hispanic or Latino,All Time,Idaho
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Idaho
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Idaho
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Idaho
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Idaho
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Idaho
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Idaho
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Idaho
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Idaho
+190,0,11-17 Years,Asian alone,All Time,Idaho
+191,0,11-17 Years,Asian alone,< 30 Days,Idaho
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Idaho
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Idaho
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Idaho
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Idaho
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Idaho
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Idaho
+198,0,11-17 Years,Asian alone,5 or More Years,Idaho
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Idaho
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Idaho
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Idaho
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Idaho
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Idaho
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Idaho
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Idaho
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Idaho
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Idaho
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Idaho
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Idaho
+210,0,11-17 Years,Population of two or more races:,All Time,Idaho
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Idaho
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Idaho
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Idaho
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Idaho
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Idaho
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Idaho
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Idaho
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Idaho
+219,13,18-34 Years,White alone,All Time,Idaho
+220,0,18-34 Years,White alone,< 30 Days,Idaho
+221,2,18-34 Years,White alone,30 to < 90 Days,Idaho
+222,0,18-34 Years,White alone,90 Days to < 6 Months,Idaho
+223,1,18-34 Years,White alone,6 Months to < 1 Year,Idaho
+224,5,18-34 Years,White alone,1 Year to < 2 Years,Idaho
+225,3,18-34 Years,White alone,2 Years to < 3 Years,Idaho
+226,2,18-34 Years,White alone,3 Years to < 5 Years,Idaho
+227,0,18-34 Years,White alone,5 or More Years,Idaho
+228,1,18-34 Years,Black or African American alone,All Time,Idaho
+229,0,18-34 Years,Black or African American alone,< 30 Days,Idaho
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,Idaho
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Idaho
+232,0,18-34 Years,Black or African American alone,6 Months to < 1 Year,Idaho
+233,1,18-34 Years,Black or African American alone,1 Year to < 2 Years,Idaho
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Idaho
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Idaho
+236,0,18-34 Years,Black or African American alone,5 or More Years,Idaho
+237,3,18-34 Years,Hispanic or Latino,All Time,Idaho
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,Idaho
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Idaho
+240,1,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Idaho
+241,1,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Idaho
+242,0,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Idaho
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Idaho
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Idaho
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Idaho
+246,0,18-34 Years,Asian alone,All Time,Idaho
+247,0,18-34 Years,Asian alone,< 30 Days,Idaho
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Idaho
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Idaho
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Idaho
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Idaho
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Idaho
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Idaho
+254,0,18-34 Years,Asian alone,5 or More Years,Idaho
+255,2,18-34 Years,American Indian and Alaska Native alone,All Time,Idaho
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Idaho
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Idaho
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Idaho
+259,1,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Idaho
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Idaho
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Idaho
+262,1,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Idaho
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Idaho
+264,2,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Idaho
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Idaho
+266,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Idaho
+267,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Idaho
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Idaho
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Idaho
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Idaho
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Idaho
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Idaho
+273,2,18-34 Years,Population of two or more races:,All Time,Idaho
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Idaho
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Idaho
+276,1,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Idaho
+277,1,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Idaho
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Idaho
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Idaho
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Idaho
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Idaho
+282,42,35-49 Years,White alone,All Time,Idaho
+283,4,35-49 Years,White alone,< 30 Days,Idaho
+284,3,35-49 Years,White alone,30 to < 90 Days,Idaho
+285,4,35-49 Years,White alone,90 Days to < 6 Months,Idaho
+286,9,35-49 Years,White alone,6 Months to < 1 Year,Idaho
+287,8,35-49 Years,White alone,1 Year to < 2 Years,Idaho
+288,8,35-49 Years,White alone,2 Years to < 3 Years,Idaho
+289,4,35-49 Years,White alone,3 Years to < 5 Years,Idaho
+290,2,35-49 Years,White alone,5 or More Years,Idaho
+291,0,35-49 Years,Black or African American alone,All Time,Idaho
+292,0,35-49 Years,Black or African American alone,< 30 Days,Idaho
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,Idaho
+294,0,35-49 Years,Black or African American alone,90 Days to < 6 Months,Idaho
+295,0,35-49 Years,Black or African American alone,6 Months to < 1 Year,Idaho
+296,0,35-49 Years,Black or African American alone,1 Year to < 2 Years,Idaho
+297,0,35-49 Years,Black or African American alone,2 Years to < 3 Years,Idaho
+298,0,35-49 Years,Black or African American alone,3 Years to < 5 Years,Idaho
+299,0,35-49 Years,Black or African American alone,5 or More Years,Idaho
+300,11,35-49 Years,Hispanic or Latino,All Time,Idaho
+301,1,35-49 Years,Hispanic or Latino,< 30 Days,Idaho
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Idaho
+303,0,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Idaho
+304,4,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Idaho
+305,3,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Idaho
+306,3,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Idaho
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Idaho
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Idaho
+309,1,35-49 Years,Asian alone,All Time,Idaho
+310,0,35-49 Years,Asian alone,< 30 Days,Idaho
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Idaho
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Idaho
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,Idaho
+314,0,35-49 Years,Asian alone,1 Year to < 2 Years,Idaho
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Idaho
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Idaho
+317,0,35-49 Years,Asian alone,5 or More Years,Idaho
+318,2,35-49 Years,American Indian and Alaska Native alone,All Time,Idaho
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Idaho
+320,1,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Idaho
+321,1,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Idaho
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Idaho
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Idaho
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Idaho
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Idaho
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Idaho
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Idaho
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Idaho
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Idaho
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Idaho
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Idaho
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Idaho
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Idaho
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Idaho
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Idaho
+336,0,35-49 Years,Population of two or more races:,All Time,Idaho
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Idaho
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Idaho
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Idaho
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Idaho
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Idaho
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Idaho
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Idaho
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Idaho
+345,68,50-64 Years,White alone,All Time,Idaho
+346,0,50-64 Years,White alone,< 30 Days,Idaho
+347,9,50-64 Years,White alone,30 to < 90 Days,Idaho
+348,10,50-64 Years,White alone,90 Days to < 6 Months,Idaho
+349,17,50-64 Years,White alone,6 Months to < 1 Year,Idaho
+350,10,50-64 Years,White alone,1 Year to < 2 Years,Idaho
+351,8,50-64 Years,White alone,2 Years to < 3 Years,Idaho
+352,8,50-64 Years,White alone,3 Years to < 5 Years,Idaho
+353,6,50-64 Years,White alone,5 or More Years,Idaho
+354,1,50-64 Years,Black or African American alone,All Time,Idaho
+355,0,50-64 Years,Black or African American alone,< 30 Days,Idaho
+356,0,50-64 Years,Black or African American alone,30 to < 90 Days,Idaho
+357,0,50-64 Years,Black or African American alone,90 Days to < 6 Months,Idaho
+358,0,50-64 Years,Black or African American alone,6 Months to < 1 Year,Idaho
+359,0,50-64 Years,Black or African American alone,1 Year to < 2 Years,Idaho
+360,1,50-64 Years,Black or African American alone,2 Years to < 3 Years,Idaho
+361,0,50-64 Years,Black or African American alone,3 Years to < 5 Years,Idaho
+362,0,50-64 Years,Black or African American alone,5 or More Years,Idaho
+363,17,50-64 Years,Hispanic or Latino,All Time,Idaho
+364,2,50-64 Years,Hispanic or Latino,< 30 Days,Idaho
+365,3,50-64 Years,Hispanic or Latino,30 to < 90 Days,Idaho
+366,0,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Idaho
+367,5,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Idaho
+368,2,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Idaho
+369,4,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Idaho
+370,1,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Idaho
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Idaho
+372,3,50-64 Years,Asian alone,All Time,Idaho
+373,1,50-64 Years,Asian alone,< 30 Days,Idaho
+374,1,50-64 Years,Asian alone,30 to < 90 Days,Idaho
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Idaho
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,Idaho
+377,1,50-64 Years,Asian alone,1 Year to < 2 Years,Idaho
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Idaho
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Idaho
+380,0,50-64 Years,Asian alone,5 or More Years,Idaho
+381,1,50-64 Years,American Indian and Alaska Native alone,All Time,Idaho
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Idaho
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Idaho
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Idaho
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Idaho
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Idaho
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Idaho
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Idaho
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Idaho
+390,4,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Idaho
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Idaho
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Idaho
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Idaho
+394,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Idaho
+395,3,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Idaho
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Idaho
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Idaho
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Idaho
+399,2,50-64 Years,Population of two or more races:,All Time,Idaho
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Idaho
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Idaho
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Idaho
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Idaho
+404,1,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Idaho
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Idaho
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Idaho
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Idaho
+408,78,65 and Older,White alone,All Time,Idaho
+409,2,65 and Older,White alone,< 30 Days,Idaho
+410,7,65 and Older,White alone,30 to < 90 Days,Idaho
+411,2,65 and Older,White alone,90 Days to < 6 Months,Idaho
+412,17,65 and Older,White alone,6 Months to < 1 Year,Idaho
+413,23,65 and Older,White alone,1 Year to < 2 Years,Idaho
+414,15,65 and Older,White alone,2 Years to < 3 Years,Idaho
+415,6,65 and Older,White alone,3 Years to < 5 Years,Idaho
+416,6,65 and Older,White alone,5 or More Years,Idaho
+417,1,65 and Older,Black or African American alone,All Time,Idaho
+418,0,65 and Older,Black or African American alone,< 30 Days,Idaho
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,Idaho
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,Idaho
+421,1,65 and Older,Black or African American alone,6 Months to < 1 Year,Idaho
+422,0,65 and Older,Black or African American alone,1 Year to < 2 Years,Idaho
+423,0,65 and Older,Black or African American alone,2 Years to < 3 Years,Idaho
+424,0,65 and Older,Black or African American alone,3 Years to < 5 Years,Idaho
+425,0,65 and Older,Black or African American alone,5 or More Years,Idaho
+426,7,65 and Older,Hispanic or Latino,All Time,Idaho
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Idaho
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Idaho
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Idaho
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Idaho
+431,2,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Idaho
+432,4,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Idaho
+433,1,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Idaho
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Idaho
+435,0,65 and Older,Asian alone,All Time,Idaho
+436,0,65 and Older,Asian alone,< 30 Days,Idaho
+437,0,65 and Older,Asian alone,30 to < 90 Days,Idaho
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Idaho
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,Idaho
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,Idaho
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Idaho
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Idaho
+443,0,65 and Older,Asian alone,5 or More Years,Idaho
+444,2,65 and Older,American Indian and Alaska Native alone,All Time,Idaho
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Idaho
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Idaho
+447,1,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Idaho
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Idaho
+449,1,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Idaho
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Idaho
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Idaho
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Idaho
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Idaho
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Idaho
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Idaho
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Idaho
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Idaho
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Idaho
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Idaho
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Idaho
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Idaho
+462,0,65 and Older,Population of two or more races:,All Time,Idaho
+463,0,65 and Older,Population of two or more races:,< 30 Days,Idaho
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Idaho
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Idaho
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Idaho
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Idaho
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Idaho
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Idaho
+470,0,65 and Older,Population of two or more races:,5 or More Years,Idaho

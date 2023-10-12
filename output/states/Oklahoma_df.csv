@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,460,All Ages,White alone,All Time,Oklahoma
+1,27,All Ages,White alone,< 30 Days,Oklahoma
+2,58,All Ages,White alone,30 to < 90 Days,Oklahoma
+3,50,All Ages,White alone,90 Days to < 6 Months,Oklahoma
+4,90,All Ages,White alone,6 Months to < 1 Year,Oklahoma
+5,107,All Ages,White alone,1 Year to < 2 Years,Oklahoma
+6,59,All Ages,White alone,2 Years to < 3 Years,Oklahoma
+7,46,All Ages,White alone,3 Years to < 5 Years,Oklahoma
+8,23,All Ages,White alone,5 or More Years,Oklahoma
+9,127,All Ages,Black or African American alone,All Time,Oklahoma
+10,14,All Ages,Black or African American alone,< 30 Days,Oklahoma
+11,7,All Ages,Black or African American alone,30 to < 90 Days,Oklahoma
+12,15,All Ages,Black or African American alone,90 Days to < 6 Months,Oklahoma
+13,21,All Ages,Black or African American alone,6 Months to < 1 Year,Oklahoma
+14,24,All Ages,Black or African American alone,1 Year to < 2 Years,Oklahoma
+15,21,All Ages,Black or African American alone,2 Years to < 3 Years,Oklahoma
+16,16,All Ages,Black or African American alone,3 Years to < 5 Years,Oklahoma
+17,9,All Ages,Black or African American alone,5 or More Years,Oklahoma
+18,79,All Ages,Hispanic or Latino,All Time,Oklahoma
+19,5,All Ages,Hispanic or Latino,< 30 Days,Oklahoma
+20,9,All Ages,Hispanic or Latino,30 to < 90 Days,Oklahoma
+21,12,All Ages,Hispanic or Latino,90 Days to < 6 Months,Oklahoma
+22,15,All Ages,Hispanic or Latino,6 Months to < 1 Year,Oklahoma
+23,16,All Ages,Hispanic or Latino,1 Year to < 2 Years,Oklahoma
+24,12,All Ages,Hispanic or Latino,2 Years to < 3 Years,Oklahoma
+25,4,All Ages,Hispanic or Latino,3 Years to < 5 Years,Oklahoma
+26,6,All Ages,Hispanic or Latino,5 or More Years,Oklahoma
+27,21,All Ages,Asian alone,All Time,Oklahoma
+28,1,All Ages,Asian alone,< 30 Days,Oklahoma
+29,2,All Ages,Asian alone,30 to < 90 Days,Oklahoma
+30,3,All Ages,Asian alone,90 Days to < 6 Months,Oklahoma
+31,5,All Ages,Asian alone,6 Months to < 1 Year,Oklahoma
+32,6,All Ages,Asian alone,1 Year to < 2 Years,Oklahoma
+33,2,All Ages,Asian alone,2 Years to < 3 Years,Oklahoma
+34,1,All Ages,Asian alone,3 Years to < 5 Years,Oklahoma
+35,1,All Ages,Asian alone,5 or More Years,Oklahoma
+36,99,All Ages,American Indian and Alaska Native alone,All Time,Oklahoma
+37,7,All Ages,American Indian and Alaska Native alone,< 30 Days,Oklahoma
+38,14,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Oklahoma
+39,11,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Oklahoma
+40,21,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Oklahoma
+41,24,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Oklahoma
+42,10,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Oklahoma
+43,7,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Oklahoma
+44,5,All Ages,American Indian and Alaska Native alone,5 or More Years,Oklahoma
+45,5,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Oklahoma
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oklahoma
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oklahoma
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oklahoma
+49,2,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oklahoma
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oklahoma
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oklahoma
+52,2,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oklahoma
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oklahoma
+54,18,All Ages,Population of two or more races:,All Time,Oklahoma
+55,2,All Ages,Population of two or more races:,< 30 Days,Oklahoma
+56,2,All Ages,Population of two or more races:,30 to < 90 Days,Oklahoma
+57,1,All Ages,Population of two or more races:,90 Days to < 6 Months,Oklahoma
+58,2,All Ages,Population of two or more races:,6 Months to < 1 Year,Oklahoma
+59,6,All Ages,Population of two or more races:,1 Year to < 2 Years,Oklahoma
+60,3,All Ages,Population of two or more races:,2 Years to < 3 Years,Oklahoma
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,Oklahoma
+62,0,All Ages,Population of two or more races:,5 or More Years,Oklahoma
+63,4,0-5 Years,White alone,All Time,Oklahoma
+64,0,0-5 Years,White alone,< 30 Days,Oklahoma
+65,2,0-5 Years,White alone,30 to < 90 Days,Oklahoma
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Oklahoma
+67,1,0-5 Years,White alone,6 Months to < 1 Year,Oklahoma
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Oklahoma
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Oklahoma
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Oklahoma
+71,0,0-5 Years,White alone,5 or More Years,Oklahoma
+72,0,0-5 Years,Black or African American alone,All Time,Oklahoma
+73,0,0-5 Years,Black or African American alone,< 30 Days,Oklahoma
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Oklahoma
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Oklahoma
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Oklahoma
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Oklahoma
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Oklahoma
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Oklahoma
+80,1,0-5 Years,Hispanic or Latino,All Time,Oklahoma
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Oklahoma
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Oklahoma
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Oklahoma
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Oklahoma
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Oklahoma
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Oklahoma
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Oklahoma
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Oklahoma
+89,0,0-5 Years,Asian alone,All Time,Oklahoma
+90,0,0-5 Years,Asian alone,< 30 Days,Oklahoma
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Oklahoma
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Oklahoma
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Oklahoma
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Oklahoma
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Oklahoma
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Oklahoma
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Oklahoma
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Oklahoma
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Oklahoma
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oklahoma
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oklahoma
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oklahoma
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oklahoma
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oklahoma
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oklahoma
+106,1,0-5 Years,Population of two or more races:,All Time,Oklahoma
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Oklahoma
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Oklahoma
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Oklahoma
+110,1,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Oklahoma
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Oklahoma
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Oklahoma
+113,3,6-10 Years,White alone,All Time,Oklahoma
+114,0,6-10 Years,White alone,< 30 Days,Oklahoma
+115,0,6-10 Years,White alone,30 to < 90 Days,Oklahoma
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Oklahoma
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Oklahoma
+118,3,6-10 Years,White alone,1 Year to < 2 Years,Oklahoma
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Oklahoma
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Oklahoma
+121,0,6-10 Years,White alone,5 or More Years,Oklahoma
+122,0,6-10 Years,Black or African American alone,All Time,Oklahoma
+123,0,6-10 Years,Black or African American alone,< 30 Days,Oklahoma
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Oklahoma
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Oklahoma
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Oklahoma
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Oklahoma
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Oklahoma
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Oklahoma
+130,0,6-10 Years,Black or African American alone,5 or More Years,Oklahoma
+131,1,6-10 Years,Hispanic or Latino,All Time,Oklahoma
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Oklahoma
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Oklahoma
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Oklahoma
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Oklahoma
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Oklahoma
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Oklahoma
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Oklahoma
+139,1,6-10 Years,Hispanic or Latino,5 or More Years,Oklahoma
+140,0,6-10 Years,Asian alone,All Time,Oklahoma
+141,0,6-10 Years,Asian alone,< 30 Days,Oklahoma
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Oklahoma
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Oklahoma
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Oklahoma
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Oklahoma
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Oklahoma
+147,0,6-10 Years,Asian alone,5 or More Years,Oklahoma
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Oklahoma
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oklahoma
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oklahoma
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oklahoma
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oklahoma
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oklahoma
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oklahoma
+155,0,6-10 Years,Population of two or more races:,All Time,Oklahoma
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Oklahoma
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Oklahoma
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Oklahoma
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Oklahoma
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Oklahoma
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Oklahoma
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Oklahoma
+163,3,11-17 Years,White alone,All Time,Oklahoma
+164,0,11-17 Years,White alone,< 30 Days,Oklahoma
+165,0,11-17 Years,White alone,30 to < 90 Days,Oklahoma
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Oklahoma
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Oklahoma
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Oklahoma
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Oklahoma
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Oklahoma
+171,3,11-17 Years,White alone,5 or More Years,Oklahoma
+172,0,11-17 Years,Black or African American alone,All Time,Oklahoma
+173,0,11-17 Years,Black or African American alone,< 30 Days,Oklahoma
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Oklahoma
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Oklahoma
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Oklahoma
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Oklahoma
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Oklahoma
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Oklahoma
+180,0,11-17 Years,Black or African American alone,5 or More Years,Oklahoma
+181,1,11-17 Years,Hispanic or Latino,All Time,Oklahoma
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Oklahoma
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Oklahoma
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Oklahoma
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Oklahoma
+186,1,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Oklahoma
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Oklahoma
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Oklahoma
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Oklahoma
+190,0,11-17 Years,Asian alone,All Time,Oklahoma
+191,0,11-17 Years,Asian alone,< 30 Days,Oklahoma
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Oklahoma
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Oklahoma
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Oklahoma
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Oklahoma
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Oklahoma
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Oklahoma
+198,0,11-17 Years,Asian alone,5 or More Years,Oklahoma
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Oklahoma
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oklahoma
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oklahoma
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oklahoma
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Oklahoma
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oklahoma
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oklahoma
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oklahoma
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oklahoma
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oklahoma
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oklahoma
+210,1,11-17 Years,Population of two or more races:,All Time,Oklahoma
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Oklahoma
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Oklahoma
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Oklahoma
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Oklahoma
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Oklahoma
+216,1,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Oklahoma
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Oklahoma
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Oklahoma
+219,41,18-34 Years,White alone,All Time,Oklahoma
+220,2,18-34 Years,White alone,< 30 Days,Oklahoma
+221,2,18-34 Years,White alone,30 to < 90 Days,Oklahoma
+222,6,18-34 Years,White alone,90 Days to < 6 Months,Oklahoma
+223,7,18-34 Years,White alone,6 Months to < 1 Year,Oklahoma
+224,14,18-34 Years,White alone,1 Year to < 2 Years,Oklahoma
+225,7,18-34 Years,White alone,2 Years to < 3 Years,Oklahoma
+226,2,18-34 Years,White alone,3 Years to < 5 Years,Oklahoma
+227,1,18-34 Years,White alone,5 or More Years,Oklahoma
+228,13,18-34 Years,Black or African American alone,All Time,Oklahoma
+229,1,18-34 Years,Black or African American alone,< 30 Days,Oklahoma
+230,1,18-34 Years,Black or African American alone,30 to < 90 Days,Oklahoma
+231,2,18-34 Years,Black or African American alone,90 Days to < 6 Months,Oklahoma
+232,3,18-34 Years,Black or African American alone,6 Months to < 1 Year,Oklahoma
+233,2,18-34 Years,Black or African American alone,1 Year to < 2 Years,Oklahoma
+234,4,18-34 Years,Black or African American alone,2 Years to < 3 Years,Oklahoma
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Oklahoma
+236,0,18-34 Years,Black or African American alone,5 or More Years,Oklahoma
+237,10,18-34 Years,Hispanic or Latino,All Time,Oklahoma
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,Oklahoma
+239,1,18-34 Years,Hispanic or Latino,30 to < 90 Days,Oklahoma
+240,2,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Oklahoma
+241,1,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Oklahoma
+242,2,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Oklahoma
+243,1,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Oklahoma
+244,1,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Oklahoma
+245,1,18-34 Years,Hispanic or Latino,5 or More Years,Oklahoma
+246,2,18-34 Years,Asian alone,All Time,Oklahoma
+247,0,18-34 Years,Asian alone,< 30 Days,Oklahoma
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Oklahoma
+249,1,18-34 Years,Asian alone,90 Days to < 6 Months,Oklahoma
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Oklahoma
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Oklahoma
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Oklahoma
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Oklahoma
+254,0,18-34 Years,Asian alone,5 or More Years,Oklahoma
+255,15,18-34 Years,American Indian and Alaska Native alone,All Time,Oklahoma
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Oklahoma
+257,3,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Oklahoma
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oklahoma
+259,5,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oklahoma
+260,6,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oklahoma
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Oklahoma
+262,1,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oklahoma
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Oklahoma
+264,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oklahoma
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oklahoma
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oklahoma
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oklahoma
+268,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oklahoma
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oklahoma
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oklahoma
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oklahoma
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oklahoma
+273,4,18-34 Years,Population of two or more races:,All Time,Oklahoma
+274,1,18-34 Years,Population of two or more races:,< 30 Days,Oklahoma
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Oklahoma
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Oklahoma
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Oklahoma
+278,1,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Oklahoma
+279,1,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Oklahoma
+280,1,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Oklahoma
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Oklahoma
+282,84,35-49 Years,White alone,All Time,Oklahoma
+283,8,35-49 Years,White alone,< 30 Days,Oklahoma
+284,11,35-49 Years,White alone,30 to < 90 Days,Oklahoma
+285,10,35-49 Years,White alone,90 Days to < 6 Months,Oklahoma
+286,15,35-49 Years,White alone,6 Months to < 1 Year,Oklahoma
+287,20,35-49 Years,White alone,1 Year to < 2 Years,Oklahoma
+288,14,35-49 Years,White alone,2 Years to < 3 Years,Oklahoma
+289,4,35-49 Years,White alone,3 Years to < 5 Years,Oklahoma
+290,2,35-49 Years,White alone,5 or More Years,Oklahoma
+291,35,35-49 Years,Black or African American alone,All Time,Oklahoma
+292,5,35-49 Years,Black or African American alone,< 30 Days,Oklahoma
+293,1,35-49 Years,Black or African American alone,30 to < 90 Days,Oklahoma
+294,1,35-49 Years,Black or African American alone,90 Days to < 6 Months,Oklahoma
+295,7,35-49 Years,Black or African American alone,6 Months to < 1 Year,Oklahoma
+296,6,35-49 Years,Black or African American alone,1 Year to < 2 Years,Oklahoma
+297,9,35-49 Years,Black or African American alone,2 Years to < 3 Years,Oklahoma
+298,4,35-49 Years,Black or African American alone,3 Years to < 5 Years,Oklahoma
+299,2,35-49 Years,Black or African American alone,5 or More Years,Oklahoma
+300,23,35-49 Years,Hispanic or Latino,All Time,Oklahoma
+301,2,35-49 Years,Hispanic or Latino,< 30 Days,Oklahoma
+302,4,35-49 Years,Hispanic or Latino,30 to < 90 Days,Oklahoma
+303,3,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Oklahoma
+304,5,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Oklahoma
+305,3,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Oklahoma
+306,4,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Oklahoma
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Oklahoma
+308,2,35-49 Years,Hispanic or Latino,5 or More Years,Oklahoma
+309,8,35-49 Years,Asian alone,All Time,Oklahoma
+310,1,35-49 Years,Asian alone,< 30 Days,Oklahoma
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Oklahoma
+312,1,35-49 Years,Asian alone,90 Days to < 6 Months,Oklahoma
+313,2,35-49 Years,Asian alone,6 Months to < 1 Year,Oklahoma
+314,2,35-49 Years,Asian alone,1 Year to < 2 Years,Oklahoma
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Oklahoma
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Oklahoma
+317,1,35-49 Years,Asian alone,5 or More Years,Oklahoma
+318,25,35-49 Years,American Indian and Alaska Native alone,All Time,Oklahoma
+319,4,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Oklahoma
+320,2,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Oklahoma
+321,3,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oklahoma
+322,6,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oklahoma
+323,3,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oklahoma
+324,3,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Oklahoma
+325,3,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oklahoma
+326,1,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Oklahoma
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oklahoma
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oklahoma
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oklahoma
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oklahoma
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oklahoma
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oklahoma
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oklahoma
+334,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oklahoma
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oklahoma
+336,5,35-49 Years,Population of two or more races:,All Time,Oklahoma
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Oklahoma
+338,1,35-49 Years,Population of two or more races:,30 to < 90 Days,Oklahoma
+339,1,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Oklahoma
+340,1,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Oklahoma
+341,1,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Oklahoma
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Oklahoma
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Oklahoma
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Oklahoma
+345,197,50-64 Years,White alone,All Time,Oklahoma
+346,13,50-64 Years,White alone,< 30 Days,Oklahoma
+347,16,50-64 Years,White alone,30 to < 90 Days,Oklahoma
+348,21,50-64 Years,White alone,90 Days to < 6 Months,Oklahoma
+349,39,50-64 Years,White alone,6 Months to < 1 Year,Oklahoma
+350,46,50-64 Years,White alone,1 Year to < 2 Years,Oklahoma
+351,24,50-64 Years,White alone,2 Years to < 3 Years,Oklahoma
+352,25,50-64 Years,White alone,3 Years to < 5 Years,Oklahoma
+353,13,50-64 Years,White alone,5 or More Years,Oklahoma
+354,55,50-64 Years,Black or African American alone,All Time,Oklahoma
+355,7,50-64 Years,Black or African American alone,< 30 Days,Oklahoma
+356,4,50-64 Years,Black or African American alone,30 to < 90 Days,Oklahoma
+357,9,50-64 Years,Black or African American alone,90 Days to < 6 Months,Oklahoma
+358,8,50-64 Years,Black or African American alone,6 Months to < 1 Year,Oklahoma
+359,12,50-64 Years,Black or African American alone,1 Year to < 2 Years,Oklahoma
+360,5,50-64 Years,Black or African American alone,2 Years to < 3 Years,Oklahoma
+361,6,50-64 Years,Black or African American alone,3 Years to < 5 Years,Oklahoma
+362,4,50-64 Years,Black or African American alone,5 or More Years,Oklahoma
+363,31,50-64 Years,Hispanic or Latino,All Time,Oklahoma
+364,2,50-64 Years,Hispanic or Latino,< 30 Days,Oklahoma
+365,2,50-64 Years,Hispanic or Latino,30 to < 90 Days,Oklahoma
+366,6,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Oklahoma
+367,7,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Oklahoma
+368,5,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Oklahoma
+369,6,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Oklahoma
+370,1,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Oklahoma
+371,2,50-64 Years,Hispanic or Latino,5 or More Years,Oklahoma
+372,8,50-64 Years,Asian alone,All Time,Oklahoma
+373,0,50-64 Years,Asian alone,< 30 Days,Oklahoma
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Oklahoma
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,Oklahoma
+376,2,50-64 Years,Asian alone,6 Months to < 1 Year,Oklahoma
+377,3,50-64 Years,Asian alone,1 Year to < 2 Years,Oklahoma
+378,1,50-64 Years,Asian alone,2 Years to < 3 Years,Oklahoma
+379,1,50-64 Years,Asian alone,3 Years to < 5 Years,Oklahoma
+380,0,50-64 Years,Asian alone,5 or More Years,Oklahoma
+381,39,50-64 Years,American Indian and Alaska Native alone,All Time,Oklahoma
+382,2,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Oklahoma
+383,8,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Oklahoma
+384,5,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oklahoma
+385,7,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oklahoma
+386,10,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oklahoma
+387,4,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Oklahoma
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oklahoma
+389,2,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Oklahoma
+390,3,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oklahoma
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oklahoma
+392,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oklahoma
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oklahoma
+394,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oklahoma
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oklahoma
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oklahoma
+397,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oklahoma
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oklahoma
+399,5,50-64 Years,Population of two or more races:,All Time,Oklahoma
+400,1,50-64 Years,Population of two or more races:,< 30 Days,Oklahoma
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Oklahoma
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Oklahoma
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Oklahoma
+404,3,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Oklahoma
+405,1,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Oklahoma
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Oklahoma
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Oklahoma
+408,128,65 and Older,White alone,All Time,Oklahoma
+409,4,65 and Older,White alone,< 30 Days,Oklahoma
+410,27,65 and Older,White alone,30 to < 90 Days,Oklahoma
+411,13,65 and Older,White alone,90 Days to < 6 Months,Oklahoma
+412,28,65 and Older,White alone,6 Months to < 1 Year,Oklahoma
+413,23,65 and Older,White alone,1 Year to < 2 Years,Oklahoma
+414,14,65 and Older,White alone,2 Years to < 3 Years,Oklahoma
+415,15,65 and Older,White alone,3 Years to < 5 Years,Oklahoma
+416,4,65 and Older,White alone,5 or More Years,Oklahoma
+417,24,65 and Older,Black or African American alone,All Time,Oklahoma
+418,1,65 and Older,Black or African American alone,< 30 Days,Oklahoma
+419,1,65 and Older,Black or African American alone,30 to < 90 Days,Oklahoma
+420,3,65 and Older,Black or African American alone,90 Days to < 6 Months,Oklahoma
+421,3,65 and Older,Black or African American alone,6 Months to < 1 Year,Oklahoma
+422,4,65 and Older,Black or African American alone,1 Year to < 2 Years,Oklahoma
+423,3,65 and Older,Black or African American alone,2 Years to < 3 Years,Oklahoma
+424,6,65 and Older,Black or African American alone,3 Years to < 5 Years,Oklahoma
+425,3,65 and Older,Black or African American alone,5 or More Years,Oklahoma
+426,12,65 and Older,Hispanic or Latino,All Time,Oklahoma
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Oklahoma
+428,2,65 and Older,Hispanic or Latino,30 to < 90 Days,Oklahoma
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Oklahoma
+430,2,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Oklahoma
+431,4,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Oklahoma
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Oklahoma
+433,2,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Oklahoma
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Oklahoma
+435,3,65 and Older,Asian alone,All Time,Oklahoma
+436,0,65 and Older,Asian alone,< 30 Days,Oklahoma
+437,0,65 and Older,Asian alone,30 to < 90 Days,Oklahoma
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Oklahoma
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,Oklahoma
+440,1,65 and Older,Asian alone,1 Year to < 2 Years,Oklahoma
+441,1,65 and Older,Asian alone,2 Years to < 3 Years,Oklahoma
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Oklahoma
+443,0,65 and Older,Asian alone,5 or More Years,Oklahoma
+444,20,65 and Older,American Indian and Alaska Native alone,All Time,Oklahoma
+445,1,65 and Older,American Indian and Alaska Native alone,< 30 Days,Oklahoma
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Oklahoma
+447,3,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Oklahoma
+448,3,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Oklahoma
+449,5,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Oklahoma
+450,3,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Oklahoma
+451,2,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Oklahoma
+452,2,65 and Older,American Indian and Alaska Native alone,5 or More Years,Oklahoma
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Oklahoma
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oklahoma
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oklahoma
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oklahoma
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oklahoma
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oklahoma
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oklahoma
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oklahoma
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oklahoma
+462,2,65 and Older,Population of two or more races:,All Time,Oklahoma
+463,0,65 and Older,Population of two or more races:,< 30 Days,Oklahoma
+464,1,65 and Older,Population of two or more races:,30 to < 90 Days,Oklahoma
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Oklahoma
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Oklahoma
+467,1,65 and Older,Population of two or more races:,1 Year to < 2 Years,Oklahoma
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Oklahoma
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Oklahoma
+470,0,65 and Older,Population of two or more races:,5 or More Years,Oklahoma

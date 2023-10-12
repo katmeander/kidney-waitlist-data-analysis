@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,324,All Ages,White alone,All Time,Kansas
+1,20,All Ages,White alone,< 30 Days,Kansas
+2,33,All Ages,White alone,30 to < 90 Days,Kansas
+3,35,All Ages,White alone,90 Days to < 6 Months,Kansas
+4,71,All Ages,White alone,6 Months to < 1 Year,Kansas
+5,91,All Ages,White alone,1 Year to < 2 Years,Kansas
+6,40,All Ages,White alone,2 Years to < 3 Years,Kansas
+7,27,All Ages,White alone,3 Years to < 5 Years,Kansas
+8,7,All Ages,White alone,5 or More Years,Kansas
+9,60,All Ages,Black or African American alone,All Time,Kansas
+10,4,All Ages,Black or African American alone,< 30 Days,Kansas
+11,6,All Ages,Black or African American alone,30 to < 90 Days,Kansas
+12,7,All Ages,Black or African American alone,90 Days to < 6 Months,Kansas
+13,13,All Ages,Black or African American alone,6 Months to < 1 Year,Kansas
+14,20,All Ages,Black or African American alone,1 Year to < 2 Years,Kansas
+15,4,All Ages,Black or African American alone,2 Years to < 3 Years,Kansas
+16,3,All Ages,Black or African American alone,3 Years to < 5 Years,Kansas
+17,3,All Ages,Black or African American alone,5 or More Years,Kansas
+18,60,All Ages,Hispanic or Latino,All Time,Kansas
+19,2,All Ages,Hispanic or Latino,< 30 Days,Kansas
+20,10,All Ages,Hispanic or Latino,30 to < 90 Days,Kansas
+21,4,All Ages,Hispanic or Latino,90 Days to < 6 Months,Kansas
+22,13,All Ages,Hispanic or Latino,6 Months to < 1 Year,Kansas
+23,20,All Ages,Hispanic or Latino,1 Year to < 2 Years,Kansas
+24,7,All Ages,Hispanic or Latino,2 Years to < 3 Years,Kansas
+25,2,All Ages,Hispanic or Latino,3 Years to < 5 Years,Kansas
+26,2,All Ages,Hispanic or Latino,5 or More Years,Kansas
+27,17,All Ages,Asian alone,All Time,Kansas
+28,2,All Ages,Asian alone,< 30 Days,Kansas
+29,2,All Ages,Asian alone,30 to < 90 Days,Kansas
+30,0,All Ages,Asian alone,90 Days to < 6 Months,Kansas
+31,5,All Ages,Asian alone,6 Months to < 1 Year,Kansas
+32,5,All Ages,Asian alone,1 Year to < 2 Years,Kansas
+33,2,All Ages,Asian alone,2 Years to < 3 Years,Kansas
+34,1,All Ages,Asian alone,3 Years to < 5 Years,Kansas
+35,0,All Ages,Asian alone,5 or More Years,Kansas
+36,3,All Ages,American Indian and Alaska Native alone,All Time,Kansas
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Kansas
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Kansas
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Kansas
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Kansas
+41,1,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Kansas
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Kansas
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Kansas
+44,1,All Ages,American Indian and Alaska Native alone,5 or More Years,Kansas
+45,0,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Kansas
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kansas
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kansas
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kansas
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kansas
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kansas
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kansas
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kansas
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kansas
+54,14,All Ages,Population of two or more races:,All Time,Kansas
+55,0,All Ages,Population of two or more races:,< 30 Days,Kansas
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Kansas
+57,3,All Ages,Population of two or more races:,90 Days to < 6 Months,Kansas
+58,6,All Ages,Population of two or more races:,6 Months to < 1 Year,Kansas
+59,2,All Ages,Population of two or more races:,1 Year to < 2 Years,Kansas
+60,2,All Ages,Population of two or more races:,2 Years to < 3 Years,Kansas
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Kansas
+62,1,All Ages,Population of two or more races:,5 or More Years,Kansas
+63,5,0-5 Years,White alone,All Time,Kansas
+64,0,0-5 Years,White alone,< 30 Days,Kansas
+65,1,0-5 Years,White alone,30 to < 90 Days,Kansas
+66,1,0-5 Years,White alone,90 Days to < 6 Months,Kansas
+67,2,0-5 Years,White alone,6 Months to < 1 Year,Kansas
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Kansas
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Kansas
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Kansas
+71,0,0-5 Years,White alone,5 or More Years,Kansas
+72,1,0-5 Years,Black or African American alone,All Time,Kansas
+73,0,0-5 Years,Black or African American alone,< 30 Days,Kansas
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Kansas
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Kansas
+76,1,0-5 Years,Black or African American alone,6 Months to < 1 Year,Kansas
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Kansas
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Kansas
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Kansas
+80,1,0-5 Years,Hispanic or Latino,All Time,Kansas
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Kansas
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Kansas
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Kansas
+84,1,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Kansas
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Kansas
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Kansas
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Kansas
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Kansas
+89,0,0-5 Years,Asian alone,All Time,Kansas
+90,0,0-5 Years,Asian alone,< 30 Days,Kansas
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Kansas
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Kansas
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Kansas
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Kansas
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Kansas
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Kansas
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Kansas
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Kansas
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Kansas
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kansas
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kansas
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kansas
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kansas
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kansas
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kansas
+106,1,0-5 Years,Population of two or more races:,All Time,Kansas
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Kansas
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Kansas
+109,1,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Kansas
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Kansas
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Kansas
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Kansas
+113,8,6-10 Years,White alone,All Time,Kansas
+114,1,6-10 Years,White alone,< 30 Days,Kansas
+115,0,6-10 Years,White alone,30 to < 90 Days,Kansas
+116,1,6-10 Years,White alone,90 Days to < 6 Months,Kansas
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Kansas
+118,1,6-10 Years,White alone,1 Year to < 2 Years,Kansas
+119,2,6-10 Years,White alone,2 Years to < 3 Years,Kansas
+120,3,6-10 Years,White alone,3 Years to < 5 Years,Kansas
+121,0,6-10 Years,White alone,5 or More Years,Kansas
+122,1,6-10 Years,Black or African American alone,All Time,Kansas
+123,1,6-10 Years,Black or African American alone,< 30 Days,Kansas
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Kansas
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Kansas
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Kansas
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Kansas
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Kansas
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Kansas
+130,0,6-10 Years,Black or African American alone,5 or More Years,Kansas
+131,0,6-10 Years,Hispanic or Latino,All Time,Kansas
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Kansas
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Kansas
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Kansas
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Kansas
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Kansas
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Kansas
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Kansas
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Kansas
+140,0,6-10 Years,Asian alone,All Time,Kansas
+141,0,6-10 Years,Asian alone,< 30 Days,Kansas
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Kansas
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Kansas
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Kansas
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Kansas
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Kansas
+147,0,6-10 Years,Asian alone,5 or More Years,Kansas
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Kansas
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kansas
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kansas
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kansas
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kansas
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kansas
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kansas
+155,1,6-10 Years,Population of two or more races:,All Time,Kansas
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Kansas
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Kansas
+158,1,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Kansas
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Kansas
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Kansas
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Kansas
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Kansas
+163,3,11-17 Years,White alone,All Time,Kansas
+164,0,11-17 Years,White alone,< 30 Days,Kansas
+165,0,11-17 Years,White alone,30 to < 90 Days,Kansas
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Kansas
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Kansas
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Kansas
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Kansas
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Kansas
+171,2,11-17 Years,White alone,5 or More Years,Kansas
+172,1,11-17 Years,Black or African American alone,All Time,Kansas
+173,0,11-17 Years,Black or African American alone,< 30 Days,Kansas
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Kansas
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Kansas
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Kansas
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Kansas
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Kansas
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Kansas
+180,0,11-17 Years,Black or African American alone,5 or More Years,Kansas
+181,1,11-17 Years,Hispanic or Latino,All Time,Kansas
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Kansas
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,Kansas
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Kansas
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Kansas
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Kansas
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Kansas
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Kansas
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Kansas
+190,0,11-17 Years,Asian alone,All Time,Kansas
+191,0,11-17 Years,Asian alone,< 30 Days,Kansas
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Kansas
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Kansas
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Kansas
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Kansas
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Kansas
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Kansas
+198,0,11-17 Years,Asian alone,5 or More Years,Kansas
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Kansas
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kansas
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kansas
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kansas
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Kansas
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kansas
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kansas
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kansas
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kansas
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kansas
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kansas
+210,0,11-17 Years,Population of two or more races:,All Time,Kansas
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Kansas
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Kansas
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Kansas
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Kansas
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Kansas
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Kansas
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Kansas
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Kansas
+219,33,18-34 Years,White alone,All Time,Kansas
+220,2,18-34 Years,White alone,< 30 Days,Kansas
+221,4,18-34 Years,White alone,30 to < 90 Days,Kansas
+222,3,18-34 Years,White alone,90 Days to < 6 Months,Kansas
+223,6,18-34 Years,White alone,6 Months to < 1 Year,Kansas
+224,9,18-34 Years,White alone,1 Year to < 2 Years,Kansas
+225,3,18-34 Years,White alone,2 Years to < 3 Years,Kansas
+226,6,18-34 Years,White alone,3 Years to < 5 Years,Kansas
+227,0,18-34 Years,White alone,5 or More Years,Kansas
+228,5,18-34 Years,Black or African American alone,All Time,Kansas
+229,1,18-34 Years,Black or African American alone,< 30 Days,Kansas
+230,1,18-34 Years,Black or African American alone,30 to < 90 Days,Kansas
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Kansas
+232,2,18-34 Years,Black or African American alone,6 Months to < 1 Year,Kansas
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,Kansas
+234,1,18-34 Years,Black or African American alone,2 Years to < 3 Years,Kansas
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Kansas
+236,0,18-34 Years,Black or African American alone,5 or More Years,Kansas
+237,9,18-34 Years,Hispanic or Latino,All Time,Kansas
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Kansas
+239,4,18-34 Years,Hispanic or Latino,30 to < 90 Days,Kansas
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Kansas
+241,2,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Kansas
+242,2,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Kansas
+243,1,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Kansas
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Kansas
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Kansas
+246,1,18-34 Years,Asian alone,All Time,Kansas
+247,0,18-34 Years,Asian alone,< 30 Days,Kansas
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Kansas
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Kansas
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Kansas
+251,1,18-34 Years,Asian alone,1 Year to < 2 Years,Kansas
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Kansas
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Kansas
+254,0,18-34 Years,Asian alone,5 or More Years,Kansas
+255,1,18-34 Years,American Indian and Alaska Native alone,All Time,Kansas
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Kansas
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Kansas
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kansas
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kansas
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kansas
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Kansas
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kansas
+263,1,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Kansas
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kansas
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kansas
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kansas
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kansas
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kansas
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kansas
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kansas
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kansas
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kansas
+273,1,18-34 Years,Population of two or more races:,All Time,Kansas
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Kansas
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Kansas
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Kansas
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Kansas
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Kansas
+279,1,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Kansas
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Kansas
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Kansas
+282,43,35-49 Years,White alone,All Time,Kansas
+283,2,35-49 Years,White alone,< 30 Days,Kansas
+284,4,35-49 Years,White alone,30 to < 90 Days,Kansas
+285,10,35-49 Years,White alone,90 Days to < 6 Months,Kansas
+286,4,35-49 Years,White alone,6 Months to < 1 Year,Kansas
+287,14,35-49 Years,White alone,1 Year to < 2 Years,Kansas
+288,7,35-49 Years,White alone,2 Years to < 3 Years,Kansas
+289,2,35-49 Years,White alone,3 Years to < 5 Years,Kansas
+290,0,35-49 Years,White alone,5 or More Years,Kansas
+291,14,35-49 Years,Black or African American alone,All Time,Kansas
+292,0,35-49 Years,Black or African American alone,< 30 Days,Kansas
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,Kansas
+294,2,35-49 Years,Black or African American alone,90 Days to < 6 Months,Kansas
+295,3,35-49 Years,Black or African American alone,6 Months to < 1 Year,Kansas
+296,7,35-49 Years,Black or African American alone,1 Year to < 2 Years,Kansas
+297,1,35-49 Years,Black or African American alone,2 Years to < 3 Years,Kansas
+298,0,35-49 Years,Black or African American alone,3 Years to < 5 Years,Kansas
+299,1,35-49 Years,Black or African American alone,5 or More Years,Kansas
+300,12,35-49 Years,Hispanic or Latino,All Time,Kansas
+301,1,35-49 Years,Hispanic or Latino,< 30 Days,Kansas
+302,2,35-49 Years,Hispanic or Latino,30 to < 90 Days,Kansas
+303,0,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Kansas
+304,1,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Kansas
+305,6,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Kansas
+306,2,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Kansas
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Kansas
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Kansas
+309,4,35-49 Years,Asian alone,All Time,Kansas
+310,1,35-49 Years,Asian alone,< 30 Days,Kansas
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Kansas
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Kansas
+313,2,35-49 Years,Asian alone,6 Months to < 1 Year,Kansas
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,Kansas
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Kansas
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Kansas
+317,0,35-49 Years,Asian alone,5 or More Years,Kansas
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Kansas
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Kansas
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Kansas
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kansas
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kansas
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kansas
+324,1,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Kansas
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kansas
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Kansas
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kansas
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kansas
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kansas
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kansas
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kansas
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kansas
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kansas
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kansas
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kansas
+336,5,35-49 Years,Population of two or more races:,All Time,Kansas
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Kansas
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Kansas
+339,2,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Kansas
+340,3,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Kansas
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Kansas
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Kansas
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Kansas
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Kansas
+345,150,50-64 Years,White alone,All Time,Kansas
+346,11,50-64 Years,White alone,< 30 Days,Kansas
+347,16,50-64 Years,White alone,30 to < 90 Days,Kansas
+348,12,50-64 Years,White alone,90 Days to < 6 Months,Kansas
+349,40,50-64 Years,White alone,6 Months to < 1 Year,Kansas
+350,42,50-64 Years,White alone,1 Year to < 2 Years,Kansas
+351,15,50-64 Years,White alone,2 Years to < 3 Years,Kansas
+352,12,50-64 Years,White alone,3 Years to < 5 Years,Kansas
+353,2,50-64 Years,White alone,5 or More Years,Kansas
+354,30,50-64 Years,Black or African American alone,All Time,Kansas
+355,2,50-64 Years,Black or African American alone,< 30 Days,Kansas
+356,4,50-64 Years,Black or African American alone,30 to < 90 Days,Kansas
+357,3,50-64 Years,Black or African American alone,90 Days to < 6 Months,Kansas
+358,5,50-64 Years,Black or African American alone,6 Months to < 1 Year,Kansas
+359,12,50-64 Years,Black or African American alone,1 Year to < 2 Years,Kansas
+360,1,50-64 Years,Black or African American alone,2 Years to < 3 Years,Kansas
+361,2,50-64 Years,Black or African American alone,3 Years to < 5 Years,Kansas
+362,1,50-64 Years,Black or African American alone,5 or More Years,Kansas
+363,26,50-64 Years,Hispanic or Latino,All Time,Kansas
+364,1,50-64 Years,Hispanic or Latino,< 30 Days,Kansas
+365,2,50-64 Years,Hispanic or Latino,30 to < 90 Days,Kansas
+366,2,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Kansas
+367,9,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Kansas
+368,6,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Kansas
+369,3,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Kansas
+370,2,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Kansas
+371,1,50-64 Years,Hispanic or Latino,5 or More Years,Kansas
+372,5,50-64 Years,Asian alone,All Time,Kansas
+373,1,50-64 Years,Asian alone,< 30 Days,Kansas
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Kansas
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Kansas
+376,2,50-64 Years,Asian alone,6 Months to < 1 Year,Kansas
+377,1,50-64 Years,Asian alone,1 Year to < 2 Years,Kansas
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Kansas
+379,1,50-64 Years,Asian alone,3 Years to < 5 Years,Kansas
+380,0,50-64 Years,Asian alone,5 or More Years,Kansas
+381,1,50-64 Years,American Indian and Alaska Native alone,All Time,Kansas
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Kansas
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Kansas
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kansas
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kansas
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kansas
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Kansas
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kansas
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Kansas
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kansas
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kansas
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kansas
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kansas
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kansas
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kansas
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kansas
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kansas
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kansas
+399,4,50-64 Years,Population of two or more races:,All Time,Kansas
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Kansas
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Kansas
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Kansas
+403,2,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Kansas
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Kansas
+405,1,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Kansas
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Kansas
+407,1,50-64 Years,Population of two or more races:,5 or More Years,Kansas
+408,82,65 and Older,White alone,All Time,Kansas
+409,4,65 and Older,White alone,< 30 Days,Kansas
+410,8,65 and Older,White alone,30 to < 90 Days,Kansas
+411,8,65 and Older,White alone,90 Days to < 6 Months,Kansas
+412,19,65 and Older,White alone,6 Months to < 1 Year,Kansas
+413,24,65 and Older,White alone,1 Year to < 2 Years,Kansas
+414,12,65 and Older,White alone,2 Years to < 3 Years,Kansas
+415,4,65 and Older,White alone,3 Years to < 5 Years,Kansas
+416,3,65 and Older,White alone,5 or More Years,Kansas
+417,8,65 and Older,Black or African American alone,All Time,Kansas
+418,0,65 and Older,Black or African American alone,< 30 Days,Kansas
+419,1,65 and Older,Black or African American alone,30 to < 90 Days,Kansas
+420,2,65 and Older,Black or African American alone,90 Days to < 6 Months,Kansas
+421,1,65 and Older,Black or African American alone,6 Months to < 1 Year,Kansas
+422,1,65 and Older,Black or African American alone,1 Year to < 2 Years,Kansas
+423,1,65 and Older,Black or African American alone,2 Years to < 3 Years,Kansas
+424,1,65 and Older,Black or African American alone,3 Years to < 5 Years,Kansas
+425,1,65 and Older,Black or African American alone,5 or More Years,Kansas
+426,11,65 and Older,Hispanic or Latino,All Time,Kansas
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Kansas
+428,1,65 and Older,Hispanic or Latino,30 to < 90 Days,Kansas
+429,2,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Kansas
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Kansas
+431,6,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Kansas
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Kansas
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Kansas
+434,1,65 and Older,Hispanic or Latino,5 or More Years,Kansas
+435,7,65 and Older,Asian alone,All Time,Kansas
+436,0,65 and Older,Asian alone,< 30 Days,Kansas
+437,2,65 and Older,Asian alone,30 to < 90 Days,Kansas
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Kansas
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,Kansas
+440,2,65 and Older,Asian alone,1 Year to < 2 Years,Kansas
+441,2,65 and Older,Asian alone,2 Years to < 3 Years,Kansas
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Kansas
+443,0,65 and Older,Asian alone,5 or More Years,Kansas
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Kansas
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Kansas
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Kansas
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Kansas
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Kansas
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Kansas
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Kansas
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Kansas
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Kansas
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Kansas
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kansas
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kansas
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kansas
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kansas
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kansas
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kansas
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kansas
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kansas
+462,2,65 and Older,Population of two or more races:,All Time,Kansas
+463,0,65 and Older,Population of two or more races:,< 30 Days,Kansas
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Kansas
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Kansas
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Kansas
+467,2,65 and Older,Population of two or more races:,1 Year to < 2 Years,Kansas
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Kansas
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Kansas
+470,0,65 and Older,Population of two or more races:,5 or More Years,Kansas

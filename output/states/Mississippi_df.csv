@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,328,All Ages,White alone,All Time,Mississippi
+1,29,All Ages,White alone,< 30 Days,Mississippi
+2,46,All Ages,White alone,30 to < 90 Days,Mississippi
+3,31,All Ages,White alone,90 Days to < 6 Months,Mississippi
+4,54,All Ages,White alone,6 Months to < 1 Year,Mississippi
+5,75,All Ages,White alone,1 Year to < 2 Years,Mississippi
+6,34,All Ages,White alone,2 Years to < 3 Years,Mississippi
+7,45,All Ages,White alone,3 Years to < 5 Years,Mississippi
+8,14,All Ages,White alone,5 or More Years,Mississippi
+9,761,All Ages,Black or African American alone,All Time,Mississippi
+10,32,All Ages,Black or African American alone,< 30 Days,Mississippi
+11,57,All Ages,Black or African American alone,30 to < 90 Days,Mississippi
+12,47,All Ages,Black or African American alone,90 Days to < 6 Months,Mississippi
+13,101,All Ages,Black or African American alone,6 Months to < 1 Year,Mississippi
+14,164,All Ages,Black or African American alone,1 Year to < 2 Years,Mississippi
+15,135,All Ages,Black or African American alone,2 Years to < 3 Years,Mississippi
+16,154,All Ages,Black or African American alone,3 Years to < 5 Years,Mississippi
+17,71,All Ages,Black or African American alone,5 or More Years,Mississippi
+18,9,All Ages,Hispanic or Latino,All Time,Mississippi
+19,0,All Ages,Hispanic or Latino,< 30 Days,Mississippi
+20,1,All Ages,Hispanic or Latino,30 to < 90 Days,Mississippi
+21,1,All Ages,Hispanic or Latino,90 Days to < 6 Months,Mississippi
+22,1,All Ages,Hispanic or Latino,6 Months to < 1 Year,Mississippi
+23,2,All Ages,Hispanic or Latino,1 Year to < 2 Years,Mississippi
+24,1,All Ages,Hispanic or Latino,2 Years to < 3 Years,Mississippi
+25,2,All Ages,Hispanic or Latino,3 Years to < 5 Years,Mississippi
+26,1,All Ages,Hispanic or Latino,5 or More Years,Mississippi
+27,9,All Ages,Asian alone,All Time,Mississippi
+28,0,All Ages,Asian alone,< 30 Days,Mississippi
+29,1,All Ages,Asian alone,30 to < 90 Days,Mississippi
+30,1,All Ages,Asian alone,90 Days to < 6 Months,Mississippi
+31,0,All Ages,Asian alone,6 Months to < 1 Year,Mississippi
+32,3,All Ages,Asian alone,1 Year to < 2 Years,Mississippi
+33,1,All Ages,Asian alone,2 Years to < 3 Years,Mississippi
+34,3,All Ages,Asian alone,3 Years to < 5 Years,Mississippi
+35,0,All Ages,Asian alone,5 or More Years,Mississippi
+36,7,All Ages,American Indian and Alaska Native alone,All Time,Mississippi
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Mississippi
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Mississippi
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Mississippi
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Mississippi
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Mississippi
+42,2,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Mississippi
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Mississippi
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Mississippi
+45,1,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Mississippi
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Mississippi
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Mississippi
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Mississippi
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Mississippi
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Mississippi
+51,1,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Mississippi
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Mississippi
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Mississippi
+54,0,All Ages,Population of two or more races:,All Time,Mississippi
+55,0,All Ages,Population of two or more races:,< 30 Days,Mississippi
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Mississippi
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Mississippi
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Mississippi
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Mississippi
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Mississippi
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Mississippi
+62,0,All Ages,Population of two or more races:,5 or More Years,Mississippi
+63,3,0-5 Years,White alone,All Time,Mississippi
+64,0,0-5 Years,White alone,< 30 Days,Mississippi
+65,2,0-5 Years,White alone,30 to < 90 Days,Mississippi
+66,1,0-5 Years,White alone,90 Days to < 6 Months,Mississippi
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Mississippi
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Mississippi
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Mississippi
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Mississippi
+71,0,0-5 Years,White alone,5 or More Years,Mississippi
+72,0,0-5 Years,Black or African American alone,All Time,Mississippi
+73,0,0-5 Years,Black or African American alone,< 30 Days,Mississippi
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Mississippi
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Mississippi
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Mississippi
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Mississippi
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Mississippi
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Mississippi
+80,0,0-5 Years,Hispanic or Latino,All Time,Mississippi
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Mississippi
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Mississippi
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Mississippi
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Mississippi
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Mississippi
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Mississippi
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Mississippi
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Mississippi
+89,0,0-5 Years,Asian alone,All Time,Mississippi
+90,0,0-5 Years,Asian alone,< 30 Days,Mississippi
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Mississippi
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Mississippi
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Mississippi
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Mississippi
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Mississippi
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Mississippi
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Mississippi
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Mississippi
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Mississippi
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Mississippi
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Mississippi
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Mississippi
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Mississippi
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Mississippi
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Mississippi
+106,0,0-5 Years,Population of two or more races:,All Time,Mississippi
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Mississippi
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Mississippi
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Mississippi
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Mississippi
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Mississippi
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Mississippi
+113,3,6-10 Years,White alone,All Time,Mississippi
+114,0,6-10 Years,White alone,< 30 Days,Mississippi
+115,3,6-10 Years,White alone,30 to < 90 Days,Mississippi
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Mississippi
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Mississippi
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Mississippi
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Mississippi
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Mississippi
+121,0,6-10 Years,White alone,5 or More Years,Mississippi
+122,2,6-10 Years,Black or African American alone,All Time,Mississippi
+123,0,6-10 Years,Black or African American alone,< 30 Days,Mississippi
+124,1,6-10 Years,Black or African American alone,30 to < 90 Days,Mississippi
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Mississippi
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Mississippi
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Mississippi
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Mississippi
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Mississippi
+130,0,6-10 Years,Black or African American alone,5 or More Years,Mississippi
+131,0,6-10 Years,Hispanic or Latino,All Time,Mississippi
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Mississippi
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Mississippi
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Mississippi
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Mississippi
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Mississippi
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Mississippi
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Mississippi
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Mississippi
+140,0,6-10 Years,Asian alone,All Time,Mississippi
+141,0,6-10 Years,Asian alone,< 30 Days,Mississippi
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Mississippi
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Mississippi
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Mississippi
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Mississippi
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Mississippi
+147,0,6-10 Years,Asian alone,5 or More Years,Mississippi
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Mississippi
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Mississippi
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Mississippi
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Mississippi
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Mississippi
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Mississippi
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Mississippi
+155,0,6-10 Years,Population of two or more races:,All Time,Mississippi
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Mississippi
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Mississippi
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Mississippi
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Mississippi
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Mississippi
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Mississippi
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Mississippi
+163,2,11-17 Years,White alone,All Time,Mississippi
+164,1,11-17 Years,White alone,< 30 Days,Mississippi
+165,0,11-17 Years,White alone,30 to < 90 Days,Mississippi
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Mississippi
+167,1,11-17 Years,White alone,6 Months to < 1 Year,Mississippi
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Mississippi
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Mississippi
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Mississippi
+171,0,11-17 Years,White alone,5 or More Years,Mississippi
+172,3,11-17 Years,Black or African American alone,All Time,Mississippi
+173,1,11-17 Years,Black or African American alone,< 30 Days,Mississippi
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Mississippi
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Mississippi
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Mississippi
+177,1,11-17 Years,Black or African American alone,1 Year to < 2 Years,Mississippi
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Mississippi
+179,1,11-17 Years,Black or African American alone,3 Years to < 5 Years,Mississippi
+180,0,11-17 Years,Black or African American alone,5 or More Years,Mississippi
+181,0,11-17 Years,Hispanic or Latino,All Time,Mississippi
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Mississippi
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Mississippi
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Mississippi
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Mississippi
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Mississippi
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Mississippi
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Mississippi
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Mississippi
+190,0,11-17 Years,Asian alone,All Time,Mississippi
+191,0,11-17 Years,Asian alone,< 30 Days,Mississippi
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Mississippi
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Mississippi
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Mississippi
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Mississippi
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Mississippi
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Mississippi
+198,0,11-17 Years,Asian alone,5 or More Years,Mississippi
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Mississippi
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Mississippi
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Mississippi
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Mississippi
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Mississippi
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Mississippi
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Mississippi
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Mississippi
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Mississippi
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Mississippi
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Mississippi
+210,0,11-17 Years,Population of two or more races:,All Time,Mississippi
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Mississippi
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Mississippi
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Mississippi
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Mississippi
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Mississippi
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Mississippi
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Mississippi
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Mississippi
+219,17,18-34 Years,White alone,All Time,Mississippi
+220,0,18-34 Years,White alone,< 30 Days,Mississippi
+221,5,18-34 Years,White alone,30 to < 90 Days,Mississippi
+222,1,18-34 Years,White alone,90 Days to < 6 Months,Mississippi
+223,0,18-34 Years,White alone,6 Months to < 1 Year,Mississippi
+224,3,18-34 Years,White alone,1 Year to < 2 Years,Mississippi
+225,2,18-34 Years,White alone,2 Years to < 3 Years,Mississippi
+226,4,18-34 Years,White alone,3 Years to < 5 Years,Mississippi
+227,2,18-34 Years,White alone,5 or More Years,Mississippi
+228,50,18-34 Years,Black or African American alone,All Time,Mississippi
+229,1,18-34 Years,Black or African American alone,< 30 Days,Mississippi
+230,4,18-34 Years,Black or African American alone,30 to < 90 Days,Mississippi
+231,1,18-34 Years,Black or African American alone,90 Days to < 6 Months,Mississippi
+232,10,18-34 Years,Black or African American alone,6 Months to < 1 Year,Mississippi
+233,19,18-34 Years,Black or African American alone,1 Year to < 2 Years,Mississippi
+234,5,18-34 Years,Black or African American alone,2 Years to < 3 Years,Mississippi
+235,7,18-34 Years,Black or African American alone,3 Years to < 5 Years,Mississippi
+236,3,18-34 Years,Black or African American alone,5 or More Years,Mississippi
+237,0,18-34 Years,Hispanic or Latino,All Time,Mississippi
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Mississippi
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Mississippi
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Mississippi
+241,0,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Mississippi
+242,0,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Mississippi
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Mississippi
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Mississippi
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Mississippi
+246,0,18-34 Years,Asian alone,All Time,Mississippi
+247,0,18-34 Years,Asian alone,< 30 Days,Mississippi
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Mississippi
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Mississippi
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Mississippi
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Mississippi
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Mississippi
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Mississippi
+254,0,18-34 Years,Asian alone,5 or More Years,Mississippi
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Mississippi
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Mississippi
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Mississippi
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Mississippi
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Mississippi
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Mississippi
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Mississippi
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Mississippi
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Mississippi
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Mississippi
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Mississippi
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Mississippi
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Mississippi
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Mississippi
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Mississippi
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Mississippi
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Mississippi
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Mississippi
+273,0,18-34 Years,Population of two or more races:,All Time,Mississippi
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Mississippi
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Mississippi
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Mississippi
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Mississippi
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Mississippi
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Mississippi
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Mississippi
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Mississippi
+282,65,35-49 Years,White alone,All Time,Mississippi
+283,9,35-49 Years,White alone,< 30 Days,Mississippi
+284,11,35-49 Years,White alone,30 to < 90 Days,Mississippi
+285,7,35-49 Years,White alone,90 Days to < 6 Months,Mississippi
+286,15,35-49 Years,White alone,6 Months to < 1 Year,Mississippi
+287,11,35-49 Years,White alone,1 Year to < 2 Years,Mississippi
+288,5,35-49 Years,White alone,2 Years to < 3 Years,Mississippi
+289,6,35-49 Years,White alone,3 Years to < 5 Years,Mississippi
+290,1,35-49 Years,White alone,5 or More Years,Mississippi
+291,251,35-49 Years,Black or African American alone,All Time,Mississippi
+292,16,35-49 Years,Black or African American alone,< 30 Days,Mississippi
+293,18,35-49 Years,Black or African American alone,30 to < 90 Days,Mississippi
+294,20,35-49 Years,Black or African American alone,90 Days to < 6 Months,Mississippi
+295,22,35-49 Years,Black or African American alone,6 Months to < 1 Year,Mississippi
+296,47,35-49 Years,Black or African American alone,1 Year to < 2 Years,Mississippi
+297,36,35-49 Years,Black or African American alone,2 Years to < 3 Years,Mississippi
+298,58,35-49 Years,Black or African American alone,3 Years to < 5 Years,Mississippi
+299,34,35-49 Years,Black or African American alone,5 or More Years,Mississippi
+300,3,35-49 Years,Hispanic or Latino,All Time,Mississippi
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Mississippi
+302,1,35-49 Years,Hispanic or Latino,30 to < 90 Days,Mississippi
+303,1,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Mississippi
+304,0,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Mississippi
+305,0,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Mississippi
+306,0,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Mississippi
+307,1,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Mississippi
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Mississippi
+309,1,35-49 Years,Asian alone,All Time,Mississippi
+310,0,35-49 Years,Asian alone,< 30 Days,Mississippi
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Mississippi
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Mississippi
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,Mississippi
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,Mississippi
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Mississippi
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Mississippi
+317,0,35-49 Years,Asian alone,5 or More Years,Mississippi
+318,2,35-49 Years,American Indian and Alaska Native alone,All Time,Mississippi
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Mississippi
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Mississippi
+321,1,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Mississippi
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Mississippi
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Mississippi
+324,1,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Mississippi
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Mississippi
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Mississippi
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Mississippi
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Mississippi
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Mississippi
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Mississippi
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Mississippi
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Mississippi
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Mississippi
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Mississippi
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Mississippi
+336,0,35-49 Years,Population of two or more races:,All Time,Mississippi
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Mississippi
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Mississippi
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Mississippi
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Mississippi
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Mississippi
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Mississippi
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Mississippi
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Mississippi
+345,154,50-64 Years,White alone,All Time,Mississippi
+346,12,50-64 Years,White alone,< 30 Days,Mississippi
+347,18,50-64 Years,White alone,30 to < 90 Days,Mississippi
+348,15,50-64 Years,White alone,90 Days to < 6 Months,Mississippi
+349,24,50-64 Years,White alone,6 Months to < 1 Year,Mississippi
+350,38,50-64 Years,White alone,1 Year to < 2 Years,Mississippi
+351,15,50-64 Years,White alone,2 Years to < 3 Years,Mississippi
+352,23,50-64 Years,White alone,3 Years to < 5 Years,Mississippi
+353,9,50-64 Years,White alone,5 or More Years,Mississippi
+354,335,50-64 Years,Black or African American alone,All Time,Mississippi
+355,11,50-64 Years,Black or African American alone,< 30 Days,Mississippi
+356,28,50-64 Years,Black or African American alone,30 to < 90 Days,Mississippi
+357,19,50-64 Years,Black or African American alone,90 Days to < 6 Months,Mississippi
+358,50,50-64 Years,Black or African American alone,6 Months to < 1 Year,Mississippi
+359,69,50-64 Years,Black or African American alone,1 Year to < 2 Years,Mississippi
+360,70,50-64 Years,Black or African American alone,2 Years to < 3 Years,Mississippi
+361,62,50-64 Years,Black or African American alone,3 Years to < 5 Years,Mississippi
+362,26,50-64 Years,Black or African American alone,5 or More Years,Mississippi
+363,5,50-64 Years,Hispanic or Latino,All Time,Mississippi
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Mississippi
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Mississippi
+366,0,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Mississippi
+367,1,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Mississippi
+368,2,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Mississippi
+369,1,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Mississippi
+370,0,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Mississippi
+371,1,50-64 Years,Hispanic or Latino,5 or More Years,Mississippi
+372,6,50-64 Years,Asian alone,All Time,Mississippi
+373,0,50-64 Years,Asian alone,< 30 Days,Mississippi
+374,1,50-64 Years,Asian alone,30 to < 90 Days,Mississippi
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,Mississippi
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,Mississippi
+377,2,50-64 Years,Asian alone,1 Year to < 2 Years,Mississippi
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Mississippi
+379,2,50-64 Years,Asian alone,3 Years to < 5 Years,Mississippi
+380,0,50-64 Years,Asian alone,5 or More Years,Mississippi
+381,4,50-64 Years,American Indian and Alaska Native alone,All Time,Mississippi
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Mississippi
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Mississippi
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Mississippi
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Mississippi
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Mississippi
+387,1,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Mississippi
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Mississippi
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Mississippi
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Mississippi
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Mississippi
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Mississippi
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Mississippi
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Mississippi
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Mississippi
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Mississippi
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Mississippi
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Mississippi
+399,0,50-64 Years,Population of two or more races:,All Time,Mississippi
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Mississippi
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Mississippi
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Mississippi
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Mississippi
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Mississippi
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Mississippi
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Mississippi
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Mississippi
+408,84,65 and Older,White alone,All Time,Mississippi
+409,7,65 and Older,White alone,< 30 Days,Mississippi
+410,7,65 and Older,White alone,30 to < 90 Days,Mississippi
+411,7,65 and Older,White alone,90 Days to < 6 Months,Mississippi
+412,14,65 and Older,White alone,6 Months to < 1 Year,Mississippi
+413,23,65 and Older,White alone,1 Year to < 2 Years,Mississippi
+414,12,65 and Older,White alone,2 Years to < 3 Years,Mississippi
+415,12,65 and Older,White alone,3 Years to < 5 Years,Mississippi
+416,2,65 and Older,White alone,5 or More Years,Mississippi
+417,120,65 and Older,Black or African American alone,All Time,Mississippi
+418,3,65 and Older,Black or African American alone,< 30 Days,Mississippi
+419,6,65 and Older,Black or African American alone,30 to < 90 Days,Mississippi
+420,7,65 and Older,Black or African American alone,90 Days to < 6 Months,Mississippi
+421,19,65 and Older,Black or African American alone,6 Months to < 1 Year,Mississippi
+422,27,65 and Older,Black or African American alone,1 Year to < 2 Years,Mississippi
+423,24,65 and Older,Black or African American alone,2 Years to < 3 Years,Mississippi
+424,26,65 and Older,Black or African American alone,3 Years to < 5 Years,Mississippi
+425,8,65 and Older,Black or African American alone,5 or More Years,Mississippi
+426,1,65 and Older,Hispanic or Latino,All Time,Mississippi
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Mississippi
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Mississippi
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Mississippi
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Mississippi
+431,0,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Mississippi
+432,0,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Mississippi
+433,1,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Mississippi
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Mississippi
+435,2,65 and Older,Asian alone,All Time,Mississippi
+436,0,65 and Older,Asian alone,< 30 Days,Mississippi
+437,0,65 and Older,Asian alone,30 to < 90 Days,Mississippi
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Mississippi
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,Mississippi
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,Mississippi
+441,1,65 and Older,Asian alone,2 Years to < 3 Years,Mississippi
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,Mississippi
+443,0,65 and Older,Asian alone,5 or More Years,Mississippi
+444,1,65 and Older,American Indian and Alaska Native alone,All Time,Mississippi
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Mississippi
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Mississippi
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Mississippi
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Mississippi
+449,1,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Mississippi
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Mississippi
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Mississippi
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Mississippi
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Mississippi
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Mississippi
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Mississippi
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Mississippi
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Mississippi
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Mississippi
+459,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Mississippi
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Mississippi
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Mississippi
+462,0,65 and Older,Population of two or more races:,All Time,Mississippi
+463,0,65 and Older,Population of two or more races:,< 30 Days,Mississippi
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Mississippi
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Mississippi
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Mississippi
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Mississippi
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Mississippi
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Mississippi
+470,0,65 and Older,Population of two or more races:,5 or More Years,Mississippi

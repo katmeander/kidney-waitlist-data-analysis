@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,911,All Ages,White alone,All Time,Missouri
+1,51,All Ages,White alone,< 30 Days,Missouri
+2,81,All Ages,White alone,30 to < 90 Days,Missouri
+3,95,All Ages,White alone,90 Days to < 6 Months,Missouri
+4,173,All Ages,White alone,6 Months to < 1 Year,Missouri
+5,252,All Ages,White alone,1 Year to < 2 Years,Missouri
+6,102,All Ages,White alone,2 Years to < 3 Years,Missouri
+7,100,All Ages,White alone,3 Years to < 5 Years,Missouri
+8,57,All Ages,White alone,5 or More Years,Missouri
+9,454,All Ages,Black or African American alone,All Time,Missouri
+10,20,All Ages,Black or African American alone,< 30 Days,Missouri
+11,29,All Ages,Black or African American alone,30 to < 90 Days,Missouri
+12,45,All Ages,Black or African American alone,90 Days to < 6 Months,Missouri
+13,82,All Ages,Black or African American alone,6 Months to < 1 Year,Missouri
+14,108,All Ages,Black or African American alone,1 Year to < 2 Years,Missouri
+15,76,All Ages,Black or African American alone,2 Years to < 3 Years,Missouri
+16,49,All Ages,Black or African American alone,3 Years to < 5 Years,Missouri
+17,45,All Ages,Black or African American alone,5 or More Years,Missouri
+18,49,All Ages,Hispanic or Latino,All Time,Missouri
+19,3,All Ages,Hispanic or Latino,< 30 Days,Missouri
+20,10,All Ages,Hispanic or Latino,30 to < 90 Days,Missouri
+21,5,All Ages,Hispanic or Latino,90 Days to < 6 Months,Missouri
+22,7,All Ages,Hispanic or Latino,6 Months to < 1 Year,Missouri
+23,9,All Ages,Hispanic or Latino,1 Year to < 2 Years,Missouri
+24,6,All Ages,Hispanic or Latino,2 Years to < 3 Years,Missouri
+25,7,All Ages,Hispanic or Latino,3 Years to < 5 Years,Missouri
+26,2,All Ages,Hispanic or Latino,5 or More Years,Missouri
+27,53,All Ages,Asian alone,All Time,Missouri
+28,2,All Ages,Asian alone,< 30 Days,Missouri
+29,3,All Ages,Asian alone,30 to < 90 Days,Missouri
+30,6,All Ages,Asian alone,90 Days to < 6 Months,Missouri
+31,8,All Ages,Asian alone,6 Months to < 1 Year,Missouri
+32,13,All Ages,Asian alone,1 Year to < 2 Years,Missouri
+33,14,All Ages,Asian alone,2 Years to < 3 Years,Missouri
+34,2,All Ages,Asian alone,3 Years to < 5 Years,Missouri
+35,5,All Ages,Asian alone,5 or More Years,Missouri
+36,8,All Ages,American Indian and Alaska Native alone,All Time,Missouri
+37,1,All Ages,American Indian and Alaska Native alone,< 30 Days,Missouri
+38,1,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Missouri
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Missouri
+40,2,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Missouri
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Missouri
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Missouri
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Missouri
+44,1,All Ages,American Indian and Alaska Native alone,5 or More Years,Missouri
+45,4,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Missouri
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Missouri
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Missouri
+48,1,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Missouri
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Missouri
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Missouri
+51,2,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Missouri
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Missouri
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Missouri
+54,14,All Ages,Population of two or more races:,All Time,Missouri
+55,0,All Ages,Population of two or more races:,< 30 Days,Missouri
+56,3,All Ages,Population of two or more races:,30 to < 90 Days,Missouri
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,Missouri
+58,1,All Ages,Population of two or more races:,6 Months to < 1 Year,Missouri
+59,4,All Ages,Population of two or more races:,1 Year to < 2 Years,Missouri
+60,2,All Ages,Population of two or more races:,2 Years to < 3 Years,Missouri
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,Missouri
+62,0,All Ages,Population of two or more races:,5 or More Years,Missouri
+63,8,0-5 Years,White alone,All Time,Missouri
+64,1,0-5 Years,White alone,< 30 Days,Missouri
+65,4,0-5 Years,White alone,30 to < 90 Days,Missouri
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Missouri
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Missouri
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Missouri
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Missouri
+70,2,0-5 Years,White alone,3 Years to < 5 Years,Missouri
+71,0,0-5 Years,White alone,5 or More Years,Missouri
+72,4,0-5 Years,Black or African American alone,All Time,Missouri
+73,1,0-5 Years,Black or African American alone,< 30 Days,Missouri
+74,1,0-5 Years,Black or African American alone,30 to < 90 Days,Missouri
+75,1,0-5 Years,Black or African American alone,90 Days to < 6 Months,Missouri
+76,1,0-5 Years,Black or African American alone,6 Months to < 1 Year,Missouri
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Missouri
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Missouri
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Missouri
+80,2,0-5 Years,Hispanic or Latino,All Time,Missouri
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Missouri
+82,1,0-5 Years,Hispanic or Latino,30 to < 90 Days,Missouri
+83,1,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Missouri
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Missouri
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Missouri
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Missouri
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Missouri
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Missouri
+89,0,0-5 Years,Asian alone,All Time,Missouri
+90,0,0-5 Years,Asian alone,< 30 Days,Missouri
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Missouri
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Missouri
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Missouri
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Missouri
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Missouri
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Missouri
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Missouri
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Missouri
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Missouri
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Missouri
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Missouri
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Missouri
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Missouri
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Missouri
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Missouri
+106,3,0-5 Years,Population of two or more races:,All Time,Missouri
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Missouri
+108,1,0-5 Years,Population of two or more races:,30 to < 90 Days,Missouri
+109,1,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Missouri
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Missouri
+111,1,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Missouri
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Missouri
+113,2,6-10 Years,White alone,All Time,Missouri
+114,0,6-10 Years,White alone,< 30 Days,Missouri
+115,0,6-10 Years,White alone,30 to < 90 Days,Missouri
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Missouri
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Missouri
+118,1,6-10 Years,White alone,1 Year to < 2 Years,Missouri
+119,1,6-10 Years,White alone,2 Years to < 3 Years,Missouri
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Missouri
+121,0,6-10 Years,White alone,5 or More Years,Missouri
+122,1,6-10 Years,Black or African American alone,All Time,Missouri
+123,0,6-10 Years,Black or African American alone,< 30 Days,Missouri
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Missouri
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Missouri
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Missouri
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Missouri
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Missouri
+129,1,6-10 Years,Black or African American alone,3 Years to < 5 Years,Missouri
+130,0,6-10 Years,Black or African American alone,5 or More Years,Missouri
+131,0,6-10 Years,Hispanic or Latino,All Time,Missouri
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Missouri
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Missouri
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Missouri
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Missouri
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Missouri
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Missouri
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Missouri
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Missouri
+140,0,6-10 Years,Asian alone,All Time,Missouri
+141,0,6-10 Years,Asian alone,< 30 Days,Missouri
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Missouri
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Missouri
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Missouri
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Missouri
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Missouri
+147,0,6-10 Years,Asian alone,5 or More Years,Missouri
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Missouri
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Missouri
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Missouri
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Missouri
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Missouri
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Missouri
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Missouri
+155,0,6-10 Years,Population of two or more races:,All Time,Missouri
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Missouri
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Missouri
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Missouri
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Missouri
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Missouri
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Missouri
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Missouri
+163,0,11-17 Years,White alone,All Time,Missouri
+164,0,11-17 Years,White alone,< 30 Days,Missouri
+165,0,11-17 Years,White alone,30 to < 90 Days,Missouri
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Missouri
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Missouri
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Missouri
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Missouri
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Missouri
+171,0,11-17 Years,White alone,5 or More Years,Missouri
+172,5,11-17 Years,Black or African American alone,All Time,Missouri
+173,0,11-17 Years,Black or African American alone,< 30 Days,Missouri
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,Missouri
+175,1,11-17 Years,Black or African American alone,90 Days to < 6 Months,Missouri
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Missouri
+177,1,11-17 Years,Black or African American alone,1 Year to < 2 Years,Missouri
+178,1,11-17 Years,Black or African American alone,2 Years to < 3 Years,Missouri
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Missouri
+180,0,11-17 Years,Black or African American alone,5 or More Years,Missouri
+181,1,11-17 Years,Hispanic or Latino,All Time,Missouri
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Missouri
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Missouri
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Missouri
+185,1,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Missouri
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Missouri
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Missouri
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Missouri
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Missouri
+190,1,11-17 Years,Asian alone,All Time,Missouri
+191,1,11-17 Years,Asian alone,< 30 Days,Missouri
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Missouri
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Missouri
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Missouri
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Missouri
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Missouri
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Missouri
+198,0,11-17 Years,Asian alone,5 or More Years,Missouri
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Missouri
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Missouri
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Missouri
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Missouri
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Missouri
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Missouri
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Missouri
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Missouri
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Missouri
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Missouri
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Missouri
+210,0,11-17 Years,Population of two or more races:,All Time,Missouri
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Missouri
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Missouri
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Missouri
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Missouri
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Missouri
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Missouri
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Missouri
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Missouri
+219,66,18-34 Years,White alone,All Time,Missouri
+220,3,18-34 Years,White alone,< 30 Days,Missouri
+221,9,18-34 Years,White alone,30 to < 90 Days,Missouri
+222,8,18-34 Years,White alone,90 Days to < 6 Months,Missouri
+223,14,18-34 Years,White alone,6 Months to < 1 Year,Missouri
+224,13,18-34 Years,White alone,1 Year to < 2 Years,Missouri
+225,7,18-34 Years,White alone,2 Years to < 3 Years,Missouri
+226,6,18-34 Years,White alone,3 Years to < 5 Years,Missouri
+227,6,18-34 Years,White alone,5 or More Years,Missouri
+228,37,18-34 Years,Black or African American alone,All Time,Missouri
+229,2,18-34 Years,Black or African American alone,< 30 Days,Missouri
+230,5,18-34 Years,Black or African American alone,30 to < 90 Days,Missouri
+231,2,18-34 Years,Black or African American alone,90 Days to < 6 Months,Missouri
+232,4,18-34 Years,Black or African American alone,6 Months to < 1 Year,Missouri
+233,8,18-34 Years,Black or African American alone,1 Year to < 2 Years,Missouri
+234,10,18-34 Years,Black or African American alone,2 Years to < 3 Years,Missouri
+235,3,18-34 Years,Black or African American alone,3 Years to < 5 Years,Missouri
+236,3,18-34 Years,Black or African American alone,5 or More Years,Missouri
+237,11,18-34 Years,Hispanic or Latino,All Time,Missouri
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Missouri
+239,3,18-34 Years,Hispanic or Latino,30 to < 90 Days,Missouri
+240,1,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Missouri
+241,4,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Missouri
+242,1,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Missouri
+243,1,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Missouri
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Missouri
+245,1,18-34 Years,Hispanic or Latino,5 or More Years,Missouri
+246,6,18-34 Years,Asian alone,All Time,Missouri
+247,1,18-34 Years,Asian alone,< 30 Days,Missouri
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Missouri
+249,2,18-34 Years,Asian alone,90 Days to < 6 Months,Missouri
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Missouri
+251,2,18-34 Years,Asian alone,1 Year to < 2 Years,Missouri
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Missouri
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Missouri
+254,0,18-34 Years,Asian alone,5 or More Years,Missouri
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Missouri
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Missouri
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Missouri
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Missouri
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Missouri
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Missouri
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Missouri
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Missouri
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Missouri
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Missouri
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Missouri
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Missouri
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Missouri
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Missouri
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Missouri
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Missouri
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Missouri
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Missouri
+273,1,18-34 Years,Population of two or more races:,All Time,Missouri
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Missouri
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Missouri
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Missouri
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Missouri
+278,1,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Missouri
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Missouri
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Missouri
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Missouri
+282,151,35-49 Years,White alone,All Time,Missouri
+283,13,35-49 Years,White alone,< 30 Days,Missouri
+284,8,35-49 Years,White alone,30 to < 90 Days,Missouri
+285,13,35-49 Years,White alone,90 Days to < 6 Months,Missouri
+286,28,35-49 Years,White alone,6 Months to < 1 Year,Missouri
+287,50,35-49 Years,White alone,1 Year to < 2 Years,Missouri
+288,20,35-49 Years,White alone,2 Years to < 3 Years,Missouri
+289,15,35-49 Years,White alone,3 Years to < 5 Years,Missouri
+290,4,35-49 Years,White alone,5 or More Years,Missouri
+291,104,35-49 Years,Black or African American alone,All Time,Missouri
+292,6,35-49 Years,Black or African American alone,< 30 Days,Missouri
+293,7,35-49 Years,Black or African American alone,30 to < 90 Days,Missouri
+294,15,35-49 Years,Black or African American alone,90 Days to < 6 Months,Missouri
+295,18,35-49 Years,Black or African American alone,6 Months to < 1 Year,Missouri
+296,23,35-49 Years,Black or African American alone,1 Year to < 2 Years,Missouri
+297,14,35-49 Years,Black or African American alone,2 Years to < 3 Years,Missouri
+298,9,35-49 Years,Black or African American alone,3 Years to < 5 Years,Missouri
+299,12,35-49 Years,Black or African American alone,5 or More Years,Missouri
+300,14,35-49 Years,Hispanic or Latino,All Time,Missouri
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Missouri
+302,3,35-49 Years,Hispanic or Latino,30 to < 90 Days,Missouri
+303,1,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Missouri
+304,2,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Missouri
+305,3,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Missouri
+306,2,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Missouri
+307,3,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Missouri
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Missouri
+309,15,35-49 Years,Asian alone,All Time,Missouri
+310,0,35-49 Years,Asian alone,< 30 Days,Missouri
+311,2,35-49 Years,Asian alone,30 to < 90 Days,Missouri
+312,2,35-49 Years,Asian alone,90 Days to < 6 Months,Missouri
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,Missouri
+314,4,35-49 Years,Asian alone,1 Year to < 2 Years,Missouri
+315,3,35-49 Years,Asian alone,2 Years to < 3 Years,Missouri
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,Missouri
+317,2,35-49 Years,Asian alone,5 or More Years,Missouri
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Missouri
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Missouri
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Missouri
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Missouri
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Missouri
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Missouri
+324,1,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Missouri
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Missouri
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Missouri
+327,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Missouri
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Missouri
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Missouri
+330,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Missouri
+331,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Missouri
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Missouri
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Missouri
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Missouri
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Missouri
+336,4,35-49 Years,Population of two or more races:,All Time,Missouri
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Missouri
+338,1,35-49 Years,Population of two or more races:,30 to < 90 Days,Missouri
+339,1,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Missouri
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Missouri
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Missouri
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Missouri
+343,2,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Missouri
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Missouri
+345,346,50-64 Years,White alone,All Time,Missouri
+346,15,50-64 Years,White alone,< 30 Days,Missouri
+347,31,50-64 Years,White alone,30 to < 90 Days,Missouri
+348,41,50-64 Years,White alone,90 Days to < 6 Months,Missouri
+349,64,50-64 Years,White alone,6 Months to < 1 Year,Missouri
+350,92,50-64 Years,White alone,1 Year to < 2 Years,Missouri
+351,37,50-64 Years,White alone,2 Years to < 3 Years,Missouri
+352,46,50-64 Years,White alone,3 Years to < 5 Years,Missouri
+353,20,50-64 Years,White alone,5 or More Years,Missouri
+354,193,50-64 Years,Black or African American alone,All Time,Missouri
+355,7,50-64 Years,Black or African American alone,< 30 Days,Missouri
+356,11,50-64 Years,Black or African American alone,30 to < 90 Days,Missouri
+357,16,50-64 Years,Black or African American alone,90 Days to < 6 Months,Missouri
+358,39,50-64 Years,Black or African American alone,6 Months to < 1 Year,Missouri
+359,47,50-64 Years,Black or African American alone,1 Year to < 2 Years,Missouri
+360,36,50-64 Years,Black or African American alone,2 Years to < 3 Years,Missouri
+361,17,50-64 Years,Black or African American alone,3 Years to < 5 Years,Missouri
+362,20,50-64 Years,Black or African American alone,5 or More Years,Missouri
+363,16,50-64 Years,Hispanic or Latino,All Time,Missouri
+364,2,50-64 Years,Hispanic or Latino,< 30 Days,Missouri
+365,2,50-64 Years,Hispanic or Latino,30 to < 90 Days,Missouri
+366,1,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Missouri
+367,0,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Missouri
+368,4,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Missouri
+369,2,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Missouri
+370,4,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Missouri
+371,1,50-64 Years,Hispanic or Latino,5 or More Years,Missouri
+372,17,50-64 Years,Asian alone,All Time,Missouri
+373,0,50-64 Years,Asian alone,< 30 Days,Missouri
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Missouri
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,Missouri
+376,4,50-64 Years,Asian alone,6 Months to < 1 Year,Missouri
+377,2,50-64 Years,Asian alone,1 Year to < 2 Years,Missouri
+378,8,50-64 Years,Asian alone,2 Years to < 3 Years,Missouri
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Missouri
+380,2,50-64 Years,Asian alone,5 or More Years,Missouri
+381,6,50-64 Years,American Indian and Alaska Native alone,All Time,Missouri
+382,1,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Missouri
+383,1,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Missouri
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Missouri
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Missouri
+386,2,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Missouri
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Missouri
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Missouri
+389,1,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Missouri
+390,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Missouri
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Missouri
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Missouri
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Missouri
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Missouri
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Missouri
+396,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Missouri
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Missouri
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Missouri
+399,4,50-64 Years,Population of two or more races:,All Time,Missouri
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Missouri
+401,1,50-64 Years,Population of two or more races:,30 to < 90 Days,Missouri
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Missouri
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Missouri
+404,1,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Missouri
+405,2,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Missouri
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Missouri
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Missouri
+408,338,65 and Older,White alone,All Time,Missouri
+409,19,65 and Older,White alone,< 30 Days,Missouri
+410,29,65 and Older,White alone,30 to < 90 Days,Missouri
+411,33,65 and Older,White alone,90 Days to < 6 Months,Missouri
+412,67,65 and Older,White alone,6 Months to < 1 Year,Missouri
+413,95,65 and Older,White alone,1 Year to < 2 Years,Missouri
+414,37,65 and Older,White alone,2 Years to < 3 Years,Missouri
+415,31,65 and Older,White alone,3 Years to < 5 Years,Missouri
+416,27,65 and Older,White alone,5 or More Years,Missouri
+417,110,65 and Older,Black or African American alone,All Time,Missouri
+418,4,65 and Older,Black or African American alone,< 30 Days,Missouri
+419,4,65 and Older,Black or African American alone,30 to < 90 Days,Missouri
+420,10,65 and Older,Black or African American alone,90 Days to < 6 Months,Missouri
+421,19,65 and Older,Black or African American alone,6 Months to < 1 Year,Missouri
+422,29,65 and Older,Black or African American alone,1 Year to < 2 Years,Missouri
+423,15,65 and Older,Black or African American alone,2 Years to < 3 Years,Missouri
+424,19,65 and Older,Black or African American alone,3 Years to < 5 Years,Missouri
+425,10,65 and Older,Black or African American alone,5 or More Years,Missouri
+426,5,65 and Older,Hispanic or Latino,All Time,Missouri
+427,1,65 and Older,Hispanic or Latino,< 30 Days,Missouri
+428,1,65 and Older,Hispanic or Latino,30 to < 90 Days,Missouri
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Missouri
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Missouri
+431,1,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Missouri
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Missouri
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Missouri
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Missouri
+435,14,65 and Older,Asian alone,All Time,Missouri
+436,0,65 and Older,Asian alone,< 30 Days,Missouri
+437,0,65 and Older,Asian alone,30 to < 90 Days,Missouri
+438,1,65 and Older,Asian alone,90 Days to < 6 Months,Missouri
+439,3,65 and Older,Asian alone,6 Months to < 1 Year,Missouri
+440,5,65 and Older,Asian alone,1 Year to < 2 Years,Missouri
+441,3,65 and Older,Asian alone,2 Years to < 3 Years,Missouri
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,Missouri
+443,1,65 and Older,Asian alone,5 or More Years,Missouri
+444,1,65 and Older,American Indian and Alaska Native alone,All Time,Missouri
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Missouri
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Missouri
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Missouri
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Missouri
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Missouri
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Missouri
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Missouri
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Missouri
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Missouri
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Missouri
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Missouri
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Missouri
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Missouri
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Missouri
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Missouri
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Missouri
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Missouri
+462,2,65 and Older,Population of two or more races:,All Time,Missouri
+463,0,65 and Older,Population of two or more races:,< 30 Days,Missouri
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Missouri
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Missouri
+466,1,65 and Older,Population of two or more races:,6 Months to < 1 Year,Missouri
+467,1,65 and Older,Population of two or more races:,1 Year to < 2 Years,Missouri
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Missouri
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Missouri
+470,0,65 and Older,Population of two or more races:,5 or More Years,Missouri

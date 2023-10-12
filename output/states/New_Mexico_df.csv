@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,167,All Ages,White alone,All Time,New_Mexico
+1,9,All Ages,White alone,< 30 Days,New_Mexico
+2,10,All Ages,White alone,30 to < 90 Days,New_Mexico
+3,23,All Ages,White alone,90 Days to < 6 Months,New_Mexico
+4,23,All Ages,White alone,6 Months to < 1 Year,New_Mexico
+5,42,All Ages,White alone,1 Year to < 2 Years,New_Mexico
+6,14,All Ages,White alone,2 Years to < 3 Years,New_Mexico
+7,26,All Ages,White alone,3 Years to < 5 Years,New_Mexico
+8,20,All Ages,White alone,5 or More Years,New_Mexico
+9,24,All Ages,Black or African American alone,All Time,New_Mexico
+10,2,All Ages,Black or African American alone,< 30 Days,New_Mexico
+11,2,All Ages,Black or African American alone,30 to < 90 Days,New_Mexico
+12,2,All Ages,Black or African American alone,90 Days to < 6 Months,New_Mexico
+13,3,All Ages,Black or African American alone,6 Months to < 1 Year,New_Mexico
+14,3,All Ages,Black or African American alone,1 Year to < 2 Years,New_Mexico
+15,4,All Ages,Black or African American alone,2 Years to < 3 Years,New_Mexico
+16,5,All Ages,Black or African American alone,3 Years to < 5 Years,New_Mexico
+17,3,All Ages,Black or African American alone,5 or More Years,New_Mexico
+18,345,All Ages,Hispanic or Latino,All Time,New_Mexico
+19,12,All Ages,Hispanic or Latino,< 30 Days,New_Mexico
+20,31,All Ages,Hispanic or Latino,30 to < 90 Days,New_Mexico
+21,28,All Ages,Hispanic or Latino,90 Days to < 6 Months,New_Mexico
+22,55,All Ages,Hispanic or Latino,6 Months to < 1 Year,New_Mexico
+23,68,All Ages,Hispanic or Latino,1 Year to < 2 Years,New_Mexico
+24,37,All Ages,Hispanic or Latino,2 Years to < 3 Years,New_Mexico
+25,72,All Ages,Hispanic or Latino,3 Years to < 5 Years,New_Mexico
+26,42,All Ages,Hispanic or Latino,5 or More Years,New_Mexico
+27,10,All Ages,Asian alone,All Time,New_Mexico
+28,0,All Ages,Asian alone,< 30 Days,New_Mexico
+29,2,All Ages,Asian alone,30 to < 90 Days,New_Mexico
+30,0,All Ages,Asian alone,90 Days to < 6 Months,New_Mexico
+31,2,All Ages,Asian alone,6 Months to < 1 Year,New_Mexico
+32,1,All Ages,Asian alone,1 Year to < 2 Years,New_Mexico
+33,2,All Ages,Asian alone,2 Years to < 3 Years,New_Mexico
+34,2,All Ages,Asian alone,3 Years to < 5 Years,New_Mexico
+35,1,All Ages,Asian alone,5 or More Years,New_Mexico
+36,123,All Ages,American Indian and Alaska Native alone,All Time,New_Mexico
+37,4,All Ages,American Indian and Alaska Native alone,< 30 Days,New_Mexico
+38,4,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,New_Mexico
+39,8,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Mexico
+40,12,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Mexico
+41,23,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Mexico
+42,22,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Mexico
+43,28,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Mexico
+44,22,All Ages,American Indian and Alaska Native alone,5 or More Years,New_Mexico
+45,1,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,New_Mexico
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Mexico
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Mexico
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Mexico
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Mexico
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Mexico
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Mexico
+52,1,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Mexico
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Mexico
+54,0,All Ages,Population of two or more races:,All Time,New_Mexico
+55,0,All Ages,Population of two or more races:,< 30 Days,New_Mexico
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,New_Mexico
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,New_Mexico
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,New_Mexico
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,New_Mexico
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,New_Mexico
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,New_Mexico
+62,0,All Ages,Population of two or more races:,5 or More Years,New_Mexico
+63,0,0-5 Years,White alone,All Time,New_Mexico
+64,0,0-5 Years,White alone,< 30 Days,New_Mexico
+65,0,0-5 Years,White alone,30 to < 90 Days,New_Mexico
+66,0,0-5 Years,White alone,90 Days to < 6 Months,New_Mexico
+67,0,0-5 Years,White alone,6 Months to < 1 Year,New_Mexico
+68,0,0-5 Years,White alone,1 Year to < 2 Years,New_Mexico
+69,0,0-5 Years,White alone,2 Years to < 3 Years,New_Mexico
+70,0,0-5 Years,White alone,3 Years to < 5 Years,New_Mexico
+71,0,0-5 Years,White alone,5 or More Years,New_Mexico
+72,0,0-5 Years,Black or African American alone,All Time,New_Mexico
+73,0,0-5 Years,Black or African American alone,< 30 Days,New_Mexico
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,New_Mexico
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,New_Mexico
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,New_Mexico
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,New_Mexico
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,New_Mexico
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,New_Mexico
+80,4,0-5 Years,Hispanic or Latino,All Time,New_Mexico
+81,1,0-5 Years,Hispanic or Latino,< 30 Days,New_Mexico
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,New_Mexico
+83,1,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,New_Mexico
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,New_Mexico
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,New_Mexico
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,New_Mexico
+87,1,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,New_Mexico
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,New_Mexico
+89,0,0-5 Years,Asian alone,All Time,New_Mexico
+90,0,0-5 Years,Asian alone,< 30 Days,New_Mexico
+91,0,0-5 Years,Asian alone,30 to < 90 Days,New_Mexico
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,New_Mexico
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,New_Mexico
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,New_Mexico
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,New_Mexico
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,New_Mexico
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,New_Mexico
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,New_Mexico
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Mexico
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Mexico
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Mexico
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Mexico
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Mexico
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Mexico
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Mexico
+106,0,0-5 Years,Population of two or more races:,All Time,New_Mexico
+107,0,0-5 Years,Population of two or more races:,< 30 Days,New_Mexico
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,New_Mexico
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,New_Mexico
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,New_Mexico
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,New_Mexico
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,New_Mexico
+113,0,6-10 Years,White alone,All Time,New_Mexico
+114,0,6-10 Years,White alone,< 30 Days,New_Mexico
+115,0,6-10 Years,White alone,30 to < 90 Days,New_Mexico
+116,0,6-10 Years,White alone,90 Days to < 6 Months,New_Mexico
+117,0,6-10 Years,White alone,6 Months to < 1 Year,New_Mexico
+118,0,6-10 Years,White alone,1 Year to < 2 Years,New_Mexico
+119,0,6-10 Years,White alone,2 Years to < 3 Years,New_Mexico
+120,0,6-10 Years,White alone,3 Years to < 5 Years,New_Mexico
+121,0,6-10 Years,White alone,5 or More Years,New_Mexico
+122,0,6-10 Years,Black or African American alone,All Time,New_Mexico
+123,0,6-10 Years,Black or African American alone,< 30 Days,New_Mexico
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,New_Mexico
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,New_Mexico
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,New_Mexico
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,New_Mexico
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,New_Mexico
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,New_Mexico
+130,0,6-10 Years,Black or African American alone,5 or More Years,New_Mexico
+131,0,6-10 Years,Hispanic or Latino,All Time,New_Mexico
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,New_Mexico
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,New_Mexico
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,New_Mexico
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,New_Mexico
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,New_Mexico
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,New_Mexico
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,New_Mexico
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,New_Mexico
+140,0,6-10 Years,Asian alone,All Time,New_Mexico
+141,0,6-10 Years,Asian alone,< 30 Days,New_Mexico
+142,0,6-10 Years,Asian alone,30 to < 90 Days,New_Mexico
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,New_Mexico
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,New_Mexico
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,New_Mexico
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,New_Mexico
+147,0,6-10 Years,Asian alone,5 or More Years,New_Mexico
+148,1,6-10 Years,American Indian and Alaska Native alone,All Time,New_Mexico
+149,1,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Mexico
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Mexico
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Mexico
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Mexico
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Mexico
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Mexico
+155,0,6-10 Years,Population of two or more races:,All Time,New_Mexico
+156,0,6-10 Years,Population of two or more races:,< 30 Days,New_Mexico
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,New_Mexico
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,New_Mexico
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,New_Mexico
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,New_Mexico
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,New_Mexico
+162,0,6-10 Years,Population of two or more races:,5 or More Years,New_Mexico
+163,2,11-17 Years,White alone,All Time,New_Mexico
+164,0,11-17 Years,White alone,< 30 Days,New_Mexico
+165,1,11-17 Years,White alone,30 to < 90 Days,New_Mexico
+166,0,11-17 Years,White alone,90 Days to < 6 Months,New_Mexico
+167,0,11-17 Years,White alone,6 Months to < 1 Year,New_Mexico
+168,0,11-17 Years,White alone,1 Year to < 2 Years,New_Mexico
+169,1,11-17 Years,White alone,2 Years to < 3 Years,New_Mexico
+170,0,11-17 Years,White alone,3 Years to < 5 Years,New_Mexico
+171,0,11-17 Years,White alone,5 or More Years,New_Mexico
+172,0,11-17 Years,Black or African American alone,All Time,New_Mexico
+173,0,11-17 Years,Black or African American alone,< 30 Days,New_Mexico
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,New_Mexico
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,New_Mexico
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,New_Mexico
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,New_Mexico
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,New_Mexico
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,New_Mexico
+180,0,11-17 Years,Black or African American alone,5 or More Years,New_Mexico
+181,3,11-17 Years,Hispanic or Latino,All Time,New_Mexico
+182,1,11-17 Years,Hispanic or Latino,< 30 Days,New_Mexico
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,New_Mexico
+184,1,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,New_Mexico
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,New_Mexico
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,New_Mexico
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,New_Mexico
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,New_Mexico
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,New_Mexico
+190,0,11-17 Years,Asian alone,All Time,New_Mexico
+191,0,11-17 Years,Asian alone,< 30 Days,New_Mexico
+192,0,11-17 Years,Asian alone,30 to < 90 Days,New_Mexico
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,New_Mexico
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,New_Mexico
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,New_Mexico
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,New_Mexico
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,New_Mexico
+198,0,11-17 Years,Asian alone,5 or More Years,New_Mexico
+199,1,11-17 Years,American Indian and Alaska Native alone,All Time,New_Mexico
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Mexico
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Mexico
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Mexico
+203,1,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Mexico
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Mexico
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Mexico
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Mexico
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Mexico
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Mexico
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Mexico
+210,0,11-17 Years,Population of two or more races:,All Time,New_Mexico
+211,0,11-17 Years,Population of two or more races:,< 30 Days,New_Mexico
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,New_Mexico
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,New_Mexico
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,New_Mexico
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,New_Mexico
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,New_Mexico
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,New_Mexico
+218,0,11-17 Years,Population of two or more races:,5 or More Years,New_Mexico
+219,7,18-34 Years,White alone,All Time,New_Mexico
+220,1,18-34 Years,White alone,< 30 Days,New_Mexico
+221,0,18-34 Years,White alone,30 to < 90 Days,New_Mexico
+222,0,18-34 Years,White alone,90 Days to < 6 Months,New_Mexico
+223,1,18-34 Years,White alone,6 Months to < 1 Year,New_Mexico
+224,4,18-34 Years,White alone,1 Year to < 2 Years,New_Mexico
+225,0,18-34 Years,White alone,2 Years to < 3 Years,New_Mexico
+226,0,18-34 Years,White alone,3 Years to < 5 Years,New_Mexico
+227,1,18-34 Years,White alone,5 or More Years,New_Mexico
+228,0,18-34 Years,Black or African American alone,All Time,New_Mexico
+229,0,18-34 Years,Black or African American alone,< 30 Days,New_Mexico
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,New_Mexico
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,New_Mexico
+232,0,18-34 Years,Black or African American alone,6 Months to < 1 Year,New_Mexico
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,New_Mexico
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,New_Mexico
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,New_Mexico
+236,0,18-34 Years,Black or African American alone,5 or More Years,New_Mexico
+237,23,18-34 Years,Hispanic or Latino,All Time,New_Mexico
+238,2,18-34 Years,Hispanic or Latino,< 30 Days,New_Mexico
+239,3,18-34 Years,Hispanic or Latino,30 to < 90 Days,New_Mexico
+240,2,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,New_Mexico
+241,4,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,New_Mexico
+242,3,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,New_Mexico
+243,2,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,New_Mexico
+244,4,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,New_Mexico
+245,3,18-34 Years,Hispanic or Latino,5 or More Years,New_Mexico
+246,1,18-34 Years,Asian alone,All Time,New_Mexico
+247,0,18-34 Years,Asian alone,< 30 Days,New_Mexico
+248,1,18-34 Years,Asian alone,30 to < 90 Days,New_Mexico
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,New_Mexico
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,New_Mexico
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,New_Mexico
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,New_Mexico
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,New_Mexico
+254,0,18-34 Years,Asian alone,5 or More Years,New_Mexico
+255,5,18-34 Years,American Indian and Alaska Native alone,All Time,New_Mexico
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,New_Mexico
+257,1,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Mexico
+258,1,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Mexico
+259,1,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Mexico
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Mexico
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Mexico
+262,1,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Mexico
+263,1,18-34 Years,American Indian and Alaska Native alone,5 or More Years,New_Mexico
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Mexico
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Mexico
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Mexico
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Mexico
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Mexico
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Mexico
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Mexico
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Mexico
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Mexico
+273,0,18-34 Years,Population of two or more races:,All Time,New_Mexico
+274,0,18-34 Years,Population of two or more races:,< 30 Days,New_Mexico
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,New_Mexico
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,New_Mexico
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,New_Mexico
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,New_Mexico
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,New_Mexico
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,New_Mexico
+281,0,18-34 Years,Population of two or more races:,5 or More Years,New_Mexico
+282,32,35-49 Years,White alone,All Time,New_Mexico
+283,2,35-49 Years,White alone,< 30 Days,New_Mexico
+284,5,35-49 Years,White alone,30 to < 90 Days,New_Mexico
+285,2,35-49 Years,White alone,90 Days to < 6 Months,New_Mexico
+286,5,35-49 Years,White alone,6 Months to < 1 Year,New_Mexico
+287,6,35-49 Years,White alone,1 Year to < 2 Years,New_Mexico
+288,2,35-49 Years,White alone,2 Years to < 3 Years,New_Mexico
+289,5,35-49 Years,White alone,3 Years to < 5 Years,New_Mexico
+290,5,35-49 Years,White alone,5 or More Years,New_Mexico
+291,11,35-49 Years,Black or African American alone,All Time,New_Mexico
+292,1,35-49 Years,Black or African American alone,< 30 Days,New_Mexico
+293,2,35-49 Years,Black or African American alone,30 to < 90 Days,New_Mexico
+294,1,35-49 Years,Black or African American alone,90 Days to < 6 Months,New_Mexico
+295,1,35-49 Years,Black or African American alone,6 Months to < 1 Year,New_Mexico
+296,1,35-49 Years,Black or African American alone,1 Year to < 2 Years,New_Mexico
+297,3,35-49 Years,Black or African American alone,2 Years to < 3 Years,New_Mexico
+298,1,35-49 Years,Black or African American alone,3 Years to < 5 Years,New_Mexico
+299,1,35-49 Years,Black or African American alone,5 or More Years,New_Mexico
+300,71,35-49 Years,Hispanic or Latino,All Time,New_Mexico
+301,3,35-49 Years,Hispanic or Latino,< 30 Days,New_Mexico
+302,10,35-49 Years,Hispanic or Latino,30 to < 90 Days,New_Mexico
+303,5,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,New_Mexico
+304,12,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,New_Mexico
+305,17,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,New_Mexico
+306,8,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,New_Mexico
+307,10,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,New_Mexico
+308,6,35-49 Years,Hispanic or Latino,5 or More Years,New_Mexico
+309,3,35-49 Years,Asian alone,All Time,New_Mexico
+310,0,35-49 Years,Asian alone,< 30 Days,New_Mexico
+311,0,35-49 Years,Asian alone,30 to < 90 Days,New_Mexico
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,New_Mexico
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,New_Mexico
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,New_Mexico
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,New_Mexico
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,New_Mexico
+317,0,35-49 Years,Asian alone,5 or More Years,New_Mexico
+318,28,35-49 Years,American Indian and Alaska Native alone,All Time,New_Mexico
+319,2,35-49 Years,American Indian and Alaska Native alone,< 30 Days,New_Mexico
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Mexico
+321,3,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Mexico
+322,3,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Mexico
+323,5,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Mexico
+324,6,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Mexico
+325,6,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Mexico
+326,3,35-49 Years,American Indian and Alaska Native alone,5 or More Years,New_Mexico
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Mexico
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Mexico
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Mexico
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Mexico
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Mexico
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Mexico
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Mexico
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Mexico
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Mexico
+336,0,35-49 Years,Population of two or more races:,All Time,New_Mexico
+337,0,35-49 Years,Population of two or more races:,< 30 Days,New_Mexico
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,New_Mexico
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,New_Mexico
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,New_Mexico
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,New_Mexico
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,New_Mexico
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,New_Mexico
+344,0,35-49 Years,Population of two or more races:,5 or More Years,New_Mexico
+345,50,50-64 Years,White alone,All Time,New_Mexico
+346,4,50-64 Years,White alone,< 30 Days,New_Mexico
+347,2,50-64 Years,White alone,30 to < 90 Days,New_Mexico
+348,9,50-64 Years,White alone,90 Days to < 6 Months,New_Mexico
+349,10,50-64 Years,White alone,6 Months to < 1 Year,New_Mexico
+350,12,50-64 Years,White alone,1 Year to < 2 Years,New_Mexico
+351,1,50-64 Years,White alone,2 Years to < 3 Years,New_Mexico
+352,6,50-64 Years,White alone,3 Years to < 5 Years,New_Mexico
+353,6,50-64 Years,White alone,5 or More Years,New_Mexico
+354,7,50-64 Years,Black or African American alone,All Time,New_Mexico
+355,0,50-64 Years,Black or African American alone,< 30 Days,New_Mexico
+356,0,50-64 Years,Black or African American alone,30 to < 90 Days,New_Mexico
+357,1,50-64 Years,Black or African American alone,90 Days to < 6 Months,New_Mexico
+358,2,50-64 Years,Black or African American alone,6 Months to < 1 Year,New_Mexico
+359,2,50-64 Years,Black or African American alone,1 Year to < 2 Years,New_Mexico
+360,1,50-64 Years,Black or African American alone,2 Years to < 3 Years,New_Mexico
+361,0,50-64 Years,Black or African American alone,3 Years to < 5 Years,New_Mexico
+362,1,50-64 Years,Black or African American alone,5 or More Years,New_Mexico
+363,153,50-64 Years,Hispanic or Latino,All Time,New_Mexico
+364,3,50-64 Years,Hispanic or Latino,< 30 Days,New_Mexico
+365,11,50-64 Years,Hispanic or Latino,30 to < 90 Days,New_Mexico
+366,10,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,New_Mexico
+367,26,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,New_Mexico
+368,32,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,New_Mexico
+369,19,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,New_Mexico
+370,33,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,New_Mexico
+371,19,50-64 Years,Hispanic or Latino,5 or More Years,New_Mexico
+372,4,50-64 Years,Asian alone,All Time,New_Mexico
+373,0,50-64 Years,Asian alone,< 30 Days,New_Mexico
+374,1,50-64 Years,Asian alone,30 to < 90 Days,New_Mexico
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,New_Mexico
+376,1,50-64 Years,Asian alone,6 Months to < 1 Year,New_Mexico
+377,0,50-64 Years,Asian alone,1 Year to < 2 Years,New_Mexico
+378,2,50-64 Years,Asian alone,2 Years to < 3 Years,New_Mexico
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,New_Mexico
+380,0,50-64 Years,Asian alone,5 or More Years,New_Mexico
+381,56,50-64 Years,American Indian and Alaska Native alone,All Time,New_Mexico
+382,2,50-64 Years,American Indian and Alaska Native alone,< 30 Days,New_Mexico
+383,3,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Mexico
+384,3,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Mexico
+385,5,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Mexico
+386,11,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Mexico
+387,8,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Mexico
+388,12,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Mexico
+389,12,50-64 Years,American Indian and Alaska Native alone,5 or More Years,New_Mexico
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Mexico
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Mexico
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Mexico
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Mexico
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Mexico
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Mexico
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Mexico
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Mexico
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Mexico
+399,0,50-64 Years,Population of two or more races:,All Time,New_Mexico
+400,0,50-64 Years,Population of two or more races:,< 30 Days,New_Mexico
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,New_Mexico
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,New_Mexico
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,New_Mexico
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,New_Mexico
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,New_Mexico
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,New_Mexico
+407,0,50-64 Years,Population of two or more races:,5 or More Years,New_Mexico
+408,76,65 and Older,White alone,All Time,New_Mexico
+409,2,65 and Older,White alone,< 30 Days,New_Mexico
+410,2,65 and Older,White alone,30 to < 90 Days,New_Mexico
+411,12,65 and Older,White alone,90 Days to < 6 Months,New_Mexico
+412,7,65 and Older,White alone,6 Months to < 1 Year,New_Mexico
+413,20,65 and Older,White alone,1 Year to < 2 Years,New_Mexico
+414,10,65 and Older,White alone,2 Years to < 3 Years,New_Mexico
+415,15,65 and Older,White alone,3 Years to < 5 Years,New_Mexico
+416,8,65 and Older,White alone,5 or More Years,New_Mexico
+417,6,65 and Older,Black or African American alone,All Time,New_Mexico
+418,1,65 and Older,Black or African American alone,< 30 Days,New_Mexico
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,New_Mexico
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,New_Mexico
+421,0,65 and Older,Black or African American alone,6 Months to < 1 Year,New_Mexico
+422,0,65 and Older,Black or African American alone,1 Year to < 2 Years,New_Mexico
+423,0,65 and Older,Black or African American alone,2 Years to < 3 Years,New_Mexico
+424,4,65 and Older,Black or African American alone,3 Years to < 5 Years,New_Mexico
+425,1,65 and Older,Black or African American alone,5 or More Years,New_Mexico
+426,91,65 and Older,Hispanic or Latino,All Time,New_Mexico
+427,2,65 and Older,Hispanic or Latino,< 30 Days,New_Mexico
+428,6,65 and Older,Hispanic or Latino,30 to < 90 Days,New_Mexico
+429,9,65 and Older,Hispanic or Latino,90 Days to < 6 Months,New_Mexico
+430,13,65 and Older,Hispanic or Latino,6 Months to < 1 Year,New_Mexico
+431,15,65 and Older,Hispanic or Latino,1 Year to < 2 Years,New_Mexico
+432,8,65 and Older,Hispanic or Latino,2 Years to < 3 Years,New_Mexico
+433,24,65 and Older,Hispanic or Latino,3 Years to < 5 Years,New_Mexico
+434,14,65 and Older,Hispanic or Latino,5 or More Years,New_Mexico
+435,2,65 and Older,Asian alone,All Time,New_Mexico
+436,0,65 and Older,Asian alone,< 30 Days,New_Mexico
+437,0,65 and Older,Asian alone,30 to < 90 Days,New_Mexico
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,New_Mexico
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,New_Mexico
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,New_Mexico
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,New_Mexico
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,New_Mexico
+443,1,65 and Older,Asian alone,5 or More Years,New_Mexico
+444,32,65 and Older,American Indian and Alaska Native alone,All Time,New_Mexico
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,New_Mexico
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,New_Mexico
+447,1,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Mexico
+448,3,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Mexico
+449,6,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Mexico
+450,7,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Mexico
+451,9,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Mexico
+452,6,65 and Older,American Indian and Alaska Native alone,5 or More Years,New_Mexico
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,New_Mexico
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Mexico
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Mexico
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Mexico
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Mexico
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Mexico
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Mexico
+460,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Mexico
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Mexico
+462,0,65 and Older,Population of two or more races:,All Time,New_Mexico
+463,0,65 and Older,Population of two or more races:,< 30 Days,New_Mexico
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,New_Mexico
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,New_Mexico
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,New_Mexico
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,New_Mexico
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,New_Mexico
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,New_Mexico
+470,0,65 and Older,Population of two or more races:,5 or More Years,New_Mexico

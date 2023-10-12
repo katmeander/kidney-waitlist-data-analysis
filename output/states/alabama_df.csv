@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,681,All Ages,White alone,All Time,Alabama
+1,25,All Ages,White alone,< 30 Days,Alabama
+2,49,All Ages,White alone,30 to < 90 Days,Alabama
+3,71,All Ages,White alone,90 Days to < 6 Months,Alabama
+4,159,All Ages,White alone,6 Months to < 1 Year,Alabama
+5,177,All Ages,White alone,1 Year to < 2 Years,Alabama
+6,95,All Ages,White alone,2 Years to < 3 Years,Alabama
+7,80,All Ages,White alone,3 Years to < 5 Years,Alabama
+8,25,All Ages,White alone,5 or More Years,Alabama
+9,904,All Ages,Black or African American alone,All Time,Alabama
+10,12,All Ages,Black or African American alone,< 30 Days,Alabama
+11,40,All Ages,Black or African American alone,30 to < 90 Days,Alabama
+12,89,All Ages,Black or African American alone,90 Days to < 6 Months,Alabama
+13,166,All Ages,Black or African American alone,6 Months to < 1 Year,Alabama
+14,244,All Ages,Black or African American alone,1 Year to < 2 Years,Alabama
+15,127,All Ages,Black or African American alone,2 Years to < 3 Years,Alabama
+16,137,All Ages,Black or African American alone,3 Years to < 5 Years,Alabama
+17,89,All Ages,Black or African American alone,5 or More Years,Alabama
+18,22,All Ages,Hispanic or Latino,All Time,Alabama
+19,1,All Ages,Hispanic or Latino,< 30 Days,Alabama
+20,1,All Ages,Hispanic or Latino,30 to < 90 Days,Alabama
+21,2,All Ages,Hispanic or Latino,90 Days to < 6 Months,Alabama
+22,7,All Ages,Hispanic or Latino,6 Months to < 1 Year,Alabama
+23,6,All Ages,Hispanic or Latino,1 Year to < 2 Years,Alabama
+24,3,All Ages,Hispanic or Latino,2 Years to < 3 Years,Alabama
+25,2,All Ages,Hispanic or Latino,3 Years to < 5 Years,Alabama
+26,0,All Ages,Hispanic or Latino,5 or More Years,Alabama
+27,25,All Ages,Asian alone,All Time,Alabama
+28,1,All Ages,Asian alone,< 30 Days,Alabama
+29,2,All Ages,Asian alone,30 to < 90 Days,Alabama
+30,5,All Ages,Asian alone,90 Days to < 6 Months,Alabama
+31,4,All Ages,Asian alone,6 Months to < 1 Year,Alabama
+32,8,All Ages,Asian alone,1 Year to < 2 Years,Alabama
+33,3,All Ages,Asian alone,2 Years to < 3 Years,Alabama
+34,1,All Ages,Asian alone,3 Years to < 5 Years,Alabama
+35,1,All Ages,Asian alone,5 or More Years,Alabama
+36,5,All Ages,American Indian and Alaska Native alone,All Time,Alabama
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Alabama
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Alabama
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Alabama
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Alabama
+41,3,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Alabama
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Alabama
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Alabama
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Alabama
+45,0,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Alabama
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Alabama
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Alabama
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Alabama
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Alabama
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Alabama
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Alabama
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Alabama
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Alabama
+54,1,All Ages,Population of two or more races:,All Time,Alabama
+55,0,All Ages,Population of two or more races:,< 30 Days,Alabama
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Alabama
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Alabama
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Alabama
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Alabama
+60,1,All Ages,Population of two or more races:,2 Years to < 3 Years,Alabama
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Alabama
+62,0,All Ages,Population of two or more races:,5 or More Years,Alabama
+63,4,0-5 Years,White alone,All Time,Alabama
+64,0,0-5 Years,White alone,< 30 Days,Alabama
+65,1,0-5 Years,White alone,30 to < 90 Days,Alabama
+66,1,0-5 Years,White alone,90 Days to < 6 Months,Alabama
+67,1,0-5 Years,White alone,6 Months to < 1 Year,Alabama
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Alabama
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Alabama
+70,1,0-5 Years,White alone,3 Years to < 5 Years,Alabama
+71,0,0-5 Years,White alone,5 or More Years,Alabama
+72,3,0-5 Years,Black or African American alone,All Time,Alabama
+73,0,0-5 Years,Black or African American alone,< 30 Days,Alabama
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Alabama
+75,1,0-5 Years,Black or African American alone,90 Days to < 6 Months,Alabama
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Alabama
+77,1,0-5 Years,Black or African American alone,1 Year to < 2 Years,Alabama
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Alabama
+79,1,0-5 Years,Black or African American alone,3 Years to < 5 Years,Alabama
+80,1,0-5 Years,Hispanic or Latino,All Time,Alabama
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Alabama
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Alabama
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Alabama
+84,1,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Alabama
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Alabama
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Alabama
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Alabama
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Alabama
+89,0,0-5 Years,Asian alone,All Time,Alabama
+90,0,0-5 Years,Asian alone,< 30 Days,Alabama
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Alabama
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Alabama
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Alabama
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Alabama
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Alabama
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Alabama
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Alabama
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Alabama
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Alabama
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Alabama
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Alabama
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Alabama
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Alabama
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Alabama
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Alabama
+106,0,0-5 Years,Population of two or more races:,All Time,Alabama
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Alabama
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Alabama
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Alabama
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Alabama
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Alabama
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Alabama
+113,5,6-10 Years,White alone,All Time,Alabama
+114,0,6-10 Years,White alone,< 30 Days,Alabama
+115,1,6-10 Years,White alone,30 to < 90 Days,Alabama
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Alabama
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Alabama
+118,4,6-10 Years,White alone,1 Year to < 2 Years,Alabama
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Alabama
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Alabama
+121,0,6-10 Years,White alone,5 or More Years,Alabama
+122,2,6-10 Years,Black or African American alone,All Time,Alabama
+123,1,6-10 Years,Black or African American alone,< 30 Days,Alabama
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Alabama
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Alabama
+126,1,6-10 Years,Black or African American alone,6 Months to < 1 Year,Alabama
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Alabama
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Alabama
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Alabama
+130,0,6-10 Years,Black or African American alone,5 or More Years,Alabama
+131,0,6-10 Years,Hispanic or Latino,All Time,Alabama
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Alabama
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Alabama
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Alabama
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Alabama
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Alabama
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Alabama
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Alabama
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Alabama
+140,0,6-10 Years,Asian alone,All Time,Alabama
+141,0,6-10 Years,Asian alone,< 30 Days,Alabama
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Alabama
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Alabama
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Alabama
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Alabama
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Alabama
+147,0,6-10 Years,Asian alone,5 or More Years,Alabama
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Alabama
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Alabama
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Alabama
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Alabama
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Alabama
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Alabama
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Alabama
+155,0,6-10 Years,Population of two or more races:,All Time,Alabama
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Alabama
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Alabama
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Alabama
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Alabama
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Alabama
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Alabama
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Alabama
+163,6,11-17 Years,White alone,All Time,Alabama
+164,0,11-17 Years,White alone,< 30 Days,Alabama
+165,3,11-17 Years,White alone,30 to < 90 Days,Alabama
+166,1,11-17 Years,White alone,90 Days to < 6 Months,Alabama
+167,1,11-17 Years,White alone,6 Months to < 1 Year,Alabama
+168,1,11-17 Years,White alone,1 Year to < 2 Years,Alabama
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Alabama
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Alabama
+171,0,11-17 Years,White alone,5 or More Years,Alabama
+172,5,11-17 Years,Black or African American alone,All Time,Alabama
+173,0,11-17 Years,Black or African American alone,< 30 Days,Alabama
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,Alabama
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Alabama
+176,3,11-17 Years,Black or African American alone,6 Months to < 1 Year,Alabama
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Alabama
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Alabama
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Alabama
+180,1,11-17 Years,Black or African American alone,5 or More Years,Alabama
+181,1,11-17 Years,Hispanic or Latino,All Time,Alabama
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Alabama
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Alabama
+184,1,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Alabama
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Alabama
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Alabama
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Alabama
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Alabama
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Alabama
+190,0,11-17 Years,Asian alone,All Time,Alabama
+191,0,11-17 Years,Asian alone,< 30 Days,Alabama
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Alabama
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Alabama
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Alabama
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Alabama
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Alabama
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Alabama
+198,0,11-17 Years,Asian alone,5 or More Years,Alabama
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Alabama
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Alabama
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Alabama
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Alabama
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Alabama
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Alabama
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Alabama
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Alabama
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Alabama
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Alabama
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Alabama
+210,0,11-17 Years,Population of two or more races:,All Time,Alabama
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Alabama
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Alabama
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Alabama
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Alabama
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Alabama
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Alabama
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Alabama
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Alabama
+219,51,18-34 Years,White alone,All Time,Alabama
+220,0,18-34 Years,White alone,< 30 Days,Alabama
+221,6,18-34 Years,White alone,30 to < 90 Days,Alabama
+222,10,18-34 Years,White alone,90 Days to < 6 Months,Alabama
+223,13,18-34 Years,White alone,6 Months to < 1 Year,Alabama
+224,10,18-34 Years,White alone,1 Year to < 2 Years,Alabama
+225,4,18-34 Years,White alone,2 Years to < 3 Years,Alabama
+226,6,18-34 Years,White alone,3 Years to < 5 Years,Alabama
+227,2,18-34 Years,White alone,5 or More Years,Alabama
+228,68,18-34 Years,Black or African American alone,All Time,Alabama
+229,0,18-34 Years,Black or African American alone,< 30 Days,Alabama
+230,5,18-34 Years,Black or African American alone,30 to < 90 Days,Alabama
+231,12,18-34 Years,Black or African American alone,90 Days to < 6 Months,Alabama
+232,14,18-34 Years,Black or African American alone,6 Months to < 1 Year,Alabama
+233,19,18-34 Years,Black or African American alone,1 Year to < 2 Years,Alabama
+234,8,18-34 Years,Black or African American alone,2 Years to < 3 Years,Alabama
+235,7,18-34 Years,Black or African American alone,3 Years to < 5 Years,Alabama
+236,3,18-34 Years,Black or African American alone,5 or More Years,Alabama
+237,4,18-34 Years,Hispanic or Latino,All Time,Alabama
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Alabama
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Alabama
+240,1,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Alabama
+241,2,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Alabama
+242,0,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Alabama
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Alabama
+244,1,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Alabama
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Alabama
+246,2,18-34 Years,Asian alone,All Time,Alabama
+247,0,18-34 Years,Asian alone,< 30 Days,Alabama
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Alabama
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Alabama
+250,1,18-34 Years,Asian alone,6 Months to < 1 Year,Alabama
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Alabama
+252,1,18-34 Years,Asian alone,2 Years to < 3 Years,Alabama
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Alabama
+254,0,18-34 Years,Asian alone,5 or More Years,Alabama
+255,2,18-34 Years,American Indian and Alaska Native alone,All Time,Alabama
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Alabama
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Alabama
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Alabama
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Alabama
+260,2,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Alabama
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Alabama
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Alabama
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Alabama
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Alabama
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Alabama
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Alabama
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Alabama
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Alabama
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Alabama
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Alabama
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Alabama
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Alabama
+273,0,18-34 Years,Population of two or more races:,All Time,Alabama
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Alabama
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Alabama
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Alabama
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Alabama
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Alabama
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Alabama
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Alabama
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Alabama
+282,120,35-49 Years,White alone,All Time,Alabama
+283,6,35-49 Years,White alone,< 30 Days,Alabama
+284,7,35-49 Years,White alone,30 to < 90 Days,Alabama
+285,13,35-49 Years,White alone,90 Days to < 6 Months,Alabama
+286,32,35-49 Years,White alone,6 Months to < 1 Year,Alabama
+287,27,35-49 Years,White alone,1 Year to < 2 Years,Alabama
+288,17,35-49 Years,White alone,2 Years to < 3 Years,Alabama
+289,14,35-49 Years,White alone,3 Years to < 5 Years,Alabama
+290,4,35-49 Years,White alone,5 or More Years,Alabama
+291,235,35-49 Years,Black or African American alone,All Time,Alabama
+292,2,35-49 Years,Black or African American alone,< 30 Days,Alabama
+293,11,35-49 Years,Black or African American alone,30 to < 90 Days,Alabama
+294,25,35-49 Years,Black or African American alone,90 Days to < 6 Months,Alabama
+295,43,35-49 Years,Black or African American alone,6 Months to < 1 Year,Alabama
+296,64,35-49 Years,Black or African American alone,1 Year to < 2 Years,Alabama
+297,35,35-49 Years,Black or African American alone,2 Years to < 3 Years,Alabama
+298,33,35-49 Years,Black or African American alone,3 Years to < 5 Years,Alabama
+299,22,35-49 Years,Black or African American alone,5 or More Years,Alabama
+300,1,35-49 Years,Hispanic or Latino,All Time,Alabama
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Alabama
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Alabama
+303,0,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Alabama
+304,1,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Alabama
+305,0,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Alabama
+306,0,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Alabama
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Alabama
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Alabama
+309,6,35-49 Years,Asian alone,All Time,Alabama
+310,1,35-49 Years,Asian alone,< 30 Days,Alabama
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Alabama
+312,2,35-49 Years,Asian alone,90 Days to < 6 Months,Alabama
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,Alabama
+314,2,35-49 Years,Asian alone,1 Year to < 2 Years,Alabama
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Alabama
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Alabama
+317,0,35-49 Years,Asian alone,5 or More Years,Alabama
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Alabama
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Alabama
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Alabama
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Alabama
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Alabama
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Alabama
+324,1,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Alabama
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Alabama
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Alabama
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Alabama
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Alabama
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Alabama
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Alabama
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Alabama
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Alabama
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Alabama
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Alabama
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Alabama
+336,1,35-49 Years,Population of two or more races:,All Time,Alabama
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Alabama
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Alabama
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Alabama
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Alabama
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Alabama
+342,1,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Alabama
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Alabama
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Alabama
+345,310,50-64 Years,White alone,All Time,Alabama
+346,10,50-64 Years,White alone,< 30 Days,Alabama
+347,19,50-64 Years,White alone,30 to < 90 Days,Alabama
+348,30,50-64 Years,White alone,90 Days to < 6 Months,Alabama
+349,70,50-64 Years,White alone,6 Months to < 1 Year,Alabama
+350,90,50-64 Years,White alone,1 Year to < 2 Years,Alabama
+351,39,50-64 Years,White alone,2 Years to < 3 Years,Alabama
+352,38,50-64 Years,White alone,3 Years to < 5 Years,Alabama
+353,14,50-64 Years,White alone,5 or More Years,Alabama
+354,412,50-64 Years,Black or African American alone,All Time,Alabama
+355,6,50-64 Years,Black or African American alone,< 30 Days,Alabama
+356,19,50-64 Years,Black or African American alone,30 to < 90 Days,Alabama
+357,35,50-64 Years,Black or African American alone,90 Days to < 6 Months,Alabama
+358,77,50-64 Years,Black or African American alone,6 Months to < 1 Year,Alabama
+359,112,50-64 Years,Black or African American alone,1 Year to < 2 Years,Alabama
+360,58,50-64 Years,Black or African American alone,2 Years to < 3 Years,Alabama
+361,63,50-64 Years,Black or African American alone,3 Years to < 5 Years,Alabama
+362,42,50-64 Years,Black or African American alone,5 or More Years,Alabama
+363,15,50-64 Years,Hispanic or Latino,All Time,Alabama
+364,1,50-64 Years,Hispanic or Latino,< 30 Days,Alabama
+365,1,50-64 Years,Hispanic or Latino,30 to < 90 Days,Alabama
+366,0,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Alabama
+367,3,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Alabama
+368,6,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Alabama
+369,3,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Alabama
+370,1,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Alabama
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Alabama
+372,10,50-64 Years,Asian alone,All Time,Alabama
+373,0,50-64 Years,Asian alone,< 30 Days,Alabama
+374,2,50-64 Years,Asian alone,30 to < 90 Days,Alabama
+375,3,50-64 Years,Asian alone,90 Days to < 6 Months,Alabama
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,Alabama
+377,5,50-64 Years,Asian alone,1 Year to < 2 Years,Alabama
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Alabama
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Alabama
+380,0,50-64 Years,Asian alone,5 or More Years,Alabama
+381,2,50-64 Years,American Indian and Alaska Native alone,All Time,Alabama
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Alabama
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Alabama
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Alabama
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Alabama
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Alabama
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Alabama
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Alabama
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Alabama
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Alabama
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Alabama
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Alabama
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Alabama
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Alabama
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Alabama
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Alabama
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Alabama
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Alabama
+399,0,50-64 Years,Population of two or more races:,All Time,Alabama
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Alabama
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Alabama
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Alabama
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Alabama
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Alabama
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Alabama
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Alabama
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Alabama
+408,185,65 and Older,White alone,All Time,Alabama
+409,9,65 and Older,White alone,< 30 Days,Alabama
+410,12,65 and Older,White alone,30 to < 90 Days,Alabama
+411,16,65 and Older,White alone,90 Days to < 6 Months,Alabama
+412,42,65 and Older,White alone,6 Months to < 1 Year,Alabama
+413,45,65 and Older,White alone,1 Year to < 2 Years,Alabama
+414,35,65 and Older,White alone,2 Years to < 3 Years,Alabama
+415,21,65 and Older,White alone,3 Years to < 5 Years,Alabama
+416,5,65 and Older,White alone,5 or More Years,Alabama
+417,179,65 and Older,Black or African American alone,All Time,Alabama
+418,3,65 and Older,Black or African American alone,< 30 Days,Alabama
+419,4,65 and Older,Black or African American alone,30 to < 90 Days,Alabama
+420,16,65 and Older,Black or African American alone,90 Days to < 6 Months,Alabama
+421,28,65 and Older,Black or African American alone,6 Months to < 1 Year,Alabama
+422,48,65 and Older,Black or African American alone,1 Year to < 2 Years,Alabama
+423,26,65 and Older,Black or African American alone,2 Years to < 3 Years,Alabama
+424,33,65 and Older,Black or African American alone,3 Years to < 5 Years,Alabama
+425,21,65 and Older,Black or African American alone,5 or More Years,Alabama
+426,0,65 and Older,Hispanic or Latino,All Time,Alabama
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Alabama
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Alabama
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Alabama
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Alabama
+431,0,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Alabama
+432,0,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Alabama
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Alabama
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Alabama
+435,7,65 and Older,Asian alone,All Time,Alabama
+436,0,65 and Older,Asian alone,< 30 Days,Alabama
+437,0,65 and Older,Asian alone,30 to < 90 Days,Alabama
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Alabama
+439,2,65 and Older,Asian alone,6 Months to < 1 Year,Alabama
+440,1,65 and Older,Asian alone,1 Year to < 2 Years,Alabama
+441,2,65 and Older,Asian alone,2 Years to < 3 Years,Alabama
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,Alabama
+443,1,65 and Older,Asian alone,5 or More Years,Alabama
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Alabama
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Alabama
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Alabama
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Alabama
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Alabama
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Alabama
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Alabama
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Alabama
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Alabama
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Alabama
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Alabama
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Alabama
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Alabama
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Alabama
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Alabama
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Alabama
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Alabama
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Alabama
+462,0,65 and Older,Population of two or more races:,All Time,Alabama
+463,0,65 and Older,Population of two or more races:,< 30 Days,Alabama
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Alabama
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Alabama
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Alabama
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Alabama
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Alabama
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Alabama
+470,0,65 and Older,Population of two or more races:,5 or More Years,Alabama

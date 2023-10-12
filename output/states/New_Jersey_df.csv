@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"1,394",All Ages,White alone,All Time,New_Jersey
+1,68,All Ages,White alone,< 30 Days,New_Jersey
+2,116,All Ages,White alone,30 to < 90 Days,New_Jersey
+3,147,All Ages,White alone,90 Days to < 6 Months,New_Jersey
+4,223,All Ages,White alone,6 Months to < 1 Year,New_Jersey
+5,309,All Ages,White alone,1 Year to < 2 Years,New_Jersey
+6,197,All Ages,White alone,2 Years to < 3 Years,New_Jersey
+7,216,All Ages,White alone,3 Years to < 5 Years,New_Jersey
+8,118,All Ages,White alone,5 or More Years,New_Jersey
+9,"1,240",All Ages,Black or African American alone,All Time,New_Jersey
+10,34,All Ages,Black or African American alone,< 30 Days,New_Jersey
+11,82,All Ages,Black or African American alone,30 to < 90 Days,New_Jersey
+12,91,All Ages,Black or African American alone,90 Days to < 6 Months,New_Jersey
+13,190,All Ages,Black or African American alone,6 Months to < 1 Year,New_Jersey
+14,283,All Ages,Black or African American alone,1 Year to < 2 Years,New_Jersey
+15,188,All Ages,Black or African American alone,2 Years to < 3 Years,New_Jersey
+16,229,All Ages,Black or African American alone,3 Years to < 5 Years,New_Jersey
+17,143,All Ages,Black or African American alone,5 or More Years,New_Jersey
+18,591,All Ages,Hispanic or Latino,All Time,New_Jersey
+19,28,All Ages,Hispanic or Latino,< 30 Days,New_Jersey
+20,49,All Ages,Hispanic or Latino,30 to < 90 Days,New_Jersey
+21,53,All Ages,Hispanic or Latino,90 Days to < 6 Months,New_Jersey
+22,110,All Ages,Hispanic or Latino,6 Months to < 1 Year,New_Jersey
+23,133,All Ages,Hispanic or Latino,1 Year to < 2 Years,New_Jersey
+24,78,All Ages,Hispanic or Latino,2 Years to < 3 Years,New_Jersey
+25,88,All Ages,Hispanic or Latino,3 Years to < 5 Years,New_Jersey
+26,52,All Ages,Hispanic or Latino,5 or More Years,New_Jersey
+27,418,All Ages,Asian alone,All Time,New_Jersey
+28,12,All Ages,Asian alone,< 30 Days,New_Jersey
+29,29,All Ages,Asian alone,30 to < 90 Days,New_Jersey
+30,39,All Ages,Asian alone,90 Days to < 6 Months,New_Jersey
+31,74,All Ages,Asian alone,6 Months to < 1 Year,New_Jersey
+32,94,All Ages,Asian alone,1 Year to < 2 Years,New_Jersey
+33,64,All Ages,Asian alone,2 Years to < 3 Years,New_Jersey
+34,72,All Ages,Asian alone,3 Years to < 5 Years,New_Jersey
+35,34,All Ages,Asian alone,5 or More Years,New_Jersey
+36,0,All Ages,American Indian and Alaska Native alone,All Time,New_Jersey
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,New_Jersey
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,New_Jersey
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Jersey
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Jersey
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Jersey
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Jersey
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Jersey
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,New_Jersey
+45,3,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,New_Jersey
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Jersey
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Jersey
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Jersey
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Jersey
+50,1,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Jersey
+51,2,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Jersey
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Jersey
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Jersey
+54,17,All Ages,Population of two or more races:,All Time,New_Jersey
+55,0,All Ages,Population of two or more races:,< 30 Days,New_Jersey
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,New_Jersey
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,New_Jersey
+58,7,All Ages,Population of two or more races:,6 Months to < 1 Year,New_Jersey
+59,3,All Ages,Population of two or more races:,1 Year to < 2 Years,New_Jersey
+60,2,All Ages,Population of two or more races:,2 Years to < 3 Years,New_Jersey
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,New_Jersey
+62,1,All Ages,Population of two or more races:,5 or More Years,New_Jersey
+63,10,0-5 Years,White alone,All Time,New_Jersey
+64,0,0-5 Years,White alone,< 30 Days,New_Jersey
+65,1,0-5 Years,White alone,30 to < 90 Days,New_Jersey
+66,5,0-5 Years,White alone,90 Days to < 6 Months,New_Jersey
+67,3,0-5 Years,White alone,6 Months to < 1 Year,New_Jersey
+68,0,0-5 Years,White alone,1 Year to < 2 Years,New_Jersey
+69,0,0-5 Years,White alone,2 Years to < 3 Years,New_Jersey
+70,1,0-5 Years,White alone,3 Years to < 5 Years,New_Jersey
+71,0,0-5 Years,White alone,5 or More Years,New_Jersey
+72,3,0-5 Years,Black or African American alone,All Time,New_Jersey
+73,0,0-5 Years,Black or African American alone,< 30 Days,New_Jersey
+74,1,0-5 Years,Black or African American alone,30 to < 90 Days,New_Jersey
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,New_Jersey
+76,1,0-5 Years,Black or African American alone,6 Months to < 1 Year,New_Jersey
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,New_Jersey
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,New_Jersey
+79,1,0-5 Years,Black or African American alone,3 Years to < 5 Years,New_Jersey
+80,4,0-5 Years,Hispanic or Latino,All Time,New_Jersey
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,New_Jersey
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,New_Jersey
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,New_Jersey
+84,3,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,New_Jersey
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,New_Jersey
+86,1,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,New_Jersey
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,New_Jersey
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,New_Jersey
+89,2,0-5 Years,Asian alone,All Time,New_Jersey
+90,0,0-5 Years,Asian alone,< 30 Days,New_Jersey
+91,0,0-5 Years,Asian alone,30 to < 90 Days,New_Jersey
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,New_Jersey
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,New_Jersey
+94,2,0-5 Years,Asian alone,1 Year to < 2 Years,New_Jersey
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,New_Jersey
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,New_Jersey
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,New_Jersey
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,New_Jersey
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Jersey
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Jersey
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Jersey
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Jersey
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Jersey
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Jersey
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Jersey
+106,1,0-5 Years,Population of two or more races:,All Time,New_Jersey
+107,0,0-5 Years,Population of two or more races:,< 30 Days,New_Jersey
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,New_Jersey
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,New_Jersey
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,New_Jersey
+111,1,0-5 Years,Population of two or more races:,1 Year to < 2 Years,New_Jersey
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,New_Jersey
+113,4,6-10 Years,White alone,All Time,New_Jersey
+114,0,6-10 Years,White alone,< 30 Days,New_Jersey
+115,1,6-10 Years,White alone,30 to < 90 Days,New_Jersey
+116,0,6-10 Years,White alone,90 Days to < 6 Months,New_Jersey
+117,1,6-10 Years,White alone,6 Months to < 1 Year,New_Jersey
+118,1,6-10 Years,White alone,1 Year to < 2 Years,New_Jersey
+119,1,6-10 Years,White alone,2 Years to < 3 Years,New_Jersey
+120,0,6-10 Years,White alone,3 Years to < 5 Years,New_Jersey
+121,0,6-10 Years,White alone,5 or More Years,New_Jersey
+122,1,6-10 Years,Black or African American alone,All Time,New_Jersey
+123,0,6-10 Years,Black or African American alone,< 30 Days,New_Jersey
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,New_Jersey
+125,1,6-10 Years,Black or African American alone,90 Days to < 6 Months,New_Jersey
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,New_Jersey
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,New_Jersey
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,New_Jersey
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,New_Jersey
+130,0,6-10 Years,Black or African American alone,5 or More Years,New_Jersey
+131,5,6-10 Years,Hispanic or Latino,All Time,New_Jersey
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,New_Jersey
+133,1,6-10 Years,Hispanic or Latino,30 to < 90 Days,New_Jersey
+134,1,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,New_Jersey
+135,1,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,New_Jersey
+136,1,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,New_Jersey
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,New_Jersey
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,New_Jersey
+139,1,6-10 Years,Hispanic or Latino,5 or More Years,New_Jersey
+140,1,6-10 Years,Asian alone,All Time,New_Jersey
+141,0,6-10 Years,Asian alone,< 30 Days,New_Jersey
+142,0,6-10 Years,Asian alone,30 to < 90 Days,New_Jersey
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,New_Jersey
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,New_Jersey
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,New_Jersey
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,New_Jersey
+147,1,6-10 Years,Asian alone,5 or More Years,New_Jersey
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,New_Jersey
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Jersey
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Jersey
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Jersey
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Jersey
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Jersey
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Jersey
+155,0,6-10 Years,Population of two or more races:,All Time,New_Jersey
+156,0,6-10 Years,Population of two or more races:,< 30 Days,New_Jersey
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,New_Jersey
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,New_Jersey
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,New_Jersey
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,New_Jersey
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,New_Jersey
+162,0,6-10 Years,Population of two or more races:,5 or More Years,New_Jersey
+163,11,11-17 Years,White alone,All Time,New_Jersey
+164,0,11-17 Years,White alone,< 30 Days,New_Jersey
+165,3,11-17 Years,White alone,30 to < 90 Days,New_Jersey
+166,2,11-17 Years,White alone,90 Days to < 6 Months,New_Jersey
+167,1,11-17 Years,White alone,6 Months to < 1 Year,New_Jersey
+168,1,11-17 Years,White alone,1 Year to < 2 Years,New_Jersey
+169,1,11-17 Years,White alone,2 Years to < 3 Years,New_Jersey
+170,1,11-17 Years,White alone,3 Years to < 5 Years,New_Jersey
+171,2,11-17 Years,White alone,5 or More Years,New_Jersey
+172,5,11-17 Years,Black or African American alone,All Time,New_Jersey
+173,0,11-17 Years,Black or African American alone,< 30 Days,New_Jersey
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,New_Jersey
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,New_Jersey
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,New_Jersey
+177,1,11-17 Years,Black or African American alone,1 Year to < 2 Years,New_Jersey
+178,1,11-17 Years,Black or African American alone,2 Years to < 3 Years,New_Jersey
+179,1,11-17 Years,Black or African American alone,3 Years to < 5 Years,New_Jersey
+180,0,11-17 Years,Black or African American alone,5 or More Years,New_Jersey
+181,18,11-17 Years,Hispanic or Latino,All Time,New_Jersey
+182,3,11-17 Years,Hispanic or Latino,< 30 Days,New_Jersey
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,New_Jersey
+184,2,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,New_Jersey
+185,5,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,New_Jersey
+186,5,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,New_Jersey
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,New_Jersey
+188,1,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,New_Jersey
+189,2,11-17 Years,Hispanic or Latino,5 or More Years,New_Jersey
+190,3,11-17 Years,Asian alone,All Time,New_Jersey
+191,0,11-17 Years,Asian alone,< 30 Days,New_Jersey
+192,0,11-17 Years,Asian alone,30 to < 90 Days,New_Jersey
+193,2,11-17 Years,Asian alone,90 Days to < 6 Months,New_Jersey
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,New_Jersey
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,New_Jersey
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,New_Jersey
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,New_Jersey
+198,1,11-17 Years,Asian alone,5 or More Years,New_Jersey
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,New_Jersey
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Jersey
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Jersey
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Jersey
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Jersey
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Jersey
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Jersey
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Jersey
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Jersey
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Jersey
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Jersey
+210,0,11-17 Years,Population of two or more races:,All Time,New_Jersey
+211,0,11-17 Years,Population of two or more races:,< 30 Days,New_Jersey
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,New_Jersey
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,New_Jersey
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,New_Jersey
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,New_Jersey
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,New_Jersey
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,New_Jersey
+218,0,11-17 Years,Population of two or more races:,5 or More Years,New_Jersey
+219,91,18-34 Years,White alone,All Time,New_Jersey
+220,7,18-34 Years,White alone,< 30 Days,New_Jersey
+221,9,18-34 Years,White alone,30 to < 90 Days,New_Jersey
+222,9,18-34 Years,White alone,90 Days to < 6 Months,New_Jersey
+223,14,18-34 Years,White alone,6 Months to < 1 Year,New_Jersey
+224,22,18-34 Years,White alone,1 Year to < 2 Years,New_Jersey
+225,12,18-34 Years,White alone,2 Years to < 3 Years,New_Jersey
+226,9,18-34 Years,White alone,3 Years to < 5 Years,New_Jersey
+227,9,18-34 Years,White alone,5 or More Years,New_Jersey
+228,112,18-34 Years,Black or African American alone,All Time,New_Jersey
+229,2,18-34 Years,Black or African American alone,< 30 Days,New_Jersey
+230,13,18-34 Years,Black or African American alone,30 to < 90 Days,New_Jersey
+231,7,18-34 Years,Black or African American alone,90 Days to < 6 Months,New_Jersey
+232,28,18-34 Years,Black or African American alone,6 Months to < 1 Year,New_Jersey
+233,18,18-34 Years,Black or African American alone,1 Year to < 2 Years,New_Jersey
+234,17,18-34 Years,Black or African American alone,2 Years to < 3 Years,New_Jersey
+235,19,18-34 Years,Black or African American alone,3 Years to < 5 Years,New_Jersey
+236,8,18-34 Years,Black or African American alone,5 or More Years,New_Jersey
+237,75,18-34 Years,Hispanic or Latino,All Time,New_Jersey
+238,4,18-34 Years,Hispanic or Latino,< 30 Days,New_Jersey
+239,8,18-34 Years,Hispanic or Latino,30 to < 90 Days,New_Jersey
+240,7,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,New_Jersey
+241,18,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,New_Jersey
+242,12,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,New_Jersey
+243,9,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,New_Jersey
+244,9,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,New_Jersey
+245,8,18-34 Years,Hispanic or Latino,5 or More Years,New_Jersey
+246,25,18-34 Years,Asian alone,All Time,New_Jersey
+247,0,18-34 Years,Asian alone,< 30 Days,New_Jersey
+248,1,18-34 Years,Asian alone,30 to < 90 Days,New_Jersey
+249,2,18-34 Years,Asian alone,90 Days to < 6 Months,New_Jersey
+250,3,18-34 Years,Asian alone,6 Months to < 1 Year,New_Jersey
+251,8,18-34 Years,Asian alone,1 Year to < 2 Years,New_Jersey
+252,5,18-34 Years,Asian alone,2 Years to < 3 Years,New_Jersey
+253,3,18-34 Years,Asian alone,3 Years to < 5 Years,New_Jersey
+254,3,18-34 Years,Asian alone,5 or More Years,New_Jersey
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,New_Jersey
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,New_Jersey
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Jersey
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Jersey
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Jersey
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Jersey
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Jersey
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Jersey
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,New_Jersey
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Jersey
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Jersey
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Jersey
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Jersey
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Jersey
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Jersey
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Jersey
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Jersey
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Jersey
+273,0,18-34 Years,Population of two or more races:,All Time,New_Jersey
+274,0,18-34 Years,Population of two or more races:,< 30 Days,New_Jersey
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,New_Jersey
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,New_Jersey
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,New_Jersey
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,New_Jersey
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,New_Jersey
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,New_Jersey
+281,0,18-34 Years,Population of two or more races:,5 or More Years,New_Jersey
+282,203,35-49 Years,White alone,All Time,New_Jersey
+283,14,35-49 Years,White alone,< 30 Days,New_Jersey
+284,18,35-49 Years,White alone,30 to < 90 Days,New_Jersey
+285,20,35-49 Years,White alone,90 Days to < 6 Months,New_Jersey
+286,36,35-49 Years,White alone,6 Months to < 1 Year,New_Jersey
+287,46,35-49 Years,White alone,1 Year to < 2 Years,New_Jersey
+288,28,35-49 Years,White alone,2 Years to < 3 Years,New_Jersey
+289,34,35-49 Years,White alone,3 Years to < 5 Years,New_Jersey
+290,7,35-49 Years,White alone,5 or More Years,New_Jersey
+291,294,35-49 Years,Black or African American alone,All Time,New_Jersey
+292,8,35-49 Years,Black or African American alone,< 30 Days,New_Jersey
+293,22,35-49 Years,Black or African American alone,30 to < 90 Days,New_Jersey
+294,17,35-49 Years,Black or African American alone,90 Days to < 6 Months,New_Jersey
+295,50,35-49 Years,Black or African American alone,6 Months to < 1 Year,New_Jersey
+296,72,35-49 Years,Black or African American alone,1 Year to < 2 Years,New_Jersey
+297,44,35-49 Years,Black or African American alone,2 Years to < 3 Years,New_Jersey
+298,46,35-49 Years,Black or African American alone,3 Years to < 5 Years,New_Jersey
+299,35,35-49 Years,Black or African American alone,5 or More Years,New_Jersey
+300,168,35-49 Years,Hispanic or Latino,All Time,New_Jersey
+301,8,35-49 Years,Hispanic or Latino,< 30 Days,New_Jersey
+302,15,35-49 Years,Hispanic or Latino,30 to < 90 Days,New_Jersey
+303,16,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,New_Jersey
+304,30,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,New_Jersey
+305,44,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,New_Jersey
+306,18,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,New_Jersey
+307,24,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,New_Jersey
+308,13,35-49 Years,Hispanic or Latino,5 or More Years,New_Jersey
+309,98,35-49 Years,Asian alone,All Time,New_Jersey
+310,1,35-49 Years,Asian alone,< 30 Days,New_Jersey
+311,8,35-49 Years,Asian alone,30 to < 90 Days,New_Jersey
+312,12,35-49 Years,Asian alone,90 Days to < 6 Months,New_Jersey
+313,22,35-49 Years,Asian alone,6 Months to < 1 Year,New_Jersey
+314,19,35-49 Years,Asian alone,1 Year to < 2 Years,New_Jersey
+315,13,35-49 Years,Asian alone,2 Years to < 3 Years,New_Jersey
+316,18,35-49 Years,Asian alone,3 Years to < 5 Years,New_Jersey
+317,5,35-49 Years,Asian alone,5 or More Years,New_Jersey
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,New_Jersey
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,New_Jersey
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Jersey
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Jersey
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Jersey
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Jersey
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Jersey
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Jersey
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,New_Jersey
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Jersey
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Jersey
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Jersey
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Jersey
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Jersey
+332,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Jersey
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Jersey
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Jersey
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Jersey
+336,7,35-49 Years,Population of two or more races:,All Time,New_Jersey
+337,0,35-49 Years,Population of two or more races:,< 30 Days,New_Jersey
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,New_Jersey
+339,1,35-49 Years,Population of two or more races:,90 Days to < 6 Months,New_Jersey
+340,4,35-49 Years,Population of two or more races:,6 Months to < 1 Year,New_Jersey
+341,1,35-49 Years,Population of two or more races:,1 Year to < 2 Years,New_Jersey
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,New_Jersey
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,New_Jersey
+344,0,35-49 Years,Population of two or more races:,5 or More Years,New_Jersey
+345,595,50-64 Years,White alone,All Time,New_Jersey
+346,24,50-64 Years,White alone,< 30 Days,New_Jersey
+347,50,50-64 Years,White alone,30 to < 90 Days,New_Jersey
+348,61,50-64 Years,White alone,90 Days to < 6 Months,New_Jersey
+349,96,50-64 Years,White alone,6 Months to < 1 Year,New_Jersey
+350,136,50-64 Years,White alone,1 Year to < 2 Years,New_Jersey
+351,89,50-64 Years,White alone,2 Years to < 3 Years,New_Jersey
+352,88,50-64 Years,White alone,3 Years to < 5 Years,New_Jersey
+353,51,50-64 Years,White alone,5 or More Years,New_Jersey
+354,610,50-64 Years,Black or African American alone,All Time,New_Jersey
+355,19,50-64 Years,Black or African American alone,< 30 Days,New_Jersey
+356,36,50-64 Years,Black or African American alone,30 to < 90 Days,New_Jersey
+357,55,50-64 Years,Black or African American alone,90 Days to < 6 Months,New_Jersey
+358,83,50-64 Years,Black or African American alone,6 Months to < 1 Year,New_Jersey
+359,143,50-64 Years,Black or African American alone,1 Year to < 2 Years,New_Jersey
+360,92,50-64 Years,Black or African American alone,2 Years to < 3 Years,New_Jersey
+361,106,50-64 Years,Black or African American alone,3 Years to < 5 Years,New_Jersey
+362,76,50-64 Years,Black or African American alone,5 or More Years,New_Jersey
+363,239,50-64 Years,Hispanic or Latino,All Time,New_Jersey
+364,10,50-64 Years,Hispanic or Latino,< 30 Days,New_Jersey
+365,21,50-64 Years,Hispanic or Latino,30 to < 90 Days,New_Jersey
+366,21,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,New_Jersey
+367,42,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,New_Jersey
+368,55,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,New_Jersey
+369,40,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,New_Jersey
+370,31,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,New_Jersey
+371,19,50-64 Years,Hispanic or Latino,5 or More Years,New_Jersey
+372,185,50-64 Years,Asian alone,All Time,New_Jersey
+373,6,50-64 Years,Asian alone,< 30 Days,New_Jersey
+374,13,50-64 Years,Asian alone,30 to < 90 Days,New_Jersey
+375,14,50-64 Years,Asian alone,90 Days to < 6 Months,New_Jersey
+376,32,50-64 Years,Asian alone,6 Months to < 1 Year,New_Jersey
+377,43,50-64 Years,Asian alone,1 Year to < 2 Years,New_Jersey
+378,28,50-64 Years,Asian alone,2 Years to < 3 Years,New_Jersey
+379,29,50-64 Years,Asian alone,3 Years to < 5 Years,New_Jersey
+380,20,50-64 Years,Asian alone,5 or More Years,New_Jersey
+381,0,50-64 Years,American Indian and Alaska Native alone,All Time,New_Jersey
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,New_Jersey
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Jersey
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Jersey
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Jersey
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Jersey
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Jersey
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Jersey
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,New_Jersey
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Jersey
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Jersey
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Jersey
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Jersey
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Jersey
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Jersey
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Jersey
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Jersey
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Jersey
+399,9,50-64 Years,Population of two or more races:,All Time,New_Jersey
+400,0,50-64 Years,Population of two or more races:,< 30 Days,New_Jersey
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,New_Jersey
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,New_Jersey
+403,3,50-64 Years,Population of two or more races:,6 Months to < 1 Year,New_Jersey
+404,1,50-64 Years,Population of two or more races:,1 Year to < 2 Years,New_Jersey
+405,2,50-64 Years,Population of two or more races:,2 Years to < 3 Years,New_Jersey
+406,1,50-64 Years,Population of two or more races:,3 Years to < 5 Years,New_Jersey
+407,1,50-64 Years,Population of two or more races:,5 or More Years,New_Jersey
+408,480,65 and Older,White alone,All Time,New_Jersey
+409,23,65 and Older,White alone,< 30 Days,New_Jersey
+410,34,65 and Older,White alone,30 to < 90 Days,New_Jersey
+411,50,65 and Older,White alone,90 Days to < 6 Months,New_Jersey
+412,72,65 and Older,White alone,6 Months to < 1 Year,New_Jersey
+413,103,65 and Older,White alone,1 Year to < 2 Years,New_Jersey
+414,66,65 and Older,White alone,2 Years to < 3 Years,New_Jersey
+415,83,65 and Older,White alone,3 Years to < 5 Years,New_Jersey
+416,49,65 and Older,White alone,5 or More Years,New_Jersey
+417,215,65 and Older,Black or African American alone,All Time,New_Jersey
+418,5,65 and Older,Black or African American alone,< 30 Days,New_Jersey
+419,9,65 and Older,Black or African American alone,30 to < 90 Days,New_Jersey
+420,11,65 and Older,Black or African American alone,90 Days to < 6 Months,New_Jersey
+421,27,65 and Older,Black or African American alone,6 Months to < 1 Year,New_Jersey
+422,49,65 and Older,Black or African American alone,1 Year to < 2 Years,New_Jersey
+423,34,65 and Older,Black or African American alone,2 Years to < 3 Years,New_Jersey
+424,56,65 and Older,Black or African American alone,3 Years to < 5 Years,New_Jersey
+425,24,65 and Older,Black or African American alone,5 or More Years,New_Jersey
+426,82,65 and Older,Hispanic or Latino,All Time,New_Jersey
+427,3,65 and Older,Hispanic or Latino,< 30 Days,New_Jersey
+428,4,65 and Older,Hispanic or Latino,30 to < 90 Days,New_Jersey
+429,6,65 and Older,Hispanic or Latino,90 Days to < 6 Months,New_Jersey
+430,11,65 and Older,Hispanic or Latino,6 Months to < 1 Year,New_Jersey
+431,16,65 and Older,Hispanic or Latino,1 Year to < 2 Years,New_Jersey
+432,10,65 and Older,Hispanic or Latino,2 Years to < 3 Years,New_Jersey
+433,23,65 and Older,Hispanic or Latino,3 Years to < 5 Years,New_Jersey
+434,9,65 and Older,Hispanic or Latino,5 or More Years,New_Jersey
+435,104,65 and Older,Asian alone,All Time,New_Jersey
+436,5,65 and Older,Asian alone,< 30 Days,New_Jersey
+437,7,65 and Older,Asian alone,30 to < 90 Days,New_Jersey
+438,9,65 and Older,Asian alone,90 Days to < 6 Months,New_Jersey
+439,17,65 and Older,Asian alone,6 Months to < 1 Year,New_Jersey
+440,22,65 and Older,Asian alone,1 Year to < 2 Years,New_Jersey
+441,18,65 and Older,Asian alone,2 Years to < 3 Years,New_Jersey
+442,22,65 and Older,Asian alone,3 Years to < 5 Years,New_Jersey
+443,4,65 and Older,Asian alone,5 or More Years,New_Jersey
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,New_Jersey
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,New_Jersey
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,New_Jersey
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Jersey
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Jersey
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Jersey
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Jersey
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Jersey
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,New_Jersey
+453,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,New_Jersey
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Jersey
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Jersey
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Jersey
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Jersey
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Jersey
+459,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Jersey
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Jersey
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Jersey
+462,0,65 and Older,Population of two or more races:,All Time,New_Jersey
+463,0,65 and Older,Population of two or more races:,< 30 Days,New_Jersey
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,New_Jersey
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,New_Jersey
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,New_Jersey
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,New_Jersey
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,New_Jersey
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,New_Jersey
+470,0,65 and Older,Population of two or more races:,5 or More Years,New_Jersey

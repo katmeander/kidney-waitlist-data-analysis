@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,419,All Ages,White alone,All Time,Utah
+1,27,All Ages,White alone,< 30 Days,Utah
+2,60,All Ages,White alone,30 to < 90 Days,Utah
+3,53,All Ages,White alone,90 Days to < 6 Months,Utah
+4,81,All Ages,White alone,6 Months to < 1 Year,Utah
+5,92,All Ages,White alone,1 Year to < 2 Years,Utah
+6,47,All Ages,White alone,2 Years to < 3 Years,Utah
+7,49,All Ages,White alone,3 Years to < 5 Years,Utah
+8,10,All Ages,White alone,5 or More Years,Utah
+9,15,All Ages,Black or African American alone,All Time,Utah
+10,3,All Ages,Black or African American alone,< 30 Days,Utah
+11,2,All Ages,Black or African American alone,30 to < 90 Days,Utah
+12,1,All Ages,Black or African American alone,90 Days to < 6 Months,Utah
+13,3,All Ages,Black or African American alone,6 Months to < 1 Year,Utah
+14,3,All Ages,Black or African American alone,1 Year to < 2 Years,Utah
+15,2,All Ages,Black or African American alone,2 Years to < 3 Years,Utah
+16,1,All Ages,Black or African American alone,3 Years to < 5 Years,Utah
+17,0,All Ages,Black or African American alone,5 or More Years,Utah
+18,112,All Ages,Hispanic or Latino,All Time,Utah
+19,7,All Ages,Hispanic or Latino,< 30 Days,Utah
+20,10,All Ages,Hispanic or Latino,30 to < 90 Days,Utah
+21,14,All Ages,Hispanic or Latino,90 Days to < 6 Months,Utah
+22,22,All Ages,Hispanic or Latino,6 Months to < 1 Year,Utah
+23,33,All Ages,Hispanic or Latino,1 Year to < 2 Years,Utah
+24,16,All Ages,Hispanic or Latino,2 Years to < 3 Years,Utah
+25,8,All Ages,Hispanic or Latino,3 Years to < 5 Years,Utah
+26,2,All Ages,Hispanic or Latino,5 or More Years,Utah
+27,20,All Ages,Asian alone,All Time,Utah
+28,1,All Ages,Asian alone,< 30 Days,Utah
+29,4,All Ages,Asian alone,30 to < 90 Days,Utah
+30,1,All Ages,Asian alone,90 Days to < 6 Months,Utah
+31,2,All Ages,Asian alone,6 Months to < 1 Year,Utah
+32,7,All Ages,Asian alone,1 Year to < 2 Years,Utah
+33,2,All Ages,Asian alone,2 Years to < 3 Years,Utah
+34,1,All Ages,Asian alone,3 Years to < 5 Years,Utah
+35,2,All Ages,Asian alone,5 or More Years,Utah
+36,19,All Ages,American Indian and Alaska Native alone,All Time,Utah
+37,5,All Ages,American Indian and Alaska Native alone,< 30 Days,Utah
+38,2,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Utah
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Utah
+40,2,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Utah
+41,7,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Utah
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Utah
+43,2,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Utah
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Utah
+45,21,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Utah
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Utah
+47,2,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Utah
+48,3,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Utah
+49,5,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Utah
+50,5,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Utah
+51,2,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Utah
+52,3,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Utah
+53,1,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Utah
+54,7,All Ages,Population of two or more races:,All Time,Utah
+55,1,All Ages,Population of two or more races:,< 30 Days,Utah
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Utah
+57,1,All Ages,Population of two or more races:,90 Days to < 6 Months,Utah
+58,1,All Ages,Population of two or more races:,6 Months to < 1 Year,Utah
+59,4,All Ages,Population of two or more races:,1 Year to < 2 Years,Utah
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Utah
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Utah
+62,0,All Ages,Population of two or more races:,5 or More Years,Utah
+63,4,0-5 Years,White alone,All Time,Utah
+64,1,0-5 Years,White alone,< 30 Days,Utah
+65,0,0-5 Years,White alone,30 to < 90 Days,Utah
+66,3,0-5 Years,White alone,90 Days to < 6 Months,Utah
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Utah
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Utah
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Utah
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Utah
+71,0,0-5 Years,White alone,5 or More Years,Utah
+72,0,0-5 Years,Black or African American alone,All Time,Utah
+73,0,0-5 Years,Black or African American alone,< 30 Days,Utah
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Utah
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Utah
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Utah
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Utah
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Utah
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Utah
+80,1,0-5 Years,Hispanic or Latino,All Time,Utah
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Utah
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Utah
+83,1,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Utah
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Utah
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Utah
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Utah
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Utah
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Utah
+89,1,0-5 Years,Asian alone,All Time,Utah
+90,0,0-5 Years,Asian alone,< 30 Days,Utah
+91,1,0-5 Years,Asian alone,30 to < 90 Days,Utah
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Utah
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Utah
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Utah
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Utah
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Utah
+97,1,0-5 Years,American Indian and Alaska Native alone,All Time,Utah
+98,1,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Utah
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Utah
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Utah
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Utah
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Utah
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Utah
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Utah
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Utah
+106,2,0-5 Years,Population of two or more races:,All Time,Utah
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Utah
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Utah
+109,1,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Utah
+110,1,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Utah
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Utah
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Utah
+113,2,6-10 Years,White alone,All Time,Utah
+114,0,6-10 Years,White alone,< 30 Days,Utah
+115,0,6-10 Years,White alone,30 to < 90 Days,Utah
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Utah
+117,1,6-10 Years,White alone,6 Months to < 1 Year,Utah
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Utah
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Utah
+120,1,6-10 Years,White alone,3 Years to < 5 Years,Utah
+121,0,6-10 Years,White alone,5 or More Years,Utah
+122,0,6-10 Years,Black or African American alone,All Time,Utah
+123,0,6-10 Years,Black or African American alone,< 30 Days,Utah
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Utah
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Utah
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Utah
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Utah
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Utah
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Utah
+130,0,6-10 Years,Black or African American alone,5 or More Years,Utah
+131,1,6-10 Years,Hispanic or Latino,All Time,Utah
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Utah
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Utah
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Utah
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Utah
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Utah
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Utah
+138,1,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Utah
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Utah
+140,0,6-10 Years,Asian alone,All Time,Utah
+141,0,6-10 Years,Asian alone,< 30 Days,Utah
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Utah
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Utah
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Utah
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Utah
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Utah
+147,0,6-10 Years,Asian alone,5 or More Years,Utah
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Utah
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Utah
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Utah
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Utah
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Utah
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Utah
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Utah
+155,1,6-10 Years,Population of two or more races:,All Time,Utah
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Utah
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Utah
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Utah
+159,1,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Utah
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Utah
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Utah
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Utah
+163,10,11-17 Years,White alone,All Time,Utah
+164,0,11-17 Years,White alone,< 30 Days,Utah
+165,2,11-17 Years,White alone,30 to < 90 Days,Utah
+166,2,11-17 Years,White alone,90 Days to < 6 Months,Utah
+167,2,11-17 Years,White alone,6 Months to < 1 Year,Utah
+168,2,11-17 Years,White alone,1 Year to < 2 Years,Utah
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Utah
+170,1,11-17 Years,White alone,3 Years to < 5 Years,Utah
+171,0,11-17 Years,White alone,5 or More Years,Utah
+172,0,11-17 Years,Black or African American alone,All Time,Utah
+173,0,11-17 Years,Black or African American alone,< 30 Days,Utah
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Utah
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Utah
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Utah
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Utah
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Utah
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Utah
+180,0,11-17 Years,Black or African American alone,5 or More Years,Utah
+181,1,11-17 Years,Hispanic or Latino,All Time,Utah
+182,1,11-17 Years,Hispanic or Latino,< 30 Days,Utah
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Utah
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Utah
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Utah
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Utah
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Utah
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Utah
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Utah
+190,0,11-17 Years,Asian alone,All Time,Utah
+191,0,11-17 Years,Asian alone,< 30 Days,Utah
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Utah
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Utah
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Utah
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Utah
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Utah
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Utah
+198,0,11-17 Years,Asian alone,5 or More Years,Utah
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Utah
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Utah
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Utah
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Utah
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Utah
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Utah
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Utah
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Utah
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Utah
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Utah
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Utah
+210,0,11-17 Years,Population of two or more races:,All Time,Utah
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Utah
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Utah
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Utah
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Utah
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Utah
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Utah
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Utah
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Utah
+219,40,18-34 Years,White alone,All Time,Utah
+220,2,18-34 Years,White alone,< 30 Days,Utah
+221,5,18-34 Years,White alone,30 to < 90 Days,Utah
+222,10,18-34 Years,White alone,90 Days to < 6 Months,Utah
+223,9,18-34 Years,White alone,6 Months to < 1 Year,Utah
+224,6,18-34 Years,White alone,1 Year to < 2 Years,Utah
+225,4,18-34 Years,White alone,2 Years to < 3 Years,Utah
+226,4,18-34 Years,White alone,3 Years to < 5 Years,Utah
+227,0,18-34 Years,White alone,5 or More Years,Utah
+228,3,18-34 Years,Black or African American alone,All Time,Utah
+229,1,18-34 Years,Black or African American alone,< 30 Days,Utah
+230,1,18-34 Years,Black or African American alone,30 to < 90 Days,Utah
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Utah
+232,1,18-34 Years,Black or African American alone,6 Months to < 1 Year,Utah
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,Utah
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Utah
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Utah
+236,0,18-34 Years,Black or African American alone,5 or More Years,Utah
+237,25,18-34 Years,Hispanic or Latino,All Time,Utah
+238,2,18-34 Years,Hispanic or Latino,< 30 Days,Utah
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Utah
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Utah
+241,9,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Utah
+242,9,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Utah
+243,4,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Utah
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Utah
+245,1,18-34 Years,Hispanic or Latino,5 or More Years,Utah
+246,0,18-34 Years,Asian alone,All Time,Utah
+247,0,18-34 Years,Asian alone,< 30 Days,Utah
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Utah
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Utah
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Utah
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Utah
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Utah
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Utah
+254,0,18-34 Years,Asian alone,5 or More Years,Utah
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Utah
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Utah
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Utah
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Utah
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Utah
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Utah
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Utah
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Utah
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Utah
+264,3,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Utah
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Utah
+266,2,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Utah
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Utah
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Utah
+269,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Utah
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Utah
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Utah
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Utah
+273,2,18-34 Years,Population of two or more races:,All Time,Utah
+274,1,18-34 Years,Population of two or more races:,< 30 Days,Utah
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Utah
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Utah
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Utah
+278,1,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Utah
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Utah
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Utah
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Utah
+282,116,35-49 Years,White alone,All Time,Utah
+283,8,35-49 Years,White alone,< 30 Days,Utah
+284,14,35-49 Years,White alone,30 to < 90 Days,Utah
+285,15,35-49 Years,White alone,90 Days to < 6 Months,Utah
+286,19,35-49 Years,White alone,6 Months to < 1 Year,Utah
+287,35,35-49 Years,White alone,1 Year to < 2 Years,Utah
+288,11,35-49 Years,White alone,2 Years to < 3 Years,Utah
+289,12,35-49 Years,White alone,3 Years to < 5 Years,Utah
+290,2,35-49 Years,White alone,5 or More Years,Utah
+291,6,35-49 Years,Black or African American alone,All Time,Utah
+292,1,35-49 Years,Black or African American alone,< 30 Days,Utah
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,Utah
+294,0,35-49 Years,Black or African American alone,90 Days to < 6 Months,Utah
+295,1,35-49 Years,Black or African American alone,6 Months to < 1 Year,Utah
+296,2,35-49 Years,Black or African American alone,1 Year to < 2 Years,Utah
+297,1,35-49 Years,Black or African American alone,2 Years to < 3 Years,Utah
+298,1,35-49 Years,Black or African American alone,3 Years to < 5 Years,Utah
+299,0,35-49 Years,Black or African American alone,5 or More Years,Utah
+300,23,35-49 Years,Hispanic or Latino,All Time,Utah
+301,2,35-49 Years,Hispanic or Latino,< 30 Days,Utah
+302,3,35-49 Years,Hispanic or Latino,30 to < 90 Days,Utah
+303,3,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Utah
+304,3,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Utah
+305,7,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Utah
+306,2,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Utah
+307,2,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Utah
+308,1,35-49 Years,Hispanic or Latino,5 or More Years,Utah
+309,6,35-49 Years,Asian alone,All Time,Utah
+310,0,35-49 Years,Asian alone,< 30 Days,Utah
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Utah
+312,1,35-49 Years,Asian alone,90 Days to < 6 Months,Utah
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,Utah
+314,3,35-49 Years,Asian alone,1 Year to < 2 Years,Utah
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Utah
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,Utah
+317,0,35-49 Years,Asian alone,5 or More Years,Utah
+318,9,35-49 Years,American Indian and Alaska Native alone,All Time,Utah
+319,3,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Utah
+320,1,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Utah
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Utah
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Utah
+323,4,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Utah
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Utah
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Utah
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Utah
+327,8,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Utah
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Utah
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Utah
+330,3,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Utah
+331,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Utah
+332,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Utah
+333,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Utah
+334,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Utah
+335,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Utah
+336,1,35-49 Years,Population of two or more races:,All Time,Utah
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Utah
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Utah
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Utah
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Utah
+341,1,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Utah
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Utah
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Utah
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Utah
+345,140,50-64 Years,White alone,All Time,Utah
+346,10,50-64 Years,White alone,< 30 Days,Utah
+347,20,50-64 Years,White alone,30 to < 90 Days,Utah
+348,12,50-64 Years,White alone,90 Days to < 6 Months,Utah
+349,31,50-64 Years,White alone,6 Months to < 1 Year,Utah
+350,28,50-64 Years,White alone,1 Year to < 2 Years,Utah
+351,18,50-64 Years,White alone,2 Years to < 3 Years,Utah
+352,17,50-64 Years,White alone,3 Years to < 5 Years,Utah
+353,4,50-64 Years,White alone,5 or More Years,Utah
+354,4,50-64 Years,Black or African American alone,All Time,Utah
+355,1,50-64 Years,Black or African American alone,< 30 Days,Utah
+356,1,50-64 Years,Black or African American alone,30 to < 90 Days,Utah
+357,1,50-64 Years,Black or African American alone,90 Days to < 6 Months,Utah
+358,0,50-64 Years,Black or African American alone,6 Months to < 1 Year,Utah
+359,0,50-64 Years,Black or African American alone,1 Year to < 2 Years,Utah
+360,1,50-64 Years,Black or African American alone,2 Years to < 3 Years,Utah
+361,0,50-64 Years,Black or African American alone,3 Years to < 5 Years,Utah
+362,0,50-64 Years,Black or African American alone,5 or More Years,Utah
+363,39,50-64 Years,Hispanic or Latino,All Time,Utah
+364,2,50-64 Years,Hispanic or Latino,< 30 Days,Utah
+365,5,50-64 Years,Hispanic or Latino,30 to < 90 Days,Utah
+366,8,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Utah
+367,4,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Utah
+368,10,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Utah
+369,5,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Utah
+370,5,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Utah
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Utah
+372,9,50-64 Years,Asian alone,All Time,Utah
+373,0,50-64 Years,Asian alone,< 30 Days,Utah
+374,2,50-64 Years,Asian alone,30 to < 90 Days,Utah
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Utah
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,Utah
+377,3,50-64 Years,Asian alone,1 Year to < 2 Years,Utah
+378,2,50-64 Years,Asian alone,2 Years to < 3 Years,Utah
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Utah
+380,2,50-64 Years,Asian alone,5 or More Years,Utah
+381,2,50-64 Years,American Indian and Alaska Native alone,All Time,Utah
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Utah
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Utah
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Utah
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Utah
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Utah
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Utah
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Utah
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Utah
+390,9,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Utah
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Utah
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Utah
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Utah
+394,4,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Utah
+395,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Utah
+396,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Utah
+397,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Utah
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Utah
+399,1,50-64 Years,Population of two or more races:,All Time,Utah
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Utah
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Utah
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Utah
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Utah
+404,1,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Utah
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Utah
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Utah
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Utah
+408,107,65 and Older,White alone,All Time,Utah
+409,6,65 and Older,White alone,< 30 Days,Utah
+410,19,65 and Older,White alone,30 to < 90 Days,Utah
+411,11,65 and Older,White alone,90 Days to < 6 Months,Utah
+412,19,65 and Older,White alone,6 Months to < 1 Year,Utah
+413,21,65 and Older,White alone,1 Year to < 2 Years,Utah
+414,13,65 and Older,White alone,2 Years to < 3 Years,Utah
+415,14,65 and Older,White alone,3 Years to < 5 Years,Utah
+416,4,65 and Older,White alone,5 or More Years,Utah
+417,2,65 and Older,Black or African American alone,All Time,Utah
+418,0,65 and Older,Black or African American alone,< 30 Days,Utah
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,Utah
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,Utah
+421,1,65 and Older,Black or African American alone,6 Months to < 1 Year,Utah
+422,1,65 and Older,Black or African American alone,1 Year to < 2 Years,Utah
+423,0,65 and Older,Black or African American alone,2 Years to < 3 Years,Utah
+424,0,65 and Older,Black or African American alone,3 Years to < 5 Years,Utah
+425,0,65 and Older,Black or African American alone,5 or More Years,Utah
+426,22,65 and Older,Hispanic or Latino,All Time,Utah
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Utah
+428,2,65 and Older,Hispanic or Latino,30 to < 90 Days,Utah
+429,2,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Utah
+430,6,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Utah
+431,7,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Utah
+432,5,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Utah
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Utah
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Utah
+435,4,65 and Older,Asian alone,All Time,Utah
+436,1,65 and Older,Asian alone,< 30 Days,Utah
+437,0,65 and Older,Asian alone,30 to < 90 Days,Utah
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Utah
+439,2,65 and Older,Asian alone,6 Months to < 1 Year,Utah
+440,1,65 and Older,Asian alone,1 Year to < 2 Years,Utah
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Utah
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Utah
+443,0,65 and Older,Asian alone,5 or More Years,Utah
+444,7,65 and Older,American Indian and Alaska Native alone,All Time,Utah
+445,1,65 and Older,American Indian and Alaska Native alone,< 30 Days,Utah
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Utah
+447,1,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Utah
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Utah
+449,2,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Utah
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Utah
+451,2,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Utah
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Utah
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Utah
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Utah
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Utah
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Utah
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Utah
+458,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Utah
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Utah
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Utah
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Utah
+462,0,65 and Older,Population of two or more races:,All Time,Utah
+463,0,65 and Older,Population of two or more races:,< 30 Days,Utah
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Utah
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Utah
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Utah
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Utah
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Utah
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Utah
+470,0,65 and Older,Population of two or more races:,5 or More Years,Utah

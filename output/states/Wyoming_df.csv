@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,75,All Ages,White alone,All Time,Wyoming
+1,5,All Ages,White alone,< 30 Days,Wyoming
+2,15,All Ages,White alone,30 to < 90 Days,Wyoming
+3,10,All Ages,White alone,90 Days to < 6 Months,Wyoming
+4,9,All Ages,White alone,6 Months to < 1 Year,Wyoming
+5,14,All Ages,White alone,1 Year to < 2 Years,Wyoming
+6,6,All Ages,White alone,2 Years to < 3 Years,Wyoming
+7,8,All Ages,White alone,3 Years to < 5 Years,Wyoming
+8,8,All Ages,White alone,5 or More Years,Wyoming
+9,5,All Ages,Black or African American alone,All Time,Wyoming
+10,0,All Ages,Black or African American alone,< 30 Days,Wyoming
+11,0,All Ages,Black or African American alone,30 to < 90 Days,Wyoming
+12,0,All Ages,Black or African American alone,90 Days to < 6 Months,Wyoming
+13,2,All Ages,Black or African American alone,6 Months to < 1 Year,Wyoming
+14,3,All Ages,Black or African American alone,1 Year to < 2 Years,Wyoming
+15,0,All Ages,Black or African American alone,2 Years to < 3 Years,Wyoming
+16,0,All Ages,Black or African American alone,3 Years to < 5 Years,Wyoming
+17,0,All Ages,Black or African American alone,5 or More Years,Wyoming
+18,11,All Ages,Hispanic or Latino,All Time,Wyoming
+19,0,All Ages,Hispanic or Latino,< 30 Days,Wyoming
+20,0,All Ages,Hispanic or Latino,30 to < 90 Days,Wyoming
+21,1,All Ages,Hispanic or Latino,90 Days to < 6 Months,Wyoming
+22,3,All Ages,Hispanic or Latino,6 Months to < 1 Year,Wyoming
+23,3,All Ages,Hispanic or Latino,1 Year to < 2 Years,Wyoming
+24,3,All Ages,Hispanic or Latino,2 Years to < 3 Years,Wyoming
+25,1,All Ages,Hispanic or Latino,3 Years to < 5 Years,Wyoming
+26,0,All Ages,Hispanic or Latino,5 or More Years,Wyoming
+27,0,All Ages,Asian alone,All Time,Wyoming
+28,0,All Ages,Asian alone,< 30 Days,Wyoming
+29,0,All Ages,Asian alone,30 to < 90 Days,Wyoming
+30,0,All Ages,Asian alone,90 Days to < 6 Months,Wyoming
+31,0,All Ages,Asian alone,6 Months to < 1 Year,Wyoming
+32,0,All Ages,Asian alone,1 Year to < 2 Years,Wyoming
+33,0,All Ages,Asian alone,2 Years to < 3 Years,Wyoming
+34,0,All Ages,Asian alone,3 Years to < 5 Years,Wyoming
+35,0,All Ages,Asian alone,5 or More Years,Wyoming
+36,5,All Ages,American Indian and Alaska Native alone,All Time,Wyoming
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Wyoming
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Wyoming
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Wyoming
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Wyoming
+41,1,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Wyoming
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Wyoming
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Wyoming
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Wyoming
+45,0,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Wyoming
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wyoming
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wyoming
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wyoming
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wyoming
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wyoming
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wyoming
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wyoming
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wyoming
+54,1,All Ages,Population of two or more races:,All Time,Wyoming
+55,0,All Ages,Population of two or more races:,< 30 Days,Wyoming
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Wyoming
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Wyoming
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Wyoming
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Wyoming
+60,1,All Ages,Population of two or more races:,2 Years to < 3 Years,Wyoming
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Wyoming
+62,0,All Ages,Population of two or more races:,5 or More Years,Wyoming
+63,0,0-5 Years,White alone,All Time,Wyoming
+64,0,0-5 Years,White alone,< 30 Days,Wyoming
+65,0,0-5 Years,White alone,30 to < 90 Days,Wyoming
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Wyoming
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Wyoming
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Wyoming
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Wyoming
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Wyoming
+71,0,0-5 Years,White alone,5 or More Years,Wyoming
+72,0,0-5 Years,Black or African American alone,All Time,Wyoming
+73,0,0-5 Years,Black or African American alone,< 30 Days,Wyoming
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Wyoming
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Wyoming
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Wyoming
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Wyoming
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Wyoming
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Wyoming
+80,0,0-5 Years,Hispanic or Latino,All Time,Wyoming
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Wyoming
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Wyoming
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Wyoming
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Wyoming
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Wyoming
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Wyoming
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Wyoming
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Wyoming
+89,0,0-5 Years,Asian alone,All Time,Wyoming
+90,0,0-5 Years,Asian alone,< 30 Days,Wyoming
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Wyoming
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Wyoming
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Wyoming
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Wyoming
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Wyoming
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Wyoming
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Wyoming
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Wyoming
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Wyoming
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wyoming
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wyoming
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wyoming
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wyoming
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wyoming
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wyoming
+106,0,0-5 Years,Population of two or more races:,All Time,Wyoming
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Wyoming
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Wyoming
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Wyoming
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Wyoming
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Wyoming
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Wyoming
+113,1,6-10 Years,White alone,All Time,Wyoming
+114,0,6-10 Years,White alone,< 30 Days,Wyoming
+115,0,6-10 Years,White alone,30 to < 90 Days,Wyoming
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Wyoming
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Wyoming
+118,1,6-10 Years,White alone,1 Year to < 2 Years,Wyoming
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Wyoming
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Wyoming
+121,0,6-10 Years,White alone,5 or More Years,Wyoming
+122,0,6-10 Years,Black or African American alone,All Time,Wyoming
+123,0,6-10 Years,Black or African American alone,< 30 Days,Wyoming
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Wyoming
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Wyoming
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Wyoming
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Wyoming
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Wyoming
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Wyoming
+130,0,6-10 Years,Black or African American alone,5 or More Years,Wyoming
+131,0,6-10 Years,Hispanic or Latino,All Time,Wyoming
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Wyoming
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Wyoming
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Wyoming
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Wyoming
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Wyoming
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Wyoming
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Wyoming
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Wyoming
+140,0,6-10 Years,Asian alone,All Time,Wyoming
+141,0,6-10 Years,Asian alone,< 30 Days,Wyoming
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Wyoming
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Wyoming
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Wyoming
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Wyoming
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Wyoming
+147,0,6-10 Years,Asian alone,5 or More Years,Wyoming
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Wyoming
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wyoming
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wyoming
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wyoming
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wyoming
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wyoming
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wyoming
+155,0,6-10 Years,Population of two or more races:,All Time,Wyoming
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Wyoming
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Wyoming
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Wyoming
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Wyoming
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Wyoming
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Wyoming
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Wyoming
+163,3,11-17 Years,White alone,All Time,Wyoming
+164,1,11-17 Years,White alone,< 30 Days,Wyoming
+165,0,11-17 Years,White alone,30 to < 90 Days,Wyoming
+166,2,11-17 Years,White alone,90 Days to < 6 Months,Wyoming
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Wyoming
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Wyoming
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Wyoming
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Wyoming
+171,0,11-17 Years,White alone,5 or More Years,Wyoming
+172,0,11-17 Years,Black or African American alone,All Time,Wyoming
+173,0,11-17 Years,Black or African American alone,< 30 Days,Wyoming
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Wyoming
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Wyoming
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Wyoming
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Wyoming
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Wyoming
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Wyoming
+180,0,11-17 Years,Black or African American alone,5 or More Years,Wyoming
+181,0,11-17 Years,Hispanic or Latino,All Time,Wyoming
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Wyoming
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Wyoming
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Wyoming
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Wyoming
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Wyoming
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Wyoming
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Wyoming
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Wyoming
+190,0,11-17 Years,Asian alone,All Time,Wyoming
+191,0,11-17 Years,Asian alone,< 30 Days,Wyoming
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Wyoming
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Wyoming
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Wyoming
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Wyoming
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Wyoming
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Wyoming
+198,0,11-17 Years,Asian alone,5 or More Years,Wyoming
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Wyoming
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wyoming
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wyoming
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wyoming
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Wyoming
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wyoming
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wyoming
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wyoming
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wyoming
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wyoming
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wyoming
+210,0,11-17 Years,Population of two or more races:,All Time,Wyoming
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Wyoming
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Wyoming
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Wyoming
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Wyoming
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Wyoming
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Wyoming
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Wyoming
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Wyoming
+219,8,18-34 Years,White alone,All Time,Wyoming
+220,0,18-34 Years,White alone,< 30 Days,Wyoming
+221,4,18-34 Years,White alone,30 to < 90 Days,Wyoming
+222,1,18-34 Years,White alone,90 Days to < 6 Months,Wyoming
+223,2,18-34 Years,White alone,6 Months to < 1 Year,Wyoming
+224,1,18-34 Years,White alone,1 Year to < 2 Years,Wyoming
+225,0,18-34 Years,White alone,2 Years to < 3 Years,Wyoming
+226,0,18-34 Years,White alone,3 Years to < 5 Years,Wyoming
+227,0,18-34 Years,White alone,5 or More Years,Wyoming
+228,0,18-34 Years,Black or African American alone,All Time,Wyoming
+229,0,18-34 Years,Black or African American alone,< 30 Days,Wyoming
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,Wyoming
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Wyoming
+232,0,18-34 Years,Black or African American alone,6 Months to < 1 Year,Wyoming
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,Wyoming
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Wyoming
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Wyoming
+236,0,18-34 Years,Black or African American alone,5 or More Years,Wyoming
+237,3,18-34 Years,Hispanic or Latino,All Time,Wyoming
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Wyoming
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Wyoming
+240,1,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Wyoming
+241,0,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Wyoming
+242,2,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Wyoming
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Wyoming
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Wyoming
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Wyoming
+246,0,18-34 Years,Asian alone,All Time,Wyoming
+247,0,18-34 Years,Asian alone,< 30 Days,Wyoming
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Wyoming
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Wyoming
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Wyoming
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Wyoming
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Wyoming
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Wyoming
+254,0,18-34 Years,Asian alone,5 or More Years,Wyoming
+255,1,18-34 Years,American Indian and Alaska Native alone,All Time,Wyoming
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Wyoming
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Wyoming
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wyoming
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wyoming
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wyoming
+261,1,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Wyoming
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wyoming
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Wyoming
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wyoming
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wyoming
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wyoming
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wyoming
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wyoming
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wyoming
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wyoming
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wyoming
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wyoming
+273,1,18-34 Years,Population of two or more races:,All Time,Wyoming
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Wyoming
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Wyoming
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Wyoming
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Wyoming
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Wyoming
+279,1,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Wyoming
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Wyoming
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Wyoming
+282,15,35-49 Years,White alone,All Time,Wyoming
+283,0,35-49 Years,White alone,< 30 Days,Wyoming
+284,7,35-49 Years,White alone,30 to < 90 Days,Wyoming
+285,1,35-49 Years,White alone,90 Days to < 6 Months,Wyoming
+286,1,35-49 Years,White alone,6 Months to < 1 Year,Wyoming
+287,2,35-49 Years,White alone,1 Year to < 2 Years,Wyoming
+288,0,35-49 Years,White alone,2 Years to < 3 Years,Wyoming
+289,4,35-49 Years,White alone,3 Years to < 5 Years,Wyoming
+290,0,35-49 Years,White alone,5 or More Years,Wyoming
+291,2,35-49 Years,Black or African American alone,All Time,Wyoming
+292,0,35-49 Years,Black or African American alone,< 30 Days,Wyoming
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,Wyoming
+294,0,35-49 Years,Black or African American alone,90 Days to < 6 Months,Wyoming
+295,1,35-49 Years,Black or African American alone,6 Months to < 1 Year,Wyoming
+296,1,35-49 Years,Black or African American alone,1 Year to < 2 Years,Wyoming
+297,0,35-49 Years,Black or African American alone,2 Years to < 3 Years,Wyoming
+298,0,35-49 Years,Black or African American alone,3 Years to < 5 Years,Wyoming
+299,0,35-49 Years,Black or African American alone,5 or More Years,Wyoming
+300,2,35-49 Years,Hispanic or Latino,All Time,Wyoming
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Wyoming
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Wyoming
+303,0,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Wyoming
+304,1,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Wyoming
+305,0,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Wyoming
+306,1,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Wyoming
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Wyoming
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Wyoming
+309,0,35-49 Years,Asian alone,All Time,Wyoming
+310,0,35-49 Years,Asian alone,< 30 Days,Wyoming
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Wyoming
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Wyoming
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,Wyoming
+314,0,35-49 Years,Asian alone,1 Year to < 2 Years,Wyoming
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Wyoming
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Wyoming
+317,0,35-49 Years,Asian alone,5 or More Years,Wyoming
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Wyoming
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Wyoming
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Wyoming
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wyoming
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wyoming
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wyoming
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Wyoming
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wyoming
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Wyoming
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wyoming
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wyoming
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wyoming
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wyoming
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wyoming
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wyoming
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wyoming
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wyoming
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wyoming
+336,0,35-49 Years,Population of two or more races:,All Time,Wyoming
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Wyoming
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Wyoming
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Wyoming
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Wyoming
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Wyoming
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Wyoming
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Wyoming
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Wyoming
+345,28,50-64 Years,White alone,All Time,Wyoming
+346,3,50-64 Years,White alone,< 30 Days,Wyoming
+347,1,50-64 Years,White alone,30 to < 90 Days,Wyoming
+348,2,50-64 Years,White alone,90 Days to < 6 Months,Wyoming
+349,3,50-64 Years,White alone,6 Months to < 1 Year,Wyoming
+350,7,50-64 Years,White alone,1 Year to < 2 Years,Wyoming
+351,4,50-64 Years,White alone,2 Years to < 3 Years,Wyoming
+352,2,50-64 Years,White alone,3 Years to < 5 Years,Wyoming
+353,6,50-64 Years,White alone,5 or More Years,Wyoming
+354,2,50-64 Years,Black or African American alone,All Time,Wyoming
+355,0,50-64 Years,Black or African American alone,< 30 Days,Wyoming
+356,0,50-64 Years,Black or African American alone,30 to < 90 Days,Wyoming
+357,0,50-64 Years,Black or African American alone,90 Days to < 6 Months,Wyoming
+358,1,50-64 Years,Black or African American alone,6 Months to < 1 Year,Wyoming
+359,1,50-64 Years,Black or African American alone,1 Year to < 2 Years,Wyoming
+360,0,50-64 Years,Black or African American alone,2 Years to < 3 Years,Wyoming
+361,0,50-64 Years,Black or African American alone,3 Years to < 5 Years,Wyoming
+362,0,50-64 Years,Black or African American alone,5 or More Years,Wyoming
+363,3,50-64 Years,Hispanic or Latino,All Time,Wyoming
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Wyoming
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Wyoming
+366,0,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Wyoming
+367,1,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Wyoming
+368,0,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Wyoming
+369,2,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Wyoming
+370,0,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Wyoming
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Wyoming
+372,0,50-64 Years,Asian alone,All Time,Wyoming
+373,0,50-64 Years,Asian alone,< 30 Days,Wyoming
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Wyoming
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Wyoming
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,Wyoming
+377,0,50-64 Years,Asian alone,1 Year to < 2 Years,Wyoming
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Wyoming
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Wyoming
+380,0,50-64 Years,Asian alone,5 or More Years,Wyoming
+381,2,50-64 Years,American Indian and Alaska Native alone,All Time,Wyoming
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Wyoming
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Wyoming
+384,1,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Wyoming
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Wyoming
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Wyoming
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Wyoming
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Wyoming
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Wyoming
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Wyoming
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wyoming
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wyoming
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wyoming
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wyoming
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wyoming
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wyoming
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wyoming
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wyoming
+399,0,50-64 Years,Population of two or more races:,All Time,Wyoming
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Wyoming
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Wyoming
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Wyoming
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Wyoming
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Wyoming
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Wyoming
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Wyoming
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Wyoming
+408,20,65 and Older,White alone,All Time,Wyoming
+409,1,65 and Older,White alone,< 30 Days,Wyoming
+410,3,65 and Older,White alone,30 to < 90 Days,Wyoming
+411,4,65 and Older,White alone,90 Days to < 6 Months,Wyoming
+412,3,65 and Older,White alone,6 Months to < 1 Year,Wyoming
+413,3,65 and Older,White alone,1 Year to < 2 Years,Wyoming
+414,2,65 and Older,White alone,2 Years to < 3 Years,Wyoming
+415,2,65 and Older,White alone,3 Years to < 5 Years,Wyoming
+416,2,65 and Older,White alone,5 or More Years,Wyoming
+417,1,65 and Older,Black or African American alone,All Time,Wyoming
+418,0,65 and Older,Black or African American alone,< 30 Days,Wyoming
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,Wyoming
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,Wyoming
+421,0,65 and Older,Black or African American alone,6 Months to < 1 Year,Wyoming
+422,1,65 and Older,Black or African American alone,1 Year to < 2 Years,Wyoming
+423,0,65 and Older,Black or African American alone,2 Years to < 3 Years,Wyoming
+424,0,65 and Older,Black or African American alone,3 Years to < 5 Years,Wyoming
+425,0,65 and Older,Black or African American alone,5 or More Years,Wyoming
+426,3,65 and Older,Hispanic or Latino,All Time,Wyoming
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Wyoming
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Wyoming
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Wyoming
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Wyoming
+431,1,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Wyoming
+432,0,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Wyoming
+433,1,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Wyoming
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Wyoming
+435,0,65 and Older,Asian alone,All Time,Wyoming
+436,0,65 and Older,Asian alone,< 30 Days,Wyoming
+437,0,65 and Older,Asian alone,30 to < 90 Days,Wyoming
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Wyoming
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,Wyoming
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,Wyoming
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Wyoming
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Wyoming
+443,0,65 and Older,Asian alone,5 or More Years,Wyoming
+444,1,65 and Older,American Indian and Alaska Native alone,All Time,Wyoming
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Wyoming
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Wyoming
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Wyoming
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Wyoming
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Wyoming
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Wyoming
+451,1,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Wyoming
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Wyoming
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Wyoming
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Wyoming
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Wyoming
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Wyoming
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Wyoming
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Wyoming
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Wyoming
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Wyoming
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Wyoming
+462,0,65 and Older,Population of two or more races:,All Time,Wyoming
+463,0,65 and Older,Population of two or more races:,< 30 Days,Wyoming
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Wyoming
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Wyoming
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Wyoming
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Wyoming
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Wyoming
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Wyoming
+470,0,65 and Older,Population of two or more races:,5 or More Years,Wyoming

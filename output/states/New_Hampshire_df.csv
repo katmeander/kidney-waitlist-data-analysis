@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,428,All Ages,White alone,All Time,New_Hampshire
+1,24,All Ages,White alone,< 30 Days,New_Hampshire
+2,18,All Ages,White alone,30 to < 90 Days,New_Hampshire
+3,47,All Ages,White alone,90 Days to < 6 Months,New_Hampshire
+4,56,All Ages,White alone,6 Months to < 1 Year,New_Hampshire
+5,106,All Ages,White alone,1 Year to < 2 Years,New_Hampshire
+6,72,All Ages,White alone,2 Years to < 3 Years,New_Hampshire
+7,67,All Ages,White alone,3 Years to < 5 Years,New_Hampshire
+8,38,All Ages,White alone,5 or More Years,New_Hampshire
+9,21,All Ages,Black or African American alone,All Time,New_Hampshire
+10,1,All Ages,Black or African American alone,< 30 Days,New_Hampshire
+11,0,All Ages,Black or African American alone,30 to < 90 Days,New_Hampshire
+12,0,All Ages,Black or African American alone,90 Days to < 6 Months,New_Hampshire
+13,1,All Ages,Black or African American alone,6 Months to < 1 Year,New_Hampshire
+14,5,All Ages,Black or African American alone,1 Year to < 2 Years,New_Hampshire
+15,5,All Ages,Black or African American alone,2 Years to < 3 Years,New_Hampshire
+16,4,All Ages,Black or African American alone,3 Years to < 5 Years,New_Hampshire
+17,5,All Ages,Black or African American alone,5 or More Years,New_Hampshire
+18,18,All Ages,Hispanic or Latino,All Time,New_Hampshire
+19,0,All Ages,Hispanic or Latino,< 30 Days,New_Hampshire
+20,1,All Ages,Hispanic or Latino,30 to < 90 Days,New_Hampshire
+21,4,All Ages,Hispanic or Latino,90 Days to < 6 Months,New_Hampshire
+22,5,All Ages,Hispanic or Latino,6 Months to < 1 Year,New_Hampshire
+23,2,All Ages,Hispanic or Latino,1 Year to < 2 Years,New_Hampshire
+24,3,All Ages,Hispanic or Latino,2 Years to < 3 Years,New_Hampshire
+25,1,All Ages,Hispanic or Latino,3 Years to < 5 Years,New_Hampshire
+26,2,All Ages,Hispanic or Latino,5 or More Years,New_Hampshire
+27,17,All Ages,Asian alone,All Time,New_Hampshire
+28,0,All Ages,Asian alone,< 30 Days,New_Hampshire
+29,1,All Ages,Asian alone,30 to < 90 Days,New_Hampshire
+30,0,All Ages,Asian alone,90 Days to < 6 Months,New_Hampshire
+31,4,All Ages,Asian alone,6 Months to < 1 Year,New_Hampshire
+32,3,All Ages,Asian alone,1 Year to < 2 Years,New_Hampshire
+33,3,All Ages,Asian alone,2 Years to < 3 Years,New_Hampshire
+34,2,All Ages,Asian alone,3 Years to < 5 Years,New_Hampshire
+35,4,All Ages,Asian alone,5 or More Years,New_Hampshire
+36,0,All Ages,American Indian and Alaska Native alone,All Time,New_Hampshire
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,New_Hampshire
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,New_Hampshire
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Hampshire
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Hampshire
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Hampshire
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Hampshire
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Hampshire
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,New_Hampshire
+45,0,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,New_Hampshire
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Hampshire
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Hampshire
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Hampshire
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Hampshire
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Hampshire
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Hampshire
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Hampshire
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Hampshire
+54,2,All Ages,Population of two or more races:,All Time,New_Hampshire
+55,0,All Ages,Population of two or more races:,< 30 Days,New_Hampshire
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,New_Hampshire
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,New_Hampshire
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,New_Hampshire
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,New_Hampshire
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,New_Hampshire
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,New_Hampshire
+62,2,All Ages,Population of two or more races:,5 or More Years,New_Hampshire
+63,1,0-5 Years,White alone,All Time,New_Hampshire
+64,0,0-5 Years,White alone,< 30 Days,New_Hampshire
+65,0,0-5 Years,White alone,30 to < 90 Days,New_Hampshire
+66,1,0-5 Years,White alone,90 Days to < 6 Months,New_Hampshire
+67,0,0-5 Years,White alone,6 Months to < 1 Year,New_Hampshire
+68,0,0-5 Years,White alone,1 Year to < 2 Years,New_Hampshire
+69,0,0-5 Years,White alone,2 Years to < 3 Years,New_Hampshire
+70,0,0-5 Years,White alone,3 Years to < 5 Years,New_Hampshire
+71,0,0-5 Years,White alone,5 or More Years,New_Hampshire
+72,0,0-5 Years,Black or African American alone,All Time,New_Hampshire
+73,0,0-5 Years,Black or African American alone,< 30 Days,New_Hampshire
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,New_Hampshire
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,New_Hampshire
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,New_Hampshire
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,New_Hampshire
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,New_Hampshire
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,New_Hampshire
+80,0,0-5 Years,Hispanic or Latino,All Time,New_Hampshire
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,New_Hampshire
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,New_Hampshire
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,New_Hampshire
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,New_Hampshire
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,New_Hampshire
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,New_Hampshire
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,New_Hampshire
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,New_Hampshire
+89,0,0-5 Years,Asian alone,All Time,New_Hampshire
+90,0,0-5 Years,Asian alone,< 30 Days,New_Hampshire
+91,0,0-5 Years,Asian alone,30 to < 90 Days,New_Hampshire
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,New_Hampshire
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,New_Hampshire
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,New_Hampshire
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,New_Hampshire
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,New_Hampshire
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,New_Hampshire
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,New_Hampshire
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Hampshire
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Hampshire
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Hampshire
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Hampshire
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Hampshire
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Hampshire
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Hampshire
+106,0,0-5 Years,Population of two or more races:,All Time,New_Hampshire
+107,0,0-5 Years,Population of two or more races:,< 30 Days,New_Hampshire
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,New_Hampshire
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,New_Hampshire
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,New_Hampshire
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,New_Hampshire
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,New_Hampshire
+113,1,6-10 Years,White alone,All Time,New_Hampshire
+114,0,6-10 Years,White alone,< 30 Days,New_Hampshire
+115,0,6-10 Years,White alone,30 to < 90 Days,New_Hampshire
+116,0,6-10 Years,White alone,90 Days to < 6 Months,New_Hampshire
+117,1,6-10 Years,White alone,6 Months to < 1 Year,New_Hampshire
+118,0,6-10 Years,White alone,1 Year to < 2 Years,New_Hampshire
+119,0,6-10 Years,White alone,2 Years to < 3 Years,New_Hampshire
+120,0,6-10 Years,White alone,3 Years to < 5 Years,New_Hampshire
+121,0,6-10 Years,White alone,5 or More Years,New_Hampshire
+122,0,6-10 Years,Black or African American alone,All Time,New_Hampshire
+123,0,6-10 Years,Black or African American alone,< 30 Days,New_Hampshire
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,New_Hampshire
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,New_Hampshire
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,New_Hampshire
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,New_Hampshire
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,New_Hampshire
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,New_Hampshire
+130,0,6-10 Years,Black or African American alone,5 or More Years,New_Hampshire
+131,0,6-10 Years,Hispanic or Latino,All Time,New_Hampshire
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,New_Hampshire
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,New_Hampshire
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,New_Hampshire
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,New_Hampshire
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,New_Hampshire
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,New_Hampshire
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,New_Hampshire
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,New_Hampshire
+140,0,6-10 Years,Asian alone,All Time,New_Hampshire
+141,0,6-10 Years,Asian alone,< 30 Days,New_Hampshire
+142,0,6-10 Years,Asian alone,30 to < 90 Days,New_Hampshire
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,New_Hampshire
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,New_Hampshire
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,New_Hampshire
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,New_Hampshire
+147,0,6-10 Years,Asian alone,5 or More Years,New_Hampshire
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,New_Hampshire
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Hampshire
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Hampshire
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Hampshire
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Hampshire
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Hampshire
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Hampshire
+155,0,6-10 Years,Population of two or more races:,All Time,New_Hampshire
+156,0,6-10 Years,Population of two or more races:,< 30 Days,New_Hampshire
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,New_Hampshire
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,New_Hampshire
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,New_Hampshire
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,New_Hampshire
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,New_Hampshire
+162,0,6-10 Years,Population of two or more races:,5 or More Years,New_Hampshire
+163,5,11-17 Years,White alone,All Time,New_Hampshire
+164,1,11-17 Years,White alone,< 30 Days,New_Hampshire
+165,1,11-17 Years,White alone,30 to < 90 Days,New_Hampshire
+166,1,11-17 Years,White alone,90 Days to < 6 Months,New_Hampshire
+167,1,11-17 Years,White alone,6 Months to < 1 Year,New_Hampshire
+168,0,11-17 Years,White alone,1 Year to < 2 Years,New_Hampshire
+169,1,11-17 Years,White alone,2 Years to < 3 Years,New_Hampshire
+170,0,11-17 Years,White alone,3 Years to < 5 Years,New_Hampshire
+171,0,11-17 Years,White alone,5 or More Years,New_Hampshire
+172,0,11-17 Years,Black or African American alone,All Time,New_Hampshire
+173,0,11-17 Years,Black or African American alone,< 30 Days,New_Hampshire
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,New_Hampshire
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,New_Hampshire
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,New_Hampshire
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,New_Hampshire
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,New_Hampshire
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,New_Hampshire
+180,0,11-17 Years,Black or African American alone,5 or More Years,New_Hampshire
+181,1,11-17 Years,Hispanic or Latino,All Time,New_Hampshire
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,New_Hampshire
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,New_Hampshire
+184,1,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,New_Hampshire
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,New_Hampshire
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,New_Hampshire
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,New_Hampshire
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,New_Hampshire
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,New_Hampshire
+190,0,11-17 Years,Asian alone,All Time,New_Hampshire
+191,0,11-17 Years,Asian alone,< 30 Days,New_Hampshire
+192,0,11-17 Years,Asian alone,30 to < 90 Days,New_Hampshire
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,New_Hampshire
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,New_Hampshire
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,New_Hampshire
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,New_Hampshire
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,New_Hampshire
+198,0,11-17 Years,Asian alone,5 or More Years,New_Hampshire
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,New_Hampshire
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Hampshire
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Hampshire
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Hampshire
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Hampshire
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Hampshire
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Hampshire
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Hampshire
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Hampshire
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Hampshire
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Hampshire
+210,0,11-17 Years,Population of two or more races:,All Time,New_Hampshire
+211,0,11-17 Years,Population of two or more races:,< 30 Days,New_Hampshire
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,New_Hampshire
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,New_Hampshire
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,New_Hampshire
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,New_Hampshire
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,New_Hampshire
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,New_Hampshire
+218,0,11-17 Years,Population of two or more races:,5 or More Years,New_Hampshire
+219,21,18-34 Years,White alone,All Time,New_Hampshire
+220,4,18-34 Years,White alone,< 30 Days,New_Hampshire
+221,0,18-34 Years,White alone,30 to < 90 Days,New_Hampshire
+222,0,18-34 Years,White alone,90 Days to < 6 Months,New_Hampshire
+223,2,18-34 Years,White alone,6 Months to < 1 Year,New_Hampshire
+224,4,18-34 Years,White alone,1 Year to < 2 Years,New_Hampshire
+225,4,18-34 Years,White alone,2 Years to < 3 Years,New_Hampshire
+226,3,18-34 Years,White alone,3 Years to < 5 Years,New_Hampshire
+227,4,18-34 Years,White alone,5 or More Years,New_Hampshire
+228,1,18-34 Years,Black or African American alone,All Time,New_Hampshire
+229,0,18-34 Years,Black or African American alone,< 30 Days,New_Hampshire
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,New_Hampshire
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,New_Hampshire
+232,0,18-34 Years,Black or African American alone,6 Months to < 1 Year,New_Hampshire
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,New_Hampshire
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,New_Hampshire
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,New_Hampshire
+236,1,18-34 Years,Black or African American alone,5 or More Years,New_Hampshire
+237,0,18-34 Years,Hispanic or Latino,All Time,New_Hampshire
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,New_Hampshire
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,New_Hampshire
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,New_Hampshire
+241,0,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,New_Hampshire
+242,0,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,New_Hampshire
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,New_Hampshire
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,New_Hampshire
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,New_Hampshire
+246,0,18-34 Years,Asian alone,All Time,New_Hampshire
+247,0,18-34 Years,Asian alone,< 30 Days,New_Hampshire
+248,0,18-34 Years,Asian alone,30 to < 90 Days,New_Hampshire
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,New_Hampshire
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,New_Hampshire
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,New_Hampshire
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,New_Hampshire
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,New_Hampshire
+254,0,18-34 Years,Asian alone,5 or More Years,New_Hampshire
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,New_Hampshire
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,New_Hampshire
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Hampshire
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Hampshire
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Hampshire
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Hampshire
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Hampshire
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Hampshire
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,New_Hampshire
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Hampshire
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Hampshire
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Hampshire
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Hampshire
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Hampshire
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Hampshire
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Hampshire
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Hampshire
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Hampshire
+273,1,18-34 Years,Population of two or more races:,All Time,New_Hampshire
+274,0,18-34 Years,Population of two or more races:,< 30 Days,New_Hampshire
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,New_Hampshire
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,New_Hampshire
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,New_Hampshire
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,New_Hampshire
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,New_Hampshire
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,New_Hampshire
+281,1,18-34 Years,Population of two or more races:,5 or More Years,New_Hampshire
+282,74,35-49 Years,White alone,All Time,New_Hampshire
+283,4,35-49 Years,White alone,< 30 Days,New_Hampshire
+284,3,35-49 Years,White alone,30 to < 90 Days,New_Hampshire
+285,8,35-49 Years,White alone,90 Days to < 6 Months,New_Hampshire
+286,14,35-49 Years,White alone,6 Months to < 1 Year,New_Hampshire
+287,20,35-49 Years,White alone,1 Year to < 2 Years,New_Hampshire
+288,13,35-49 Years,White alone,2 Years to < 3 Years,New_Hampshire
+289,8,35-49 Years,White alone,3 Years to < 5 Years,New_Hampshire
+290,4,35-49 Years,White alone,5 or More Years,New_Hampshire
+291,2,35-49 Years,Black or African American alone,All Time,New_Hampshire
+292,0,35-49 Years,Black or African American alone,< 30 Days,New_Hampshire
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,New_Hampshire
+294,0,35-49 Years,Black or African American alone,90 Days to < 6 Months,New_Hampshire
+295,0,35-49 Years,Black or African American alone,6 Months to < 1 Year,New_Hampshire
+296,0,35-49 Years,Black or African American alone,1 Year to < 2 Years,New_Hampshire
+297,0,35-49 Years,Black or African American alone,2 Years to < 3 Years,New_Hampshire
+298,2,35-49 Years,Black or African American alone,3 Years to < 5 Years,New_Hampshire
+299,0,35-49 Years,Black or African American alone,5 or More Years,New_Hampshire
+300,8,35-49 Years,Hispanic or Latino,All Time,New_Hampshire
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,New_Hampshire
+302,1,35-49 Years,Hispanic or Latino,30 to < 90 Days,New_Hampshire
+303,2,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,New_Hampshire
+304,1,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,New_Hampshire
+305,1,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,New_Hampshire
+306,2,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,New_Hampshire
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,New_Hampshire
+308,1,35-49 Years,Hispanic or Latino,5 or More Years,New_Hampshire
+309,4,35-49 Years,Asian alone,All Time,New_Hampshire
+310,0,35-49 Years,Asian alone,< 30 Days,New_Hampshire
+311,0,35-49 Years,Asian alone,30 to < 90 Days,New_Hampshire
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,New_Hampshire
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,New_Hampshire
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,New_Hampshire
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,New_Hampshire
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,New_Hampshire
+317,1,35-49 Years,Asian alone,5 or More Years,New_Hampshire
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,New_Hampshire
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,New_Hampshire
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Hampshire
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Hampshire
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Hampshire
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Hampshire
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Hampshire
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Hampshire
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,New_Hampshire
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Hampshire
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Hampshire
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Hampshire
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Hampshire
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Hampshire
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Hampshire
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Hampshire
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Hampshire
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Hampshire
+336,0,35-49 Years,Population of two or more races:,All Time,New_Hampshire
+337,0,35-49 Years,Population of two or more races:,< 30 Days,New_Hampshire
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,New_Hampshire
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,New_Hampshire
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,New_Hampshire
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,New_Hampshire
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,New_Hampshire
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,New_Hampshire
+344,0,35-49 Years,Population of two or more races:,5 or More Years,New_Hampshire
+345,175,50-64 Years,White alone,All Time,New_Hampshire
+346,10,50-64 Years,White alone,< 30 Days,New_Hampshire
+347,10,50-64 Years,White alone,30 to < 90 Days,New_Hampshire
+348,24,50-64 Years,White alone,90 Days to < 6 Months,New_Hampshire
+349,20,50-64 Years,White alone,6 Months to < 1 Year,New_Hampshire
+350,40,50-64 Years,White alone,1 Year to < 2 Years,New_Hampshire
+351,31,50-64 Years,White alone,2 Years to < 3 Years,New_Hampshire
+352,27,50-64 Years,White alone,3 Years to < 5 Years,New_Hampshire
+353,13,50-64 Years,White alone,5 or More Years,New_Hampshire
+354,13,50-64 Years,Black or African American alone,All Time,New_Hampshire
+355,1,50-64 Years,Black or African American alone,< 30 Days,New_Hampshire
+356,0,50-64 Years,Black or African American alone,30 to < 90 Days,New_Hampshire
+357,0,50-64 Years,Black or African American alone,90 Days to < 6 Months,New_Hampshire
+358,1,50-64 Years,Black or African American alone,6 Months to < 1 Year,New_Hampshire
+359,5,50-64 Years,Black or African American alone,1 Year to < 2 Years,New_Hampshire
+360,2,50-64 Years,Black or African American alone,2 Years to < 3 Years,New_Hampshire
+361,2,50-64 Years,Black or African American alone,3 Years to < 5 Years,New_Hampshire
+362,2,50-64 Years,Black or African American alone,5 or More Years,New_Hampshire
+363,5,50-64 Years,Hispanic or Latino,All Time,New_Hampshire
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,New_Hampshire
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,New_Hampshire
+366,1,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,New_Hampshire
+367,3,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,New_Hampshire
+368,1,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,New_Hampshire
+369,0,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,New_Hampshire
+370,0,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,New_Hampshire
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,New_Hampshire
+372,7,50-64 Years,Asian alone,All Time,New_Hampshire
+373,0,50-64 Years,Asian alone,< 30 Days,New_Hampshire
+374,1,50-64 Years,Asian alone,30 to < 90 Days,New_Hampshire
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,New_Hampshire
+376,2,50-64 Years,Asian alone,6 Months to < 1 Year,New_Hampshire
+377,1,50-64 Years,Asian alone,1 Year to < 2 Years,New_Hampshire
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,New_Hampshire
+379,1,50-64 Years,Asian alone,3 Years to < 5 Years,New_Hampshire
+380,2,50-64 Years,Asian alone,5 or More Years,New_Hampshire
+381,0,50-64 Years,American Indian and Alaska Native alone,All Time,New_Hampshire
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,New_Hampshire
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,New_Hampshire
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Hampshire
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Hampshire
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Hampshire
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Hampshire
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Hampshire
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,New_Hampshire
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,New_Hampshire
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Hampshire
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Hampshire
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Hampshire
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Hampshire
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Hampshire
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Hampshire
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Hampshire
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Hampshire
+399,1,50-64 Years,Population of two or more races:,All Time,New_Hampshire
+400,0,50-64 Years,Population of two or more races:,< 30 Days,New_Hampshire
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,New_Hampshire
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,New_Hampshire
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,New_Hampshire
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,New_Hampshire
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,New_Hampshire
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,New_Hampshire
+407,1,50-64 Years,Population of two or more races:,5 or More Years,New_Hampshire
+408,151,65 and Older,White alone,All Time,New_Hampshire
+409,5,65 and Older,White alone,< 30 Days,New_Hampshire
+410,4,65 and Older,White alone,30 to < 90 Days,New_Hampshire
+411,13,65 and Older,White alone,90 Days to < 6 Months,New_Hampshire
+412,18,65 and Older,White alone,6 Months to < 1 Year,New_Hampshire
+413,42,65 and Older,White alone,1 Year to < 2 Years,New_Hampshire
+414,23,65 and Older,White alone,2 Years to < 3 Years,New_Hampshire
+415,29,65 and Older,White alone,3 Years to < 5 Years,New_Hampshire
+416,17,65 and Older,White alone,5 or More Years,New_Hampshire
+417,5,65 and Older,Black or African American alone,All Time,New_Hampshire
+418,0,65 and Older,Black or African American alone,< 30 Days,New_Hampshire
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,New_Hampshire
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,New_Hampshire
+421,0,65 and Older,Black or African American alone,6 Months to < 1 Year,New_Hampshire
+422,0,65 and Older,Black or African American alone,1 Year to < 2 Years,New_Hampshire
+423,3,65 and Older,Black or African American alone,2 Years to < 3 Years,New_Hampshire
+424,0,65 and Older,Black or African American alone,3 Years to < 5 Years,New_Hampshire
+425,2,65 and Older,Black or African American alone,5 or More Years,New_Hampshire
+426,4,65 and Older,Hispanic or Latino,All Time,New_Hampshire
+427,0,65 and Older,Hispanic or Latino,< 30 Days,New_Hampshire
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,New_Hampshire
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,New_Hampshire
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,New_Hampshire
+431,0,65 and Older,Hispanic or Latino,1 Year to < 2 Years,New_Hampshire
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,New_Hampshire
+433,1,65 and Older,Hispanic or Latino,3 Years to < 5 Years,New_Hampshire
+434,1,65 and Older,Hispanic or Latino,5 or More Years,New_Hampshire
+435,6,65 and Older,Asian alone,All Time,New_Hampshire
+436,0,65 and Older,Asian alone,< 30 Days,New_Hampshire
+437,0,65 and Older,Asian alone,30 to < 90 Days,New_Hampshire
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,New_Hampshire
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,New_Hampshire
+440,1,65 and Older,Asian alone,1 Year to < 2 Years,New_Hampshire
+441,3,65 and Older,Asian alone,2 Years to < 3 Years,New_Hampshire
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,New_Hampshire
+443,1,65 and Older,Asian alone,5 or More Years,New_Hampshire
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,New_Hampshire
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,New_Hampshire
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,New_Hampshire
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,New_Hampshire
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,New_Hampshire
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,New_Hampshire
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,New_Hampshire
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,New_Hampshire
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,New_Hampshire
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,New_Hampshire
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,New_Hampshire
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,New_Hampshire
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,New_Hampshire
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,New_Hampshire
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,New_Hampshire
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,New_Hampshire
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,New_Hampshire
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,New_Hampshire
+462,0,65 and Older,Population of two or more races:,All Time,New_Hampshire
+463,0,65 and Older,Population of two or more races:,< 30 Days,New_Hampshire
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,New_Hampshire
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,New_Hampshire
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,New_Hampshire
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,New_Hampshire
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,New_Hampshire
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,New_Hampshire
+470,0,65 and Older,Population of two or more races:,5 or More Years,New_Hampshire

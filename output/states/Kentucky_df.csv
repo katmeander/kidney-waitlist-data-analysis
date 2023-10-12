@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,807,All Ages,White alone,All Time,Kentucky
+1,49,All Ages,White alone,< 30 Days,Kentucky
+2,91,All Ages,White alone,30 to < 90 Days,Kentucky
+3,92,All Ages,White alone,90 Days to < 6 Months,Kentucky
+4,156,All Ages,White alone,6 Months to < 1 Year,Kentucky
+5,174,All Ages,White alone,1 Year to < 2 Years,Kentucky
+6,108,All Ages,White alone,2 Years to < 3 Years,Kentucky
+7,95,All Ages,White alone,3 Years to < 5 Years,Kentucky
+8,42,All Ages,White alone,5 or More Years,Kentucky
+9,304,All Ages,Black or African American alone,All Time,Kentucky
+10,17,All Ages,Black or African American alone,< 30 Days,Kentucky
+11,28,All Ages,Black or African American alone,30 to < 90 Days,Kentucky
+12,26,All Ages,Black or African American alone,90 Days to < 6 Months,Kentucky
+13,56,All Ages,Black or African American alone,6 Months to < 1 Year,Kentucky
+14,81,All Ages,Black or African American alone,1 Year to < 2 Years,Kentucky
+15,51,All Ages,Black or African American alone,2 Years to < 3 Years,Kentucky
+16,38,All Ages,Black or African American alone,3 Years to < 5 Years,Kentucky
+17,7,All Ages,Black or African American alone,5 or More Years,Kentucky
+18,29,All Ages,Hispanic or Latino,All Time,Kentucky
+19,0,All Ages,Hispanic or Latino,< 30 Days,Kentucky
+20,2,All Ages,Hispanic or Latino,30 to < 90 Days,Kentucky
+21,1,All Ages,Hispanic or Latino,90 Days to < 6 Months,Kentucky
+22,7,All Ages,Hispanic or Latino,6 Months to < 1 Year,Kentucky
+23,11,All Ages,Hispanic or Latino,1 Year to < 2 Years,Kentucky
+24,3,All Ages,Hispanic or Latino,2 Years to < 3 Years,Kentucky
+25,4,All Ages,Hispanic or Latino,3 Years to < 5 Years,Kentucky
+26,1,All Ages,Hispanic or Latino,5 or More Years,Kentucky
+27,16,All Ages,Asian alone,All Time,Kentucky
+28,0,All Ages,Asian alone,< 30 Days,Kentucky
+29,1,All Ages,Asian alone,30 to < 90 Days,Kentucky
+30,1,All Ages,Asian alone,90 Days to < 6 Months,Kentucky
+31,3,All Ages,Asian alone,6 Months to < 1 Year,Kentucky
+32,6,All Ages,Asian alone,1 Year to < 2 Years,Kentucky
+33,3,All Ages,Asian alone,2 Years to < 3 Years,Kentucky
+34,2,All Ages,Asian alone,3 Years to < 5 Years,Kentucky
+35,0,All Ages,Asian alone,5 or More Years,Kentucky
+36,0,All Ages,American Indian and Alaska Native alone,All Time,Kentucky
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Kentucky
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Kentucky
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Kentucky
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Kentucky
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Kentucky
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Kentucky
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Kentucky
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Kentucky
+45,2,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Kentucky
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kentucky
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kentucky
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kentucky
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kentucky
+50,2,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kentucky
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kentucky
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kentucky
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kentucky
+54,2,All Ages,Population of two or more races:,All Time,Kentucky
+55,0,All Ages,Population of two or more races:,< 30 Days,Kentucky
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Kentucky
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Kentucky
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Kentucky
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Kentucky
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Kentucky
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,Kentucky
+62,0,All Ages,Population of two or more races:,5 or More Years,Kentucky
+63,7,0-5 Years,White alone,All Time,Kentucky
+64,1,0-5 Years,White alone,< 30 Days,Kentucky
+65,0,0-5 Years,White alone,30 to < 90 Days,Kentucky
+66,2,0-5 Years,White alone,90 Days to < 6 Months,Kentucky
+67,3,0-5 Years,White alone,6 Months to < 1 Year,Kentucky
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Kentucky
+69,1,0-5 Years,White alone,2 Years to < 3 Years,Kentucky
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Kentucky
+71,0,0-5 Years,White alone,5 or More Years,Kentucky
+72,1,0-5 Years,Black or African American alone,All Time,Kentucky
+73,0,0-5 Years,Black or African American alone,< 30 Days,Kentucky
+74,1,0-5 Years,Black or African American alone,30 to < 90 Days,Kentucky
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Kentucky
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Kentucky
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Kentucky
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Kentucky
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Kentucky
+80,0,0-5 Years,Hispanic or Latino,All Time,Kentucky
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Kentucky
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Kentucky
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Kentucky
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Kentucky
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Kentucky
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Kentucky
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Kentucky
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Kentucky
+89,0,0-5 Years,Asian alone,All Time,Kentucky
+90,0,0-5 Years,Asian alone,< 30 Days,Kentucky
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Kentucky
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Kentucky
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Kentucky
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Kentucky
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Kentucky
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Kentucky
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Kentucky
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Kentucky
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Kentucky
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kentucky
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kentucky
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kentucky
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kentucky
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kentucky
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kentucky
+106,0,0-5 Years,Population of two or more races:,All Time,Kentucky
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Kentucky
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Kentucky
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Kentucky
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Kentucky
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Kentucky
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Kentucky
+113,3,6-10 Years,White alone,All Time,Kentucky
+114,0,6-10 Years,White alone,< 30 Days,Kentucky
+115,0,6-10 Years,White alone,30 to < 90 Days,Kentucky
+116,1,6-10 Years,White alone,90 Days to < 6 Months,Kentucky
+117,1,6-10 Years,White alone,6 Months to < 1 Year,Kentucky
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Kentucky
+119,1,6-10 Years,White alone,2 Years to < 3 Years,Kentucky
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Kentucky
+121,0,6-10 Years,White alone,5 or More Years,Kentucky
+122,1,6-10 Years,Black or African American alone,All Time,Kentucky
+123,0,6-10 Years,Black or African American alone,< 30 Days,Kentucky
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Kentucky
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Kentucky
+126,1,6-10 Years,Black or African American alone,6 Months to < 1 Year,Kentucky
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Kentucky
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Kentucky
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Kentucky
+130,0,6-10 Years,Black or African American alone,5 or More Years,Kentucky
+131,0,6-10 Years,Hispanic or Latino,All Time,Kentucky
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Kentucky
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Kentucky
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Kentucky
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Kentucky
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Kentucky
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Kentucky
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Kentucky
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Kentucky
+140,0,6-10 Years,Asian alone,All Time,Kentucky
+141,0,6-10 Years,Asian alone,< 30 Days,Kentucky
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Kentucky
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Kentucky
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Kentucky
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Kentucky
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Kentucky
+147,0,6-10 Years,Asian alone,5 or More Years,Kentucky
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Kentucky
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kentucky
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kentucky
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kentucky
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kentucky
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kentucky
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kentucky
+155,0,6-10 Years,Population of two or more races:,All Time,Kentucky
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Kentucky
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Kentucky
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Kentucky
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Kentucky
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Kentucky
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Kentucky
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Kentucky
+163,9,11-17 Years,White alone,All Time,Kentucky
+164,0,11-17 Years,White alone,< 30 Days,Kentucky
+165,3,11-17 Years,White alone,30 to < 90 Days,Kentucky
+166,1,11-17 Years,White alone,90 Days to < 6 Months,Kentucky
+167,1,11-17 Years,White alone,6 Months to < 1 Year,Kentucky
+168,1,11-17 Years,White alone,1 Year to < 2 Years,Kentucky
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Kentucky
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Kentucky
+171,2,11-17 Years,White alone,5 or More Years,Kentucky
+172,0,11-17 Years,Black or African American alone,All Time,Kentucky
+173,0,11-17 Years,Black or African American alone,< 30 Days,Kentucky
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Kentucky
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Kentucky
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Kentucky
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Kentucky
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Kentucky
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Kentucky
+180,0,11-17 Years,Black or African American alone,5 or More Years,Kentucky
+181,1,11-17 Years,Hispanic or Latino,All Time,Kentucky
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Kentucky
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Kentucky
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Kentucky
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Kentucky
+186,1,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Kentucky
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Kentucky
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Kentucky
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Kentucky
+190,0,11-17 Years,Asian alone,All Time,Kentucky
+191,0,11-17 Years,Asian alone,< 30 Days,Kentucky
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Kentucky
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Kentucky
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Kentucky
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Kentucky
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Kentucky
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Kentucky
+198,0,11-17 Years,Asian alone,5 or More Years,Kentucky
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Kentucky
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kentucky
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kentucky
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kentucky
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Kentucky
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kentucky
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kentucky
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kentucky
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kentucky
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kentucky
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kentucky
+210,0,11-17 Years,Population of two or more races:,All Time,Kentucky
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Kentucky
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Kentucky
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Kentucky
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Kentucky
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Kentucky
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Kentucky
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Kentucky
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Kentucky
+219,80,18-34 Years,White alone,All Time,Kentucky
+220,5,18-34 Years,White alone,< 30 Days,Kentucky
+221,11,18-34 Years,White alone,30 to < 90 Days,Kentucky
+222,16,18-34 Years,White alone,90 Days to < 6 Months,Kentucky
+223,16,18-34 Years,White alone,6 Months to < 1 Year,Kentucky
+224,13,18-34 Years,White alone,1 Year to < 2 Years,Kentucky
+225,4,18-34 Years,White alone,2 Years to < 3 Years,Kentucky
+226,11,18-34 Years,White alone,3 Years to < 5 Years,Kentucky
+227,4,18-34 Years,White alone,5 or More Years,Kentucky
+228,28,18-34 Years,Black or African American alone,All Time,Kentucky
+229,3,18-34 Years,Black or African American alone,< 30 Days,Kentucky
+230,4,18-34 Years,Black or African American alone,30 to < 90 Days,Kentucky
+231,5,18-34 Years,Black or African American alone,90 Days to < 6 Months,Kentucky
+232,7,18-34 Years,Black or African American alone,6 Months to < 1 Year,Kentucky
+233,5,18-34 Years,Black or African American alone,1 Year to < 2 Years,Kentucky
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Kentucky
+235,3,18-34 Years,Black or African American alone,3 Years to < 5 Years,Kentucky
+236,1,18-34 Years,Black or African American alone,5 or More Years,Kentucky
+237,5,18-34 Years,Hispanic or Latino,All Time,Kentucky
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Kentucky
+239,1,18-34 Years,Hispanic or Latino,30 to < 90 Days,Kentucky
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Kentucky
+241,1,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Kentucky
+242,1,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Kentucky
+243,1,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Kentucky
+244,1,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Kentucky
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Kentucky
+246,1,18-34 Years,Asian alone,All Time,Kentucky
+247,0,18-34 Years,Asian alone,< 30 Days,Kentucky
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Kentucky
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Kentucky
+250,1,18-34 Years,Asian alone,6 Months to < 1 Year,Kentucky
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Kentucky
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Kentucky
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Kentucky
+254,0,18-34 Years,Asian alone,5 or More Years,Kentucky
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Kentucky
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Kentucky
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Kentucky
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kentucky
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kentucky
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kentucky
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Kentucky
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kentucky
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Kentucky
+264,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kentucky
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kentucky
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kentucky
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kentucky
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kentucky
+269,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kentucky
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kentucky
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kentucky
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kentucky
+273,1,18-34 Years,Population of two or more races:,All Time,Kentucky
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Kentucky
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Kentucky
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Kentucky
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Kentucky
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Kentucky
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Kentucky
+280,1,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Kentucky
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Kentucky
+282,173,35-49 Years,White alone,All Time,Kentucky
+283,13,35-49 Years,White alone,< 30 Days,Kentucky
+284,23,35-49 Years,White alone,30 to < 90 Days,Kentucky
+285,16,35-49 Years,White alone,90 Days to < 6 Months,Kentucky
+286,37,35-49 Years,White alone,6 Months to < 1 Year,Kentucky
+287,34,35-49 Years,White alone,1 Year to < 2 Years,Kentucky
+288,22,35-49 Years,White alone,2 Years to < 3 Years,Kentucky
+289,20,35-49 Years,White alone,3 Years to < 5 Years,Kentucky
+290,8,35-49 Years,White alone,5 or More Years,Kentucky
+291,94,35-49 Years,Black or African American alone,All Time,Kentucky
+292,3,35-49 Years,Black or African American alone,< 30 Days,Kentucky
+293,5,35-49 Years,Black or African American alone,30 to < 90 Days,Kentucky
+294,6,35-49 Years,Black or African American alone,90 Days to < 6 Months,Kentucky
+295,14,35-49 Years,Black or African American alone,6 Months to < 1 Year,Kentucky
+296,37,35-49 Years,Black or African American alone,1 Year to < 2 Years,Kentucky
+297,15,35-49 Years,Black or African American alone,2 Years to < 3 Years,Kentucky
+298,11,35-49 Years,Black or African American alone,3 Years to < 5 Years,Kentucky
+299,3,35-49 Years,Black or African American alone,5 or More Years,Kentucky
+300,12,35-49 Years,Hispanic or Latino,All Time,Kentucky
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Kentucky
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Kentucky
+303,1,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Kentucky
+304,3,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Kentucky
+305,5,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Kentucky
+306,0,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Kentucky
+307,2,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Kentucky
+308,1,35-49 Years,Hispanic or Latino,5 or More Years,Kentucky
+309,4,35-49 Years,Asian alone,All Time,Kentucky
+310,0,35-49 Years,Asian alone,< 30 Days,Kentucky
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Kentucky
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Kentucky
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,Kentucky
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,Kentucky
+315,1,35-49 Years,Asian alone,2 Years to < 3 Years,Kentucky
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Kentucky
+317,0,35-49 Years,Asian alone,5 or More Years,Kentucky
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,Kentucky
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Kentucky
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Kentucky
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kentucky
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kentucky
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kentucky
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Kentucky
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kentucky
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Kentucky
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kentucky
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kentucky
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kentucky
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kentucky
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kentucky
+332,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kentucky
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kentucky
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kentucky
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kentucky
+336,1,35-49 Years,Population of two or more races:,All Time,Kentucky
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Kentucky
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Kentucky
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Kentucky
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Kentucky
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Kentucky
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Kentucky
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Kentucky
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Kentucky
+345,318,50-64 Years,White alone,All Time,Kentucky
+346,15,50-64 Years,White alone,< 30 Days,Kentucky
+347,40,50-64 Years,White alone,30 to < 90 Days,Kentucky
+348,35,50-64 Years,White alone,90 Days to < 6 Months,Kentucky
+349,62,50-64 Years,White alone,6 Months to < 1 Year,Kentucky
+350,78,50-64 Years,White alone,1 Year to < 2 Years,Kentucky
+351,45,50-64 Years,White alone,2 Years to < 3 Years,Kentucky
+352,28,50-64 Years,White alone,3 Years to < 5 Years,Kentucky
+353,15,50-64 Years,White alone,5 or More Years,Kentucky
+354,130,50-64 Years,Black or African American alone,All Time,Kentucky
+355,7,50-64 Years,Black or African American alone,< 30 Days,Kentucky
+356,15,50-64 Years,Black or African American alone,30 to < 90 Days,Kentucky
+357,12,50-64 Years,Black or African American alone,90 Days to < 6 Months,Kentucky
+358,25,50-64 Years,Black or African American alone,6 Months to < 1 Year,Kentucky
+359,28,50-64 Years,Black or African American alone,1 Year to < 2 Years,Kentucky
+360,22,50-64 Years,Black or African American alone,2 Years to < 3 Years,Kentucky
+361,19,50-64 Years,Black or African American alone,3 Years to < 5 Years,Kentucky
+362,2,50-64 Years,Black or African American alone,5 or More Years,Kentucky
+363,6,50-64 Years,Hispanic or Latino,All Time,Kentucky
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Kentucky
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Kentucky
+366,0,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Kentucky
+367,2,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Kentucky
+368,3,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Kentucky
+369,1,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Kentucky
+370,0,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Kentucky
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Kentucky
+372,4,50-64 Years,Asian alone,All Time,Kentucky
+373,0,50-64 Years,Asian alone,< 30 Days,Kentucky
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Kentucky
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Kentucky
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,Kentucky
+377,3,50-64 Years,Asian alone,1 Year to < 2 Years,Kentucky
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Kentucky
+379,1,50-64 Years,Asian alone,3 Years to < 5 Years,Kentucky
+380,0,50-64 Years,Asian alone,5 or More Years,Kentucky
+381,0,50-64 Years,American Indian and Alaska Native alone,All Time,Kentucky
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Kentucky
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Kentucky
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Kentucky
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Kentucky
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Kentucky
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Kentucky
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Kentucky
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Kentucky
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Kentucky
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kentucky
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kentucky
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kentucky
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kentucky
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kentucky
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kentucky
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kentucky
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kentucky
+399,0,50-64 Years,Population of two or more races:,All Time,Kentucky
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Kentucky
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Kentucky
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Kentucky
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Kentucky
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Kentucky
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Kentucky
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Kentucky
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Kentucky
+408,217,65 and Older,White alone,All Time,Kentucky
+409,15,65 and Older,White alone,< 30 Days,Kentucky
+410,14,65 and Older,White alone,30 to < 90 Days,Kentucky
+411,21,65 and Older,White alone,90 Days to < 6 Months,Kentucky
+412,36,65 and Older,White alone,6 Months to < 1 Year,Kentucky
+413,48,65 and Older,White alone,1 Year to < 2 Years,Kentucky
+414,34,65 and Older,White alone,2 Years to < 3 Years,Kentucky
+415,36,65 and Older,White alone,3 Years to < 5 Years,Kentucky
+416,13,65 and Older,White alone,5 or More Years,Kentucky
+417,50,65 and Older,Black or African American alone,All Time,Kentucky
+418,4,65 and Older,Black or African American alone,< 30 Days,Kentucky
+419,3,65 and Older,Black or African American alone,30 to < 90 Days,Kentucky
+420,3,65 and Older,Black or African American alone,90 Days to < 6 Months,Kentucky
+421,9,65 and Older,Black or African American alone,6 Months to < 1 Year,Kentucky
+422,11,65 and Older,Black or African American alone,1 Year to < 2 Years,Kentucky
+423,14,65 and Older,Black or African American alone,2 Years to < 3 Years,Kentucky
+424,5,65 and Older,Black or African American alone,3 Years to < 5 Years,Kentucky
+425,1,65 and Older,Black or African American alone,5 or More Years,Kentucky
+426,5,65 and Older,Hispanic or Latino,All Time,Kentucky
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Kentucky
+428,1,65 and Older,Hispanic or Latino,30 to < 90 Days,Kentucky
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Kentucky
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Kentucky
+431,1,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Kentucky
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Kentucky
+433,1,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Kentucky
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Kentucky
+435,7,65 and Older,Asian alone,All Time,Kentucky
+436,0,65 and Older,Asian alone,< 30 Days,Kentucky
+437,0,65 and Older,Asian alone,30 to < 90 Days,Kentucky
+438,1,65 and Older,Asian alone,90 Days to < 6 Months,Kentucky
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,Kentucky
+440,2,65 and Older,Asian alone,1 Year to < 2 Years,Kentucky
+441,2,65 and Older,Asian alone,2 Years to < 3 Years,Kentucky
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,Kentucky
+443,0,65 and Older,Asian alone,5 or More Years,Kentucky
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Kentucky
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Kentucky
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Kentucky
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Kentucky
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Kentucky
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Kentucky
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Kentucky
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Kentucky
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Kentucky
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Kentucky
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Kentucky
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Kentucky
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Kentucky
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Kentucky
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Kentucky
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Kentucky
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Kentucky
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Kentucky
+462,0,65 and Older,Population of two or more races:,All Time,Kentucky
+463,0,65 and Older,Population of two or more races:,< 30 Days,Kentucky
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Kentucky
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Kentucky
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Kentucky
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Kentucky
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Kentucky
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Kentucky
+470,0,65 and Older,Population of two or more races:,5 or More Years,Kentucky

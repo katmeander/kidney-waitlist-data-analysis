@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,433,All Ages,White alone,All Time,Maine
+1,15,All Ages,White alone,< 30 Days,Maine
+2,27,All Ages,White alone,30 to < 90 Days,Maine
+3,45,All Ages,White alone,90 Days to < 6 Months,Maine
+4,64,All Ages,White alone,6 Months to < 1 Year,Maine
+5,111,All Ages,White alone,1 Year to < 2 Years,Maine
+6,85,All Ages,White alone,2 Years to < 3 Years,Maine
+7,57,All Ages,White alone,3 Years to < 5 Years,Maine
+8,29,All Ages,White alone,5 or More Years,Maine
+9,26,All Ages,Black or African American alone,All Time,Maine
+10,1,All Ages,Black or African American alone,< 30 Days,Maine
+11,4,All Ages,Black or African American alone,30 to < 90 Days,Maine
+12,1,All Ages,Black or African American alone,90 Days to < 6 Months,Maine
+13,5,All Ages,Black or African American alone,6 Months to < 1 Year,Maine
+14,6,All Ages,Black or African American alone,1 Year to < 2 Years,Maine
+15,3,All Ages,Black or African American alone,2 Years to < 3 Years,Maine
+16,5,All Ages,Black or African American alone,3 Years to < 5 Years,Maine
+17,1,All Ages,Black or African American alone,5 or More Years,Maine
+18,7,All Ages,Hispanic or Latino,All Time,Maine
+19,1,All Ages,Hispanic or Latino,< 30 Days,Maine
+20,0,All Ages,Hispanic or Latino,30 to < 90 Days,Maine
+21,1,All Ages,Hispanic or Latino,90 Days to < 6 Months,Maine
+22,0,All Ages,Hispanic or Latino,6 Months to < 1 Year,Maine
+23,1,All Ages,Hispanic or Latino,1 Year to < 2 Years,Maine
+24,1,All Ages,Hispanic or Latino,2 Years to < 3 Years,Maine
+25,0,All Ages,Hispanic or Latino,3 Years to < 5 Years,Maine
+26,3,All Ages,Hispanic or Latino,5 or More Years,Maine
+27,12,All Ages,Asian alone,All Time,Maine
+28,0,All Ages,Asian alone,< 30 Days,Maine
+29,0,All Ages,Asian alone,30 to < 90 Days,Maine
+30,1,All Ages,Asian alone,90 Days to < 6 Months,Maine
+31,1,All Ages,Asian alone,6 Months to < 1 Year,Maine
+32,4,All Ages,Asian alone,1 Year to < 2 Years,Maine
+33,5,All Ages,Asian alone,2 Years to < 3 Years,Maine
+34,0,All Ages,Asian alone,3 Years to < 5 Years,Maine
+35,1,All Ages,Asian alone,5 or More Years,Maine
+36,1,All Ages,American Indian and Alaska Native alone,All Time,Maine
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Maine
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Maine
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Maine
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Maine
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Maine
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Maine
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Maine
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Maine
+45,2,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Maine
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maine
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maine
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maine
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maine
+50,2,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maine
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maine
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maine
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maine
+54,0,All Ages,Population of two or more races:,All Time,Maine
+55,0,All Ages,Population of two or more races:,< 30 Days,Maine
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Maine
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Maine
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Maine
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Maine
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Maine
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Maine
+62,0,All Ages,Population of two or more races:,5 or More Years,Maine
+63,0,0-5 Years,White alone,All Time,Maine
+64,0,0-5 Years,White alone,< 30 Days,Maine
+65,0,0-5 Years,White alone,30 to < 90 Days,Maine
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Maine
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Maine
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Maine
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Maine
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Maine
+71,0,0-5 Years,White alone,5 or More Years,Maine
+72,0,0-5 Years,Black or African American alone,All Time,Maine
+73,0,0-5 Years,Black or African American alone,< 30 Days,Maine
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Maine
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Maine
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Maine
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Maine
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Maine
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Maine
+80,0,0-5 Years,Hispanic or Latino,All Time,Maine
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Maine
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Maine
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Maine
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Maine
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Maine
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Maine
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Maine
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Maine
+89,0,0-5 Years,Asian alone,All Time,Maine
+90,0,0-5 Years,Asian alone,< 30 Days,Maine
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Maine
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Maine
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Maine
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Maine
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Maine
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Maine
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Maine
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Maine
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Maine
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maine
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maine
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maine
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maine
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maine
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maine
+106,0,0-5 Years,Population of two or more races:,All Time,Maine
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Maine
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Maine
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Maine
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Maine
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Maine
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Maine
+113,1,6-10 Years,White alone,All Time,Maine
+114,0,6-10 Years,White alone,< 30 Days,Maine
+115,0,6-10 Years,White alone,30 to < 90 Days,Maine
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Maine
+117,1,6-10 Years,White alone,6 Months to < 1 Year,Maine
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Maine
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Maine
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Maine
+121,0,6-10 Years,White alone,5 or More Years,Maine
+122,0,6-10 Years,Black or African American alone,All Time,Maine
+123,0,6-10 Years,Black or African American alone,< 30 Days,Maine
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Maine
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Maine
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Maine
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Maine
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Maine
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Maine
+130,0,6-10 Years,Black or African American alone,5 or More Years,Maine
+131,0,6-10 Years,Hispanic or Latino,All Time,Maine
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Maine
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Maine
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Maine
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Maine
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Maine
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Maine
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Maine
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Maine
+140,0,6-10 Years,Asian alone,All Time,Maine
+141,0,6-10 Years,Asian alone,< 30 Days,Maine
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Maine
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Maine
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Maine
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Maine
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Maine
+147,0,6-10 Years,Asian alone,5 or More Years,Maine
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Maine
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maine
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maine
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maine
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maine
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maine
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maine
+155,0,6-10 Years,Population of two or more races:,All Time,Maine
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Maine
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Maine
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Maine
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Maine
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Maine
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Maine
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Maine
+163,3,11-17 Years,White alone,All Time,Maine
+164,0,11-17 Years,White alone,< 30 Days,Maine
+165,1,11-17 Years,White alone,30 to < 90 Days,Maine
+166,1,11-17 Years,White alone,90 Days to < 6 Months,Maine
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Maine
+168,1,11-17 Years,White alone,1 Year to < 2 Years,Maine
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Maine
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Maine
+171,0,11-17 Years,White alone,5 or More Years,Maine
+172,0,11-17 Years,Black or African American alone,All Time,Maine
+173,0,11-17 Years,Black or African American alone,< 30 Days,Maine
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Maine
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Maine
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Maine
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Maine
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Maine
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Maine
+180,0,11-17 Years,Black or African American alone,5 or More Years,Maine
+181,0,11-17 Years,Hispanic or Latino,All Time,Maine
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Maine
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Maine
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Maine
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Maine
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Maine
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Maine
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Maine
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Maine
+190,0,11-17 Years,Asian alone,All Time,Maine
+191,0,11-17 Years,Asian alone,< 30 Days,Maine
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Maine
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Maine
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Maine
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Maine
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Maine
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Maine
+198,0,11-17 Years,Asian alone,5 or More Years,Maine
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Maine
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maine
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maine
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maine
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Maine
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maine
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maine
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maine
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maine
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maine
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maine
+210,0,11-17 Years,Population of two or more races:,All Time,Maine
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Maine
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Maine
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Maine
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Maine
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Maine
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Maine
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Maine
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Maine
+219,22,18-34 Years,White alone,All Time,Maine
+220,1,18-34 Years,White alone,< 30 Days,Maine
+221,1,18-34 Years,White alone,30 to < 90 Days,Maine
+222,3,18-34 Years,White alone,90 Days to < 6 Months,Maine
+223,3,18-34 Years,White alone,6 Months to < 1 Year,Maine
+224,11,18-34 Years,White alone,1 Year to < 2 Years,Maine
+225,2,18-34 Years,White alone,2 Years to < 3 Years,Maine
+226,1,18-34 Years,White alone,3 Years to < 5 Years,Maine
+227,0,18-34 Years,White alone,5 or More Years,Maine
+228,2,18-34 Years,Black or African American alone,All Time,Maine
+229,0,18-34 Years,Black or African American alone,< 30 Days,Maine
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,Maine
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Maine
+232,1,18-34 Years,Black or African American alone,6 Months to < 1 Year,Maine
+233,1,18-34 Years,Black or African American alone,1 Year to < 2 Years,Maine
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Maine
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Maine
+236,0,18-34 Years,Black or African American alone,5 or More Years,Maine
+237,0,18-34 Years,Hispanic or Latino,All Time,Maine
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Maine
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Maine
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Maine
+241,0,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Maine
+242,0,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Maine
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Maine
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Maine
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Maine
+246,0,18-34 Years,Asian alone,All Time,Maine
+247,0,18-34 Years,Asian alone,< 30 Days,Maine
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Maine
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Maine
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Maine
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Maine
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Maine
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Maine
+254,0,18-34 Years,Asian alone,5 or More Years,Maine
+255,1,18-34 Years,American Indian and Alaska Native alone,All Time,Maine
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Maine
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Maine
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maine
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maine
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maine
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Maine
+262,1,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maine
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Maine
+264,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maine
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maine
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maine
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maine
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maine
+269,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maine
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maine
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maine
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maine
+273,0,18-34 Years,Population of two or more races:,All Time,Maine
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Maine
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Maine
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Maine
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Maine
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Maine
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Maine
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Maine
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Maine
+282,90,35-49 Years,White alone,All Time,Maine
+283,2,35-49 Years,White alone,< 30 Days,Maine
+284,9,35-49 Years,White alone,30 to < 90 Days,Maine
+285,10,35-49 Years,White alone,90 Days to < 6 Months,Maine
+286,11,35-49 Years,White alone,6 Months to < 1 Year,Maine
+287,23,35-49 Years,White alone,1 Year to < 2 Years,Maine
+288,16,35-49 Years,White alone,2 Years to < 3 Years,Maine
+289,16,35-49 Years,White alone,3 Years to < 5 Years,Maine
+290,3,35-49 Years,White alone,5 or More Years,Maine
+291,4,35-49 Years,Black or African American alone,All Time,Maine
+292,1,35-49 Years,Black or African American alone,< 30 Days,Maine
+293,1,35-49 Years,Black or African American alone,30 to < 90 Days,Maine
+294,0,35-49 Years,Black or African American alone,90 Days to < 6 Months,Maine
+295,1,35-49 Years,Black or African American alone,6 Months to < 1 Year,Maine
+296,1,35-49 Years,Black or African American alone,1 Year to < 2 Years,Maine
+297,0,35-49 Years,Black or African American alone,2 Years to < 3 Years,Maine
+298,0,35-49 Years,Black or African American alone,3 Years to < 5 Years,Maine
+299,0,35-49 Years,Black or African American alone,5 or More Years,Maine
+300,3,35-49 Years,Hispanic or Latino,All Time,Maine
+301,1,35-49 Years,Hispanic or Latino,< 30 Days,Maine
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Maine
+303,1,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Maine
+304,0,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Maine
+305,0,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Maine
+306,1,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Maine
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Maine
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Maine
+309,2,35-49 Years,Asian alone,All Time,Maine
+310,0,35-49 Years,Asian alone,< 30 Days,Maine
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Maine
+312,1,35-49 Years,Asian alone,90 Days to < 6 Months,Maine
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,Maine
+314,0,35-49 Years,Asian alone,1 Year to < 2 Years,Maine
+315,1,35-49 Years,Asian alone,2 Years to < 3 Years,Maine
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Maine
+317,0,35-49 Years,Asian alone,5 or More Years,Maine
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,Maine
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Maine
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Maine
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maine
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maine
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maine
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Maine
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maine
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Maine
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maine
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maine
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maine
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maine
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maine
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maine
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maine
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maine
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maine
+336,0,35-49 Years,Population of two or more races:,All Time,Maine
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Maine
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Maine
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Maine
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Maine
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Maine
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Maine
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Maine
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Maine
+345,176,50-64 Years,White alone,All Time,Maine
+346,9,50-64 Years,White alone,< 30 Days,Maine
+347,10,50-64 Years,White alone,30 to < 90 Days,Maine
+348,16,50-64 Years,White alone,90 Days to < 6 Months,Maine
+349,30,50-64 Years,White alone,6 Months to < 1 Year,Maine
+350,41,50-64 Years,White alone,1 Year to < 2 Years,Maine
+351,36,50-64 Years,White alone,2 Years to < 3 Years,Maine
+352,20,50-64 Years,White alone,3 Years to < 5 Years,Maine
+353,14,50-64 Years,White alone,5 or More Years,Maine
+354,13,50-64 Years,Black or African American alone,All Time,Maine
+355,0,50-64 Years,Black or African American alone,< 30 Days,Maine
+356,2,50-64 Years,Black or African American alone,30 to < 90 Days,Maine
+357,1,50-64 Years,Black or African American alone,90 Days to < 6 Months,Maine
+358,1,50-64 Years,Black or African American alone,6 Months to < 1 Year,Maine
+359,4,50-64 Years,Black or African American alone,1 Year to < 2 Years,Maine
+360,1,50-64 Years,Black or African American alone,2 Years to < 3 Years,Maine
+361,3,50-64 Years,Black or African American alone,3 Years to < 5 Years,Maine
+362,1,50-64 Years,Black or African American alone,5 or More Years,Maine
+363,1,50-64 Years,Hispanic or Latino,All Time,Maine
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Maine
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Maine
+366,0,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Maine
+367,0,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Maine
+368,0,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Maine
+369,0,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Maine
+370,0,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Maine
+371,1,50-64 Years,Hispanic or Latino,5 or More Years,Maine
+372,6,50-64 Years,Asian alone,All Time,Maine
+373,0,50-64 Years,Asian alone,< 30 Days,Maine
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Maine
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Maine
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,Maine
+377,3,50-64 Years,Asian alone,1 Year to < 2 Years,Maine
+378,2,50-64 Years,Asian alone,2 Years to < 3 Years,Maine
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Maine
+380,1,50-64 Years,Asian alone,5 or More Years,Maine
+381,0,50-64 Years,American Indian and Alaska Native alone,All Time,Maine
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Maine
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Maine
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Maine
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Maine
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Maine
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Maine
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Maine
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Maine
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Maine
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maine
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maine
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maine
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maine
+395,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maine
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maine
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maine
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maine
+399,0,50-64 Years,Population of two or more races:,All Time,Maine
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Maine
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Maine
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Maine
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Maine
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Maine
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Maine
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Maine
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Maine
+408,141,65 and Older,White alone,All Time,Maine
+409,3,65 and Older,White alone,< 30 Days,Maine
+410,6,65 and Older,White alone,30 to < 90 Days,Maine
+411,15,65 and Older,White alone,90 Days to < 6 Months,Maine
+412,19,65 and Older,White alone,6 Months to < 1 Year,Maine
+413,35,65 and Older,White alone,1 Year to < 2 Years,Maine
+414,31,65 and Older,White alone,2 Years to < 3 Years,Maine
+415,20,65 and Older,White alone,3 Years to < 5 Years,Maine
+416,12,65 and Older,White alone,5 or More Years,Maine
+417,7,65 and Older,Black or African American alone,All Time,Maine
+418,0,65 and Older,Black or African American alone,< 30 Days,Maine
+419,1,65 and Older,Black or African American alone,30 to < 90 Days,Maine
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,Maine
+421,2,65 and Older,Black or African American alone,6 Months to < 1 Year,Maine
+422,0,65 and Older,Black or African American alone,1 Year to < 2 Years,Maine
+423,2,65 and Older,Black or African American alone,2 Years to < 3 Years,Maine
+424,2,65 and Older,Black or African American alone,3 Years to < 5 Years,Maine
+425,0,65 and Older,Black or African American alone,5 or More Years,Maine
+426,3,65 and Older,Hispanic or Latino,All Time,Maine
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Maine
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Maine
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Maine
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Maine
+431,1,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Maine
+432,0,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Maine
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Maine
+434,2,65 and Older,Hispanic or Latino,5 or More Years,Maine
+435,4,65 and Older,Asian alone,All Time,Maine
+436,0,65 and Older,Asian alone,< 30 Days,Maine
+437,0,65 and Older,Asian alone,30 to < 90 Days,Maine
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Maine
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,Maine
+440,1,65 and Older,Asian alone,1 Year to < 2 Years,Maine
+441,2,65 and Older,Asian alone,2 Years to < 3 Years,Maine
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Maine
+443,0,65 and Older,Asian alone,5 or More Years,Maine
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Maine
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Maine
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Maine
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Maine
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Maine
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Maine
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Maine
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Maine
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Maine
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Maine
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Maine
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Maine
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Maine
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Maine
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Maine
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Maine
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Maine
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Maine
+462,0,65 and Older,Population of two or more races:,All Time,Maine
+463,0,65 and Older,Population of two or more races:,< 30 Days,Maine
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Maine
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Maine
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Maine
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Maine
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Maine
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Maine
+470,0,65 and Older,Population of two or more races:,5 or More Years,Maine

@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"2,141",All Ages,White alone,All Time,Florida
+1,168,All Ages,White alone,< 30 Days,Florida
+2,274,All Ages,White alone,30 to < 90 Days,Florida
+3,269,All Ages,White alone,90 Days to < 6 Months,Florida
+4,409,All Ages,White alone,6 Months to < 1 Year,Florida
+5,441,All Ages,White alone,1 Year to < 2 Years,Florida
+6,236,All Ages,White alone,2 Years to < 3 Years,Florida
+7,233,All Ages,White alone,3 Years to < 5 Years,Florida
+8,111,All Ages,White alone,5 or More Years,Florida
+9,"1,734",All Ages,Black or African American alone,All Time,Florida
+10,99,All Ages,Black or African American alone,< 30 Days,Florida
+11,150,All Ages,Black or African American alone,30 to < 90 Days,Florida
+12,211,All Ages,Black or African American alone,90 Days to < 6 Months,Florida
+13,303,All Ages,Black or African American alone,6 Months to < 1 Year,Florida
+14,345,All Ages,Black or African American alone,1 Year to < 2 Years,Florida
+15,220,All Ages,Black or African American alone,2 Years to < 3 Years,Florida
+16,266,All Ages,Black or African American alone,3 Years to < 5 Years,Florida
+17,140,All Ages,Black or African American alone,5 or More Years,Florida
+18,953,All Ages,Hispanic or Latino,All Time,Florida
+19,77,All Ages,Hispanic or Latino,< 30 Days,Florida
+20,135,All Ages,Hispanic or Latino,30 to < 90 Days,Florida
+21,103,All Ages,Hispanic or Latino,90 Days to < 6 Months,Florida
+22,179,All Ages,Hispanic or Latino,6 Months to < 1 Year,Florida
+23,185,All Ages,Hispanic or Latino,1 Year to < 2 Years,Florida
+24,97,All Ages,Hispanic or Latino,2 Years to < 3 Years,Florida
+25,133,All Ages,Hispanic or Latino,3 Years to < 5 Years,Florida
+26,44,All Ages,Hispanic or Latino,5 or More Years,Florida
+27,247,All Ages,Asian alone,All Time,Florida
+28,16,All Ages,Asian alone,< 30 Days,Florida
+29,26,All Ages,Asian alone,30 to < 90 Days,Florida
+30,29,All Ages,Asian alone,90 Days to < 6 Months,Florida
+31,49,All Ages,Asian alone,6 Months to < 1 Year,Florida
+32,55,All Ages,Asian alone,1 Year to < 2 Years,Florida
+33,22,All Ages,Asian alone,2 Years to < 3 Years,Florida
+34,39,All Ages,Asian alone,3 Years to < 5 Years,Florida
+35,11,All Ages,Asian alone,5 or More Years,Florida
+36,15,All Ages,American Indian and Alaska Native alone,All Time,Florida
+37,2,All Ages,American Indian and Alaska Native alone,< 30 Days,Florida
+38,2,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Florida
+39,3,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Florida
+40,2,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Florida
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Florida
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Florida
+43,2,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Florida
+44,1,All Ages,American Indian and Alaska Native alone,5 or More Years,Florida
+45,9,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Florida
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Florida
+47,2,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Florida
+48,1,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Florida
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Florida
+50,1,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Florida
+51,3,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Florida
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Florida
+53,1,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Florida
+54,35,All Ages,Population of two or more races:,All Time,Florida
+55,4,All Ages,Population of two or more races:,< 30 Days,Florida
+56,3,All Ages,Population of two or more races:,30 to < 90 Days,Florida
+57,4,All Ages,Population of two or more races:,90 Days to < 6 Months,Florida
+58,4,All Ages,Population of two or more races:,6 Months to < 1 Year,Florida
+59,8,All Ages,Population of two or more races:,1 Year to < 2 Years,Florida
+60,3,All Ages,Population of two or more races:,2 Years to < 3 Years,Florida
+61,8,All Ages,Population of two or more races:,3 Years to < 5 Years,Florida
+62,1,All Ages,Population of two or more races:,5 or More Years,Florida
+63,19,0-5 Years,White alone,All Time,Florida
+64,0,0-5 Years,White alone,< 30 Days,Florida
+65,5,0-5 Years,White alone,30 to < 90 Days,Florida
+66,3,0-5 Years,White alone,90 Days to < 6 Months,Florida
+67,3,0-5 Years,White alone,6 Months to < 1 Year,Florida
+68,4,0-5 Years,White alone,1 Year to < 2 Years,Florida
+69,3,0-5 Years,White alone,2 Years to < 3 Years,Florida
+70,1,0-5 Years,White alone,3 Years to < 5 Years,Florida
+71,0,0-5 Years,White alone,5 or More Years,Florida
+72,11,0-5 Years,Black or African American alone,All Time,Florida
+73,1,0-5 Years,Black or African American alone,< 30 Days,Florida
+74,3,0-5 Years,Black or African American alone,30 to < 90 Days,Florida
+75,3,0-5 Years,Black or African American alone,90 Days to < 6 Months,Florida
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Florida
+77,1,0-5 Years,Black or African American alone,1 Year to < 2 Years,Florida
+78,3,0-5 Years,Black or African American alone,2 Years to < 3 Years,Florida
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Florida
+80,13,0-5 Years,Hispanic or Latino,All Time,Florida
+81,4,0-5 Years,Hispanic or Latino,< 30 Days,Florida
+82,1,0-5 Years,Hispanic or Latino,30 to < 90 Days,Florida
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Florida
+84,1,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Florida
+85,4,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Florida
+86,3,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Florida
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Florida
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Florida
+89,0,0-5 Years,Asian alone,All Time,Florida
+90,0,0-5 Years,Asian alone,< 30 Days,Florida
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Florida
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Florida
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Florida
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Florida
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Florida
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Florida
+97,2,0-5 Years,American Indian and Alaska Native alone,All Time,Florida
+98,1,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Florida
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Florida
+100,1,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Florida
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Florida
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Florida
+103,1,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Florida
+104,1,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Florida
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Florida
+106,1,0-5 Years,Population of two or more races:,All Time,Florida
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Florida
+108,1,0-5 Years,Population of two or more races:,30 to < 90 Days,Florida
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Florida
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Florida
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Florida
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Florida
+113,12,6-10 Years,White alone,All Time,Florida
+114,0,6-10 Years,White alone,< 30 Days,Florida
+115,1,6-10 Years,White alone,30 to < 90 Days,Florida
+116,1,6-10 Years,White alone,90 Days to < 6 Months,Florida
+117,1,6-10 Years,White alone,6 Months to < 1 Year,Florida
+118,7,6-10 Years,White alone,1 Year to < 2 Years,Florida
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Florida
+120,2,6-10 Years,White alone,3 Years to < 5 Years,Florida
+121,0,6-10 Years,White alone,5 or More Years,Florida
+122,6,6-10 Years,Black or African American alone,All Time,Florida
+123,0,6-10 Years,Black or African American alone,< 30 Days,Florida
+124,1,6-10 Years,Black or African American alone,30 to < 90 Days,Florida
+125,2,6-10 Years,Black or African American alone,90 Days to < 6 Months,Florida
+126,1,6-10 Years,Black or African American alone,6 Months to < 1 Year,Florida
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Florida
+128,2,6-10 Years,Black or African American alone,2 Years to < 3 Years,Florida
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Florida
+130,0,6-10 Years,Black or African American alone,5 or More Years,Florida
+131,8,6-10 Years,Hispanic or Latino,All Time,Florida
+132,2,6-10 Years,Hispanic or Latino,< 30 Days,Florida
+133,2,6-10 Years,Hispanic or Latino,30 to < 90 Days,Florida
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Florida
+135,1,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Florida
+136,2,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Florida
+137,1,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Florida
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Florida
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Florida
+140,0,6-10 Years,Asian alone,All Time,Florida
+141,0,6-10 Years,Asian alone,< 30 Days,Florida
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Florida
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Florida
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Florida
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Florida
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Florida
+147,0,6-10 Years,Asian alone,5 or More Years,Florida
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Florida
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Florida
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Florida
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Florida
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Florida
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Florida
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Florida
+155,1,6-10 Years,Population of two or more races:,All Time,Florida
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Florida
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Florida
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Florida
+159,1,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Florida
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Florida
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Florida
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Florida
+163,9,11-17 Years,White alone,All Time,Florida
+164,2,11-17 Years,White alone,< 30 Days,Florida
+165,3,11-17 Years,White alone,30 to < 90 Days,Florida
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Florida
+167,2,11-17 Years,White alone,6 Months to < 1 Year,Florida
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Florida
+169,2,11-17 Years,White alone,2 Years to < 3 Years,Florida
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Florida
+171,0,11-17 Years,White alone,5 or More Years,Florida
+172,14,11-17 Years,Black or African American alone,All Time,Florida
+173,1,11-17 Years,Black or African American alone,< 30 Days,Florida
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,Florida
+175,1,11-17 Years,Black or African American alone,90 Days to < 6 Months,Florida
+176,3,11-17 Years,Black or African American alone,6 Months to < 1 Year,Florida
+177,4,11-17 Years,Black or African American alone,1 Year to < 2 Years,Florida
+178,2,11-17 Years,Black or African American alone,2 Years to < 3 Years,Florida
+179,2,11-17 Years,Black or African American alone,3 Years to < 5 Years,Florida
+180,0,11-17 Years,Black or African American alone,5 or More Years,Florida
+181,9,11-17 Years,Hispanic or Latino,All Time,Florida
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Florida
+183,2,11-17 Years,Hispanic or Latino,30 to < 90 Days,Florida
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Florida
+185,1,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Florida
+186,1,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Florida
+187,3,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Florida
+188,1,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Florida
+189,1,11-17 Years,Hispanic or Latino,5 or More Years,Florida
+190,2,11-17 Years,Asian alone,All Time,Florida
+191,0,11-17 Years,Asian alone,< 30 Days,Florida
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Florida
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Florida
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Florida
+195,1,11-17 Years,Asian alone,1 Year to < 2 Years,Florida
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Florida
+197,1,11-17 Years,Asian alone,3 Years to < 5 Years,Florida
+198,0,11-17 Years,Asian alone,5 or More Years,Florida
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Florida
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Florida
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Florida
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Florida
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Florida
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Florida
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Florida
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Florida
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Florida
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Florida
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Florida
+210,1,11-17 Years,Population of two or more races:,All Time,Florida
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Florida
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Florida
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Florida
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Florida
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Florida
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Florida
+217,1,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Florida
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Florida
+219,145,18-34 Years,White alone,All Time,Florida
+220,6,18-34 Years,White alone,< 30 Days,Florida
+221,15,18-34 Years,White alone,30 to < 90 Days,Florida
+222,23,18-34 Years,White alone,90 Days to < 6 Months,Florida
+223,17,18-34 Years,White alone,6 Months to < 1 Year,Florida
+224,45,18-34 Years,White alone,1 Year to < 2 Years,Florida
+225,20,18-34 Years,White alone,2 Years to < 3 Years,Florida
+226,10,18-34 Years,White alone,3 Years to < 5 Years,Florida
+227,9,18-34 Years,White alone,5 or More Years,Florida
+228,136,18-34 Years,Black or African American alone,All Time,Florida
+229,10,18-34 Years,Black or African American alone,< 30 Days,Florida
+230,14,18-34 Years,Black or African American alone,30 to < 90 Days,Florida
+231,17,18-34 Years,Black or African American alone,90 Days to < 6 Months,Florida
+232,28,18-34 Years,Black or African American alone,6 Months to < 1 Year,Florida
+233,25,18-34 Years,Black or African American alone,1 Year to < 2 Years,Florida
+234,18,18-34 Years,Black or African American alone,2 Years to < 3 Years,Florida
+235,17,18-34 Years,Black or African American alone,3 Years to < 5 Years,Florida
+236,7,18-34 Years,Black or African American alone,5 or More Years,Florida
+237,128,18-34 Years,Hispanic or Latino,All Time,Florida
+238,13,18-34 Years,Hispanic or Latino,< 30 Days,Florida
+239,12,18-34 Years,Hispanic or Latino,30 to < 90 Days,Florida
+240,15,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Florida
+241,32,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Florida
+242,26,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Florida
+243,8,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Florida
+244,11,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Florida
+245,11,18-34 Years,Hispanic or Latino,5 or More Years,Florida
+246,18,18-34 Years,Asian alone,All Time,Florida
+247,3,18-34 Years,Asian alone,< 30 Days,Florida
+248,2,18-34 Years,Asian alone,30 to < 90 Days,Florida
+249,5,18-34 Years,Asian alone,90 Days to < 6 Months,Florida
+250,2,18-34 Years,Asian alone,6 Months to < 1 Year,Florida
+251,2,18-34 Years,Asian alone,1 Year to < 2 Years,Florida
+252,2,18-34 Years,Asian alone,2 Years to < 3 Years,Florida
+253,2,18-34 Years,Asian alone,3 Years to < 5 Years,Florida
+254,0,18-34 Years,Asian alone,5 or More Years,Florida
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Florida
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Florida
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Florida
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Florida
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Florida
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Florida
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Florida
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Florida
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Florida
+264,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Florida
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Florida
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Florida
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Florida
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Florida
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Florida
+270,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Florida
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Florida
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Florida
+273,5,18-34 Years,Population of two or more races:,All Time,Florida
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Florida
+275,1,18-34 Years,Population of two or more races:,30 to < 90 Days,Florida
+276,1,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Florida
+277,2,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Florida
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Florida
+279,1,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Florida
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Florida
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Florida
+282,330,35-49 Years,White alone,All Time,Florida
+283,24,35-49 Years,White alone,< 30 Days,Florida
+284,42,35-49 Years,White alone,30 to < 90 Days,Florida
+285,38,35-49 Years,White alone,90 Days to < 6 Months,Florida
+286,67,35-49 Years,White alone,6 Months to < 1 Year,Florida
+287,66,35-49 Years,White alone,1 Year to < 2 Years,Florida
+288,36,35-49 Years,White alone,2 Years to < 3 Years,Florida
+289,34,35-49 Years,White alone,3 Years to < 5 Years,Florida
+290,23,35-49 Years,White alone,5 or More Years,Florida
+291,495,35-49 Years,Black or African American alone,All Time,Florida
+292,29,35-49 Years,Black or African American alone,< 30 Days,Florida
+293,44,35-49 Years,Black or African American alone,30 to < 90 Days,Florida
+294,64,35-49 Years,Black or African American alone,90 Days to < 6 Months,Florida
+295,84,35-49 Years,Black or African American alone,6 Months to < 1 Year,Florida
+296,109,35-49 Years,Black or African American alone,1 Year to < 2 Years,Florida
+297,68,35-49 Years,Black or African American alone,2 Years to < 3 Years,Florida
+298,67,35-49 Years,Black or African American alone,3 Years to < 5 Years,Florida
+299,30,35-49 Years,Black or African American alone,5 or More Years,Florida
+300,251,35-49 Years,Hispanic or Latino,All Time,Florida
+301,18,35-49 Years,Hispanic or Latino,< 30 Days,Florida
+302,44,35-49 Years,Hispanic or Latino,30 to < 90 Days,Florida
+303,24,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Florida
+304,49,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Florida
+305,48,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Florida
+306,26,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Florida
+307,34,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Florida
+308,8,35-49 Years,Hispanic or Latino,5 or More Years,Florida
+309,59,35-49 Years,Asian alone,All Time,Florida
+310,4,35-49 Years,Asian alone,< 30 Days,Florida
+311,9,35-49 Years,Asian alone,30 to < 90 Days,Florida
+312,9,35-49 Years,Asian alone,90 Days to < 6 Months,Florida
+313,7,35-49 Years,Asian alone,6 Months to < 1 Year,Florida
+314,12,35-49 Years,Asian alone,1 Year to < 2 Years,Florida
+315,6,35-49 Years,Asian alone,2 Years to < 3 Years,Florida
+316,10,35-49 Years,Asian alone,3 Years to < 5 Years,Florida
+317,2,35-49 Years,Asian alone,5 or More Years,Florida
+318,4,35-49 Years,American Indian and Alaska Native alone,All Time,Florida
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Florida
+320,1,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Florida
+321,1,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Florida
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Florida
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Florida
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Florida
+325,1,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Florida
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Florida
+327,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Florida
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Florida
+329,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Florida
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Florida
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Florida
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Florida
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Florida
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Florida
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Florida
+336,8,35-49 Years,Population of two or more races:,All Time,Florida
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Florida
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Florida
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Florida
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Florida
+341,3,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Florida
+342,1,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Florida
+343,3,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Florida
+344,1,35-49 Years,Population of two or more races:,5 or More Years,Florida
+345,833,50-64 Years,White alone,All Time,Florida
+346,72,50-64 Years,White alone,< 30 Days,Florida
+347,102,50-64 Years,White alone,30 to < 90 Days,Florida
+348,110,50-64 Years,White alone,90 Days to < 6 Months,Florida
+349,152,50-64 Years,White alone,6 Months to < 1 Year,Florida
+350,177,50-64 Years,White alone,1 Year to < 2 Years,Florida
+351,83,50-64 Years,White alone,2 Years to < 3 Years,Florida
+352,101,50-64 Years,White alone,3 Years to < 5 Years,Florida
+353,36,50-64 Years,White alone,5 or More Years,Florida
+354,719,50-64 Years,Black or African American alone,All Time,Florida
+355,36,50-64 Years,Black or African American alone,< 30 Days,Florida
+356,58,50-64 Years,Black or African American alone,30 to < 90 Days,Florida
+357,78,50-64 Years,Black or African American alone,90 Days to < 6 Months,Florida
+358,117,50-64 Years,Black or African American alone,6 Months to < 1 Year,Florida
+359,133,50-64 Years,Black or African American alone,1 Year to < 2 Years,Florida
+360,99,50-64 Years,Black or African American alone,2 Years to < 3 Years,Florida
+361,124,50-64 Years,Black or African American alone,3 Years to < 5 Years,Florida
+362,74,50-64 Years,Black or African American alone,5 or More Years,Florida
+363,360,50-64 Years,Hispanic or Latino,All Time,Florida
+364,26,50-64 Years,Hispanic or Latino,< 30 Days,Florida
+365,52,50-64 Years,Hispanic or Latino,30 to < 90 Days,Florida
+366,44,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Florida
+367,60,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Florida
+368,68,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Florida
+369,40,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Florida
+370,57,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Florida
+371,13,50-64 Years,Hispanic or Latino,5 or More Years,Florida
+372,94,50-64 Years,Asian alone,All Time,Florida
+373,6,50-64 Years,Asian alone,< 30 Days,Florida
+374,10,50-64 Years,Asian alone,30 to < 90 Days,Florida
+375,7,50-64 Years,Asian alone,90 Days to < 6 Months,Florida
+376,22,50-64 Years,Asian alone,6 Months to < 1 Year,Florida
+377,25,50-64 Years,Asian alone,1 Year to < 2 Years,Florida
+378,7,50-64 Years,Asian alone,2 Years to < 3 Years,Florida
+379,13,50-64 Years,Asian alone,3 Years to < 5 Years,Florida
+380,4,50-64 Years,Asian alone,5 or More Years,Florida
+381,5,50-64 Years,American Indian and Alaska Native alone,All Time,Florida
+382,1,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Florida
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Florida
+384,1,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Florida
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Florida
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Florida
+387,1,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Florida
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Florida
+389,1,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Florida
+390,4,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Florida
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Florida
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Florida
+393,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Florida
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Florida
+395,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Florida
+396,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Florida
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Florida
+398,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Florida
+399,15,50-64 Years,Population of two or more races:,All Time,Florida
+400,4,50-64 Years,Population of two or more races:,< 30 Days,Florida
+401,1,50-64 Years,Population of two or more races:,30 to < 90 Days,Florida
+402,3,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Florida
+403,2,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Florida
+404,2,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Florida
+405,1,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Florida
+406,2,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Florida
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Florida
+408,793,65 and Older,White alone,All Time,Florida
+409,64,65 and Older,White alone,< 30 Days,Florida
+410,106,65 and Older,White alone,30 to < 90 Days,Florida
+411,94,65 and Older,White alone,90 Days to < 6 Months,Florida
+412,167,65 and Older,White alone,6 Months to < 1 Year,Florida
+413,142,65 and Older,White alone,1 Year to < 2 Years,Florida
+414,92,65 and Older,White alone,2 Years to < 3 Years,Florida
+415,85,65 and Older,White alone,3 Years to < 5 Years,Florida
+416,43,65 and Older,White alone,5 or More Years,Florida
+417,353,65 and Older,Black or African American alone,All Time,Florida
+418,22,65 and Older,Black or African American alone,< 30 Days,Florida
+419,29,65 and Older,Black or African American alone,30 to < 90 Days,Florida
+420,46,65 and Older,Black or African American alone,90 Days to < 6 Months,Florida
+421,70,65 and Older,Black or African American alone,6 Months to < 1 Year,Florida
+422,73,65 and Older,Black or African American alone,1 Year to < 2 Years,Florida
+423,28,65 and Older,Black or African American alone,2 Years to < 3 Years,Florida
+424,56,65 and Older,Black or African American alone,3 Years to < 5 Years,Florida
+425,29,65 and Older,Black or African American alone,5 or More Years,Florida
+426,184,65 and Older,Hispanic or Latino,All Time,Florida
+427,14,65 and Older,Hispanic or Latino,< 30 Days,Florida
+428,22,65 and Older,Hispanic or Latino,30 to < 90 Days,Florida
+429,20,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Florida
+430,35,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Florida
+431,36,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Florida
+432,16,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Florida
+433,30,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Florida
+434,11,65 and Older,Hispanic or Latino,5 or More Years,Florida
+435,74,65 and Older,Asian alone,All Time,Florida
+436,3,65 and Older,Asian alone,< 30 Days,Florida
+437,5,65 and Older,Asian alone,30 to < 90 Days,Florida
+438,8,65 and Older,Asian alone,90 Days to < 6 Months,Florida
+439,18,65 and Older,Asian alone,6 Months to < 1 Year,Florida
+440,15,65 and Older,Asian alone,1 Year to < 2 Years,Florida
+441,7,65 and Older,Asian alone,2 Years to < 3 Years,Florida
+442,13,65 and Older,Asian alone,3 Years to < 5 Years,Florida
+443,5,65 and Older,Asian alone,5 or More Years,Florida
+444,4,65 and Older,American Indian and Alaska Native alone,All Time,Florida
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Florida
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Florida
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Florida
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Florida
+449,1,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Florida
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Florida
+451,1,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Florida
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Florida
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Florida
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Florida
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Florida
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Florida
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Florida
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Florida
+459,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Florida
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Florida
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Florida
+462,4,65 and Older,Population of two or more races:,All Time,Florida
+463,0,65 and Older,Population of two or more races:,< 30 Days,Florida
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Florida
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Florida
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Florida
+467,2,65 and Older,Population of two or more races:,1 Year to < 2 Years,Florida
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Florida
+469,2,65 and Older,Population of two or more races:,3 Years to < 5 Years,Florida
+470,0,65 and Older,Population of two or more races:,5 or More Years,Florida

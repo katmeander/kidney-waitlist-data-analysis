@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,512,All Ages,White alone,All Time,Iowa
+1,28,All Ages,White alone,< 30 Days,Iowa
+2,72,All Ages,White alone,30 to < 90 Days,Iowa
+3,65,All Ages,White alone,90 Days to < 6 Months,Iowa
+4,92,All Ages,White alone,6 Months to < 1 Year,Iowa
+5,123,All Ages,White alone,1 Year to < 2 Years,Iowa
+6,52,All Ages,White alone,2 Years to < 3 Years,Iowa
+7,52,All Ages,White alone,3 Years to < 5 Years,Iowa
+8,28,All Ages,White alone,5 or More Years,Iowa
+9,72,All Ages,Black or African American alone,All Time,Iowa
+10,7,All Ages,Black or African American alone,< 30 Days,Iowa
+11,7,All Ages,Black or African American alone,30 to < 90 Days,Iowa
+12,12,All Ages,Black or African American alone,90 Days to < 6 Months,Iowa
+13,11,All Ages,Black or African American alone,6 Months to < 1 Year,Iowa
+14,17,All Ages,Black or African American alone,1 Year to < 2 Years,Iowa
+15,8,All Ages,Black or African American alone,2 Years to < 3 Years,Iowa
+16,8,All Ages,Black or African American alone,3 Years to < 5 Years,Iowa
+17,2,All Ages,Black or African American alone,5 or More Years,Iowa
+18,51,All Ages,Hispanic or Latino,All Time,Iowa
+19,1,All Ages,Hispanic or Latino,< 30 Days,Iowa
+20,7,All Ages,Hispanic or Latino,30 to < 90 Days,Iowa
+21,10,All Ages,Hispanic or Latino,90 Days to < 6 Months,Iowa
+22,5,All Ages,Hispanic or Latino,6 Months to < 1 Year,Iowa
+23,11,All Ages,Hispanic or Latino,1 Year to < 2 Years,Iowa
+24,9,All Ages,Hispanic or Latino,2 Years to < 3 Years,Iowa
+25,4,All Ages,Hispanic or Latino,3 Years to < 5 Years,Iowa
+26,4,All Ages,Hispanic or Latino,5 or More Years,Iowa
+27,18,All Ages,Asian alone,All Time,Iowa
+28,1,All Ages,Asian alone,< 30 Days,Iowa
+29,4,All Ages,Asian alone,30 to < 90 Days,Iowa
+30,4,All Ages,Asian alone,90 Days to < 6 Months,Iowa
+31,3,All Ages,Asian alone,6 Months to < 1 Year,Iowa
+32,2,All Ages,Asian alone,1 Year to < 2 Years,Iowa
+33,3,All Ages,Asian alone,2 Years to < 3 Years,Iowa
+34,1,All Ages,Asian alone,3 Years to < 5 Years,Iowa
+35,0,All Ages,Asian alone,5 or More Years,Iowa
+36,8,All Ages,American Indian and Alaska Native alone,All Time,Iowa
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Iowa
+38,2,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Iowa
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Iowa
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Iowa
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Iowa
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Iowa
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Iowa
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Iowa
+45,5,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Iowa
+46,1,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Iowa
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Iowa
+48,1,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Iowa
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Iowa
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Iowa
+51,1,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Iowa
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Iowa
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Iowa
+54,4,All Ages,Population of two or more races:,All Time,Iowa
+55,0,All Ages,Population of two or more races:,< 30 Days,Iowa
+56,2,All Ages,Population of two or more races:,30 to < 90 Days,Iowa
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,Iowa
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Iowa
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Iowa
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Iowa
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Iowa
+62,0,All Ages,Population of two or more races:,5 or More Years,Iowa
+63,0,0-5 Years,White alone,All Time,Iowa
+64,0,0-5 Years,White alone,< 30 Days,Iowa
+65,0,0-5 Years,White alone,30 to < 90 Days,Iowa
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Iowa
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Iowa
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Iowa
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Iowa
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Iowa
+71,0,0-5 Years,White alone,5 or More Years,Iowa
+72,0,0-5 Years,Black or African American alone,All Time,Iowa
+73,0,0-5 Years,Black or African American alone,< 30 Days,Iowa
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Iowa
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Iowa
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Iowa
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Iowa
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Iowa
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Iowa
+80,0,0-5 Years,Hispanic or Latino,All Time,Iowa
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Iowa
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Iowa
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Iowa
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Iowa
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Iowa
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Iowa
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Iowa
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Iowa
+89,1,0-5 Years,Asian alone,All Time,Iowa
+90,0,0-5 Years,Asian alone,< 30 Days,Iowa
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Iowa
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Iowa
+93,1,0-5 Years,Asian alone,6 Months to < 1 Year,Iowa
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Iowa
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Iowa
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Iowa
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Iowa
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Iowa
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Iowa
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Iowa
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Iowa
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Iowa
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Iowa
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Iowa
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Iowa
+106,0,0-5 Years,Population of two or more races:,All Time,Iowa
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Iowa
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Iowa
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Iowa
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Iowa
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Iowa
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Iowa
+113,2,6-10 Years,White alone,All Time,Iowa
+114,0,6-10 Years,White alone,< 30 Days,Iowa
+115,1,6-10 Years,White alone,30 to < 90 Days,Iowa
+116,1,6-10 Years,White alone,90 Days to < 6 Months,Iowa
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Iowa
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Iowa
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Iowa
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Iowa
+121,0,6-10 Years,White alone,5 or More Years,Iowa
+122,1,6-10 Years,Black or African American alone,All Time,Iowa
+123,0,6-10 Years,Black or African American alone,< 30 Days,Iowa
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Iowa
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Iowa
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Iowa
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Iowa
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Iowa
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Iowa
+130,0,6-10 Years,Black or African American alone,5 or More Years,Iowa
+131,0,6-10 Years,Hispanic or Latino,All Time,Iowa
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Iowa
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Iowa
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Iowa
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Iowa
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Iowa
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Iowa
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Iowa
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Iowa
+140,0,6-10 Years,Asian alone,All Time,Iowa
+141,0,6-10 Years,Asian alone,< 30 Days,Iowa
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Iowa
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Iowa
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Iowa
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Iowa
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Iowa
+147,0,6-10 Years,Asian alone,5 or More Years,Iowa
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Iowa
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Iowa
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Iowa
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Iowa
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Iowa
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Iowa
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Iowa
+155,1,6-10 Years,Population of two or more races:,All Time,Iowa
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Iowa
+157,1,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Iowa
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Iowa
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Iowa
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Iowa
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Iowa
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Iowa
+163,1,11-17 Years,White alone,All Time,Iowa
+164,0,11-17 Years,White alone,< 30 Days,Iowa
+165,0,11-17 Years,White alone,30 to < 90 Days,Iowa
+166,1,11-17 Years,White alone,90 Days to < 6 Months,Iowa
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Iowa
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Iowa
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Iowa
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Iowa
+171,0,11-17 Years,White alone,5 or More Years,Iowa
+172,1,11-17 Years,Black or African American alone,All Time,Iowa
+173,0,11-17 Years,Black or African American alone,< 30 Days,Iowa
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Iowa
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Iowa
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Iowa
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Iowa
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Iowa
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Iowa
+180,0,11-17 Years,Black or African American alone,5 or More Years,Iowa
+181,0,11-17 Years,Hispanic or Latino,All Time,Iowa
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Iowa
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Iowa
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Iowa
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Iowa
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Iowa
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Iowa
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Iowa
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Iowa
+190,1,11-17 Years,Asian alone,All Time,Iowa
+191,0,11-17 Years,Asian alone,< 30 Days,Iowa
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Iowa
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Iowa
+194,1,11-17 Years,Asian alone,6 Months to < 1 Year,Iowa
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Iowa
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Iowa
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Iowa
+198,0,11-17 Years,Asian alone,5 or More Years,Iowa
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Iowa
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Iowa
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Iowa
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Iowa
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Iowa
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Iowa
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Iowa
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Iowa
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Iowa
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Iowa
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Iowa
+210,0,11-17 Years,Population of two or more races:,All Time,Iowa
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Iowa
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Iowa
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Iowa
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Iowa
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Iowa
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Iowa
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Iowa
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Iowa
+219,52,18-34 Years,White alone,All Time,Iowa
+220,3,18-34 Years,White alone,< 30 Days,Iowa
+221,8,18-34 Years,White alone,30 to < 90 Days,Iowa
+222,6,18-34 Years,White alone,90 Days to < 6 Months,Iowa
+223,11,18-34 Years,White alone,6 Months to < 1 Year,Iowa
+224,13,18-34 Years,White alone,1 Year to < 2 Years,Iowa
+225,6,18-34 Years,White alone,2 Years to < 3 Years,Iowa
+226,3,18-34 Years,White alone,3 Years to < 5 Years,Iowa
+227,2,18-34 Years,White alone,5 or More Years,Iowa
+228,13,18-34 Years,Black or African American alone,All Time,Iowa
+229,2,18-34 Years,Black or African American alone,< 30 Days,Iowa
+230,3,18-34 Years,Black or African American alone,30 to < 90 Days,Iowa
+231,4,18-34 Years,Black or African American alone,90 Days to < 6 Months,Iowa
+232,3,18-34 Years,Black or African American alone,6 Months to < 1 Year,Iowa
+233,1,18-34 Years,Black or African American alone,1 Year to < 2 Years,Iowa
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Iowa
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Iowa
+236,0,18-34 Years,Black or African American alone,5 or More Years,Iowa
+237,6,18-34 Years,Hispanic or Latino,All Time,Iowa
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Iowa
+239,4,18-34 Years,Hispanic or Latino,30 to < 90 Days,Iowa
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Iowa
+241,0,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Iowa
+242,1,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Iowa
+243,1,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Iowa
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Iowa
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Iowa
+246,1,18-34 Years,Asian alone,All Time,Iowa
+247,0,18-34 Years,Asian alone,< 30 Days,Iowa
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Iowa
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Iowa
+250,1,18-34 Years,Asian alone,6 Months to < 1 Year,Iowa
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Iowa
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Iowa
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Iowa
+254,0,18-34 Years,Asian alone,5 or More Years,Iowa
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Iowa
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Iowa
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Iowa
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Iowa
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Iowa
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Iowa
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Iowa
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Iowa
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Iowa
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Iowa
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Iowa
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Iowa
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Iowa
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Iowa
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Iowa
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Iowa
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Iowa
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Iowa
+273,1,18-34 Years,Population of two or more races:,All Time,Iowa
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Iowa
+275,1,18-34 Years,Population of two or more races:,30 to < 90 Days,Iowa
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Iowa
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Iowa
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Iowa
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Iowa
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Iowa
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Iowa
+282,107,35-49 Years,White alone,All Time,Iowa
+283,5,35-49 Years,White alone,< 30 Days,Iowa
+284,20,35-49 Years,White alone,30 to < 90 Days,Iowa
+285,11,35-49 Years,White alone,90 Days to < 6 Months,Iowa
+286,20,35-49 Years,White alone,6 Months to < 1 Year,Iowa
+287,26,35-49 Years,White alone,1 Year to < 2 Years,Iowa
+288,9,35-49 Years,White alone,2 Years to < 3 Years,Iowa
+289,11,35-49 Years,White alone,3 Years to < 5 Years,Iowa
+290,5,35-49 Years,White alone,5 or More Years,Iowa
+291,28,35-49 Years,Black or African American alone,All Time,Iowa
+292,4,35-49 Years,Black or African American alone,< 30 Days,Iowa
+293,4,35-49 Years,Black or African American alone,30 to < 90 Days,Iowa
+294,2,35-49 Years,Black or African American alone,90 Days to < 6 Months,Iowa
+295,3,35-49 Years,Black or African American alone,6 Months to < 1 Year,Iowa
+296,9,35-49 Years,Black or African American alone,1 Year to < 2 Years,Iowa
+297,3,35-49 Years,Black or African American alone,2 Years to < 3 Years,Iowa
+298,3,35-49 Years,Black or African American alone,3 Years to < 5 Years,Iowa
+299,0,35-49 Years,Black or African American alone,5 or More Years,Iowa
+300,13,35-49 Years,Hispanic or Latino,All Time,Iowa
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Iowa
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Iowa
+303,1,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Iowa
+304,2,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Iowa
+305,3,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Iowa
+306,3,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Iowa
+307,2,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Iowa
+308,2,35-49 Years,Hispanic or Latino,5 or More Years,Iowa
+309,6,35-49 Years,Asian alone,All Time,Iowa
+310,1,35-49 Years,Asian alone,< 30 Days,Iowa
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Iowa
+312,3,35-49 Years,Asian alone,90 Days to < 6 Months,Iowa
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,Iowa
+314,0,35-49 Years,Asian alone,1 Year to < 2 Years,Iowa
+315,1,35-49 Years,Asian alone,2 Years to < 3 Years,Iowa
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Iowa
+317,0,35-49 Years,Asian alone,5 or More Years,Iowa
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Iowa
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Iowa
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Iowa
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Iowa
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Iowa
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Iowa
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Iowa
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Iowa
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Iowa
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Iowa
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Iowa
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Iowa
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Iowa
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Iowa
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Iowa
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Iowa
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Iowa
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Iowa
+336,0,35-49 Years,Population of two or more races:,All Time,Iowa
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Iowa
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Iowa
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Iowa
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Iowa
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Iowa
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Iowa
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Iowa
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Iowa
+345,213,50-64 Years,White alone,All Time,Iowa
+346,13,50-64 Years,White alone,< 30 Days,Iowa
+347,31,50-64 Years,White alone,30 to < 90 Days,Iowa
+348,23,50-64 Years,White alone,90 Days to < 6 Months,Iowa
+349,35,50-64 Years,White alone,6 Months to < 1 Year,Iowa
+350,54,50-64 Years,White alone,1 Year to < 2 Years,Iowa
+351,24,50-64 Years,White alone,2 Years to < 3 Years,Iowa
+352,22,50-64 Years,White alone,3 Years to < 5 Years,Iowa
+353,11,50-64 Years,White alone,5 or More Years,Iowa
+354,22,50-64 Years,Black or African American alone,All Time,Iowa
+355,1,50-64 Years,Black or African American alone,< 30 Days,Iowa
+356,0,50-64 Years,Black or African American alone,30 to < 90 Days,Iowa
+357,3,50-64 Years,Black or African American alone,90 Days to < 6 Months,Iowa
+358,4,50-64 Years,Black or African American alone,6 Months to < 1 Year,Iowa
+359,5,50-64 Years,Black or African American alone,1 Year to < 2 Years,Iowa
+360,4,50-64 Years,Black or African American alone,2 Years to < 3 Years,Iowa
+361,4,50-64 Years,Black or African American alone,3 Years to < 5 Years,Iowa
+362,1,50-64 Years,Black or African American alone,5 or More Years,Iowa
+363,25,50-64 Years,Hispanic or Latino,All Time,Iowa
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Iowa
+365,2,50-64 Years,Hispanic or Latino,30 to < 90 Days,Iowa
+366,7,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Iowa
+367,1,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Iowa
+368,7,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Iowa
+369,4,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Iowa
+370,2,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Iowa
+371,2,50-64 Years,Hispanic or Latino,5 or More Years,Iowa
+372,7,50-64 Years,Asian alone,All Time,Iowa
+373,0,50-64 Years,Asian alone,< 30 Days,Iowa
+374,3,50-64 Years,Asian alone,30 to < 90 Days,Iowa
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,Iowa
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,Iowa
+377,1,50-64 Years,Asian alone,1 Year to < 2 Years,Iowa
+378,1,50-64 Years,Asian alone,2 Years to < 3 Years,Iowa
+379,1,50-64 Years,Asian alone,3 Years to < 5 Years,Iowa
+380,0,50-64 Years,Asian alone,5 or More Years,Iowa
+381,5,50-64 Years,American Indian and Alaska Native alone,All Time,Iowa
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Iowa
+383,1,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Iowa
+384,1,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Iowa
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Iowa
+386,2,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Iowa
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Iowa
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Iowa
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Iowa
+390,4,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Iowa
+391,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Iowa
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Iowa
+393,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Iowa
+394,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Iowa
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Iowa
+396,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Iowa
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Iowa
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Iowa
+399,2,50-64 Years,Population of two or more races:,All Time,Iowa
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Iowa
+401,1,50-64 Years,Population of two or more races:,30 to < 90 Days,Iowa
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Iowa
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Iowa
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Iowa
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Iowa
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Iowa
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Iowa
+408,137,65 and Older,White alone,All Time,Iowa
+409,7,65 and Older,White alone,< 30 Days,Iowa
+410,12,65 and Older,White alone,30 to < 90 Days,Iowa
+411,23,65 and Older,White alone,90 Days to < 6 Months,Iowa
+412,26,65 and Older,White alone,6 Months to < 1 Year,Iowa
+413,30,65 and Older,White alone,1 Year to < 2 Years,Iowa
+414,13,65 and Older,White alone,2 Years to < 3 Years,Iowa
+415,16,65 and Older,White alone,3 Years to < 5 Years,Iowa
+416,10,65 and Older,White alone,5 or More Years,Iowa
+417,7,65 and Older,Black or African American alone,All Time,Iowa
+418,0,65 and Older,Black or African American alone,< 30 Days,Iowa
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,Iowa
+420,3,65 and Older,Black or African American alone,90 Days to < 6 Months,Iowa
+421,0,65 and Older,Black or African American alone,6 Months to < 1 Year,Iowa
+422,1,65 and Older,Black or African American alone,1 Year to < 2 Years,Iowa
+423,1,65 and Older,Black or African American alone,2 Years to < 3 Years,Iowa
+424,1,65 and Older,Black or African American alone,3 Years to < 5 Years,Iowa
+425,1,65 and Older,Black or African American alone,5 or More Years,Iowa
+426,7,65 and Older,Hispanic or Latino,All Time,Iowa
+427,1,65 and Older,Hispanic or Latino,< 30 Days,Iowa
+428,1,65 and Older,Hispanic or Latino,30 to < 90 Days,Iowa
+429,2,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Iowa
+430,2,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Iowa
+431,0,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Iowa
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Iowa
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Iowa
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Iowa
+435,2,65 and Older,Asian alone,All Time,Iowa
+436,0,65 and Older,Asian alone,< 30 Days,Iowa
+437,0,65 and Older,Asian alone,30 to < 90 Days,Iowa
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Iowa
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,Iowa
+440,1,65 and Older,Asian alone,1 Year to < 2 Years,Iowa
+441,1,65 and Older,Asian alone,2 Years to < 3 Years,Iowa
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Iowa
+443,0,65 and Older,Asian alone,5 or More Years,Iowa
+444,2,65 and Older,American Indian and Alaska Native alone,All Time,Iowa
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Iowa
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Iowa
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Iowa
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Iowa
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Iowa
+450,1,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Iowa
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Iowa
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Iowa
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Iowa
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Iowa
+455,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Iowa
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Iowa
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Iowa
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Iowa
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Iowa
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Iowa
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Iowa
+462,0,65 and Older,Population of two or more races:,All Time,Iowa
+463,0,65 and Older,Population of two or more races:,< 30 Days,Iowa
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Iowa
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Iowa
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Iowa
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Iowa
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Iowa
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Iowa
+470,0,65 and Older,Population of two or more races:,5 or More Years,Iowa

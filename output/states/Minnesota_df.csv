@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"1,141",All Ages,White alone,All Time,Minnesota
+1,46,All Ages,White alone,< 30 Days,Minnesota
+2,84,All Ages,White alone,30 to < 90 Days,Minnesota
+3,99,All Ages,White alone,90 Days to < 6 Months,Minnesota
+4,174,All Ages,White alone,6 Months to < 1 Year,Minnesota
+5,236,All Ages,White alone,1 Year to < 2 Years,Minnesota
+6,135,All Ages,White alone,2 Years to < 3 Years,Minnesota
+7,179,All Ages,White alone,3 Years to < 5 Years,Minnesota
+8,188,All Ages,White alone,5 or More Years,Minnesota
+9,309,All Ages,Black or African American alone,All Time,Minnesota
+10,12,All Ages,Black or African American alone,< 30 Days,Minnesota
+11,26,All Ages,Black or African American alone,30 to < 90 Days,Minnesota
+12,30,All Ages,Black or African American alone,90 Days to < 6 Months,Minnesota
+13,33,All Ages,Black or African American alone,6 Months to < 1 Year,Minnesota
+14,71,All Ages,Black or African American alone,1 Year to < 2 Years,Minnesota
+15,34,All Ages,Black or African American alone,2 Years to < 3 Years,Minnesota
+16,55,All Ages,Black or African American alone,3 Years to < 5 Years,Minnesota
+17,48,All Ages,Black or African American alone,5 or More Years,Minnesota
+18,134,All Ages,Hispanic or Latino,All Time,Minnesota
+19,4,All Ages,Hispanic or Latino,< 30 Days,Minnesota
+20,6,All Ages,Hispanic or Latino,30 to < 90 Days,Minnesota
+21,5,All Ages,Hispanic or Latino,90 Days to < 6 Months,Minnesota
+22,24,All Ages,Hispanic or Latino,6 Months to < 1 Year,Minnesota
+23,25,All Ages,Hispanic or Latino,1 Year to < 2 Years,Minnesota
+24,19,All Ages,Hispanic or Latino,2 Years to < 3 Years,Minnesota
+25,29,All Ages,Hispanic or Latino,3 Years to < 5 Years,Minnesota
+26,22,All Ages,Hispanic or Latino,5 or More Years,Minnesota
+27,213,All Ages,Asian alone,All Time,Minnesota
+28,6,All Ages,Asian alone,< 30 Days,Minnesota
+29,10,All Ages,Asian alone,30 to < 90 Days,Minnesota
+30,13,All Ages,Asian alone,90 Days to < 6 Months,Minnesota
+31,45,All Ages,Asian alone,6 Months to < 1 Year,Minnesota
+32,38,All Ages,Asian alone,1 Year to < 2 Years,Minnesota
+33,25,All Ages,Asian alone,2 Years to < 3 Years,Minnesota
+34,35,All Ages,Asian alone,3 Years to < 5 Years,Minnesota
+35,41,All Ages,Asian alone,5 or More Years,Minnesota
+36,26,All Ages,American Indian and Alaska Native alone,All Time,Minnesota
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Minnesota
+38,3,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Minnesota
+39,4,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Minnesota
+40,7,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Minnesota
+41,5,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Minnesota
+42,2,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Minnesota
+43,4,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Minnesota
+44,1,All Ages,American Indian and Alaska Native alone,5 or More Years,Minnesota
+45,3,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Minnesota
+46,1,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Minnesota
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Minnesota
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Minnesota
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Minnesota
+50,1,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Minnesota
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Minnesota
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Minnesota
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Minnesota
+54,19,All Ages,Population of two or more races:,All Time,Minnesota
+55,0,All Ages,Population of two or more races:,< 30 Days,Minnesota
+56,4,All Ages,Population of two or more races:,30 to < 90 Days,Minnesota
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,Minnesota
+58,2,All Ages,Population of two or more races:,6 Months to < 1 Year,Minnesota
+59,0,All Ages,Population of two or more races:,1 Year to < 2 Years,Minnesota
+60,2,All Ages,Population of two or more races:,2 Years to < 3 Years,Minnesota
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,Minnesota
+62,7,All Ages,Population of two or more races:,5 or More Years,Minnesota
+63,7,0-5 Years,White alone,All Time,Minnesota
+64,1,0-5 Years,White alone,< 30 Days,Minnesota
+65,1,0-5 Years,White alone,30 to < 90 Days,Minnesota
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Minnesota
+67,1,0-5 Years,White alone,6 Months to < 1 Year,Minnesota
+68,3,0-5 Years,White alone,1 Year to < 2 Years,Minnesota
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Minnesota
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Minnesota
+71,1,0-5 Years,White alone,5 or More Years,Minnesota
+72,9,0-5 Years,Black or African American alone,All Time,Minnesota
+73,0,0-5 Years,Black or African American alone,< 30 Days,Minnesota
+74,3,0-5 Years,Black or African American alone,30 to < 90 Days,Minnesota
+75,1,0-5 Years,Black or African American alone,90 Days to < 6 Months,Minnesota
+76,2,0-5 Years,Black or African American alone,6 Months to < 1 Year,Minnesota
+77,2,0-5 Years,Black or African American alone,1 Year to < 2 Years,Minnesota
+78,1,0-5 Years,Black or African American alone,2 Years to < 3 Years,Minnesota
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Minnesota
+80,2,0-5 Years,Hispanic or Latino,All Time,Minnesota
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Minnesota
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Minnesota
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Minnesota
+84,1,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Minnesota
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Minnesota
+86,1,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Minnesota
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Minnesota
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Minnesota
+89,0,0-5 Years,Asian alone,All Time,Minnesota
+90,0,0-5 Years,Asian alone,< 30 Days,Minnesota
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Minnesota
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Minnesota
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Minnesota
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Minnesota
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Minnesota
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Minnesota
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Minnesota
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Minnesota
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Minnesota
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Minnesota
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Minnesota
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Minnesota
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Minnesota
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Minnesota
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Minnesota
+106,1,0-5 Years,Population of two or more races:,All Time,Minnesota
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Minnesota
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Minnesota
+109,1,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Minnesota
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Minnesota
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Minnesota
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Minnesota
+113,7,6-10 Years,White alone,All Time,Minnesota
+114,0,6-10 Years,White alone,< 30 Days,Minnesota
+115,0,6-10 Years,White alone,30 to < 90 Days,Minnesota
+116,2,6-10 Years,White alone,90 Days to < 6 Months,Minnesota
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Minnesota
+118,4,6-10 Years,White alone,1 Year to < 2 Years,Minnesota
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Minnesota
+120,1,6-10 Years,White alone,3 Years to < 5 Years,Minnesota
+121,0,6-10 Years,White alone,5 or More Years,Minnesota
+122,1,6-10 Years,Black or African American alone,All Time,Minnesota
+123,0,6-10 Years,Black or African American alone,< 30 Days,Minnesota
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Minnesota
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Minnesota
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Minnesota
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Minnesota
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Minnesota
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Minnesota
+130,0,6-10 Years,Black or African American alone,5 or More Years,Minnesota
+131,2,6-10 Years,Hispanic or Latino,All Time,Minnesota
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Minnesota
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Minnesota
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Minnesota
+135,1,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Minnesota
+136,1,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Minnesota
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Minnesota
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Minnesota
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Minnesota
+140,3,6-10 Years,Asian alone,All Time,Minnesota
+141,0,6-10 Years,Asian alone,< 30 Days,Minnesota
+142,1,6-10 Years,Asian alone,30 to < 90 Days,Minnesota
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Minnesota
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Minnesota
+145,1,6-10 Years,Asian alone,2 Years to < 3 Years,Minnesota
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Minnesota
+147,1,6-10 Years,Asian alone,5 or More Years,Minnesota
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Minnesota
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Minnesota
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Minnesota
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Minnesota
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Minnesota
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Minnesota
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Minnesota
+155,0,6-10 Years,Population of two or more races:,All Time,Minnesota
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Minnesota
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Minnesota
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Minnesota
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Minnesota
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Minnesota
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Minnesota
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Minnesota
+163,23,11-17 Years,White alone,All Time,Minnesota
+164,0,11-17 Years,White alone,< 30 Days,Minnesota
+165,3,11-17 Years,White alone,30 to < 90 Days,Minnesota
+166,5,11-17 Years,White alone,90 Days to < 6 Months,Minnesota
+167,4,11-17 Years,White alone,6 Months to < 1 Year,Minnesota
+168,5,11-17 Years,White alone,1 Year to < 2 Years,Minnesota
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Minnesota
+170,4,11-17 Years,White alone,3 Years to < 5 Years,Minnesota
+171,1,11-17 Years,White alone,5 or More Years,Minnesota
+172,1,11-17 Years,Black or African American alone,All Time,Minnesota
+173,0,11-17 Years,Black or African American alone,< 30 Days,Minnesota
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Minnesota
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Minnesota
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Minnesota
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Minnesota
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Minnesota
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Minnesota
+180,0,11-17 Years,Black or African American alone,5 or More Years,Minnesota
+181,3,11-17 Years,Hispanic or Latino,All Time,Minnesota
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Minnesota
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Minnesota
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Minnesota
+185,2,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Minnesota
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Minnesota
+187,1,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Minnesota
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Minnesota
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Minnesota
+190,2,11-17 Years,Asian alone,All Time,Minnesota
+191,1,11-17 Years,Asian alone,< 30 Days,Minnesota
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Minnesota
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Minnesota
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Minnesota
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Minnesota
+196,1,11-17 Years,Asian alone,2 Years to < 3 Years,Minnesota
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Minnesota
+198,0,11-17 Years,Asian alone,5 or More Years,Minnesota
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Minnesota
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Minnesota
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Minnesota
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Minnesota
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Minnesota
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Minnesota
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Minnesota
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Minnesota
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Minnesota
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Minnesota
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Minnesota
+210,0,11-17 Years,Population of two or more races:,All Time,Minnesota
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Minnesota
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Minnesota
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Minnesota
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Minnesota
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Minnesota
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Minnesota
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Minnesota
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Minnesota
+219,82,18-34 Years,White alone,All Time,Minnesota
+220,5,18-34 Years,White alone,< 30 Days,Minnesota
+221,7,18-34 Years,White alone,30 to < 90 Days,Minnesota
+222,15,18-34 Years,White alone,90 Days to < 6 Months,Minnesota
+223,16,18-34 Years,White alone,6 Months to < 1 Year,Minnesota
+224,15,18-34 Years,White alone,1 Year to < 2 Years,Minnesota
+225,8,18-34 Years,White alone,2 Years to < 3 Years,Minnesota
+226,7,18-34 Years,White alone,3 Years to < 5 Years,Minnesota
+227,9,18-34 Years,White alone,5 or More Years,Minnesota
+228,38,18-34 Years,Black or African American alone,All Time,Minnesota
+229,1,18-34 Years,Black or African American alone,< 30 Days,Minnesota
+230,4,18-34 Years,Black or African American alone,30 to < 90 Days,Minnesota
+231,7,18-34 Years,Black or African American alone,90 Days to < 6 Months,Minnesota
+232,2,18-34 Years,Black or African American alone,6 Months to < 1 Year,Minnesota
+233,6,18-34 Years,Black or African American alone,1 Year to < 2 Years,Minnesota
+234,3,18-34 Years,Black or African American alone,2 Years to < 3 Years,Minnesota
+235,7,18-34 Years,Black or African American alone,3 Years to < 5 Years,Minnesota
+236,8,18-34 Years,Black or African American alone,5 or More Years,Minnesota
+237,18,18-34 Years,Hispanic or Latino,All Time,Minnesota
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,Minnesota
+239,3,18-34 Years,Hispanic or Latino,30 to < 90 Days,Minnesota
+240,1,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Minnesota
+241,4,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Minnesota
+242,3,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Minnesota
+243,4,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Minnesota
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Minnesota
+245,2,18-34 Years,Hispanic or Latino,5 or More Years,Minnesota
+246,29,18-34 Years,Asian alone,All Time,Minnesota
+247,1,18-34 Years,Asian alone,< 30 Days,Minnesota
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Minnesota
+249,1,18-34 Years,Asian alone,90 Days to < 6 Months,Minnesota
+250,5,18-34 Years,Asian alone,6 Months to < 1 Year,Minnesota
+251,7,18-34 Years,Asian alone,1 Year to < 2 Years,Minnesota
+252,6,18-34 Years,Asian alone,2 Years to < 3 Years,Minnesota
+253,4,18-34 Years,Asian alone,3 Years to < 5 Years,Minnesota
+254,4,18-34 Years,Asian alone,5 or More Years,Minnesota
+255,1,18-34 Years,American Indian and Alaska Native alone,All Time,Minnesota
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Minnesota
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Minnesota
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Minnesota
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Minnesota
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Minnesota
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Minnesota
+262,1,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Minnesota
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Minnesota
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Minnesota
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Minnesota
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Minnesota
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Minnesota
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Minnesota
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Minnesota
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Minnesota
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Minnesota
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Minnesota
+273,1,18-34 Years,Population of two or more races:,All Time,Minnesota
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Minnesota
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Minnesota
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Minnesota
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Minnesota
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Minnesota
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Minnesota
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Minnesota
+281,1,18-34 Years,Population of two or more races:,5 or More Years,Minnesota
+282,223,35-49 Years,White alone,All Time,Minnesota
+283,6,35-49 Years,White alone,< 30 Days,Minnesota
+284,13,35-49 Years,White alone,30 to < 90 Days,Minnesota
+285,25,35-49 Years,White alone,90 Days to < 6 Months,Minnesota
+286,34,35-49 Years,White alone,6 Months to < 1 Year,Minnesota
+287,42,35-49 Years,White alone,1 Year to < 2 Years,Minnesota
+288,34,35-49 Years,White alone,2 Years to < 3 Years,Minnesota
+289,35,35-49 Years,White alone,3 Years to < 5 Years,Minnesota
+290,34,35-49 Years,White alone,5 or More Years,Minnesota
+291,74,35-49 Years,Black or African American alone,All Time,Minnesota
+292,4,35-49 Years,Black or African American alone,< 30 Days,Minnesota
+293,4,35-49 Years,Black or African American alone,30 to < 90 Days,Minnesota
+294,11,35-49 Years,Black or African American alone,90 Days to < 6 Months,Minnesota
+295,7,35-49 Years,Black or African American alone,6 Months to < 1 Year,Minnesota
+296,19,35-49 Years,Black or African American alone,1 Year to < 2 Years,Minnesota
+297,5,35-49 Years,Black or African American alone,2 Years to < 3 Years,Minnesota
+298,15,35-49 Years,Black or African American alone,3 Years to < 5 Years,Minnesota
+299,9,35-49 Years,Black or African American alone,5 or More Years,Minnesota
+300,35,35-49 Years,Hispanic or Latino,All Time,Minnesota
+301,2,35-49 Years,Hispanic or Latino,< 30 Days,Minnesota
+302,1,35-49 Years,Hispanic or Latino,30 to < 90 Days,Minnesota
+303,2,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Minnesota
+304,7,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Minnesota
+305,5,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Minnesota
+306,2,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Minnesota
+307,14,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Minnesota
+308,2,35-49 Years,Hispanic or Latino,5 or More Years,Minnesota
+309,63,35-49 Years,Asian alone,All Time,Minnesota
+310,2,35-49 Years,Asian alone,< 30 Days,Minnesota
+311,2,35-49 Years,Asian alone,30 to < 90 Days,Minnesota
+312,5,35-49 Years,Asian alone,90 Days to < 6 Months,Minnesota
+313,14,35-49 Years,Asian alone,6 Months to < 1 Year,Minnesota
+314,14,35-49 Years,Asian alone,1 Year to < 2 Years,Minnesota
+315,4,35-49 Years,Asian alone,2 Years to < 3 Years,Minnesota
+316,10,35-49 Years,Asian alone,3 Years to < 5 Years,Minnesota
+317,12,35-49 Years,Asian alone,5 or More Years,Minnesota
+318,14,35-49 Years,American Indian and Alaska Native alone,All Time,Minnesota
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Minnesota
+320,1,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Minnesota
+321,4,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Minnesota
+322,6,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Minnesota
+323,1,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Minnesota
+324,1,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Minnesota
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Minnesota
+326,1,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Minnesota
+327,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Minnesota
+328,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Minnesota
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Minnesota
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Minnesota
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Minnesota
+332,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Minnesota
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Minnesota
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Minnesota
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Minnesota
+336,8,35-49 Years,Population of two or more races:,All Time,Minnesota
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Minnesota
+338,2,35-49 Years,Population of two or more races:,30 to < 90 Days,Minnesota
+339,1,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Minnesota
+340,2,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Minnesota
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Minnesota
+342,2,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Minnesota
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Minnesota
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Minnesota
+345,445,50-64 Years,White alone,All Time,Minnesota
+346,23,50-64 Years,White alone,< 30 Days,Minnesota
+347,30,50-64 Years,White alone,30 to < 90 Days,Minnesota
+348,29,50-64 Years,White alone,90 Days to < 6 Months,Minnesota
+349,67,50-64 Years,White alone,6 Months to < 1 Year,Minnesota
+350,103,50-64 Years,White alone,1 Year to < 2 Years,Minnesota
+351,54,50-64 Years,White alone,2 Years to < 3 Years,Minnesota
+352,62,50-64 Years,White alone,3 Years to < 5 Years,Minnesota
+353,77,50-64 Years,White alone,5 or More Years,Minnesota
+354,121,50-64 Years,Black or African American alone,All Time,Minnesota
+355,4,50-64 Years,Black or African American alone,< 30 Days,Minnesota
+356,10,50-64 Years,Black or African American alone,30 to < 90 Days,Minnesota
+357,9,50-64 Years,Black or African American alone,90 Days to < 6 Months,Minnesota
+358,15,50-64 Years,Black or African American alone,6 Months to < 1 Year,Minnesota
+359,24,50-64 Years,Black or African American alone,1 Year to < 2 Years,Minnesota
+360,15,50-64 Years,Black or African American alone,2 Years to < 3 Years,Minnesota
+361,21,50-64 Years,Black or African American alone,3 Years to < 5 Years,Minnesota
+362,23,50-64 Years,Black or African American alone,5 or More Years,Minnesota
+363,62,50-64 Years,Hispanic or Latino,All Time,Minnesota
+364,1,50-64 Years,Hispanic or Latino,< 30 Days,Minnesota
+365,2,50-64 Years,Hispanic or Latino,30 to < 90 Days,Minnesota
+366,2,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Minnesota
+367,8,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Minnesota
+368,11,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Minnesota
+369,9,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Minnesota
+370,13,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Minnesota
+371,16,50-64 Years,Hispanic or Latino,5 or More Years,Minnesota
+372,78,50-64 Years,Asian alone,All Time,Minnesota
+373,2,50-64 Years,Asian alone,< 30 Days,Minnesota
+374,4,50-64 Years,Asian alone,30 to < 90 Days,Minnesota
+375,4,50-64 Years,Asian alone,90 Days to < 6 Months,Minnesota
+376,21,50-64 Years,Asian alone,6 Months to < 1 Year,Minnesota
+377,12,50-64 Years,Asian alone,1 Year to < 2 Years,Minnesota
+378,7,50-64 Years,Asian alone,2 Years to < 3 Years,Minnesota
+379,12,50-64 Years,Asian alone,3 Years to < 5 Years,Minnesota
+380,16,50-64 Years,Asian alone,5 or More Years,Minnesota
+381,8,50-64 Years,American Indian and Alaska Native alone,All Time,Minnesota
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Minnesota
+383,2,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Minnesota
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Minnesota
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Minnesota
+386,4,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Minnesota
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Minnesota
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Minnesota
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Minnesota
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Minnesota
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Minnesota
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Minnesota
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Minnesota
+394,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Minnesota
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Minnesota
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Minnesota
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Minnesota
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Minnesota
+399,6,50-64 Years,Population of two or more races:,All Time,Minnesota
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Minnesota
+401,1,50-64 Years,Population of two or more races:,30 to < 90 Days,Minnesota
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Minnesota
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Minnesota
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Minnesota
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Minnesota
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Minnesota
+407,5,50-64 Years,Population of two or more races:,5 or More Years,Minnesota
+408,354,65 and Older,White alone,All Time,Minnesota
+409,11,65 and Older,White alone,< 30 Days,Minnesota
+410,30,65 and Older,White alone,30 to < 90 Days,Minnesota
+411,23,65 and Older,White alone,90 Days to < 6 Months,Minnesota
+412,52,65 and Older,White alone,6 Months to < 1 Year,Minnesota
+413,64,65 and Older,White alone,1 Year to < 2 Years,Minnesota
+414,38,65 and Older,White alone,2 Years to < 3 Years,Minnesota
+415,70,65 and Older,White alone,3 Years to < 5 Years,Minnesota
+416,66,65 and Older,White alone,5 or More Years,Minnesota
+417,65,65 and Older,Black or African American alone,All Time,Minnesota
+418,3,65 and Older,Black or African American alone,< 30 Days,Minnesota
+419,5,65 and Older,Black or African American alone,30 to < 90 Days,Minnesota
+420,2,65 and Older,Black or African American alone,90 Days to < 6 Months,Minnesota
+421,6,65 and Older,Black or African American alone,6 Months to < 1 Year,Minnesota
+422,19,65 and Older,Black or African American alone,1 Year to < 2 Years,Minnesota
+423,10,65 and Older,Black or African American alone,2 Years to < 3 Years,Minnesota
+424,12,65 and Older,Black or African American alone,3 Years to < 5 Years,Minnesota
+425,8,65 and Older,Black or African American alone,5 or More Years,Minnesota
+426,12,65 and Older,Hispanic or Latino,All Time,Minnesota
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Minnesota
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Minnesota
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Minnesota
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Minnesota
+431,5,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Minnesota
+432,2,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Minnesota
+433,2,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Minnesota
+434,2,65 and Older,Hispanic or Latino,5 or More Years,Minnesota
+435,38,65 and Older,Asian alone,All Time,Minnesota
+436,0,65 and Older,Asian alone,< 30 Days,Minnesota
+437,2,65 and Older,Asian alone,30 to < 90 Days,Minnesota
+438,3,65 and Older,Asian alone,90 Days to < 6 Months,Minnesota
+439,5,65 and Older,Asian alone,6 Months to < 1 Year,Minnesota
+440,5,65 and Older,Asian alone,1 Year to < 2 Years,Minnesota
+441,6,65 and Older,Asian alone,2 Years to < 3 Years,Minnesota
+442,9,65 and Older,Asian alone,3 Years to < 5 Years,Minnesota
+443,8,65 and Older,Asian alone,5 or More Years,Minnesota
+444,3,65 and Older,American Indian and Alaska Native alone,All Time,Minnesota
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Minnesota
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Minnesota
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Minnesota
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Minnesota
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Minnesota
+450,1,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Minnesota
+451,2,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Minnesota
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Minnesota
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Minnesota
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Minnesota
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Minnesota
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Minnesota
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Minnesota
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Minnesota
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Minnesota
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Minnesota
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Minnesota
+462,3,65 and Older,Population of two or more races:,All Time,Minnesota
+463,0,65 and Older,Population of two or more races:,< 30 Days,Minnesota
+464,1,65 and Older,Population of two or more races:,30 to < 90 Days,Minnesota
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Minnesota
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Minnesota
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Minnesota
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Minnesota
+469,1,65 and Older,Population of two or more races:,3 Years to < 5 Years,Minnesota
+470,1,65 and Older,Population of two or more races:,5 or More Years,Minnesota

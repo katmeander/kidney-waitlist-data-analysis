@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,234,All Ages,White alone,All Time,Nebraska
+1,14,All Ages,White alone,< 30 Days,Nebraska
+2,37,All Ages,White alone,30 to < 90 Days,Nebraska
+3,35,All Ages,White alone,90 Days to < 6 Months,Nebraska
+4,51,All Ages,White alone,6 Months to < 1 Year,Nebraska
+5,55,All Ages,White alone,1 Year to < 2 Years,Nebraska
+6,24,All Ages,White alone,2 Years to < 3 Years,Nebraska
+7,11,All Ages,White alone,3 Years to < 5 Years,Nebraska
+8,7,All Ages,White alone,5 or More Years,Nebraska
+9,36,All Ages,Black or African American alone,All Time,Nebraska
+10,10,All Ages,Black or African American alone,< 30 Days,Nebraska
+11,5,All Ages,Black or African American alone,30 to < 90 Days,Nebraska
+12,2,All Ages,Black or African American alone,90 Days to < 6 Months,Nebraska
+13,6,All Ages,Black or African American alone,6 Months to < 1 Year,Nebraska
+14,7,All Ages,Black or African American alone,1 Year to < 2 Years,Nebraska
+15,2,All Ages,Black or African American alone,2 Years to < 3 Years,Nebraska
+16,2,All Ages,Black or African American alone,3 Years to < 5 Years,Nebraska
+17,2,All Ages,Black or African American alone,5 or More Years,Nebraska
+18,40,All Ages,Hispanic or Latino,All Time,Nebraska
+19,2,All Ages,Hispanic or Latino,< 30 Days,Nebraska
+20,2,All Ages,Hispanic or Latino,30 to < 90 Days,Nebraska
+21,14,All Ages,Hispanic or Latino,90 Days to < 6 Months,Nebraska
+22,9,All Ages,Hispanic or Latino,6 Months to < 1 Year,Nebraska
+23,7,All Ages,Hispanic or Latino,1 Year to < 2 Years,Nebraska
+24,4,All Ages,Hispanic or Latino,2 Years to < 3 Years,Nebraska
+25,1,All Ages,Hispanic or Latino,3 Years to < 5 Years,Nebraska
+26,1,All Ages,Hispanic or Latino,5 or More Years,Nebraska
+27,10,All Ages,Asian alone,All Time,Nebraska
+28,1,All Ages,Asian alone,< 30 Days,Nebraska
+29,1,All Ages,Asian alone,30 to < 90 Days,Nebraska
+30,3,All Ages,Asian alone,90 Days to < 6 Months,Nebraska
+31,1,All Ages,Asian alone,6 Months to < 1 Year,Nebraska
+32,2,All Ages,Asian alone,1 Year to < 2 Years,Nebraska
+33,2,All Ages,Asian alone,2 Years to < 3 Years,Nebraska
+34,0,All Ages,Asian alone,3 Years to < 5 Years,Nebraska
+35,0,All Ages,Asian alone,5 or More Years,Nebraska
+36,8,All Ages,American Indian and Alaska Native alone,All Time,Nebraska
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Nebraska
+38,2,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Nebraska
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Nebraska
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Nebraska
+41,1,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Nebraska
+42,2,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Nebraska
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Nebraska
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Nebraska
+45,2,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Nebraska
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nebraska
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nebraska
+48,1,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nebraska
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nebraska
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nebraska
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nebraska
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nebraska
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nebraska
+54,6,All Ages,Population of two or more races:,All Time,Nebraska
+55,0,All Ages,Population of two or more races:,< 30 Days,Nebraska
+56,1,All Ages,Population of two or more races:,30 to < 90 Days,Nebraska
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Nebraska
+58,2,All Ages,Population of two or more races:,6 Months to < 1 Year,Nebraska
+59,1,All Ages,Population of two or more races:,1 Year to < 2 Years,Nebraska
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Nebraska
+61,1,All Ages,Population of two or more races:,3 Years to < 5 Years,Nebraska
+62,1,All Ages,Population of two or more races:,5 or More Years,Nebraska
+63,1,0-5 Years,White alone,All Time,Nebraska
+64,0,0-5 Years,White alone,< 30 Days,Nebraska
+65,0,0-5 Years,White alone,30 to < 90 Days,Nebraska
+66,1,0-5 Years,White alone,90 Days to < 6 Months,Nebraska
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Nebraska
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Nebraska
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Nebraska
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Nebraska
+71,0,0-5 Years,White alone,5 or More Years,Nebraska
+72,5,0-5 Years,Black or African American alone,All Time,Nebraska
+73,4,0-5 Years,Black or African American alone,< 30 Days,Nebraska
+74,1,0-5 Years,Black or African American alone,30 to < 90 Days,Nebraska
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Nebraska
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Nebraska
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Nebraska
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Nebraska
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Nebraska
+80,0,0-5 Years,Hispanic or Latino,All Time,Nebraska
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Nebraska
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Nebraska
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Nebraska
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Nebraska
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Nebraska
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Nebraska
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Nebraska
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Nebraska
+89,0,0-5 Years,Asian alone,All Time,Nebraska
+90,0,0-5 Years,Asian alone,< 30 Days,Nebraska
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Nebraska
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Nebraska
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Nebraska
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Nebraska
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Nebraska
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Nebraska
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Nebraska
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Nebraska
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Nebraska
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nebraska
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nebraska
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nebraska
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nebraska
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nebraska
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nebraska
+106,0,0-5 Years,Population of two or more races:,All Time,Nebraska
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Nebraska
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Nebraska
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Nebraska
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Nebraska
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Nebraska
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Nebraska
+113,2,6-10 Years,White alone,All Time,Nebraska
+114,0,6-10 Years,White alone,< 30 Days,Nebraska
+115,1,6-10 Years,White alone,30 to < 90 Days,Nebraska
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Nebraska
+117,1,6-10 Years,White alone,6 Months to < 1 Year,Nebraska
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Nebraska
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Nebraska
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Nebraska
+121,0,6-10 Years,White alone,5 or More Years,Nebraska
+122,0,6-10 Years,Black or African American alone,All Time,Nebraska
+123,0,6-10 Years,Black or African American alone,< 30 Days,Nebraska
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Nebraska
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Nebraska
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Nebraska
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Nebraska
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Nebraska
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Nebraska
+130,0,6-10 Years,Black or African American alone,5 or More Years,Nebraska
+131,0,6-10 Years,Hispanic or Latino,All Time,Nebraska
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Nebraska
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Nebraska
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Nebraska
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Nebraska
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Nebraska
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Nebraska
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Nebraska
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Nebraska
+140,0,6-10 Years,Asian alone,All Time,Nebraska
+141,0,6-10 Years,Asian alone,< 30 Days,Nebraska
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Nebraska
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Nebraska
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Nebraska
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Nebraska
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Nebraska
+147,0,6-10 Years,Asian alone,5 or More Years,Nebraska
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Nebraska
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nebraska
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nebraska
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nebraska
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nebraska
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nebraska
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nebraska
+155,0,6-10 Years,Population of two or more races:,All Time,Nebraska
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Nebraska
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Nebraska
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Nebraska
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Nebraska
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Nebraska
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Nebraska
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Nebraska
+163,6,11-17 Years,White alone,All Time,Nebraska
+164,1,11-17 Years,White alone,< 30 Days,Nebraska
+165,1,11-17 Years,White alone,30 to < 90 Days,Nebraska
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Nebraska
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Nebraska
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Nebraska
+169,3,11-17 Years,White alone,2 Years to < 3 Years,Nebraska
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Nebraska
+171,1,11-17 Years,White alone,5 or More Years,Nebraska
+172,0,11-17 Years,Black or African American alone,All Time,Nebraska
+173,0,11-17 Years,Black or African American alone,< 30 Days,Nebraska
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Nebraska
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Nebraska
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Nebraska
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Nebraska
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Nebraska
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Nebraska
+180,0,11-17 Years,Black or African American alone,5 or More Years,Nebraska
+181,0,11-17 Years,Hispanic or Latino,All Time,Nebraska
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Nebraska
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Nebraska
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Nebraska
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Nebraska
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Nebraska
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Nebraska
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Nebraska
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Nebraska
+190,0,11-17 Years,Asian alone,All Time,Nebraska
+191,0,11-17 Years,Asian alone,< 30 Days,Nebraska
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Nebraska
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Nebraska
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Nebraska
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Nebraska
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Nebraska
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Nebraska
+198,0,11-17 Years,Asian alone,5 or More Years,Nebraska
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Nebraska
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nebraska
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nebraska
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nebraska
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Nebraska
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nebraska
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nebraska
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nebraska
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nebraska
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nebraska
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nebraska
+210,0,11-17 Years,Population of two or more races:,All Time,Nebraska
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Nebraska
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Nebraska
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Nebraska
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Nebraska
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Nebraska
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Nebraska
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Nebraska
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Nebraska
+219,20,18-34 Years,White alone,All Time,Nebraska
+220,0,18-34 Years,White alone,< 30 Days,Nebraska
+221,3,18-34 Years,White alone,30 to < 90 Days,Nebraska
+222,1,18-34 Years,White alone,90 Days to < 6 Months,Nebraska
+223,9,18-34 Years,White alone,6 Months to < 1 Year,Nebraska
+224,5,18-34 Years,White alone,1 Year to < 2 Years,Nebraska
+225,1,18-34 Years,White alone,2 Years to < 3 Years,Nebraska
+226,0,18-34 Years,White alone,3 Years to < 5 Years,Nebraska
+227,1,18-34 Years,White alone,5 or More Years,Nebraska
+228,4,18-34 Years,Black or African American alone,All Time,Nebraska
+229,0,18-34 Years,Black or African American alone,< 30 Days,Nebraska
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,Nebraska
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Nebraska
+232,4,18-34 Years,Black or African American alone,6 Months to < 1 Year,Nebraska
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,Nebraska
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Nebraska
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Nebraska
+236,0,18-34 Years,Black or African American alone,5 or More Years,Nebraska
+237,10,18-34 Years,Hispanic or Latino,All Time,Nebraska
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,Nebraska
+239,1,18-34 Years,Hispanic or Latino,30 to < 90 Days,Nebraska
+240,5,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Nebraska
+241,1,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Nebraska
+242,2,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Nebraska
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Nebraska
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Nebraska
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Nebraska
+246,4,18-34 Years,Asian alone,All Time,Nebraska
+247,1,18-34 Years,Asian alone,< 30 Days,Nebraska
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Nebraska
+249,1,18-34 Years,Asian alone,90 Days to < 6 Months,Nebraska
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Nebraska
+251,1,18-34 Years,Asian alone,1 Year to < 2 Years,Nebraska
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Nebraska
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Nebraska
+254,0,18-34 Years,Asian alone,5 or More Years,Nebraska
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Nebraska
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Nebraska
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Nebraska
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nebraska
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nebraska
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nebraska
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Nebraska
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nebraska
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Nebraska
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nebraska
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nebraska
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nebraska
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nebraska
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nebraska
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nebraska
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nebraska
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nebraska
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nebraska
+273,0,18-34 Years,Population of two or more races:,All Time,Nebraska
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Nebraska
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Nebraska
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Nebraska
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Nebraska
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Nebraska
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Nebraska
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Nebraska
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Nebraska
+282,33,35-49 Years,White alone,All Time,Nebraska
+283,5,35-49 Years,White alone,< 30 Days,Nebraska
+284,1,35-49 Years,White alone,30 to < 90 Days,Nebraska
+285,4,35-49 Years,White alone,90 Days to < 6 Months,Nebraska
+286,10,35-49 Years,White alone,6 Months to < 1 Year,Nebraska
+287,9,35-49 Years,White alone,1 Year to < 2 Years,Nebraska
+288,2,35-49 Years,White alone,2 Years to < 3 Years,Nebraska
+289,1,35-49 Years,White alone,3 Years to < 5 Years,Nebraska
+290,1,35-49 Years,White alone,5 or More Years,Nebraska
+291,9,35-49 Years,Black or African American alone,All Time,Nebraska
+292,4,35-49 Years,Black or African American alone,< 30 Days,Nebraska
+293,1,35-49 Years,Black or African American alone,30 to < 90 Days,Nebraska
+294,0,35-49 Years,Black or African American alone,90 Days to < 6 Months,Nebraska
+295,0,35-49 Years,Black or African American alone,6 Months to < 1 Year,Nebraska
+296,1,35-49 Years,Black or African American alone,1 Year to < 2 Years,Nebraska
+297,2,35-49 Years,Black or African American alone,2 Years to < 3 Years,Nebraska
+298,1,35-49 Years,Black or African American alone,3 Years to < 5 Years,Nebraska
+299,0,35-49 Years,Black or African American alone,5 or More Years,Nebraska
+300,10,35-49 Years,Hispanic or Latino,All Time,Nebraska
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Nebraska
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Nebraska
+303,3,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Nebraska
+304,3,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Nebraska
+305,4,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Nebraska
+306,0,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Nebraska
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Nebraska
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Nebraska
+309,0,35-49 Years,Asian alone,All Time,Nebraska
+310,0,35-49 Years,Asian alone,< 30 Days,Nebraska
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Nebraska
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Nebraska
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,Nebraska
+314,0,35-49 Years,Asian alone,1 Year to < 2 Years,Nebraska
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Nebraska
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Nebraska
+317,0,35-49 Years,Asian alone,5 or More Years,Nebraska
+318,6,35-49 Years,American Indian and Alaska Native alone,All Time,Nebraska
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Nebraska
+320,2,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Nebraska
+321,1,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nebraska
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nebraska
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nebraska
+324,1,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Nebraska
+325,1,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nebraska
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Nebraska
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nebraska
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nebraska
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nebraska
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nebraska
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nebraska
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nebraska
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nebraska
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nebraska
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nebraska
+336,4,35-49 Years,Population of two or more races:,All Time,Nebraska
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Nebraska
+338,1,35-49 Years,Population of two or more races:,30 to < 90 Days,Nebraska
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Nebraska
+340,1,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Nebraska
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Nebraska
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Nebraska
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Nebraska
+344,1,35-49 Years,Population of two or more races:,5 or More Years,Nebraska
+345,100,50-64 Years,White alone,All Time,Nebraska
+346,5,50-64 Years,White alone,< 30 Days,Nebraska
+347,22,50-64 Years,White alone,30 to < 90 Days,Nebraska
+348,17,50-64 Years,White alone,90 Days to < 6 Months,Nebraska
+349,19,50-64 Years,White alone,6 Months to < 1 Year,Nebraska
+350,20,50-64 Years,White alone,1 Year to < 2 Years,Nebraska
+351,9,50-64 Years,White alone,2 Years to < 3 Years,Nebraska
+352,7,50-64 Years,White alone,3 Years to < 5 Years,Nebraska
+353,1,50-64 Years,White alone,5 or More Years,Nebraska
+354,12,50-64 Years,Black or African American alone,All Time,Nebraska
+355,2,50-64 Years,Black or African American alone,< 30 Days,Nebraska
+356,2,50-64 Years,Black or African American alone,30 to < 90 Days,Nebraska
+357,1,50-64 Years,Black or African American alone,90 Days to < 6 Months,Nebraska
+358,1,50-64 Years,Black or African American alone,6 Months to < 1 Year,Nebraska
+359,3,50-64 Years,Black or African American alone,1 Year to < 2 Years,Nebraska
+360,0,50-64 Years,Black or African American alone,2 Years to < 3 Years,Nebraska
+361,1,50-64 Years,Black or African American alone,3 Years to < 5 Years,Nebraska
+362,2,50-64 Years,Black or African American alone,5 or More Years,Nebraska
+363,14,50-64 Years,Hispanic or Latino,All Time,Nebraska
+364,1,50-64 Years,Hispanic or Latino,< 30 Days,Nebraska
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Nebraska
+366,4,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Nebraska
+367,4,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Nebraska
+368,0,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Nebraska
+369,3,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Nebraska
+370,1,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Nebraska
+371,1,50-64 Years,Hispanic or Latino,5 or More Years,Nebraska
+372,5,50-64 Years,Asian alone,All Time,Nebraska
+373,0,50-64 Years,Asian alone,< 30 Days,Nebraska
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Nebraska
+375,2,50-64 Years,Asian alone,90 Days to < 6 Months,Nebraska
+376,1,50-64 Years,Asian alone,6 Months to < 1 Year,Nebraska
+377,1,50-64 Years,Asian alone,1 Year to < 2 Years,Nebraska
+378,1,50-64 Years,Asian alone,2 Years to < 3 Years,Nebraska
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Nebraska
+380,0,50-64 Years,Asian alone,5 or More Years,Nebraska
+381,2,50-64 Years,American Indian and Alaska Native alone,All Time,Nebraska
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Nebraska
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Nebraska
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Nebraska
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Nebraska
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Nebraska
+387,1,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Nebraska
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Nebraska
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Nebraska
+390,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Nebraska
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nebraska
+392,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nebraska
+393,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nebraska
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nebraska
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nebraska
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nebraska
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nebraska
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nebraska
+399,1,50-64 Years,Population of two or more races:,All Time,Nebraska
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Nebraska
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Nebraska
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Nebraska
+403,1,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Nebraska
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Nebraska
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Nebraska
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Nebraska
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Nebraska
+408,72,65 and Older,White alone,All Time,Nebraska
+409,3,65 and Older,White alone,< 30 Days,Nebraska
+410,9,65 and Older,White alone,30 to < 90 Days,Nebraska
+411,12,65 and Older,White alone,90 Days to < 6 Months,Nebraska
+412,12,65 and Older,White alone,6 Months to < 1 Year,Nebraska
+413,21,65 and Older,White alone,1 Year to < 2 Years,Nebraska
+414,9,65 and Older,White alone,2 Years to < 3 Years,Nebraska
+415,3,65 and Older,White alone,3 Years to < 5 Years,Nebraska
+416,3,65 and Older,White alone,5 or More Years,Nebraska
+417,6,65 and Older,Black or African American alone,All Time,Nebraska
+418,0,65 and Older,Black or African American alone,< 30 Days,Nebraska
+419,1,65 and Older,Black or African American alone,30 to < 90 Days,Nebraska
+420,1,65 and Older,Black or African American alone,90 Days to < 6 Months,Nebraska
+421,1,65 and Older,Black or African American alone,6 Months to < 1 Year,Nebraska
+422,3,65 and Older,Black or African American alone,1 Year to < 2 Years,Nebraska
+423,0,65 and Older,Black or African American alone,2 Years to < 3 Years,Nebraska
+424,0,65 and Older,Black or African American alone,3 Years to < 5 Years,Nebraska
+425,0,65 and Older,Black or African American alone,5 or More Years,Nebraska
+426,6,65 and Older,Hispanic or Latino,All Time,Nebraska
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Nebraska
+428,1,65 and Older,Hispanic or Latino,30 to < 90 Days,Nebraska
+429,2,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Nebraska
+430,1,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Nebraska
+431,1,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Nebraska
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Nebraska
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Nebraska
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Nebraska
+435,1,65 and Older,Asian alone,All Time,Nebraska
+436,0,65 and Older,Asian alone,< 30 Days,Nebraska
+437,0,65 and Older,Asian alone,30 to < 90 Days,Nebraska
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Nebraska
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,Nebraska
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,Nebraska
+441,1,65 and Older,Asian alone,2 Years to < 3 Years,Nebraska
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Nebraska
+443,0,65 and Older,Asian alone,5 or More Years,Nebraska
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Nebraska
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Nebraska
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Nebraska
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Nebraska
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Nebraska
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Nebraska
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Nebraska
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Nebraska
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Nebraska
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Nebraska
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Nebraska
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Nebraska
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Nebraska
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Nebraska
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Nebraska
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Nebraska
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Nebraska
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Nebraska
+462,1,65 and Older,Population of two or more races:,All Time,Nebraska
+463,0,65 and Older,Population of two or more races:,< 30 Days,Nebraska
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Nebraska
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Nebraska
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Nebraska
+467,1,65 and Older,Population of two or more races:,1 Year to < 2 Years,Nebraska
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Nebraska
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Nebraska
+470,0,65 and Older,Population of two or more races:,5 or More Years,Nebraska

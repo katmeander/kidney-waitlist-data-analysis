@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"1,369",All Ages,White alone,All Time,Virginia
+1,67,All Ages,White alone,< 30 Days,Virginia
+2,118,All Ages,White alone,30 to < 90 Days,Virginia
+3,144,All Ages,White alone,90 Days to < 6 Months,Virginia
+4,249,All Ages,White alone,6 Months to < 1 Year,Virginia
+5,303,All Ages,White alone,1 Year to < 2 Years,Virginia
+6,177,All Ages,White alone,2 Years to < 3 Years,Virginia
+7,194,All Ages,White alone,3 Years to < 5 Years,Virginia
+8,117,All Ages,White alone,5 or More Years,Virginia
+9,"1,447",All Ages,Black or African American alone,All Time,Virginia
+10,55,All Ages,Black or African American alone,< 30 Days,Virginia
+11,144,All Ages,Black or African American alone,30 to < 90 Days,Virginia
+12,141,All Ages,Black or African American alone,90 Days to < 6 Months,Virginia
+13,247,All Ages,Black or African American alone,6 Months to < 1 Year,Virginia
+14,334,All Ages,Black or African American alone,1 Year to < 2 Years,Virginia
+15,223,All Ages,Black or African American alone,2 Years to < 3 Years,Virginia
+16,194,All Ages,Black or African American alone,3 Years to < 5 Years,Virginia
+17,109,All Ages,Black or African American alone,5 or More Years,Virginia
+18,243,All Ages,Hispanic or Latino,All Time,Virginia
+19,13,All Ages,Hispanic or Latino,< 30 Days,Virginia
+20,26,All Ages,Hispanic or Latino,30 to < 90 Days,Virginia
+21,21,All Ages,Hispanic or Latino,90 Days to < 6 Months,Virginia
+22,37,All Ages,Hispanic or Latino,6 Months to < 1 Year,Virginia
+23,75,All Ages,Hispanic or Latino,1 Year to < 2 Years,Virginia
+24,26,All Ages,Hispanic or Latino,2 Years to < 3 Years,Virginia
+25,33,All Ages,Hispanic or Latino,3 Years to < 5 Years,Virginia
+26,12,All Ages,Hispanic or Latino,5 or More Years,Virginia
+27,243,All Ages,Asian alone,All Time,Virginia
+28,16,All Ages,Asian alone,< 30 Days,Virginia
+29,26,All Ages,Asian alone,30 to < 90 Days,Virginia
+30,23,All Ages,Asian alone,90 Days to < 6 Months,Virginia
+31,43,All Ages,Asian alone,6 Months to < 1 Year,Virginia
+32,61,All Ages,Asian alone,1 Year to < 2 Years,Virginia
+33,32,All Ages,Asian alone,2 Years to < 3 Years,Virginia
+34,28,All Ages,Asian alone,3 Years to < 5 Years,Virginia
+35,14,All Ages,Asian alone,5 or More Years,Virginia
+36,3,All Ages,American Indian and Alaska Native alone,All Time,Virginia
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Virginia
+38,1,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Virginia
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Virginia
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Virginia
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Virginia
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Virginia
+43,2,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Virginia
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Virginia
+45,10,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Virginia
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Virginia
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Virginia
+48,4,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Virginia
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Virginia
+50,2,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Virginia
+51,1,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Virginia
+52,3,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Virginia
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Virginia
+54,24,All Ages,Population of two or more races:,All Time,Virginia
+55,2,All Ages,Population of two or more races:,< 30 Days,Virginia
+56,4,All Ages,Population of two or more races:,30 to < 90 Days,Virginia
+57,3,All Ages,Population of two or more races:,90 Days to < 6 Months,Virginia
+58,6,All Ages,Population of two or more races:,6 Months to < 1 Year,Virginia
+59,5,All Ages,Population of two or more races:,1 Year to < 2 Years,Virginia
+60,1,All Ages,Population of two or more races:,2 Years to < 3 Years,Virginia
+61,2,All Ages,Population of two or more races:,3 Years to < 5 Years,Virginia
+62,1,All Ages,Population of two or more races:,5 or More Years,Virginia
+63,12,0-5 Years,White alone,All Time,Virginia
+64,0,0-5 Years,White alone,< 30 Days,Virginia
+65,4,0-5 Years,White alone,30 to < 90 Days,Virginia
+66,3,0-5 Years,White alone,90 Days to < 6 Months,Virginia
+67,2,0-5 Years,White alone,6 Months to < 1 Year,Virginia
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Virginia
+69,1,0-5 Years,White alone,2 Years to < 3 Years,Virginia
+70,1,0-5 Years,White alone,3 Years to < 5 Years,Virginia
+71,0,0-5 Years,White alone,5 or More Years,Virginia
+72,7,0-5 Years,Black or African American alone,All Time,Virginia
+73,0,0-5 Years,Black or African American alone,< 30 Days,Virginia
+74,4,0-5 Years,Black or African American alone,30 to < 90 Days,Virginia
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Virginia
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Virginia
+77,3,0-5 Years,Black or African American alone,1 Year to < 2 Years,Virginia
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Virginia
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Virginia
+80,1,0-5 Years,Hispanic or Latino,All Time,Virginia
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Virginia
+82,1,0-5 Years,Hispanic or Latino,30 to < 90 Days,Virginia
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Virginia
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Virginia
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Virginia
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Virginia
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Virginia
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Virginia
+89,0,0-5 Years,Asian alone,All Time,Virginia
+90,0,0-5 Years,Asian alone,< 30 Days,Virginia
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Virginia
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Virginia
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Virginia
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Virginia
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Virginia
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Virginia
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Virginia
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Virginia
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Virginia
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Virginia
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Virginia
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Virginia
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Virginia
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Virginia
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Virginia
+106,0,0-5 Years,Population of two or more races:,All Time,Virginia
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Virginia
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Virginia
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Virginia
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Virginia
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Virginia
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Virginia
+113,16,6-10 Years,White alone,All Time,Virginia
+114,0,6-10 Years,White alone,< 30 Days,Virginia
+115,3,6-10 Years,White alone,30 to < 90 Days,Virginia
+116,3,6-10 Years,White alone,90 Days to < 6 Months,Virginia
+117,1,6-10 Years,White alone,6 Months to < 1 Year,Virginia
+118,2,6-10 Years,White alone,1 Year to < 2 Years,Virginia
+119,2,6-10 Years,White alone,2 Years to < 3 Years,Virginia
+120,1,6-10 Years,White alone,3 Years to < 5 Years,Virginia
+121,4,6-10 Years,White alone,5 or More Years,Virginia
+122,1,6-10 Years,Black or African American alone,All Time,Virginia
+123,0,6-10 Years,Black or African American alone,< 30 Days,Virginia
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Virginia
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Virginia
+126,1,6-10 Years,Black or African American alone,6 Months to < 1 Year,Virginia
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Virginia
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Virginia
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Virginia
+130,0,6-10 Years,Black or African American alone,5 or More Years,Virginia
+131,1,6-10 Years,Hispanic or Latino,All Time,Virginia
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Virginia
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Virginia
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Virginia
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Virginia
+136,1,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Virginia
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Virginia
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Virginia
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Virginia
+140,0,6-10 Years,Asian alone,All Time,Virginia
+141,0,6-10 Years,Asian alone,< 30 Days,Virginia
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Virginia
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Virginia
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Virginia
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Virginia
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Virginia
+147,0,6-10 Years,Asian alone,5 or More Years,Virginia
+148,1,6-10 Years,American Indian and Alaska Native alone,All Time,Virginia
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Virginia
+150,1,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Virginia
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Virginia
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Virginia
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Virginia
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Virginia
+155,0,6-10 Years,Population of two or more races:,All Time,Virginia
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Virginia
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Virginia
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Virginia
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Virginia
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Virginia
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Virginia
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Virginia
+163,24,11-17 Years,White alone,All Time,Virginia
+164,0,11-17 Years,White alone,< 30 Days,Virginia
+165,1,11-17 Years,White alone,30 to < 90 Days,Virginia
+166,4,11-17 Years,White alone,90 Days to < 6 Months,Virginia
+167,3,11-17 Years,White alone,6 Months to < 1 Year,Virginia
+168,3,11-17 Years,White alone,1 Year to < 2 Years,Virginia
+169,6,11-17 Years,White alone,2 Years to < 3 Years,Virginia
+170,6,11-17 Years,White alone,3 Years to < 5 Years,Virginia
+171,1,11-17 Years,White alone,5 or More Years,Virginia
+172,19,11-17 Years,Black or African American alone,All Time,Virginia
+173,0,11-17 Years,Black or African American alone,< 30 Days,Virginia
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,Virginia
+175,5,11-17 Years,Black or African American alone,90 Days to < 6 Months,Virginia
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Virginia
+177,2,11-17 Years,Black or African American alone,1 Year to < 2 Years,Virginia
+178,2,11-17 Years,Black or African American alone,2 Years to < 3 Years,Virginia
+179,3,11-17 Years,Black or African American alone,3 Years to < 5 Years,Virginia
+180,5,11-17 Years,Black or African American alone,5 or More Years,Virginia
+181,7,11-17 Years,Hispanic or Latino,All Time,Virginia
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Virginia
+183,5,11-17 Years,Hispanic or Latino,30 to < 90 Days,Virginia
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Virginia
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Virginia
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Virginia
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Virginia
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Virginia
+189,2,11-17 Years,Hispanic or Latino,5 or More Years,Virginia
+190,1,11-17 Years,Asian alone,All Time,Virginia
+191,0,11-17 Years,Asian alone,< 30 Days,Virginia
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Virginia
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Virginia
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Virginia
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Virginia
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Virginia
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Virginia
+198,1,11-17 Years,Asian alone,5 or More Years,Virginia
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Virginia
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Virginia
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Virginia
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Virginia
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Virginia
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Virginia
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Virginia
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Virginia
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Virginia
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Virginia
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Virginia
+210,0,11-17 Years,Population of two or more races:,All Time,Virginia
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Virginia
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Virginia
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Virginia
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Virginia
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Virginia
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Virginia
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Virginia
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Virginia
+219,112,18-34 Years,White alone,All Time,Virginia
+220,7,18-34 Years,White alone,< 30 Days,Virginia
+221,10,18-34 Years,White alone,30 to < 90 Days,Virginia
+222,13,18-34 Years,White alone,90 Days to < 6 Months,Virginia
+223,21,18-34 Years,White alone,6 Months to < 1 Year,Virginia
+224,20,18-34 Years,White alone,1 Year to < 2 Years,Virginia
+225,18,18-34 Years,White alone,2 Years to < 3 Years,Virginia
+226,14,18-34 Years,White alone,3 Years to < 5 Years,Virginia
+227,9,18-34 Years,White alone,5 or More Years,Virginia
+228,113,18-34 Years,Black or African American alone,All Time,Virginia
+229,3,18-34 Years,Black or African American alone,< 30 Days,Virginia
+230,16,18-34 Years,Black or African American alone,30 to < 90 Days,Virginia
+231,11,18-34 Years,Black or African American alone,90 Days to < 6 Months,Virginia
+232,28,18-34 Years,Black or African American alone,6 Months to < 1 Year,Virginia
+233,25,18-34 Years,Black or African American alone,1 Year to < 2 Years,Virginia
+234,9,18-34 Years,Black or African American alone,2 Years to < 3 Years,Virginia
+235,15,18-34 Years,Black or African American alone,3 Years to < 5 Years,Virginia
+236,6,18-34 Years,Black or African American alone,5 or More Years,Virginia
+237,35,18-34 Years,Hispanic or Latino,All Time,Virginia
+238,3,18-34 Years,Hispanic or Latino,< 30 Days,Virginia
+239,4,18-34 Years,Hispanic or Latino,30 to < 90 Days,Virginia
+240,2,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Virginia
+241,6,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Virginia
+242,8,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Virginia
+243,7,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Virginia
+244,3,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Virginia
+245,2,18-34 Years,Hispanic or Latino,5 or More Years,Virginia
+246,19,18-34 Years,Asian alone,All Time,Virginia
+247,2,18-34 Years,Asian alone,< 30 Days,Virginia
+248,3,18-34 Years,Asian alone,30 to < 90 Days,Virginia
+249,3,18-34 Years,Asian alone,90 Days to < 6 Months,Virginia
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Virginia
+251,4,18-34 Years,Asian alone,1 Year to < 2 Years,Virginia
+252,6,18-34 Years,Asian alone,2 Years to < 3 Years,Virginia
+253,1,18-34 Years,Asian alone,3 Years to < 5 Years,Virginia
+254,0,18-34 Years,Asian alone,5 or More Years,Virginia
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Virginia
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Virginia
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Virginia
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Virginia
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Virginia
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Virginia
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Virginia
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Virginia
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Virginia
+264,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Virginia
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Virginia
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Virginia
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Virginia
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Virginia
+269,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Virginia
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Virginia
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Virginia
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Virginia
+273,1,18-34 Years,Population of two or more races:,All Time,Virginia
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Virginia
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Virginia
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Virginia
+277,1,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Virginia
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Virginia
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Virginia
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Virginia
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Virginia
+282,238,35-49 Years,White alone,All Time,Virginia
+283,16,35-49 Years,White alone,< 30 Days,Virginia
+284,28,35-49 Years,White alone,30 to < 90 Days,Virginia
+285,28,35-49 Years,White alone,90 Days to < 6 Months,Virginia
+286,44,35-49 Years,White alone,6 Months to < 1 Year,Virginia
+287,50,35-49 Years,White alone,1 Year to < 2 Years,Virginia
+288,26,35-49 Years,White alone,2 Years to < 3 Years,Virginia
+289,30,35-49 Years,White alone,3 Years to < 5 Years,Virginia
+290,16,35-49 Years,White alone,5 or More Years,Virginia
+291,359,35-49 Years,Black or African American alone,All Time,Virginia
+292,16,35-49 Years,Black or African American alone,< 30 Days,Virginia
+293,34,35-49 Years,Black or African American alone,30 to < 90 Days,Virginia
+294,40,35-49 Years,Black or African American alone,90 Days to < 6 Months,Virginia
+295,64,35-49 Years,Black or African American alone,6 Months to < 1 Year,Virginia
+296,86,35-49 Years,Black or African American alone,1 Year to < 2 Years,Virginia
+297,58,35-49 Years,Black or African American alone,2 Years to < 3 Years,Virginia
+298,44,35-49 Years,Black or African American alone,3 Years to < 5 Years,Virginia
+299,17,35-49 Years,Black or African American alone,5 or More Years,Virginia
+300,65,35-49 Years,Hispanic or Latino,All Time,Virginia
+301,2,35-49 Years,Hispanic or Latino,< 30 Days,Virginia
+302,5,35-49 Years,Hispanic or Latino,30 to < 90 Days,Virginia
+303,5,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Virginia
+304,18,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Virginia
+305,21,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Virginia
+306,4,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Virginia
+307,9,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Virginia
+308,1,35-49 Years,Hispanic or Latino,5 or More Years,Virginia
+309,51,35-49 Years,Asian alone,All Time,Virginia
+310,3,35-49 Years,Asian alone,< 30 Days,Virginia
+311,9,35-49 Years,Asian alone,30 to < 90 Days,Virginia
+312,2,35-49 Years,Asian alone,90 Days to < 6 Months,Virginia
+313,11,35-49 Years,Asian alone,6 Months to < 1 Year,Virginia
+314,12,35-49 Years,Asian alone,1 Year to < 2 Years,Virginia
+315,6,35-49 Years,Asian alone,2 Years to < 3 Years,Virginia
+316,6,35-49 Years,Asian alone,3 Years to < 5 Years,Virginia
+317,2,35-49 Years,Asian alone,5 or More Years,Virginia
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,Virginia
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Virginia
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Virginia
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Virginia
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Virginia
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Virginia
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Virginia
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Virginia
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Virginia
+327,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Virginia
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Virginia
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Virginia
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Virginia
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Virginia
+332,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Virginia
+333,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Virginia
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Virginia
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Virginia
+336,3,35-49 Years,Population of two or more races:,All Time,Virginia
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Virginia
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Virginia
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Virginia
+340,1,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Virginia
+341,2,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Virginia
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Virginia
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Virginia
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Virginia
+345,549,50-64 Years,White alone,All Time,Virginia
+346,25,50-64 Years,White alone,< 30 Days,Virginia
+347,41,50-64 Years,White alone,30 to < 90 Days,Virginia
+348,54,50-64 Years,White alone,90 Days to < 6 Months,Virginia
+349,109,50-64 Years,White alone,6 Months to < 1 Year,Virginia
+350,132,50-64 Years,White alone,1 Year to < 2 Years,Virginia
+351,67,50-64 Years,White alone,2 Years to < 3 Years,Virginia
+352,86,50-64 Years,White alone,3 Years to < 5 Years,Virginia
+353,35,50-64 Years,White alone,5 or More Years,Virginia
+354,633,50-64 Years,Black or African American alone,All Time,Virginia
+355,19,50-64 Years,Black or African American alone,< 30 Days,Virginia
+356,65,50-64 Years,Black or African American alone,30 to < 90 Days,Virginia
+357,53,50-64 Years,Black or African American alone,90 Days to < 6 Months,Virginia
+358,98,50-64 Years,Black or African American alone,6 Months to < 1 Year,Virginia
+359,148,50-64 Years,Black or African American alone,1 Year to < 2 Years,Virginia
+360,112,50-64 Years,Black or African American alone,2 Years to < 3 Years,Virginia
+361,79,50-64 Years,Black or African American alone,3 Years to < 5 Years,Virginia
+362,59,50-64 Years,Black or African American alone,5 or More Years,Virginia
+363,101,50-64 Years,Hispanic or Latino,All Time,Virginia
+364,8,50-64 Years,Hispanic or Latino,< 30 Days,Virginia
+365,10,50-64 Years,Hispanic or Latino,30 to < 90 Days,Virginia
+366,12,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Virginia
+367,9,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Virginia
+368,35,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Virginia
+369,8,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Virginia
+370,14,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Virginia
+371,5,50-64 Years,Hispanic or Latino,5 or More Years,Virginia
+372,113,50-64 Years,Asian alone,All Time,Virginia
+373,7,50-64 Years,Asian alone,< 30 Days,Virginia
+374,9,50-64 Years,Asian alone,30 to < 90 Days,Virginia
+375,11,50-64 Years,Asian alone,90 Days to < 6 Months,Virginia
+376,25,50-64 Years,Asian alone,6 Months to < 1 Year,Virginia
+377,26,50-64 Years,Asian alone,1 Year to < 2 Years,Virginia
+378,13,50-64 Years,Asian alone,2 Years to < 3 Years,Virginia
+379,13,50-64 Years,Asian alone,3 Years to < 5 Years,Virginia
+380,9,50-64 Years,Asian alone,5 or More Years,Virginia
+381,1,50-64 Years,American Indian and Alaska Native alone,All Time,Virginia
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Virginia
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Virginia
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Virginia
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Virginia
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Virginia
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Virginia
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Virginia
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Virginia
+390,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Virginia
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Virginia
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Virginia
+393,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Virginia
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Virginia
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Virginia
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Virginia
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Virginia
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Virginia
+399,15,50-64 Years,Population of two or more races:,All Time,Virginia
+400,2,50-64 Years,Population of two or more races:,< 30 Days,Virginia
+401,3,50-64 Years,Population of two or more races:,30 to < 90 Days,Virginia
+402,3,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Virginia
+403,3,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Virginia
+404,2,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Virginia
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Virginia
+406,1,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Virginia
+407,1,50-64 Years,Population of two or more races:,5 or More Years,Virginia
+408,418,65 and Older,White alone,All Time,Virginia
+409,19,65 and Older,White alone,< 30 Days,Virginia
+410,31,65 and Older,White alone,30 to < 90 Days,Virginia
+411,39,65 and Older,White alone,90 Days to < 6 Months,Virginia
+412,69,65 and Older,White alone,6 Months to < 1 Year,Virginia
+413,95,65 and Older,White alone,1 Year to < 2 Years,Virginia
+414,57,65 and Older,White alone,2 Years to < 3 Years,Virginia
+415,56,65 and Older,White alone,3 Years to < 5 Years,Virginia
+416,52,65 and Older,White alone,5 or More Years,Virginia
+417,315,65 and Older,Black or African American alone,All Time,Virginia
+418,17,65 and Older,Black or African American alone,< 30 Days,Virginia
+419,24,65 and Older,Black or African American alone,30 to < 90 Days,Virginia
+420,32,65 and Older,Black or African American alone,90 Days to < 6 Months,Virginia
+421,55,65 and Older,Black or African American alone,6 Months to < 1 Year,Virginia
+422,70,65 and Older,Black or African American alone,1 Year to < 2 Years,Virginia
+423,42,65 and Older,Black or African American alone,2 Years to < 3 Years,Virginia
+424,53,65 and Older,Black or African American alone,3 Years to < 5 Years,Virginia
+425,22,65 and Older,Black or African American alone,5 or More Years,Virginia
+426,33,65 and Older,Hispanic or Latino,All Time,Virginia
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Virginia
+428,1,65 and Older,Hispanic or Latino,30 to < 90 Days,Virginia
+429,2,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Virginia
+430,4,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Virginia
+431,10,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Virginia
+432,7,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Virginia
+433,7,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Virginia
+434,2,65 and Older,Hispanic or Latino,5 or More Years,Virginia
+435,59,65 and Older,Asian alone,All Time,Virginia
+436,4,65 and Older,Asian alone,< 30 Days,Virginia
+437,5,65 and Older,Asian alone,30 to < 90 Days,Virginia
+438,7,65 and Older,Asian alone,90 Days to < 6 Months,Virginia
+439,7,65 and Older,Asian alone,6 Months to < 1 Year,Virginia
+440,19,65 and Older,Asian alone,1 Year to < 2 Years,Virginia
+441,7,65 and Older,Asian alone,2 Years to < 3 Years,Virginia
+442,8,65 and Older,Asian alone,3 Years to < 5 Years,Virginia
+443,2,65 and Older,Asian alone,5 or More Years,Virginia
+444,1,65 and Older,American Indian and Alaska Native alone,All Time,Virginia
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Virginia
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Virginia
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Virginia
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Virginia
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Virginia
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Virginia
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Virginia
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Virginia
+453,5,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Virginia
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Virginia
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Virginia
+456,2,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Virginia
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Virginia
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Virginia
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Virginia
+460,3,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Virginia
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Virginia
+462,5,65 and Older,Population of two or more races:,All Time,Virginia
+463,0,65 and Older,Population of two or more races:,< 30 Days,Virginia
+464,1,65 and Older,Population of two or more races:,30 to < 90 Days,Virginia
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Virginia
+466,1,65 and Older,Population of two or more races:,6 Months to < 1 Year,Virginia
+467,1,65 and Older,Population of two or more races:,1 Year to < 2 Years,Virginia
+468,1,65 and Older,Population of two or more races:,2 Years to < 3 Years,Virginia
+469,1,65 and Older,Population of two or more races:,3 Years to < 5 Years,Virginia
+470,0,65 and Older,Population of two or more races:,5 or More Years,Virginia

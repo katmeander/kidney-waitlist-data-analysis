@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"1,597",All Ages,White alone,All Time,Michigan
+1,87,All Ages,White alone,< 30 Days,Michigan
+2,134,All Ages,White alone,30 to < 90 Days,Michigan
+3,202,All Ages,White alone,90 Days to < 6 Months,Michigan
+4,286,All Ages,White alone,6 Months to < 1 Year,Michigan
+5,369,All Ages,White alone,1 Year to < 2 Years,Michigan
+6,187,All Ages,White alone,2 Years to < 3 Years,Michigan
+7,197,All Ages,White alone,3 Years to < 5 Years,Michigan
+8,135,All Ages,White alone,5 or More Years,Michigan
+9,776,All Ages,Black or African American alone,All Time,Michigan
+10,46,All Ages,Black or African American alone,< 30 Days,Michigan
+11,70,All Ages,Black or African American alone,30 to < 90 Days,Michigan
+12,68,All Ages,Black or African American alone,90 Days to < 6 Months,Michigan
+13,117,All Ages,Black or African American alone,6 Months to < 1 Year,Michigan
+14,203,All Ages,Black or African American alone,1 Year to < 2 Years,Michigan
+15,90,All Ages,Black or African American alone,2 Years to < 3 Years,Michigan
+16,90,All Ages,Black or African American alone,3 Years to < 5 Years,Michigan
+17,92,All Ages,Black or African American alone,5 or More Years,Michigan
+18,111,All Ages,Hispanic or Latino,All Time,Michigan
+19,6,All Ages,Hispanic or Latino,< 30 Days,Michigan
+20,8,All Ages,Hispanic or Latino,30 to < 90 Days,Michigan
+21,10,All Ages,Hispanic or Latino,90 Days to < 6 Months,Michigan
+22,22,All Ages,Hispanic or Latino,6 Months to < 1 Year,Michigan
+23,22,All Ages,Hispanic or Latino,1 Year to < 2 Years,Michigan
+24,22,All Ages,Hispanic or Latino,2 Years to < 3 Years,Michigan
+25,15,All Ages,Hispanic or Latino,3 Years to < 5 Years,Michigan
+26,6,All Ages,Hispanic or Latino,5 or More Years,Michigan
+27,84,All Ages,Asian alone,All Time,Michigan
+28,1,All Ages,Asian alone,< 30 Days,Michigan
+29,7,All Ages,Asian alone,30 to < 90 Days,Michigan
+30,8,All Ages,Asian alone,90 Days to < 6 Months,Michigan
+31,17,All Ages,Asian alone,6 Months to < 1 Year,Michigan
+32,30,All Ages,Asian alone,1 Year to < 2 Years,Michigan
+33,10,All Ages,Asian alone,2 Years to < 3 Years,Michigan
+34,7,All Ages,Asian alone,3 Years to < 5 Years,Michigan
+35,4,All Ages,Asian alone,5 or More Years,Michigan
+36,23,All Ages,American Indian and Alaska Native alone,All Time,Michigan
+37,2,All Ages,American Indian and Alaska Native alone,< 30 Days,Michigan
+38,1,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Michigan
+39,2,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Michigan
+40,5,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Michigan
+41,3,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Michigan
+42,5,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Michigan
+43,3,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Michigan
+44,2,All Ages,American Indian and Alaska Native alone,5 or More Years,Michigan
+45,3,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Michigan
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Michigan
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Michigan
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Michigan
+49,1,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Michigan
+50,1,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Michigan
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Michigan
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Michigan
+53,1,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Michigan
+54,26,All Ages,Population of two or more races:,All Time,Michigan
+55,1,All Ages,Population of two or more races:,< 30 Days,Michigan
+56,1,All Ages,Population of two or more races:,30 to < 90 Days,Michigan
+57,3,All Ages,Population of two or more races:,90 Days to < 6 Months,Michigan
+58,1,All Ages,Population of two or more races:,6 Months to < 1 Year,Michigan
+59,7,All Ages,Population of two or more races:,1 Year to < 2 Years,Michigan
+60,7,All Ages,Population of two or more races:,2 Years to < 3 Years,Michigan
+61,6,All Ages,Population of two or more races:,3 Years to < 5 Years,Michigan
+62,0,All Ages,Population of two or more races:,5 or More Years,Michigan
+63,8,0-5 Years,White alone,All Time,Michigan
+64,0,0-5 Years,White alone,< 30 Days,Michigan
+65,2,0-5 Years,White alone,30 to < 90 Days,Michigan
+66,1,0-5 Years,White alone,90 Days to < 6 Months,Michigan
+67,2,0-5 Years,White alone,6 Months to < 1 Year,Michigan
+68,2,0-5 Years,White alone,1 Year to < 2 Years,Michigan
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Michigan
+70,1,0-5 Years,White alone,3 Years to < 5 Years,Michigan
+71,0,0-5 Years,White alone,5 or More Years,Michigan
+72,1,0-5 Years,Black or African American alone,All Time,Michigan
+73,1,0-5 Years,Black or African American alone,< 30 Days,Michigan
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Michigan
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Michigan
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Michigan
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Michigan
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Michigan
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Michigan
+80,1,0-5 Years,Hispanic or Latino,All Time,Michigan
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Michigan
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Michigan
+83,1,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Michigan
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Michigan
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Michigan
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Michigan
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Michigan
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Michigan
+89,0,0-5 Years,Asian alone,All Time,Michigan
+90,0,0-5 Years,Asian alone,< 30 Days,Michigan
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Michigan
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Michigan
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Michigan
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Michigan
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Michigan
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Michigan
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Michigan
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Michigan
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Michigan
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Michigan
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Michigan
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Michigan
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Michigan
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Michigan
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Michigan
+106,0,0-5 Years,Population of two or more races:,All Time,Michigan
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Michigan
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Michigan
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Michigan
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Michigan
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Michigan
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Michigan
+113,3,6-10 Years,White alone,All Time,Michigan
+114,1,6-10 Years,White alone,< 30 Days,Michigan
+115,0,6-10 Years,White alone,30 to < 90 Days,Michigan
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Michigan
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Michigan
+118,1,6-10 Years,White alone,1 Year to < 2 Years,Michigan
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Michigan
+120,1,6-10 Years,White alone,3 Years to < 5 Years,Michigan
+121,0,6-10 Years,White alone,5 or More Years,Michigan
+122,3,6-10 Years,Black or African American alone,All Time,Michigan
+123,0,6-10 Years,Black or African American alone,< 30 Days,Michigan
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Michigan
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Michigan
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Michigan
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Michigan
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Michigan
+129,3,6-10 Years,Black or African American alone,3 Years to < 5 Years,Michigan
+130,0,6-10 Years,Black or African American alone,5 or More Years,Michigan
+131,1,6-10 Years,Hispanic or Latino,All Time,Michigan
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Michigan
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Michigan
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Michigan
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Michigan
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Michigan
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Michigan
+138,1,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Michigan
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Michigan
+140,0,6-10 Years,Asian alone,All Time,Michigan
+141,0,6-10 Years,Asian alone,< 30 Days,Michigan
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Michigan
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Michigan
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Michigan
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Michigan
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Michigan
+147,0,6-10 Years,Asian alone,5 or More Years,Michigan
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Michigan
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Michigan
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Michigan
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Michigan
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Michigan
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Michigan
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Michigan
+155,0,6-10 Years,Population of two or more races:,All Time,Michigan
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Michigan
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Michigan
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Michigan
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Michigan
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Michigan
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Michigan
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Michigan
+163,4,11-17 Years,White alone,All Time,Michigan
+164,1,11-17 Years,White alone,< 30 Days,Michigan
+165,1,11-17 Years,White alone,30 to < 90 Days,Michigan
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Michigan
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Michigan
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Michigan
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Michigan
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Michigan
+171,1,11-17 Years,White alone,5 or More Years,Michigan
+172,5,11-17 Years,Black or African American alone,All Time,Michigan
+173,1,11-17 Years,Black or African American alone,< 30 Days,Michigan
+174,1,11-17 Years,Black or African American alone,30 to < 90 Days,Michigan
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Michigan
+176,1,11-17 Years,Black or African American alone,6 Months to < 1 Year,Michigan
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Michigan
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Michigan
+179,1,11-17 Years,Black or African American alone,3 Years to < 5 Years,Michigan
+180,1,11-17 Years,Black or African American alone,5 or More Years,Michigan
+181,0,11-17 Years,Hispanic or Latino,All Time,Michigan
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Michigan
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Michigan
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Michigan
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Michigan
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Michigan
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Michigan
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Michigan
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Michigan
+190,0,11-17 Years,Asian alone,All Time,Michigan
+191,0,11-17 Years,Asian alone,< 30 Days,Michigan
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Michigan
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Michigan
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Michigan
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Michigan
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Michigan
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Michigan
+198,0,11-17 Years,Asian alone,5 or More Years,Michigan
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Michigan
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Michigan
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Michigan
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Michigan
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Michigan
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Michigan
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Michigan
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Michigan
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Michigan
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Michigan
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Michigan
+210,1,11-17 Years,Population of two or more races:,All Time,Michigan
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Michigan
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Michigan
+213,1,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Michigan
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Michigan
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Michigan
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Michigan
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Michigan
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Michigan
+219,102,18-34 Years,White alone,All Time,Michigan
+220,8,18-34 Years,White alone,< 30 Days,Michigan
+221,9,18-34 Years,White alone,30 to < 90 Days,Michigan
+222,18,18-34 Years,White alone,90 Days to < 6 Months,Michigan
+223,19,18-34 Years,White alone,6 Months to < 1 Year,Michigan
+224,26,18-34 Years,White alone,1 Year to < 2 Years,Michigan
+225,10,18-34 Years,White alone,2 Years to < 3 Years,Michigan
+226,7,18-34 Years,White alone,3 Years to < 5 Years,Michigan
+227,5,18-34 Years,White alone,5 or More Years,Michigan
+228,51,18-34 Years,Black or African American alone,All Time,Michigan
+229,4,18-34 Years,Black or African American alone,< 30 Days,Michigan
+230,8,18-34 Years,Black or African American alone,30 to < 90 Days,Michigan
+231,3,18-34 Years,Black or African American alone,90 Days to < 6 Months,Michigan
+232,8,18-34 Years,Black or African American alone,6 Months to < 1 Year,Michigan
+233,16,18-34 Years,Black or African American alone,1 Year to < 2 Years,Michigan
+234,7,18-34 Years,Black or African American alone,2 Years to < 3 Years,Michigan
+235,3,18-34 Years,Black or African American alone,3 Years to < 5 Years,Michigan
+236,2,18-34 Years,Black or African American alone,5 or More Years,Michigan
+237,13,18-34 Years,Hispanic or Latino,All Time,Michigan
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Michigan
+239,1,18-34 Years,Hispanic or Latino,30 to < 90 Days,Michigan
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Michigan
+241,2,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Michigan
+242,5,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Michigan
+243,5,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Michigan
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Michigan
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Michigan
+246,8,18-34 Years,Asian alone,All Time,Michigan
+247,0,18-34 Years,Asian alone,< 30 Days,Michigan
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Michigan
+249,2,18-34 Years,Asian alone,90 Days to < 6 Months,Michigan
+250,1,18-34 Years,Asian alone,6 Months to < 1 Year,Michigan
+251,3,18-34 Years,Asian alone,1 Year to < 2 Years,Michigan
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Michigan
+253,1,18-34 Years,Asian alone,3 Years to < 5 Years,Michigan
+254,0,18-34 Years,Asian alone,5 or More Years,Michigan
+255,1,18-34 Years,American Indian and Alaska Native alone,All Time,Michigan
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Michigan
+257,1,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Michigan
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Michigan
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Michigan
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Michigan
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Michigan
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Michigan
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Michigan
+264,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Michigan
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Michigan
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Michigan
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Michigan
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Michigan
+269,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Michigan
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Michigan
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Michigan
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Michigan
+273,3,18-34 Years,Population of two or more races:,All Time,Michigan
+274,1,18-34 Years,Population of two or more races:,< 30 Days,Michigan
+275,1,18-34 Years,Population of two or more races:,30 to < 90 Days,Michigan
+276,1,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Michigan
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Michigan
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Michigan
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Michigan
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Michigan
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Michigan
+282,266,35-49 Years,White alone,All Time,Michigan
+283,19,35-49 Years,White alone,< 30 Days,Michigan
+284,21,35-49 Years,White alone,30 to < 90 Days,Michigan
+285,33,35-49 Years,White alone,90 Days to < 6 Months,Michigan
+286,59,35-49 Years,White alone,6 Months to < 1 Year,Michigan
+287,49,35-49 Years,White alone,1 Year to < 2 Years,Michigan
+288,26,35-49 Years,White alone,2 Years to < 3 Years,Michigan
+289,37,35-49 Years,White alone,3 Years to < 5 Years,Michigan
+290,22,35-49 Years,White alone,5 or More Years,Michigan
+291,220,35-49 Years,Black or African American alone,All Time,Michigan
+292,12,35-49 Years,Black or African American alone,< 30 Days,Michigan
+293,21,35-49 Years,Black or African American alone,30 to < 90 Days,Michigan
+294,16,35-49 Years,Black or African American alone,90 Days to < 6 Months,Michigan
+295,38,35-49 Years,Black or African American alone,6 Months to < 1 Year,Michigan
+296,52,35-49 Years,Black or African American alone,1 Year to < 2 Years,Michigan
+297,29,35-49 Years,Black or African American alone,2 Years to < 3 Years,Michigan
+298,25,35-49 Years,Black or African American alone,3 Years to < 5 Years,Michigan
+299,27,35-49 Years,Black or African American alone,5 or More Years,Michigan
+300,41,35-49 Years,Hispanic or Latino,All Time,Michigan
+301,3,35-49 Years,Hispanic or Latino,< 30 Days,Michigan
+302,2,35-49 Years,Hispanic or Latino,30 to < 90 Days,Michigan
+303,4,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Michigan
+304,10,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Michigan
+305,6,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Michigan
+306,9,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Michigan
+307,4,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Michigan
+308,3,35-49 Years,Hispanic or Latino,5 or More Years,Michigan
+309,22,35-49 Years,Asian alone,All Time,Michigan
+310,0,35-49 Years,Asian alone,< 30 Days,Michigan
+311,2,35-49 Years,Asian alone,30 to < 90 Days,Michigan
+312,2,35-49 Years,Asian alone,90 Days to < 6 Months,Michigan
+313,4,35-49 Years,Asian alone,6 Months to < 1 Year,Michigan
+314,7,35-49 Years,Asian alone,1 Year to < 2 Years,Michigan
+315,4,35-49 Years,Asian alone,2 Years to < 3 Years,Michigan
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,Michigan
+317,2,35-49 Years,Asian alone,5 or More Years,Michigan
+318,3,35-49 Years,American Indian and Alaska Native alone,All Time,Michigan
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Michigan
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Michigan
+321,1,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Michigan
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Michigan
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Michigan
+324,2,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Michigan
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Michigan
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Michigan
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Michigan
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Michigan
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Michigan
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Michigan
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Michigan
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Michigan
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Michigan
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Michigan
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Michigan
+336,7,35-49 Years,Population of two or more races:,All Time,Michigan
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Michigan
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Michigan
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Michigan
+340,1,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Michigan
+341,1,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Michigan
+342,2,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Michigan
+343,3,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Michigan
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Michigan
+345,660,50-64 Years,White alone,All Time,Michigan
+346,33,50-64 Years,White alone,< 30 Days,Michigan
+347,65,50-64 Years,White alone,30 to < 90 Days,Michigan
+348,83,50-64 Years,White alone,90 Days to < 6 Months,Michigan
+349,108,50-64 Years,White alone,6 Months to < 1 Year,Michigan
+350,160,50-64 Years,White alone,1 Year to < 2 Years,Michigan
+351,73,50-64 Years,White alone,2 Years to < 3 Years,Michigan
+352,76,50-64 Years,White alone,3 Years to < 5 Years,Michigan
+353,62,50-64 Years,White alone,5 or More Years,Michigan
+354,332,50-64 Years,Black or African American alone,All Time,Michigan
+355,22,50-64 Years,Black or African American alone,< 30 Days,Michigan
+356,29,50-64 Years,Black or African American alone,30 to < 90 Days,Michigan
+357,37,50-64 Years,Black or African American alone,90 Days to < 6 Months,Michigan
+358,44,50-64 Years,Black or African American alone,6 Months to < 1 Year,Michigan
+359,91,50-64 Years,Black or African American alone,1 Year to < 2 Years,Michigan
+360,32,50-64 Years,Black or African American alone,2 Years to < 3 Years,Michigan
+361,42,50-64 Years,Black or African American alone,3 Years to < 5 Years,Michigan
+362,35,50-64 Years,Black or African American alone,5 or More Years,Michigan
+363,41,50-64 Years,Hispanic or Latino,All Time,Michigan
+364,1,50-64 Years,Hispanic or Latino,< 30 Days,Michigan
+365,5,50-64 Years,Hispanic or Latino,30 to < 90 Days,Michigan
+366,5,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Michigan
+367,8,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Michigan
+368,7,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Michigan
+369,6,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Michigan
+370,9,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Michigan
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Michigan
+372,28,50-64 Years,Asian alone,All Time,Michigan
+373,1,50-64 Years,Asian alone,< 30 Days,Michigan
+374,2,50-64 Years,Asian alone,30 to < 90 Days,Michigan
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,Michigan
+376,4,50-64 Years,Asian alone,6 Months to < 1 Year,Michigan
+377,13,50-64 Years,Asian alone,1 Year to < 2 Years,Michigan
+378,4,50-64 Years,Asian alone,2 Years to < 3 Years,Michigan
+379,2,50-64 Years,Asian alone,3 Years to < 5 Years,Michigan
+380,1,50-64 Years,Asian alone,5 or More Years,Michigan
+381,11,50-64 Years,American Indian and Alaska Native alone,All Time,Michigan
+382,2,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Michigan
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Michigan
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Michigan
+385,4,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Michigan
+386,1,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Michigan
+387,2,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Michigan
+388,2,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Michigan
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Michigan
+390,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Michigan
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Michigan
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Michigan
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Michigan
+394,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Michigan
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Michigan
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Michigan
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Michigan
+398,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Michigan
+399,10,50-64 Years,Population of two or more races:,All Time,Michigan
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Michigan
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Michigan
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Michigan
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Michigan
+404,4,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Michigan
+405,3,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Michigan
+406,2,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Michigan
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Michigan
+408,554,65 and Older,White alone,All Time,Michigan
+409,25,65 and Older,White alone,< 30 Days,Michigan
+410,36,65 and Older,White alone,30 to < 90 Days,Michigan
+411,67,65 and Older,White alone,90 Days to < 6 Months,Michigan
+412,98,65 and Older,White alone,6 Months to < 1 Year,Michigan
+413,131,65 and Older,White alone,1 Year to < 2 Years,Michigan
+414,77,65 and Older,White alone,2 Years to < 3 Years,Michigan
+415,75,65 and Older,White alone,3 Years to < 5 Years,Michigan
+416,45,65 and Older,White alone,5 or More Years,Michigan
+417,164,65 and Older,Black or African American alone,All Time,Michigan
+418,6,65 and Older,Black or African American alone,< 30 Days,Michigan
+419,11,65 and Older,Black or African American alone,30 to < 90 Days,Michigan
+420,12,65 and Older,Black or African American alone,90 Days to < 6 Months,Michigan
+421,26,65 and Older,Black or African American alone,6 Months to < 1 Year,Michigan
+422,44,65 and Older,Black or African American alone,1 Year to < 2 Years,Michigan
+423,22,65 and Older,Black or African American alone,2 Years to < 3 Years,Michigan
+424,16,65 and Older,Black or African American alone,3 Years to < 5 Years,Michigan
+425,27,65 and Older,Black or African American alone,5 or More Years,Michigan
+426,14,65 and Older,Hispanic or Latino,All Time,Michigan
+427,2,65 and Older,Hispanic or Latino,< 30 Days,Michigan
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Michigan
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Michigan
+430,2,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Michigan
+431,4,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Michigan
+432,2,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Michigan
+433,1,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Michigan
+434,3,65 and Older,Hispanic or Latino,5 or More Years,Michigan
+435,26,65 and Older,Asian alone,All Time,Michigan
+436,0,65 and Older,Asian alone,< 30 Days,Michigan
+437,2,65 and Older,Asian alone,30 to < 90 Days,Michigan
+438,3,65 and Older,Asian alone,90 Days to < 6 Months,Michigan
+439,8,65 and Older,Asian alone,6 Months to < 1 Year,Michigan
+440,7,65 and Older,Asian alone,1 Year to < 2 Years,Michigan
+441,2,65 and Older,Asian alone,2 Years to < 3 Years,Michigan
+442,3,65 and Older,Asian alone,3 Years to < 5 Years,Michigan
+443,1,65 and Older,Asian alone,5 or More Years,Michigan
+444,8,65 and Older,American Indian and Alaska Native alone,All Time,Michigan
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Michigan
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Michigan
+447,1,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Michigan
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Michigan
+449,2,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Michigan
+450,1,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Michigan
+451,1,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Michigan
+452,2,65 and Older,American Indian and Alaska Native alone,5 or More Years,Michigan
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Michigan
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Michigan
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Michigan
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Michigan
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Michigan
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Michigan
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Michigan
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Michigan
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Michigan
+462,5,65 and Older,Population of two or more races:,All Time,Michigan
+463,0,65 and Older,Population of two or more races:,< 30 Days,Michigan
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Michigan
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Michigan
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Michigan
+467,2,65 and Older,Population of two or more races:,1 Year to < 2 Years,Michigan
+468,2,65 and Older,Population of two or more races:,2 Years to < 3 Years,Michigan
+469,1,65 and Older,Population of two or more races:,3 Years to < 5 Years,Michigan
+470,0,65 and Older,Population of two or more races:,5 or More Years,Michigan

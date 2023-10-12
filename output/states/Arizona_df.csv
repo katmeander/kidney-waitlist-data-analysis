@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,451,All Ages,White alone,All Time,Arizona
+1,36,All Ages,White alone,< 30 Days,Arizona
+2,49,All Ages,White alone,30 to < 90 Days,Arizona
+3,67,All Ages,White alone,90 Days to < 6 Months,Arizona
+4,84,All Ages,White alone,6 Months to < 1 Year,Arizona
+5,71,All Ages,White alone,1 Year to < 2 Years,Arizona
+6,57,All Ages,White alone,2 Years to < 3 Years,Arizona
+7,52,All Ages,White alone,3 Years to < 5 Years,Arizona
+8,35,All Ages,White alone,5 or More Years,Arizona
+9,126,All Ages,Black or African American alone,All Time,Arizona
+10,8,All Ages,Black or African American alone,< 30 Days,Arizona
+11,12,All Ages,Black or African American alone,30 to < 90 Days,Arizona
+12,18,All Ages,Black or African American alone,90 Days to < 6 Months,Arizona
+13,20,All Ages,Black or African American alone,6 Months to < 1 Year,Arizona
+14,32,All Ages,Black or African American alone,1 Year to < 2 Years,Arizona
+15,14,All Ages,Black or African American alone,2 Years to < 3 Years,Arizona
+16,14,All Ages,Black or African American alone,3 Years to < 5 Years,Arizona
+17,8,All Ages,Black or African American alone,5 or More Years,Arizona
+18,401,All Ages,Hispanic or Latino,All Time,Arizona
+19,31,All Ages,Hispanic or Latino,< 30 Days,Arizona
+20,37,All Ages,Hispanic or Latino,30 to < 90 Days,Arizona
+21,55,All Ages,Hispanic or Latino,90 Days to < 6 Months,Arizona
+22,66,All Ages,Hispanic or Latino,6 Months to < 1 Year,Arizona
+23,85,All Ages,Hispanic or Latino,1 Year to < 2 Years,Arizona
+24,35,All Ages,Hispanic or Latino,2 Years to < 3 Years,Arizona
+25,41,All Ages,Hispanic or Latino,3 Years to < 5 Years,Arizona
+26,51,All Ages,Hispanic or Latino,5 or More Years,Arizona
+27,47,All Ages,Asian alone,All Time,Arizona
+28,3,All Ages,Asian alone,< 30 Days,Arizona
+29,6,All Ages,Asian alone,30 to < 90 Days,Arizona
+30,4,All Ages,Asian alone,90 Days to < 6 Months,Arizona
+31,12,All Ages,Asian alone,6 Months to < 1 Year,Arizona
+32,5,All Ages,Asian alone,1 Year to < 2 Years,Arizona
+33,8,All Ages,Asian alone,2 Years to < 3 Years,Arizona
+34,7,All Ages,Asian alone,3 Years to < 5 Years,Arizona
+35,2,All Ages,Asian alone,5 or More Years,Arizona
+36,116,All Ages,American Indian and Alaska Native alone,All Time,Arizona
+37,2,All Ages,American Indian and Alaska Native alone,< 30 Days,Arizona
+38,9,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Arizona
+39,11,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Arizona
+40,18,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Arizona
+41,23,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Arizona
+42,12,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Arizona
+43,17,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Arizona
+44,24,All Ages,American Indian and Alaska Native alone,5 or More Years,Arizona
+45,4,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Arizona
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arizona
+47,2,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arizona
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arizona
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arizona
+50,1,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arizona
+51,1,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arizona
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arizona
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arizona
+54,11,All Ages,Population of two or more races:,All Time,Arizona
+55,1,All Ages,Population of two or more races:,< 30 Days,Arizona
+56,1,All Ages,Population of two or more races:,30 to < 90 Days,Arizona
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Arizona
+58,6,All Ages,Population of two or more races:,6 Months to < 1 Year,Arizona
+59,1,All Ages,Population of two or more races:,1 Year to < 2 Years,Arizona
+60,1,All Ages,Population of two or more races:,2 Years to < 3 Years,Arizona
+61,1,All Ages,Population of two or more races:,3 Years to < 5 Years,Arizona
+62,0,All Ages,Population of two or more races:,5 or More Years,Arizona
+63,10,0-5 Years,White alone,All Time,Arizona
+64,0,0-5 Years,White alone,< 30 Days,Arizona
+65,4,0-5 Years,White alone,30 to < 90 Days,Arizona
+66,3,0-5 Years,White alone,90 Days to < 6 Months,Arizona
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Arizona
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Arizona
+69,3,0-5 Years,White alone,2 Years to < 3 Years,Arizona
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Arizona
+71,0,0-5 Years,White alone,5 or More Years,Arizona
+72,1,0-5 Years,Black or African American alone,All Time,Arizona
+73,1,0-5 Years,Black or African American alone,< 30 Days,Arizona
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Arizona
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Arizona
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Arizona
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Arizona
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Arizona
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Arizona
+80,7,0-5 Years,Hispanic or Latino,All Time,Arizona
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Arizona
+82,2,0-5 Years,Hispanic or Latino,30 to < 90 Days,Arizona
+83,3,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Arizona
+84,1,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Arizona
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Arizona
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Arizona
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Arizona
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Arizona
+89,0,0-5 Years,Asian alone,All Time,Arizona
+90,0,0-5 Years,Asian alone,< 30 Days,Arizona
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Arizona
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Arizona
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Arizona
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Arizona
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Arizona
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Arizona
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Arizona
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Arizona
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Arizona
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arizona
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arizona
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arizona
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arizona
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arizona
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arizona
+106,2,0-5 Years,Population of two or more races:,All Time,Arizona
+107,1,0-5 Years,Population of two or more races:,< 30 Days,Arizona
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Arizona
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Arizona
+110,1,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Arizona
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Arizona
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Arizona
+113,0,6-10 Years,White alone,All Time,Arizona
+114,0,6-10 Years,White alone,< 30 Days,Arizona
+115,0,6-10 Years,White alone,30 to < 90 Days,Arizona
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Arizona
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Arizona
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Arizona
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Arizona
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Arizona
+121,0,6-10 Years,White alone,5 or More Years,Arizona
+122,2,6-10 Years,Black or African American alone,All Time,Arizona
+123,0,6-10 Years,Black or African American alone,< 30 Days,Arizona
+124,1,6-10 Years,Black or African American alone,30 to < 90 Days,Arizona
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Arizona
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Arizona
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Arizona
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Arizona
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Arizona
+130,0,6-10 Years,Black or African American alone,5 or More Years,Arizona
+131,2,6-10 Years,Hispanic or Latino,All Time,Arizona
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Arizona
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Arizona
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Arizona
+135,1,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Arizona
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Arizona
+137,1,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Arizona
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Arizona
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Arizona
+140,0,6-10 Years,Asian alone,All Time,Arizona
+141,0,6-10 Years,Asian alone,< 30 Days,Arizona
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Arizona
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Arizona
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Arizona
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Arizona
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Arizona
+147,0,6-10 Years,Asian alone,5 or More Years,Arizona
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Arizona
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arizona
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arizona
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arizona
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arizona
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arizona
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arizona
+155,0,6-10 Years,Population of two or more races:,All Time,Arizona
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Arizona
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Arizona
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Arizona
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Arizona
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Arizona
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Arizona
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Arizona
+163,1,11-17 Years,White alone,All Time,Arizona
+164,0,11-17 Years,White alone,< 30 Days,Arizona
+165,1,11-17 Years,White alone,30 to < 90 Days,Arizona
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Arizona
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Arizona
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Arizona
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Arizona
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Arizona
+171,0,11-17 Years,White alone,5 or More Years,Arizona
+172,1,11-17 Years,Black or African American alone,All Time,Arizona
+173,0,11-17 Years,Black or African American alone,< 30 Days,Arizona
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Arizona
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Arizona
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Arizona
+177,1,11-17 Years,Black or African American alone,1 Year to < 2 Years,Arizona
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Arizona
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Arizona
+180,0,11-17 Years,Black or African American alone,5 or More Years,Arizona
+181,7,11-17 Years,Hispanic or Latino,All Time,Arizona
+182,1,11-17 Years,Hispanic or Latino,< 30 Days,Arizona
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,Arizona
+184,2,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Arizona
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Arizona
+186,2,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Arizona
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Arizona
+188,1,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Arizona
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Arizona
+190,2,11-17 Years,Asian alone,All Time,Arizona
+191,0,11-17 Years,Asian alone,< 30 Days,Arizona
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Arizona
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Arizona
+194,2,11-17 Years,Asian alone,6 Months to < 1 Year,Arizona
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Arizona
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Arizona
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Arizona
+198,0,11-17 Years,Asian alone,5 or More Years,Arizona
+199,1,11-17 Years,American Indian and Alaska Native alone,All Time,Arizona
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arizona
+201,1,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arizona
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arizona
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Arizona
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arizona
+205,1,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arizona
+206,1,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arizona
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arizona
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arizona
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arizona
+210,1,11-17 Years,Population of two or more races:,All Time,Arizona
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Arizona
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Arizona
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Arizona
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Arizona
+215,1,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Arizona
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Arizona
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Arizona
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Arizona
+219,35,18-34 Years,White alone,All Time,Arizona
+220,3,18-34 Years,White alone,< 30 Days,Arizona
+221,2,18-34 Years,White alone,30 to < 90 Days,Arizona
+222,10,18-34 Years,White alone,90 Days to < 6 Months,Arizona
+223,8,18-34 Years,White alone,6 Months to < 1 Year,Arizona
+224,5,18-34 Years,White alone,1 Year to < 2 Years,Arizona
+225,2,18-34 Years,White alone,2 Years to < 3 Years,Arizona
+226,2,18-34 Years,White alone,3 Years to < 5 Years,Arizona
+227,3,18-34 Years,White alone,5 or More Years,Arizona
+228,10,18-34 Years,Black or African American alone,All Time,Arizona
+229,0,18-34 Years,Black or African American alone,< 30 Days,Arizona
+230,2,18-34 Years,Black or African American alone,30 to < 90 Days,Arizona
+231,2,18-34 Years,Black or African American alone,90 Days to < 6 Months,Arizona
+232,1,18-34 Years,Black or African American alone,6 Months to < 1 Year,Arizona
+233,3,18-34 Years,Black or African American alone,1 Year to < 2 Years,Arizona
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Arizona
+235,2,18-34 Years,Black or African American alone,3 Years to < 5 Years,Arizona
+236,0,18-34 Years,Black or African American alone,5 or More Years,Arizona
+237,52,18-34 Years,Hispanic or Latino,All Time,Arizona
+238,7,18-34 Years,Hispanic or Latino,< 30 Days,Arizona
+239,4,18-34 Years,Hispanic or Latino,30 to < 90 Days,Arizona
+240,7,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Arizona
+241,12,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Arizona
+242,10,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Arizona
+243,5,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Arizona
+244,3,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Arizona
+245,4,18-34 Years,Hispanic or Latino,5 or More Years,Arizona
+246,6,18-34 Years,Asian alone,All Time,Arizona
+247,1,18-34 Years,Asian alone,< 30 Days,Arizona
+248,1,18-34 Years,Asian alone,30 to < 90 Days,Arizona
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Arizona
+250,2,18-34 Years,Asian alone,6 Months to < 1 Year,Arizona
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Arizona
+252,2,18-34 Years,Asian alone,2 Years to < 3 Years,Arizona
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Arizona
+254,0,18-34 Years,Asian alone,5 or More Years,Arizona
+255,9,18-34 Years,American Indian and Alaska Native alone,All Time,Arizona
+256,1,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Arizona
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Arizona
+258,1,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arizona
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arizona
+260,4,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arizona
+261,2,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Arizona
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arizona
+263,1,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Arizona
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arizona
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arizona
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arizona
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arizona
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arizona
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arizona
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arizona
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arizona
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arizona
+273,1,18-34 Years,Population of two or more races:,All Time,Arizona
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Arizona
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Arizona
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Arizona
+277,1,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Arizona
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Arizona
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Arizona
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Arizona
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Arizona
+282,83,35-49 Years,White alone,All Time,Arizona
+283,11,35-49 Years,White alone,< 30 Days,Arizona
+284,5,35-49 Years,White alone,30 to < 90 Days,Arizona
+285,9,35-49 Years,White alone,90 Days to < 6 Months,Arizona
+286,22,35-49 Years,White alone,6 Months to < 1 Year,Arizona
+287,9,35-49 Years,White alone,1 Year to < 2 Years,Arizona
+288,11,35-49 Years,White alone,2 Years to < 3 Years,Arizona
+289,10,35-49 Years,White alone,3 Years to < 5 Years,Arizona
+290,6,35-49 Years,White alone,5 or More Years,Arizona
+291,27,35-49 Years,Black or African American alone,All Time,Arizona
+292,2,35-49 Years,Black or African American alone,< 30 Days,Arizona
+293,1,35-49 Years,Black or African American alone,30 to < 90 Days,Arizona
+294,2,35-49 Years,Black or African American alone,90 Days to < 6 Months,Arizona
+295,5,35-49 Years,Black or African American alone,6 Months to < 1 Year,Arizona
+296,8,35-49 Years,Black or African American alone,1 Year to < 2 Years,Arizona
+297,4,35-49 Years,Black or African American alone,2 Years to < 3 Years,Arizona
+298,4,35-49 Years,Black or African American alone,3 Years to < 5 Years,Arizona
+299,1,35-49 Years,Black or African American alone,5 or More Years,Arizona
+300,85,35-49 Years,Hispanic or Latino,All Time,Arizona
+301,9,35-49 Years,Hispanic or Latino,< 30 Days,Arizona
+302,4,35-49 Years,Hispanic or Latino,30 to < 90 Days,Arizona
+303,10,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Arizona
+304,11,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Arizona
+305,25,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Arizona
+306,9,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Arizona
+307,10,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Arizona
+308,7,35-49 Years,Hispanic or Latino,5 or More Years,Arizona
+309,9,35-49 Years,Asian alone,All Time,Arizona
+310,0,35-49 Years,Asian alone,< 30 Days,Arizona
+311,1,35-49 Years,Asian alone,30 to < 90 Days,Arizona
+312,1,35-49 Years,Asian alone,90 Days to < 6 Months,Arizona
+313,3,35-49 Years,Asian alone,6 Months to < 1 Year,Arizona
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,Arizona
+315,1,35-49 Years,Asian alone,2 Years to < 3 Years,Arizona
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,Arizona
+317,1,35-49 Years,Asian alone,5 or More Years,Arizona
+318,42,35-49 Years,American Indian and Alaska Native alone,All Time,Arizona
+319,1,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Arizona
+320,4,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Arizona
+321,6,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arizona
+322,9,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arizona
+323,5,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arizona
+324,4,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Arizona
+325,6,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arizona
+326,7,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Arizona
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arizona
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arizona
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arizona
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arizona
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arizona
+332,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arizona
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arizona
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arizona
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arizona
+336,2,35-49 Years,Population of two or more races:,All Time,Arizona
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Arizona
+338,1,35-49 Years,Population of two or more races:,30 to < 90 Days,Arizona
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Arizona
+340,1,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Arizona
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Arizona
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Arizona
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Arizona
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Arizona
+345,169,50-64 Years,White alone,All Time,Arizona
+346,11,50-64 Years,White alone,< 30 Days,Arizona
+347,23,50-64 Years,White alone,30 to < 90 Days,Arizona
+348,20,50-64 Years,White alone,90 Days to < 6 Months,Arizona
+349,30,50-64 Years,White alone,6 Months to < 1 Year,Arizona
+350,32,50-64 Years,White alone,1 Year to < 2 Years,Arizona
+351,20,50-64 Years,White alone,2 Years to < 3 Years,Arizona
+352,19,50-64 Years,White alone,3 Years to < 5 Years,Arizona
+353,14,50-64 Years,White alone,5 or More Years,Arizona
+354,61,50-64 Years,Black or African American alone,All Time,Arizona
+355,4,50-64 Years,Black or African American alone,< 30 Days,Arizona
+356,3,50-64 Years,Black or African American alone,30 to < 90 Days,Arizona
+357,8,50-64 Years,Black or African American alone,90 Days to < 6 Months,Arizona
+358,13,50-64 Years,Black or African American alone,6 Months to < 1 Year,Arizona
+359,14,50-64 Years,Black or African American alone,1 Year to < 2 Years,Arizona
+360,9,50-64 Years,Black or African American alone,2 Years to < 3 Years,Arizona
+361,7,50-64 Years,Black or African American alone,3 Years to < 5 Years,Arizona
+362,3,50-64 Years,Black or African American alone,5 or More Years,Arizona
+363,173,50-64 Years,Hispanic or Latino,All Time,Arizona
+364,9,50-64 Years,Hispanic or Latino,< 30 Days,Arizona
+365,18,50-64 Years,Hispanic or Latino,30 to < 90 Days,Arizona
+366,23,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Arizona
+367,33,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Arizona
+368,33,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Arizona
+369,11,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Arizona
+370,21,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Arizona
+371,25,50-64 Years,Hispanic or Latino,5 or More Years,Arizona
+372,23,50-64 Years,Asian alone,All Time,Arizona
+373,0,50-64 Years,Asian alone,< 30 Days,Arizona
+374,3,50-64 Years,Asian alone,30 to < 90 Days,Arizona
+375,2,50-64 Years,Asian alone,90 Days to < 6 Months,Arizona
+376,4,50-64 Years,Asian alone,6 Months to < 1 Year,Arizona
+377,3,50-64 Years,Asian alone,1 Year to < 2 Years,Arizona
+378,5,50-64 Years,Asian alone,2 Years to < 3 Years,Arizona
+379,6,50-64 Years,Asian alone,3 Years to < 5 Years,Arizona
+380,0,50-64 Years,Asian alone,5 or More Years,Arizona
+381,48,50-64 Years,American Indian and Alaska Native alone,All Time,Arizona
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Arizona
+383,4,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Arizona
+384,3,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arizona
+385,6,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arizona
+386,13,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arizona
+387,6,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Arizona
+388,8,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arizona
+389,8,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Arizona
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arizona
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arizona
+392,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arizona
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arizona
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arizona
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arizona
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arizona
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arizona
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arizona
+399,5,50-64 Years,Population of two or more races:,All Time,Arizona
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Arizona
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Arizona
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Arizona
+403,3,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Arizona
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Arizona
+405,1,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Arizona
+406,1,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Arizona
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Arizona
+408,153,65 and Older,White alone,All Time,Arizona
+409,11,65 and Older,White alone,< 30 Days,Arizona
+410,14,65 and Older,White alone,30 to < 90 Days,Arizona
+411,25,65 and Older,White alone,90 Days to < 6 Months,Arizona
+412,24,65 and Older,White alone,6 Months to < 1 Year,Arizona
+413,25,65 and Older,White alone,1 Year to < 2 Years,Arizona
+414,21,65 and Older,White alone,2 Years to < 3 Years,Arizona
+415,21,65 and Older,White alone,3 Years to < 5 Years,Arizona
+416,12,65 and Older,White alone,5 or More Years,Arizona
+417,24,65 and Older,Black or African American alone,All Time,Arizona
+418,1,65 and Older,Black or African American alone,< 30 Days,Arizona
+419,5,65 and Older,Black or African American alone,30 to < 90 Days,Arizona
+420,6,65 and Older,Black or African American alone,90 Days to < 6 Months,Arizona
+421,1,65 and Older,Black or African American alone,6 Months to < 1 Year,Arizona
+422,5,65 and Older,Black or African American alone,1 Year to < 2 Years,Arizona
+423,1,65 and Older,Black or African American alone,2 Years to < 3 Years,Arizona
+424,1,65 and Older,Black or African American alone,3 Years to < 5 Years,Arizona
+425,4,65 and Older,Black or African American alone,5 or More Years,Arizona
+426,75,65 and Older,Hispanic or Latino,All Time,Arizona
+427,5,65 and Older,Hispanic or Latino,< 30 Days,Arizona
+428,8,65 and Older,Hispanic or Latino,30 to < 90 Days,Arizona
+429,10,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Arizona
+430,8,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Arizona
+431,14,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Arizona
+432,9,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Arizona
+433,6,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Arizona
+434,15,65 and Older,Hispanic or Latino,5 or More Years,Arizona
+435,7,65 and Older,Asian alone,All Time,Arizona
+436,2,65 and Older,Asian alone,< 30 Days,Arizona
+437,1,65 and Older,Asian alone,30 to < 90 Days,Arizona
+438,1,65 and Older,Asian alone,90 Days to < 6 Months,Arizona
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,Arizona
+440,1,65 and Older,Asian alone,1 Year to < 2 Years,Arizona
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Arizona
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Arizona
+443,1,65 and Older,Asian alone,5 or More Years,Arizona
+444,16,65 and Older,American Indian and Alaska Native alone,All Time,Arizona
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Arizona
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Arizona
+447,1,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Arizona
+448,2,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Arizona
+449,1,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Arizona
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Arizona
+451,3,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Arizona
+452,8,65 and Older,American Indian and Alaska Native alone,5 or More Years,Arizona
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Arizona
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arizona
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arizona
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arizona
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arizona
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arizona
+459,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arizona
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arizona
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arizona
+462,0,65 and Older,Population of two or more races:,All Time,Arizona
+463,0,65 and Older,Population of two or more races:,< 30 Days,Arizona
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Arizona
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Arizona
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Arizona
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Arizona
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Arizona
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Arizona
+470,0,65 and Older,Population of two or more races:,5 or More Years,Arizona

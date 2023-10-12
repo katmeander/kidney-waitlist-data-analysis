@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,606,All Ages,White alone,All Time,Connecticut
+1,26,All Ages,White alone,< 30 Days,Connecticut
+2,57,All Ages,White alone,30 to < 90 Days,Connecticut
+3,54,All Ages,White alone,90 Days to < 6 Months,Connecticut
+4,102,All Ages,White alone,6 Months to < 1 Year,Connecticut
+5,137,All Ages,White alone,1 Year to < 2 Years,Connecticut
+6,80,All Ages,White alone,2 Years to < 3 Years,Connecticut
+7,88,All Ages,White alone,3 Years to < 5 Years,Connecticut
+8,62,All Ages,White alone,5 or More Years,Connecticut
+9,374,All Ages,Black or African American alone,All Time,Connecticut
+10,9,All Ages,Black or African American alone,< 30 Days,Connecticut
+11,20,All Ages,Black or African American alone,30 to < 90 Days,Connecticut
+12,37,All Ages,Black or African American alone,90 Days to < 6 Months,Connecticut
+13,57,All Ages,Black or African American alone,6 Months to < 1 Year,Connecticut
+14,90,All Ages,Black or African American alone,1 Year to < 2 Years,Connecticut
+15,48,All Ages,Black or African American alone,2 Years to < 3 Years,Connecticut
+16,64,All Ages,Black or African American alone,3 Years to < 5 Years,Connecticut
+17,49,All Ages,Black or African American alone,5 or More Years,Connecticut
+18,209,All Ages,Hispanic or Latino,All Time,Connecticut
+19,7,All Ages,Hispanic or Latino,< 30 Days,Connecticut
+20,15,All Ages,Hispanic or Latino,30 to < 90 Days,Connecticut
+21,24,All Ages,Hispanic or Latino,90 Days to < 6 Months,Connecticut
+22,27,All Ages,Hispanic or Latino,6 Months to < 1 Year,Connecticut
+23,52,All Ages,Hispanic or Latino,1 Year to < 2 Years,Connecticut
+24,34,All Ages,Hispanic or Latino,2 Years to < 3 Years,Connecticut
+25,34,All Ages,Hispanic or Latino,3 Years to < 5 Years,Connecticut
+26,16,All Ages,Hispanic or Latino,5 or More Years,Connecticut
+27,70,All Ages,Asian alone,All Time,Connecticut
+28,1,All Ages,Asian alone,< 30 Days,Connecticut
+29,5,All Ages,Asian alone,30 to < 90 Days,Connecticut
+30,7,All Ages,Asian alone,90 Days to < 6 Months,Connecticut
+31,10,All Ages,Asian alone,6 Months to < 1 Year,Connecticut
+32,18,All Ages,Asian alone,1 Year to < 2 Years,Connecticut
+33,10,All Ages,Asian alone,2 Years to < 3 Years,Connecticut
+34,11,All Ages,Asian alone,3 Years to < 5 Years,Connecticut
+35,8,All Ages,Asian alone,5 or More Years,Connecticut
+36,2,All Ages,American Indian and Alaska Native alone,All Time,Connecticut
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Connecticut
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Connecticut
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Connecticut
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Connecticut
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Connecticut
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Connecticut
+43,1,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Connecticut
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Connecticut
+45,1,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Connecticut
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Connecticut
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Connecticut
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Connecticut
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Connecticut
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Connecticut
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Connecticut
+52,1,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Connecticut
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Connecticut
+54,23,All Ages,Population of two or more races:,All Time,Connecticut
+55,2,All Ages,Population of two or more races:,< 30 Days,Connecticut
+56,2,All Ages,Population of two or more races:,30 to < 90 Days,Connecticut
+57,1,All Ages,Population of two or more races:,90 Days to < 6 Months,Connecticut
+58,3,All Ages,Population of two or more races:,6 Months to < 1 Year,Connecticut
+59,4,All Ages,Population of two or more races:,1 Year to < 2 Years,Connecticut
+60,6,All Ages,Population of two or more races:,2 Years to < 3 Years,Connecticut
+61,3,All Ages,Population of two or more races:,3 Years to < 5 Years,Connecticut
+62,2,All Ages,Population of two or more races:,5 or More Years,Connecticut
+63,2,0-5 Years,White alone,All Time,Connecticut
+64,0,0-5 Years,White alone,< 30 Days,Connecticut
+65,1,0-5 Years,White alone,30 to < 90 Days,Connecticut
+66,1,0-5 Years,White alone,90 Days to < 6 Months,Connecticut
+67,0,0-5 Years,White alone,6 Months to < 1 Year,Connecticut
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Connecticut
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Connecticut
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Connecticut
+71,0,0-5 Years,White alone,5 or More Years,Connecticut
+72,0,0-5 Years,Black or African American alone,All Time,Connecticut
+73,0,0-5 Years,Black or African American alone,< 30 Days,Connecticut
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Connecticut
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Connecticut
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Connecticut
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Connecticut
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Connecticut
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Connecticut
+80,3,0-5 Years,Hispanic or Latino,All Time,Connecticut
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Connecticut
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Connecticut
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Connecticut
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Connecticut
+85,3,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Connecticut
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Connecticut
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Connecticut
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Connecticut
+89,0,0-5 Years,Asian alone,All Time,Connecticut
+90,0,0-5 Years,Asian alone,< 30 Days,Connecticut
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Connecticut
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Connecticut
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Connecticut
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Connecticut
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Connecticut
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Connecticut
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Connecticut
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Connecticut
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Connecticut
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Connecticut
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Connecticut
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Connecticut
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Connecticut
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Connecticut
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Connecticut
+106,0,0-5 Years,Population of two or more races:,All Time,Connecticut
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Connecticut
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Connecticut
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Connecticut
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Connecticut
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Connecticut
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Connecticut
+113,1,6-10 Years,White alone,All Time,Connecticut
+114,0,6-10 Years,White alone,< 30 Days,Connecticut
+115,0,6-10 Years,White alone,30 to < 90 Days,Connecticut
+116,1,6-10 Years,White alone,90 Days to < 6 Months,Connecticut
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Connecticut
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Connecticut
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Connecticut
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Connecticut
+121,0,6-10 Years,White alone,5 or More Years,Connecticut
+122,0,6-10 Years,Black or African American alone,All Time,Connecticut
+123,0,6-10 Years,Black or African American alone,< 30 Days,Connecticut
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Connecticut
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Connecticut
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Connecticut
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Connecticut
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Connecticut
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Connecticut
+130,0,6-10 Years,Black or African American alone,5 or More Years,Connecticut
+131,2,6-10 Years,Hispanic or Latino,All Time,Connecticut
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Connecticut
+133,1,6-10 Years,Hispanic or Latino,30 to < 90 Days,Connecticut
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Connecticut
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Connecticut
+136,1,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Connecticut
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Connecticut
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Connecticut
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Connecticut
+140,0,6-10 Years,Asian alone,All Time,Connecticut
+141,0,6-10 Years,Asian alone,< 30 Days,Connecticut
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Connecticut
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Connecticut
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Connecticut
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Connecticut
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Connecticut
+147,0,6-10 Years,Asian alone,5 or More Years,Connecticut
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Connecticut
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Connecticut
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Connecticut
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Connecticut
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Connecticut
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Connecticut
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Connecticut
+155,1,6-10 Years,Population of two or more races:,All Time,Connecticut
+156,1,6-10 Years,Population of two or more races:,< 30 Days,Connecticut
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Connecticut
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Connecticut
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Connecticut
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Connecticut
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Connecticut
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Connecticut
+163,3,11-17 Years,White alone,All Time,Connecticut
+164,0,11-17 Years,White alone,< 30 Days,Connecticut
+165,1,11-17 Years,White alone,30 to < 90 Days,Connecticut
+166,1,11-17 Years,White alone,90 Days to < 6 Months,Connecticut
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Connecticut
+168,0,11-17 Years,White alone,1 Year to < 2 Years,Connecticut
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Connecticut
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Connecticut
+171,1,11-17 Years,White alone,5 or More Years,Connecticut
+172,0,11-17 Years,Black or African American alone,All Time,Connecticut
+173,0,11-17 Years,Black or African American alone,< 30 Days,Connecticut
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Connecticut
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Connecticut
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Connecticut
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Connecticut
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Connecticut
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Connecticut
+180,0,11-17 Years,Black or African American alone,5 or More Years,Connecticut
+181,2,11-17 Years,Hispanic or Latino,All Time,Connecticut
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Connecticut
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,Connecticut
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Connecticut
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Connecticut
+186,1,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Connecticut
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Connecticut
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Connecticut
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Connecticut
+190,0,11-17 Years,Asian alone,All Time,Connecticut
+191,0,11-17 Years,Asian alone,< 30 Days,Connecticut
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Connecticut
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Connecticut
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Connecticut
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Connecticut
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Connecticut
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Connecticut
+198,0,11-17 Years,Asian alone,5 or More Years,Connecticut
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Connecticut
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Connecticut
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Connecticut
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Connecticut
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Connecticut
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Connecticut
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Connecticut
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Connecticut
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Connecticut
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Connecticut
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Connecticut
+210,1,11-17 Years,Population of two or more races:,All Time,Connecticut
+211,1,11-17 Years,Population of two or more races:,< 30 Days,Connecticut
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Connecticut
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Connecticut
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Connecticut
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Connecticut
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Connecticut
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Connecticut
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Connecticut
+219,32,18-34 Years,White alone,All Time,Connecticut
+220,0,18-34 Years,White alone,< 30 Days,Connecticut
+221,5,18-34 Years,White alone,30 to < 90 Days,Connecticut
+222,3,18-34 Years,White alone,90 Days to < 6 Months,Connecticut
+223,10,18-34 Years,White alone,6 Months to < 1 Year,Connecticut
+224,6,18-34 Years,White alone,1 Year to < 2 Years,Connecticut
+225,4,18-34 Years,White alone,2 Years to < 3 Years,Connecticut
+226,2,18-34 Years,White alone,3 Years to < 5 Years,Connecticut
+227,2,18-34 Years,White alone,5 or More Years,Connecticut
+228,29,18-34 Years,Black or African American alone,All Time,Connecticut
+229,2,18-34 Years,Black or African American alone,< 30 Days,Connecticut
+230,3,18-34 Years,Black or African American alone,30 to < 90 Days,Connecticut
+231,5,18-34 Years,Black or African American alone,90 Days to < 6 Months,Connecticut
+232,5,18-34 Years,Black or African American alone,6 Months to < 1 Year,Connecticut
+233,5,18-34 Years,Black or African American alone,1 Year to < 2 Years,Connecticut
+234,1,18-34 Years,Black or African American alone,2 Years to < 3 Years,Connecticut
+235,3,18-34 Years,Black or African American alone,3 Years to < 5 Years,Connecticut
+236,5,18-34 Years,Black or African American alone,5 or More Years,Connecticut
+237,25,18-34 Years,Hispanic or Latino,All Time,Connecticut
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,Connecticut
+239,2,18-34 Years,Hispanic or Latino,30 to < 90 Days,Connecticut
+240,4,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Connecticut
+241,2,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Connecticut
+242,5,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Connecticut
+243,5,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Connecticut
+244,4,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Connecticut
+245,2,18-34 Years,Hispanic or Latino,5 or More Years,Connecticut
+246,2,18-34 Years,Asian alone,All Time,Connecticut
+247,0,18-34 Years,Asian alone,< 30 Days,Connecticut
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Connecticut
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Connecticut
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Connecticut
+251,2,18-34 Years,Asian alone,1 Year to < 2 Years,Connecticut
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Connecticut
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Connecticut
+254,0,18-34 Years,Asian alone,5 or More Years,Connecticut
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Connecticut
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Connecticut
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Connecticut
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Connecticut
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Connecticut
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Connecticut
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Connecticut
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Connecticut
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Connecticut
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Connecticut
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Connecticut
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Connecticut
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Connecticut
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Connecticut
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Connecticut
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Connecticut
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Connecticut
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Connecticut
+273,1,18-34 Years,Population of two or more races:,All Time,Connecticut
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Connecticut
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Connecticut
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Connecticut
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Connecticut
+278,1,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Connecticut
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Connecticut
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Connecticut
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Connecticut
+282,74,35-49 Years,White alone,All Time,Connecticut
+283,4,35-49 Years,White alone,< 30 Days,Connecticut
+284,6,35-49 Years,White alone,30 to < 90 Days,Connecticut
+285,4,35-49 Years,White alone,90 Days to < 6 Months,Connecticut
+286,10,35-49 Years,White alone,6 Months to < 1 Year,Connecticut
+287,16,35-49 Years,White alone,1 Year to < 2 Years,Connecticut
+288,13,35-49 Years,White alone,2 Years to < 3 Years,Connecticut
+289,15,35-49 Years,White alone,3 Years to < 5 Years,Connecticut
+290,6,35-49 Years,White alone,5 or More Years,Connecticut
+291,97,35-49 Years,Black or African American alone,All Time,Connecticut
+292,1,35-49 Years,Black or African American alone,< 30 Days,Connecticut
+293,5,35-49 Years,Black or African American alone,30 to < 90 Days,Connecticut
+294,6,35-49 Years,Black or African American alone,90 Days to < 6 Months,Connecticut
+295,15,35-49 Years,Black or African American alone,6 Months to < 1 Year,Connecticut
+296,28,35-49 Years,Black or African American alone,1 Year to < 2 Years,Connecticut
+297,13,35-49 Years,Black or African American alone,2 Years to < 3 Years,Connecticut
+298,16,35-49 Years,Black or African American alone,3 Years to < 5 Years,Connecticut
+299,13,35-49 Years,Black or African American alone,5 or More Years,Connecticut
+300,48,35-49 Years,Hispanic or Latino,All Time,Connecticut
+301,1,35-49 Years,Hispanic or Latino,< 30 Days,Connecticut
+302,3,35-49 Years,Hispanic or Latino,30 to < 90 Days,Connecticut
+303,5,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Connecticut
+304,8,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Connecticut
+305,12,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Connecticut
+306,7,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Connecticut
+307,9,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Connecticut
+308,3,35-49 Years,Hispanic or Latino,5 or More Years,Connecticut
+309,20,35-49 Years,Asian alone,All Time,Connecticut
+310,0,35-49 Years,Asian alone,< 30 Days,Connecticut
+311,3,35-49 Years,Asian alone,30 to < 90 Days,Connecticut
+312,3,35-49 Years,Asian alone,90 Days to < 6 Months,Connecticut
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,Connecticut
+314,5,35-49 Years,Asian alone,1 Year to < 2 Years,Connecticut
+315,4,35-49 Years,Asian alone,2 Years to < 3 Years,Connecticut
+316,1,35-49 Years,Asian alone,3 Years to < 5 Years,Connecticut
+317,3,35-49 Years,Asian alone,5 or More Years,Connecticut
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,Connecticut
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Connecticut
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Connecticut
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Connecticut
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Connecticut
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Connecticut
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Connecticut
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Connecticut
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Connecticut
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Connecticut
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Connecticut
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Connecticut
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Connecticut
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Connecticut
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Connecticut
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Connecticut
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Connecticut
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Connecticut
+336,4,35-49 Years,Population of two or more races:,All Time,Connecticut
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Connecticut
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Connecticut
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Connecticut
+340,1,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Connecticut
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Connecticut
+342,1,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Connecticut
+343,2,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Connecticut
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Connecticut
+345,308,50-64 Years,White alone,All Time,Connecticut
+346,14,50-64 Years,White alone,< 30 Days,Connecticut
+347,31,50-64 Years,White alone,30 to < 90 Days,Connecticut
+348,33,50-64 Years,White alone,90 Days to < 6 Months,Connecticut
+349,60,50-64 Years,White alone,6 Months to < 1 Year,Connecticut
+350,63,50-64 Years,White alone,1 Year to < 2 Years,Connecticut
+351,38,50-64 Years,White alone,2 Years to < 3 Years,Connecticut
+352,40,50-64 Years,White alone,3 Years to < 5 Years,Connecticut
+353,29,50-64 Years,White alone,5 or More Years,Connecticut
+354,181,50-64 Years,Black or African American alone,All Time,Connecticut
+355,2,50-64 Years,Black or African American alone,< 30 Days,Connecticut
+356,10,50-64 Years,Black or African American alone,30 to < 90 Days,Connecticut
+357,20,50-64 Years,Black or African American alone,90 Days to < 6 Months,Connecticut
+358,28,50-64 Years,Black or African American alone,6 Months to < 1 Year,Connecticut
+359,46,50-64 Years,Black or African American alone,1 Year to < 2 Years,Connecticut
+360,26,50-64 Years,Black or African American alone,2 Years to < 3 Years,Connecticut
+361,30,50-64 Years,Black or African American alone,3 Years to < 5 Years,Connecticut
+362,19,50-64 Years,Black or African American alone,5 or More Years,Connecticut
+363,94,50-64 Years,Hispanic or Latino,All Time,Connecticut
+364,2,50-64 Years,Hispanic or Latino,< 30 Days,Connecticut
+365,6,50-64 Years,Hispanic or Latino,30 to < 90 Days,Connecticut
+366,11,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Connecticut
+367,12,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Connecticut
+368,20,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Connecticut
+369,19,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Connecticut
+370,16,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Connecticut
+371,8,50-64 Years,Hispanic or Latino,5 or More Years,Connecticut
+372,35,50-64 Years,Asian alone,All Time,Connecticut
+373,1,50-64 Years,Asian alone,< 30 Days,Connecticut
+374,1,50-64 Years,Asian alone,30 to < 90 Days,Connecticut
+375,3,50-64 Years,Asian alone,90 Days to < 6 Months,Connecticut
+376,4,50-64 Years,Asian alone,6 Months to < 1 Year,Connecticut
+377,8,50-64 Years,Asian alone,1 Year to < 2 Years,Connecticut
+378,6,50-64 Years,Asian alone,2 Years to < 3 Years,Connecticut
+379,7,50-64 Years,Asian alone,3 Years to < 5 Years,Connecticut
+380,5,50-64 Years,Asian alone,5 or More Years,Connecticut
+381,2,50-64 Years,American Indian and Alaska Native alone,All Time,Connecticut
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Connecticut
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Connecticut
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Connecticut
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Connecticut
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Connecticut
+387,1,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Connecticut
+388,1,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Connecticut
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Connecticut
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Connecticut
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Connecticut
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Connecticut
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Connecticut
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Connecticut
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Connecticut
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Connecticut
+397,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Connecticut
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Connecticut
+399,13,50-64 Years,Population of two or more races:,All Time,Connecticut
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Connecticut
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Connecticut
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Connecticut
+403,2,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Connecticut
+404,3,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Connecticut
+405,4,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Connecticut
+406,1,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Connecticut
+407,2,50-64 Years,Population of two or more races:,5 or More Years,Connecticut
+408,186,65 and Older,White alone,All Time,Connecticut
+409,8,65 and Older,White alone,< 30 Days,Connecticut
+410,13,65 and Older,White alone,30 to < 90 Days,Connecticut
+411,11,65 and Older,White alone,90 Days to < 6 Months,Connecticut
+412,22,65 and Older,White alone,6 Months to < 1 Year,Connecticut
+413,52,65 and Older,White alone,1 Year to < 2 Years,Connecticut
+414,25,65 and Older,White alone,2 Years to < 3 Years,Connecticut
+415,31,65 and Older,White alone,3 Years to < 5 Years,Connecticut
+416,24,65 and Older,White alone,5 or More Years,Connecticut
+417,67,65 and Older,Black or African American alone,All Time,Connecticut
+418,4,65 and Older,Black or African American alone,< 30 Days,Connecticut
+419,2,65 and Older,Black or African American alone,30 to < 90 Days,Connecticut
+420,6,65 and Older,Black or African American alone,90 Days to < 6 Months,Connecticut
+421,9,65 and Older,Black or African American alone,6 Months to < 1 Year,Connecticut
+422,11,65 and Older,Black or African American alone,1 Year to < 2 Years,Connecticut
+423,8,65 and Older,Black or African American alone,2 Years to < 3 Years,Connecticut
+424,15,65 and Older,Black or African American alone,3 Years to < 5 Years,Connecticut
+425,12,65 and Older,Black or African American alone,5 or More Years,Connecticut
+426,35,65 and Older,Hispanic or Latino,All Time,Connecticut
+427,3,65 and Older,Hispanic or Latino,< 30 Days,Connecticut
+428,2,65 and Older,Hispanic or Latino,30 to < 90 Days,Connecticut
+429,4,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Connecticut
+430,5,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Connecticut
+431,10,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Connecticut
+432,3,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Connecticut
+433,5,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Connecticut
+434,3,65 and Older,Hispanic or Latino,5 or More Years,Connecticut
+435,13,65 and Older,Asian alone,All Time,Connecticut
+436,0,65 and Older,Asian alone,< 30 Days,Connecticut
+437,1,65 and Older,Asian alone,30 to < 90 Days,Connecticut
+438,1,65 and Older,Asian alone,90 Days to < 6 Months,Connecticut
+439,5,65 and Older,Asian alone,6 Months to < 1 Year,Connecticut
+440,3,65 and Older,Asian alone,1 Year to < 2 Years,Connecticut
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Connecticut
+442,3,65 and Older,Asian alone,3 Years to < 5 Years,Connecticut
+443,0,65 and Older,Asian alone,5 or More Years,Connecticut
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Connecticut
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Connecticut
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Connecticut
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Connecticut
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Connecticut
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Connecticut
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Connecticut
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Connecticut
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Connecticut
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Connecticut
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Connecticut
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Connecticut
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Connecticut
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Connecticut
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Connecticut
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Connecticut
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Connecticut
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Connecticut
+462,3,65 and Older,Population of two or more races:,All Time,Connecticut
+463,0,65 and Older,Population of two or more races:,< 30 Days,Connecticut
+464,2,65 and Older,Population of two or more races:,30 to < 90 Days,Connecticut
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Connecticut
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Connecticut
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Connecticut
+468,1,65 and Older,Population of two or more races:,2 Years to < 3 Years,Connecticut
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Connecticut
+470,0,65 and Older,Population of two or more races:,5 or More Years,Connecticut

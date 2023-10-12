@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,"1,344",All Ages,White alone,All Time,North_Carolina
+1,79,All Ages,White alone,< 30 Days,North_Carolina
+2,109,All Ages,White alone,30 to < 90 Days,North_Carolina
+3,121,All Ages,White alone,90 Days to < 6 Months,North_Carolina
+4,249,All Ages,White alone,6 Months to < 1 Year,North_Carolina
+5,297,All Ages,White alone,1 Year to < 2 Years,North_Carolina
+6,184,All Ages,White alone,2 Years to < 3 Years,North_Carolina
+7,188,All Ages,White alone,3 Years to < 5 Years,North_Carolina
+8,117,All Ages,White alone,5 or More Years,North_Carolina
+9,"1,988",All Ages,Black or African American alone,All Time,North_Carolina
+10,97,All Ages,Black or African American alone,< 30 Days,North_Carolina
+11,157,All Ages,Black or African American alone,30 to < 90 Days,North_Carolina
+12,179,All Ages,Black or African American alone,90 Days to < 6 Months,North_Carolina
+13,333,All Ages,Black or African American alone,6 Months to < 1 Year,North_Carolina
+14,470,All Ages,Black or African American alone,1 Year to < 2 Years,North_Carolina
+15,289,All Ages,Black or African American alone,2 Years to < 3 Years,North_Carolina
+16,309,All Ages,Black or African American alone,3 Years to < 5 Years,North_Carolina
+17,154,All Ages,Black or African American alone,5 or More Years,North_Carolina
+18,203,All Ages,Hispanic or Latino,All Time,North_Carolina
+19,9,All Ages,Hispanic or Latino,< 30 Days,North_Carolina
+20,19,All Ages,Hispanic or Latino,30 to < 90 Days,North_Carolina
+21,29,All Ages,Hispanic or Latino,90 Days to < 6 Months,North_Carolina
+22,28,All Ages,Hispanic or Latino,6 Months to < 1 Year,North_Carolina
+23,46,All Ages,Hispanic or Latino,1 Year to < 2 Years,North_Carolina
+24,27,All Ages,Hispanic or Latino,2 Years to < 3 Years,North_Carolina
+25,25,All Ages,Hispanic or Latino,3 Years to < 5 Years,North_Carolina
+26,20,All Ages,Hispanic or Latino,5 or More Years,North_Carolina
+27,119,All Ages,Asian alone,All Time,North_Carolina
+28,5,All Ages,Asian alone,< 30 Days,North_Carolina
+29,6,All Ages,Asian alone,30 to < 90 Days,North_Carolina
+30,13,All Ages,Asian alone,90 Days to < 6 Months,North_Carolina
+31,25,All Ages,Asian alone,6 Months to < 1 Year,North_Carolina
+32,35,All Ages,Asian alone,1 Year to < 2 Years,North_Carolina
+33,13,All Ages,Asian alone,2 Years to < 3 Years,North_Carolina
+34,14,All Ages,Asian alone,3 Years to < 5 Years,North_Carolina
+35,8,All Ages,Asian alone,5 or More Years,North_Carolina
+36,51,All Ages,American Indian and Alaska Native alone,All Time,North_Carolina
+37,4,All Ages,American Indian and Alaska Native alone,< 30 Days,North_Carolina
+38,2,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,North_Carolina
+39,9,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Carolina
+40,8,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Carolina
+41,9,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Carolina
+42,6,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Carolina
+43,9,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Carolina
+44,4,All Ages,American Indian and Alaska Native alone,5 or More Years,North_Carolina
+45,8,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,North_Carolina
+46,1,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Carolina
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Carolina
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Carolina
+49,2,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Carolina
+50,3,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Carolina
+51,1,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Carolina
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Carolina
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Carolina
+54,75,All Ages,Population of two or more races:,All Time,North_Carolina
+55,3,All Ages,Population of two or more races:,< 30 Days,North_Carolina
+56,8,All Ages,Population of two or more races:,30 to < 90 Days,North_Carolina
+57,5,All Ages,Population of two or more races:,90 Days to < 6 Months,North_Carolina
+58,12,All Ages,Population of two or more races:,6 Months to < 1 Year,North_Carolina
+59,8,All Ages,Population of two or more races:,1 Year to < 2 Years,North_Carolina
+60,12,All Ages,Population of two or more races:,2 Years to < 3 Years,North_Carolina
+61,18,All Ages,Population of two or more races:,3 Years to < 5 Years,North_Carolina
+62,9,All Ages,Population of two or more races:,5 or More Years,North_Carolina
+63,8,0-5 Years,White alone,All Time,North_Carolina
+64,0,0-5 Years,White alone,< 30 Days,North_Carolina
+65,2,0-5 Years,White alone,30 to < 90 Days,North_Carolina
+66,3,0-5 Years,White alone,90 Days to < 6 Months,North_Carolina
+67,0,0-5 Years,White alone,6 Months to < 1 Year,North_Carolina
+68,3,0-5 Years,White alone,1 Year to < 2 Years,North_Carolina
+69,0,0-5 Years,White alone,2 Years to < 3 Years,North_Carolina
+70,0,0-5 Years,White alone,3 Years to < 5 Years,North_Carolina
+71,0,0-5 Years,White alone,5 or More Years,North_Carolina
+72,2,0-5 Years,Black or African American alone,All Time,North_Carolina
+73,0,0-5 Years,Black or African American alone,< 30 Days,North_Carolina
+74,1,0-5 Years,Black or African American alone,30 to < 90 Days,North_Carolina
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,North_Carolina
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,North_Carolina
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,North_Carolina
+78,1,0-5 Years,Black or African American alone,2 Years to < 3 Years,North_Carolina
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,North_Carolina
+80,2,0-5 Years,Hispanic or Latino,All Time,North_Carolina
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,North_Carolina
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,North_Carolina
+83,2,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,North_Carolina
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,North_Carolina
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,North_Carolina
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,North_Carolina
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,North_Carolina
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,North_Carolina
+89,0,0-5 Years,Asian alone,All Time,North_Carolina
+90,0,0-5 Years,Asian alone,< 30 Days,North_Carolina
+91,0,0-5 Years,Asian alone,30 to < 90 Days,North_Carolina
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,North_Carolina
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,North_Carolina
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,North_Carolina
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,North_Carolina
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,North_Carolina
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,North_Carolina
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,North_Carolina
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,North_Carolina
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Carolina
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Carolina
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Carolina
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Carolina
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Carolina
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Carolina
+106,3,0-5 Years,Population of two or more races:,All Time,North_Carolina
+107,1,0-5 Years,Population of two or more races:,< 30 Days,North_Carolina
+108,1,0-5 Years,Population of two or more races:,30 to < 90 Days,North_Carolina
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,North_Carolina
+110,1,0-5 Years,Population of two or more races:,6 Months to < 1 Year,North_Carolina
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,North_Carolina
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,North_Carolina
+113,5,6-10 Years,White alone,All Time,North_Carolina
+114,2,6-10 Years,White alone,< 30 Days,North_Carolina
+115,0,6-10 Years,White alone,30 to < 90 Days,North_Carolina
+116,1,6-10 Years,White alone,90 Days to < 6 Months,North_Carolina
+117,0,6-10 Years,White alone,6 Months to < 1 Year,North_Carolina
+118,0,6-10 Years,White alone,1 Year to < 2 Years,North_Carolina
+119,1,6-10 Years,White alone,2 Years to < 3 Years,North_Carolina
+120,1,6-10 Years,White alone,3 Years to < 5 Years,North_Carolina
+121,0,6-10 Years,White alone,5 or More Years,North_Carolina
+122,5,6-10 Years,Black or African American alone,All Time,North_Carolina
+123,0,6-10 Years,Black or African American alone,< 30 Days,North_Carolina
+124,1,6-10 Years,Black or African American alone,30 to < 90 Days,North_Carolina
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,North_Carolina
+126,3,6-10 Years,Black or African American alone,6 Months to < 1 Year,North_Carolina
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,North_Carolina
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,North_Carolina
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,North_Carolina
+130,0,6-10 Years,Black or African American alone,5 or More Years,North_Carolina
+131,1,6-10 Years,Hispanic or Latino,All Time,North_Carolina
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,North_Carolina
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,North_Carolina
+134,1,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,North_Carolina
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,North_Carolina
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,North_Carolina
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,North_Carolina
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,North_Carolina
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,North_Carolina
+140,0,6-10 Years,Asian alone,All Time,North_Carolina
+141,0,6-10 Years,Asian alone,< 30 Days,North_Carolina
+142,0,6-10 Years,Asian alone,30 to < 90 Days,North_Carolina
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,North_Carolina
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,North_Carolina
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,North_Carolina
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,North_Carolina
+147,0,6-10 Years,Asian alone,5 or More Years,North_Carolina
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,North_Carolina
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Carolina
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Carolina
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Carolina
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Carolina
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Carolina
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Carolina
+155,1,6-10 Years,Population of two or more races:,All Time,North_Carolina
+156,0,6-10 Years,Population of two or more races:,< 30 Days,North_Carolina
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,North_Carolina
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,North_Carolina
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,North_Carolina
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,North_Carolina
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,North_Carolina
+162,1,6-10 Years,Population of two or more races:,5 or More Years,North_Carolina
+163,14,11-17 Years,White alone,All Time,North_Carolina
+164,2,11-17 Years,White alone,< 30 Days,North_Carolina
+165,2,11-17 Years,White alone,30 to < 90 Days,North_Carolina
+166,2,11-17 Years,White alone,90 Days to < 6 Months,North_Carolina
+167,3,11-17 Years,White alone,6 Months to < 1 Year,North_Carolina
+168,4,11-17 Years,White alone,1 Year to < 2 Years,North_Carolina
+169,1,11-17 Years,White alone,2 Years to < 3 Years,North_Carolina
+170,0,11-17 Years,White alone,3 Years to < 5 Years,North_Carolina
+171,0,11-17 Years,White alone,5 or More Years,North_Carolina
+172,10,11-17 Years,Black or African American alone,All Time,North_Carolina
+173,0,11-17 Years,Black or African American alone,< 30 Days,North_Carolina
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,North_Carolina
+175,3,11-17 Years,Black or African American alone,90 Days to < 6 Months,North_Carolina
+176,2,11-17 Years,Black or African American alone,6 Months to < 1 Year,North_Carolina
+177,2,11-17 Years,Black or African American alone,1 Year to < 2 Years,North_Carolina
+178,1,11-17 Years,Black or African American alone,2 Years to < 3 Years,North_Carolina
+179,1,11-17 Years,Black or African American alone,3 Years to < 5 Years,North_Carolina
+180,1,11-17 Years,Black or African American alone,5 or More Years,North_Carolina
+181,4,11-17 Years,Hispanic or Latino,All Time,North_Carolina
+182,1,11-17 Years,Hispanic or Latino,< 30 Days,North_Carolina
+183,1,11-17 Years,Hispanic or Latino,30 to < 90 Days,North_Carolina
+184,1,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,North_Carolina
+185,1,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,North_Carolina
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,North_Carolina
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,North_Carolina
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,North_Carolina
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,North_Carolina
+190,1,11-17 Years,Asian alone,All Time,North_Carolina
+191,0,11-17 Years,Asian alone,< 30 Days,North_Carolina
+192,0,11-17 Years,Asian alone,30 to < 90 Days,North_Carolina
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,North_Carolina
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,North_Carolina
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,North_Carolina
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,North_Carolina
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,North_Carolina
+198,1,11-17 Years,Asian alone,5 or More Years,North_Carolina
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,North_Carolina
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Carolina
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Carolina
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Carolina
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Carolina
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Carolina
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Carolina
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Carolina
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Carolina
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Carolina
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Carolina
+210,1,11-17 Years,Population of two or more races:,All Time,North_Carolina
+211,0,11-17 Years,Population of two or more races:,< 30 Days,North_Carolina
+212,1,11-17 Years,Population of two or more races:,30 to < 90 Days,North_Carolina
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,North_Carolina
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,North_Carolina
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,North_Carolina
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,North_Carolina
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,North_Carolina
+218,0,11-17 Years,Population of two or more races:,5 or More Years,North_Carolina
+219,89,18-34 Years,White alone,All Time,North_Carolina
+220,6,18-34 Years,White alone,< 30 Days,North_Carolina
+221,10,18-34 Years,White alone,30 to < 90 Days,North_Carolina
+222,4,18-34 Years,White alone,90 Days to < 6 Months,North_Carolina
+223,15,18-34 Years,White alone,6 Months to < 1 Year,North_Carolina
+224,25,18-34 Years,White alone,1 Year to < 2 Years,North_Carolina
+225,12,18-34 Years,White alone,2 Years to < 3 Years,North_Carolina
+226,9,18-34 Years,White alone,3 Years to < 5 Years,North_Carolina
+227,8,18-34 Years,White alone,5 or More Years,North_Carolina
+228,148,18-34 Years,Black or African American alone,All Time,North_Carolina
+229,11,18-34 Years,Black or African American alone,< 30 Days,North_Carolina
+230,15,18-34 Years,Black or African American alone,30 to < 90 Days,North_Carolina
+231,16,18-34 Years,Black or African American alone,90 Days to < 6 Months,North_Carolina
+232,28,18-34 Years,Black or African American alone,6 Months to < 1 Year,North_Carolina
+233,36,18-34 Years,Black or African American alone,1 Year to < 2 Years,North_Carolina
+234,22,18-34 Years,Black or African American alone,2 Years to < 3 Years,North_Carolina
+235,13,18-34 Years,Black or African American alone,3 Years to < 5 Years,North_Carolina
+236,7,18-34 Years,Black or African American alone,5 or More Years,North_Carolina
+237,38,18-34 Years,Hispanic or Latino,All Time,North_Carolina
+238,1,18-34 Years,Hispanic or Latino,< 30 Days,North_Carolina
+239,3,18-34 Years,Hispanic or Latino,30 to < 90 Days,North_Carolina
+240,6,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,North_Carolina
+241,10,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,North_Carolina
+242,11,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,North_Carolina
+243,2,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,North_Carolina
+244,4,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,North_Carolina
+245,1,18-34 Years,Hispanic or Latino,5 or More Years,North_Carolina
+246,18,18-34 Years,Asian alone,All Time,North_Carolina
+247,0,18-34 Years,Asian alone,< 30 Days,North_Carolina
+248,0,18-34 Years,Asian alone,30 to < 90 Days,North_Carolina
+249,4,18-34 Years,Asian alone,90 Days to < 6 Months,North_Carolina
+250,4,18-34 Years,Asian alone,6 Months to < 1 Year,North_Carolina
+251,7,18-34 Years,Asian alone,1 Year to < 2 Years,North_Carolina
+252,1,18-34 Years,Asian alone,2 Years to < 3 Years,North_Carolina
+253,1,18-34 Years,Asian alone,3 Years to < 5 Years,North_Carolina
+254,1,18-34 Years,Asian alone,5 or More Years,North_Carolina
+255,6,18-34 Years,American Indian and Alaska Native alone,All Time,North_Carolina
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,North_Carolina
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,North_Carolina
+258,1,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Carolina
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Carolina
+260,3,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Carolina
+261,1,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Carolina
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Carolina
+263,1,18-34 Years,American Indian and Alaska Native alone,5 or More Years,North_Carolina
+264,3,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Carolina
+265,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Carolina
+266,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Carolina
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Carolina
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Carolina
+269,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Carolina
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Carolina
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Carolina
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Carolina
+273,10,18-34 Years,Population of two or more races:,All Time,North_Carolina
+274,1,18-34 Years,Population of two or more races:,< 30 Days,North_Carolina
+275,1,18-34 Years,Population of two or more races:,30 to < 90 Days,North_Carolina
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,North_Carolina
+277,4,18-34 Years,Population of two or more races:,6 Months to < 1 Year,North_Carolina
+278,1,18-34 Years,Population of two or more races:,1 Year to < 2 Years,North_Carolina
+279,1,18-34 Years,Population of two or more races:,2 Years to < 3 Years,North_Carolina
+280,2,18-34 Years,Population of two or more races:,3 Years to < 5 Years,North_Carolina
+281,0,18-34 Years,Population of two or more races:,5 or More Years,North_Carolina
+282,254,35-49 Years,White alone,All Time,North_Carolina
+283,23,35-49 Years,White alone,< 30 Days,North_Carolina
+284,19,35-49 Years,White alone,30 to < 90 Days,North_Carolina
+285,26,35-49 Years,White alone,90 Days to < 6 Months,North_Carolina
+286,42,35-49 Years,White alone,6 Months to < 1 Year,North_Carolina
+287,64,35-49 Years,White alone,1 Year to < 2 Years,North_Carolina
+288,28,35-49 Years,White alone,2 Years to < 3 Years,North_Carolina
+289,34,35-49 Years,White alone,3 Years to < 5 Years,North_Carolina
+290,18,35-49 Years,White alone,5 or More Years,North_Carolina
+291,522,35-49 Years,Black or African American alone,All Time,North_Carolina
+292,23,35-49 Years,Black or African American alone,< 30 Days,North_Carolina
+293,49,35-49 Years,Black or African American alone,30 to < 90 Days,North_Carolina
+294,53,35-49 Years,Black or African American alone,90 Days to < 6 Months,North_Carolina
+295,96,35-49 Years,Black or African American alone,6 Months to < 1 Year,North_Carolina
+296,124,35-49 Years,Black or African American alone,1 Year to < 2 Years,North_Carolina
+297,71,35-49 Years,Black or African American alone,2 Years to < 3 Years,North_Carolina
+298,82,35-49 Years,Black or African American alone,3 Years to < 5 Years,North_Carolina
+299,24,35-49 Years,Black or African American alone,5 or More Years,North_Carolina
+300,61,35-49 Years,Hispanic or Latino,All Time,North_Carolina
+301,2,35-49 Years,Hispanic or Latino,< 30 Days,North_Carolina
+302,8,35-49 Years,Hispanic or Latino,30 to < 90 Days,North_Carolina
+303,6,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,North_Carolina
+304,6,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,North_Carolina
+305,15,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,North_Carolina
+306,12,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,North_Carolina
+307,6,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,North_Carolina
+308,6,35-49 Years,Hispanic or Latino,5 or More Years,North_Carolina
+309,28,35-49 Years,Asian alone,All Time,North_Carolina
+310,1,35-49 Years,Asian alone,< 30 Days,North_Carolina
+311,0,35-49 Years,Asian alone,30 to < 90 Days,North_Carolina
+312,5,35-49 Years,Asian alone,90 Days to < 6 Months,North_Carolina
+313,6,35-49 Years,Asian alone,6 Months to < 1 Year,North_Carolina
+314,8,35-49 Years,Asian alone,1 Year to < 2 Years,North_Carolina
+315,3,35-49 Years,Asian alone,2 Years to < 3 Years,North_Carolina
+316,4,35-49 Years,Asian alone,3 Years to < 5 Years,North_Carolina
+317,1,35-49 Years,Asian alone,5 or More Years,North_Carolina
+318,16,35-49 Years,American Indian and Alaska Native alone,All Time,North_Carolina
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,North_Carolina
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,North_Carolina
+321,1,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Carolina
+322,4,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Carolina
+323,4,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Carolina
+324,3,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Carolina
+325,3,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Carolina
+326,1,35-49 Years,American Indian and Alaska Native alone,5 or More Years,North_Carolina
+327,2,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Carolina
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Carolina
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Carolina
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Carolina
+331,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Carolina
+332,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Carolina
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Carolina
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Carolina
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Carolina
+336,29,35-49 Years,Population of two or more races:,All Time,North_Carolina
+337,1,35-49 Years,Population of two or more races:,< 30 Days,North_Carolina
+338,4,35-49 Years,Population of two or more races:,30 to < 90 Days,North_Carolina
+339,4,35-49 Years,Population of two or more races:,90 Days to < 6 Months,North_Carolina
+340,2,35-49 Years,Population of two or more races:,6 Months to < 1 Year,North_Carolina
+341,3,35-49 Years,Population of two or more races:,1 Year to < 2 Years,North_Carolina
+342,7,35-49 Years,Population of two or more races:,2 Years to < 3 Years,North_Carolina
+343,6,35-49 Years,Population of two or more races:,3 Years to < 5 Years,North_Carolina
+344,2,35-49 Years,Population of two or more races:,5 or More Years,North_Carolina
+345,545,50-64 Years,White alone,All Time,North_Carolina
+346,32,50-64 Years,White alone,< 30 Days,North_Carolina
+347,40,50-64 Years,White alone,30 to < 90 Days,North_Carolina
+348,53,50-64 Years,White alone,90 Days to < 6 Months,North_Carolina
+349,113,50-64 Years,White alone,6 Months to < 1 Year,North_Carolina
+350,110,50-64 Years,White alone,1 Year to < 2 Years,North_Carolina
+351,68,50-64 Years,White alone,2 Years to < 3 Years,North_Carolina
+352,78,50-64 Years,White alone,3 Years to < 5 Years,North_Carolina
+353,51,50-64 Years,White alone,5 or More Years,North_Carolina
+354,924,50-64 Years,Black or African American alone,All Time,North_Carolina
+355,44,50-64 Years,Black or African American alone,< 30 Days,North_Carolina
+356,68,50-64 Years,Black or African American alone,30 to < 90 Days,North_Carolina
+357,74,50-64 Years,Black or African American alone,90 Days to < 6 Months,North_Carolina
+358,144,50-64 Years,Black or African American alone,6 Months to < 1 Year,North_Carolina
+359,218,50-64 Years,Black or African American alone,1 Year to < 2 Years,North_Carolina
+360,147,50-64 Years,Black or African American alone,2 Years to < 3 Years,North_Carolina
+361,155,50-64 Years,Black or African American alone,3 Years to < 5 Years,North_Carolina
+362,74,50-64 Years,Black or African American alone,5 or More Years,North_Carolina
+363,77,50-64 Years,Hispanic or Latino,All Time,North_Carolina
+364,4,50-64 Years,Hispanic or Latino,< 30 Days,North_Carolina
+365,6,50-64 Years,Hispanic or Latino,30 to < 90 Days,North_Carolina
+366,13,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,North_Carolina
+367,9,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,North_Carolina
+368,16,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,North_Carolina
+369,11,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,North_Carolina
+370,9,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,North_Carolina
+371,9,50-64 Years,Hispanic or Latino,5 or More Years,North_Carolina
+372,57,50-64 Years,Asian alone,All Time,North_Carolina
+373,4,50-64 Years,Asian alone,< 30 Days,North_Carolina
+374,5,50-64 Years,Asian alone,30 to < 90 Days,North_Carolina
+375,3,50-64 Years,Asian alone,90 Days to < 6 Months,North_Carolina
+376,14,50-64 Years,Asian alone,6 Months to < 1 Year,North_Carolina
+377,14,50-64 Years,Asian alone,1 Year to < 2 Years,North_Carolina
+378,7,50-64 Years,Asian alone,2 Years to < 3 Years,North_Carolina
+379,7,50-64 Years,Asian alone,3 Years to < 5 Years,North_Carolina
+380,3,50-64 Years,Asian alone,5 or More Years,North_Carolina
+381,24,50-64 Years,American Indian and Alaska Native alone,All Time,North_Carolina
+382,3,50-64 Years,American Indian and Alaska Native alone,< 30 Days,North_Carolina
+383,1,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,North_Carolina
+384,7,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Carolina
+385,3,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Carolina
+386,2,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Carolina
+387,1,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Carolina
+388,6,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Carolina
+389,1,50-64 Years,American Indian and Alaska Native alone,5 or More Years,North_Carolina
+390,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,North_Carolina
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Carolina
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Carolina
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Carolina
+394,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Carolina
+395,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Carolina
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Carolina
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Carolina
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Carolina
+399,21,50-64 Years,Population of two or more races:,All Time,North_Carolina
+400,0,50-64 Years,Population of two or more races:,< 30 Days,North_Carolina
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,North_Carolina
+402,1,50-64 Years,Population of two or more races:,90 Days to < 6 Months,North_Carolina
+403,4,50-64 Years,Population of two or more races:,6 Months to < 1 Year,North_Carolina
+404,3,50-64 Years,Population of two or more races:,1 Year to < 2 Years,North_Carolina
+405,2,50-64 Years,Population of two or more races:,2 Years to < 3 Years,North_Carolina
+406,8,50-64 Years,Population of two or more races:,3 Years to < 5 Years,North_Carolina
+407,3,50-64 Years,Population of two or more races:,5 or More Years,North_Carolina
+408,429,65 and Older,White alone,All Time,North_Carolina
+409,14,65 and Older,White alone,< 30 Days,North_Carolina
+410,36,65 and Older,White alone,30 to < 90 Days,North_Carolina
+411,32,65 and Older,White alone,90 Days to < 6 Months,North_Carolina
+412,76,65 and Older,White alone,6 Months to < 1 Year,North_Carolina
+413,91,65 and Older,White alone,1 Year to < 2 Years,North_Carolina
+414,74,65 and Older,White alone,2 Years to < 3 Years,North_Carolina
+415,66,65 and Older,White alone,3 Years to < 5 Years,North_Carolina
+416,40,65 and Older,White alone,5 or More Years,North_Carolina
+417,377,65 and Older,Black or African American alone,All Time,North_Carolina
+418,19,65 and Older,Black or African American alone,< 30 Days,North_Carolina
+419,23,65 and Older,Black or African American alone,30 to < 90 Days,North_Carolina
+420,33,65 and Older,Black or African American alone,90 Days to < 6 Months,North_Carolina
+421,60,65 and Older,Black or African American alone,6 Months to < 1 Year,North_Carolina
+422,89,65 and Older,Black or African American alone,1 Year to < 2 Years,North_Carolina
+423,47,65 and Older,Black or African American alone,2 Years to < 3 Years,North_Carolina
+424,58,65 and Older,Black or African American alone,3 Years to < 5 Years,North_Carolina
+425,48,65 and Older,Black or African American alone,5 or More Years,North_Carolina
+426,20,65 and Older,Hispanic or Latino,All Time,North_Carolina
+427,1,65 and Older,Hispanic or Latino,< 30 Days,North_Carolina
+428,1,65 and Older,Hispanic or Latino,30 to < 90 Days,North_Carolina
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,North_Carolina
+430,2,65 and Older,Hispanic or Latino,6 Months to < 1 Year,North_Carolina
+431,4,65 and Older,Hispanic or Latino,1 Year to < 2 Years,North_Carolina
+432,2,65 and Older,Hispanic or Latino,2 Years to < 3 Years,North_Carolina
+433,6,65 and Older,Hispanic or Latino,3 Years to < 5 Years,North_Carolina
+434,4,65 and Older,Hispanic or Latino,5 or More Years,North_Carolina
+435,15,65 and Older,Asian alone,All Time,North_Carolina
+436,0,65 and Older,Asian alone,< 30 Days,North_Carolina
+437,1,65 and Older,Asian alone,30 to < 90 Days,North_Carolina
+438,1,65 and Older,Asian alone,90 Days to < 6 Months,North_Carolina
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,North_Carolina
+440,6,65 and Older,Asian alone,1 Year to < 2 Years,North_Carolina
+441,2,65 and Older,Asian alone,2 Years to < 3 Years,North_Carolina
+442,2,65 and Older,Asian alone,3 Years to < 5 Years,North_Carolina
+443,2,65 and Older,Asian alone,5 or More Years,North_Carolina
+444,5,65 and Older,American Indian and Alaska Native alone,All Time,North_Carolina
+445,1,65 and Older,American Indian and Alaska Native alone,< 30 Days,North_Carolina
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,North_Carolina
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,North_Carolina
+448,1,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,North_Carolina
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,North_Carolina
+450,1,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,North_Carolina
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,North_Carolina
+452,1,65 and Older,American Indian and Alaska Native alone,5 or More Years,North_Carolina
+453,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,North_Carolina
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,North_Carolina
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,North_Carolina
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,North_Carolina
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,North_Carolina
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,North_Carolina
+459,1,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,North_Carolina
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,North_Carolina
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,North_Carolina
+462,10,65 and Older,Population of two or more races:,All Time,North_Carolina
+463,0,65 and Older,Population of two or more races:,< 30 Days,North_Carolina
+464,1,65 and Older,Population of two or more races:,30 to < 90 Days,North_Carolina
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,North_Carolina
+466,1,65 and Older,Population of two or more races:,6 Months to < 1 Year,North_Carolina
+467,1,65 and Older,Population of two or more races:,1 Year to < 2 Years,North_Carolina
+468,2,65 and Older,Population of two or more races:,2 Years to < 3 Years,North_Carolina
+469,2,65 and Older,Population of two or more races:,3 Years to < 5 Years,North_Carolina
+470,3,65 and Older,Population of two or more races:,5 or More Years,North_Carolina

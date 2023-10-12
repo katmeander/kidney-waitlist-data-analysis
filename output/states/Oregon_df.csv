@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,356,All Ages,White alone,All Time,Oregon
+1,7,All Ages,White alone,< 30 Days,Oregon
+2,12,All Ages,White alone,30 to < 90 Days,Oregon
+3,45,All Ages,White alone,90 Days to < 6 Months,Oregon
+4,68,All Ages,White alone,6 Months to < 1 Year,Oregon
+5,95,All Ages,White alone,1 Year to < 2 Years,Oregon
+6,65,All Ages,White alone,2 Years to < 3 Years,Oregon
+7,43,All Ages,White alone,3 Years to < 5 Years,Oregon
+8,21,All Ages,White alone,5 or More Years,Oregon
+9,23,All Ages,Black or African American alone,All Time,Oregon
+10,0,All Ages,Black or African American alone,< 30 Days,Oregon
+11,2,All Ages,Black or African American alone,30 to < 90 Days,Oregon
+12,3,All Ages,Black or African American alone,90 Days to < 6 Months,Oregon
+13,1,All Ages,Black or African American alone,6 Months to < 1 Year,Oregon
+14,5,All Ages,Black or African American alone,1 Year to < 2 Years,Oregon
+15,5,All Ages,Black or African American alone,2 Years to < 3 Years,Oregon
+16,5,All Ages,Black or African American alone,3 Years to < 5 Years,Oregon
+17,2,All Ages,Black or African American alone,5 or More Years,Oregon
+18,101,All Ages,Hispanic or Latino,All Time,Oregon
+19,0,All Ages,Hispanic or Latino,< 30 Days,Oregon
+20,2,All Ages,Hispanic or Latino,30 to < 90 Days,Oregon
+21,10,All Ages,Hispanic or Latino,90 Days to < 6 Months,Oregon
+22,25,All Ages,Hispanic or Latino,6 Months to < 1 Year,Oregon
+23,25,All Ages,Hispanic or Latino,1 Year to < 2 Years,Oregon
+24,16,All Ages,Hispanic or Latino,2 Years to < 3 Years,Oregon
+25,19,All Ages,Hispanic or Latino,3 Years to < 5 Years,Oregon
+26,4,All Ages,Hispanic or Latino,5 or More Years,Oregon
+27,35,All Ages,Asian alone,All Time,Oregon
+28,1,All Ages,Asian alone,< 30 Days,Oregon
+29,1,All Ages,Asian alone,30 to < 90 Days,Oregon
+30,8,All Ages,Asian alone,90 Days to < 6 Months,Oregon
+31,5,All Ages,Asian alone,6 Months to < 1 Year,Oregon
+32,8,All Ages,Asian alone,1 Year to < 2 Years,Oregon
+33,7,All Ages,Asian alone,2 Years to < 3 Years,Oregon
+34,3,All Ages,Asian alone,3 Years to < 5 Years,Oregon
+35,2,All Ages,Asian alone,5 or More Years,Oregon
+36,5,All Ages,American Indian and Alaska Native alone,All Time,Oregon
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Oregon
+38,1,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Oregon
+39,1,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Oregon
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Oregon
+41,2,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Oregon
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Oregon
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Oregon
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Oregon
+45,13,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Oregon
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oregon
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oregon
+48,1,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oregon
+49,2,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oregon
+50,7,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oregon
+51,2,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oregon
+52,1,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oregon
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oregon
+54,12,All Ages,Population of two or more races:,All Time,Oregon
+55,1,All Ages,Population of two or more races:,< 30 Days,Oregon
+56,1,All Ages,Population of two or more races:,30 to < 90 Days,Oregon
+57,2,All Ages,Population of two or more races:,90 Days to < 6 Months,Oregon
+58,2,All Ages,Population of two or more races:,6 Months to < 1 Year,Oregon
+59,3,All Ages,Population of two or more races:,1 Year to < 2 Years,Oregon
+60,2,All Ages,Population of two or more races:,2 Years to < 3 Years,Oregon
+61,1,All Ages,Population of two or more races:,3 Years to < 5 Years,Oregon
+62,0,All Ages,Population of two or more races:,5 or More Years,Oregon
+63,3,0-5 Years,White alone,All Time,Oregon
+64,0,0-5 Years,White alone,< 30 Days,Oregon
+65,0,0-5 Years,White alone,30 to < 90 Days,Oregon
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Oregon
+67,1,0-5 Years,White alone,6 Months to < 1 Year,Oregon
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Oregon
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Oregon
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Oregon
+71,1,0-5 Years,White alone,5 or More Years,Oregon
+72,0,0-5 Years,Black or African American alone,All Time,Oregon
+73,0,0-5 Years,Black or African American alone,< 30 Days,Oregon
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Oregon
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Oregon
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Oregon
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Oregon
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Oregon
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Oregon
+80,1,0-5 Years,Hispanic or Latino,All Time,Oregon
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Oregon
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Oregon
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Oregon
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Oregon
+85,1,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Oregon
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Oregon
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Oregon
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Oregon
+89,0,0-5 Years,Asian alone,All Time,Oregon
+90,0,0-5 Years,Asian alone,< 30 Days,Oregon
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Oregon
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Oregon
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Oregon
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Oregon
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Oregon
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Oregon
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Oregon
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Oregon
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Oregon
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oregon
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oregon
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oregon
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oregon
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oregon
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oregon
+106,2,0-5 Years,Population of two or more races:,All Time,Oregon
+107,1,0-5 Years,Population of two or more races:,< 30 Days,Oregon
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Oregon
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Oregon
+110,1,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Oregon
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Oregon
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Oregon
+113,0,6-10 Years,White alone,All Time,Oregon
+114,0,6-10 Years,White alone,< 30 Days,Oregon
+115,0,6-10 Years,White alone,30 to < 90 Days,Oregon
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Oregon
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Oregon
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Oregon
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Oregon
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Oregon
+121,0,6-10 Years,White alone,5 or More Years,Oregon
+122,0,6-10 Years,Black or African American alone,All Time,Oregon
+123,0,6-10 Years,Black or African American alone,< 30 Days,Oregon
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Oregon
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Oregon
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Oregon
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Oregon
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Oregon
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Oregon
+130,0,6-10 Years,Black or African American alone,5 or More Years,Oregon
+131,2,6-10 Years,Hispanic or Latino,All Time,Oregon
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Oregon
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Oregon
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Oregon
+135,2,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Oregon
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Oregon
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Oregon
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Oregon
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Oregon
+140,0,6-10 Years,Asian alone,All Time,Oregon
+141,0,6-10 Years,Asian alone,< 30 Days,Oregon
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Oregon
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Oregon
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Oregon
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Oregon
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Oregon
+147,0,6-10 Years,Asian alone,5 or More Years,Oregon
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Oregon
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oregon
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oregon
+151,1,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oregon
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oregon
+153,1,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oregon
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oregon
+155,1,6-10 Years,Population of two or more races:,All Time,Oregon
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Oregon
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Oregon
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Oregon
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Oregon
+160,1,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Oregon
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Oregon
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Oregon
+163,4,11-17 Years,White alone,All Time,Oregon
+164,0,11-17 Years,White alone,< 30 Days,Oregon
+165,0,11-17 Years,White alone,30 to < 90 Days,Oregon
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Oregon
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Oregon
+168,1,11-17 Years,White alone,1 Year to < 2 Years,Oregon
+169,2,11-17 Years,White alone,2 Years to < 3 Years,Oregon
+170,1,11-17 Years,White alone,3 Years to < 5 Years,Oregon
+171,0,11-17 Years,White alone,5 or More Years,Oregon
+172,0,11-17 Years,Black or African American alone,All Time,Oregon
+173,0,11-17 Years,Black or African American alone,< 30 Days,Oregon
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Oregon
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Oregon
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Oregon
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Oregon
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Oregon
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Oregon
+180,0,11-17 Years,Black or African American alone,5 or More Years,Oregon
+181,0,11-17 Years,Hispanic or Latino,All Time,Oregon
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Oregon
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Oregon
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Oregon
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Oregon
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Oregon
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Oregon
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Oregon
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Oregon
+190,0,11-17 Years,Asian alone,All Time,Oregon
+191,0,11-17 Years,Asian alone,< 30 Days,Oregon
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Oregon
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Oregon
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Oregon
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Oregon
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Oregon
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Oregon
+198,0,11-17 Years,Asian alone,5 or More Years,Oregon
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Oregon
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oregon
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oregon
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oregon
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Oregon
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oregon
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oregon
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oregon
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oregon
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oregon
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oregon
+210,1,11-17 Years,Population of two or more races:,All Time,Oregon
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Oregon
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Oregon
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Oregon
+214,1,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Oregon
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Oregon
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Oregon
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Oregon
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Oregon
+219,33,18-34 Years,White alone,All Time,Oregon
+220,2,18-34 Years,White alone,< 30 Days,Oregon
+221,3,18-34 Years,White alone,30 to < 90 Days,Oregon
+222,4,18-34 Years,White alone,90 Days to < 6 Months,Oregon
+223,8,18-34 Years,White alone,6 Months to < 1 Year,Oregon
+224,11,18-34 Years,White alone,1 Year to < 2 Years,Oregon
+225,1,18-34 Years,White alone,2 Years to < 3 Years,Oregon
+226,3,18-34 Years,White alone,3 Years to < 5 Years,Oregon
+227,1,18-34 Years,White alone,5 or More Years,Oregon
+228,2,18-34 Years,Black or African American alone,All Time,Oregon
+229,0,18-34 Years,Black or African American alone,< 30 Days,Oregon
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,Oregon
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Oregon
+232,1,18-34 Years,Black or African American alone,6 Months to < 1 Year,Oregon
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,Oregon
+234,1,18-34 Years,Black or African American alone,2 Years to < 3 Years,Oregon
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Oregon
+236,0,18-34 Years,Black or African American alone,5 or More Years,Oregon
+237,18,18-34 Years,Hispanic or Latino,All Time,Oregon
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Oregon
+239,1,18-34 Years,Hispanic or Latino,30 to < 90 Days,Oregon
+240,4,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Oregon
+241,5,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Oregon
+242,6,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Oregon
+243,2,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Oregon
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Oregon
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Oregon
+246,2,18-34 Years,Asian alone,All Time,Oregon
+247,0,18-34 Years,Asian alone,< 30 Days,Oregon
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Oregon
+249,1,18-34 Years,Asian alone,90 Days to < 6 Months,Oregon
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Oregon
+251,1,18-34 Years,Asian alone,1 Year to < 2 Years,Oregon
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Oregon
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Oregon
+254,0,18-34 Years,Asian alone,5 or More Years,Oregon
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Oregon
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Oregon
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Oregon
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oregon
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oregon
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oregon
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Oregon
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oregon
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Oregon
+264,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oregon
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oregon
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oregon
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oregon
+268,1,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oregon
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oregon
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oregon
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oregon
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oregon
+273,1,18-34 Years,Population of two or more races:,All Time,Oregon
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Oregon
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Oregon
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Oregon
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Oregon
+278,1,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Oregon
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Oregon
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Oregon
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Oregon
+282,66,35-49 Years,White alone,All Time,Oregon
+283,0,35-49 Years,White alone,< 30 Days,Oregon
+284,2,35-49 Years,White alone,30 to < 90 Days,Oregon
+285,15,35-49 Years,White alone,90 Days to < 6 Months,Oregon
+286,15,35-49 Years,White alone,6 Months to < 1 Year,Oregon
+287,18,35-49 Years,White alone,1 Year to < 2 Years,Oregon
+288,9,35-49 Years,White alone,2 Years to < 3 Years,Oregon
+289,3,35-49 Years,White alone,3 Years to < 5 Years,Oregon
+290,4,35-49 Years,White alone,5 or More Years,Oregon
+291,3,35-49 Years,Black or African American alone,All Time,Oregon
+292,0,35-49 Years,Black or African American alone,< 30 Days,Oregon
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,Oregon
+294,1,35-49 Years,Black or African American alone,90 Days to < 6 Months,Oregon
+295,0,35-49 Years,Black or African American alone,6 Months to < 1 Year,Oregon
+296,0,35-49 Years,Black or African American alone,1 Year to < 2 Years,Oregon
+297,1,35-49 Years,Black or African American alone,2 Years to < 3 Years,Oregon
+298,0,35-49 Years,Black or African American alone,3 Years to < 5 Years,Oregon
+299,1,35-49 Years,Black or African American alone,5 or More Years,Oregon
+300,27,35-49 Years,Hispanic or Latino,All Time,Oregon
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Oregon
+302,1,35-49 Years,Hispanic or Latino,30 to < 90 Days,Oregon
+303,2,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Oregon
+304,7,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Oregon
+305,8,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Oregon
+306,4,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Oregon
+307,3,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Oregon
+308,2,35-49 Years,Hispanic or Latino,5 or More Years,Oregon
+309,8,35-49 Years,Asian alone,All Time,Oregon
+310,0,35-49 Years,Asian alone,< 30 Days,Oregon
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Oregon
+312,3,35-49 Years,Asian alone,90 Days to < 6 Months,Oregon
+313,1,35-49 Years,Asian alone,6 Months to < 1 Year,Oregon
+314,3,35-49 Years,Asian alone,1 Year to < 2 Years,Oregon
+315,1,35-49 Years,Asian alone,2 Years to < 3 Years,Oregon
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Oregon
+317,0,35-49 Years,Asian alone,5 or More Years,Oregon
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Oregon
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Oregon
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Oregon
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oregon
+322,1,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oregon
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oregon
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Oregon
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oregon
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Oregon
+327,3,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oregon
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oregon
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oregon
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oregon
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oregon
+332,3,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oregon
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oregon
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oregon
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oregon
+336,5,35-49 Years,Population of two or more races:,All Time,Oregon
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Oregon
+338,1,35-49 Years,Population of two or more races:,30 to < 90 Days,Oregon
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Oregon
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Oregon
+341,2,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Oregon
+342,1,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Oregon
+343,1,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Oregon
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Oregon
+345,136,50-64 Years,White alone,All Time,Oregon
+346,3,50-64 Years,White alone,< 30 Days,Oregon
+347,5,50-64 Years,White alone,30 to < 90 Days,Oregon
+348,17,50-64 Years,White alone,90 Days to < 6 Months,Oregon
+349,25,50-64 Years,White alone,6 Months to < 1 Year,Oregon
+350,34,50-64 Years,White alone,1 Year to < 2 Years,Oregon
+351,27,50-64 Years,White alone,2 Years to < 3 Years,Oregon
+352,20,50-64 Years,White alone,3 Years to < 5 Years,Oregon
+353,5,50-64 Years,White alone,5 or More Years,Oregon
+354,13,50-64 Years,Black or African American alone,All Time,Oregon
+355,0,50-64 Years,Black or African American alone,< 30 Days,Oregon
+356,1,50-64 Years,Black or African American alone,30 to < 90 Days,Oregon
+357,2,50-64 Years,Black or African American alone,90 Days to < 6 Months,Oregon
+358,0,50-64 Years,Black or African American alone,6 Months to < 1 Year,Oregon
+359,4,50-64 Years,Black or African American alone,1 Year to < 2 Years,Oregon
+360,2,50-64 Years,Black or African American alone,2 Years to < 3 Years,Oregon
+361,4,50-64 Years,Black or African American alone,3 Years to < 5 Years,Oregon
+362,0,50-64 Years,Black or African American alone,5 or More Years,Oregon
+363,39,50-64 Years,Hispanic or Latino,All Time,Oregon
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Oregon
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Oregon
+366,2,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Oregon
+367,8,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Oregon
+368,8,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Oregon
+369,8,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Oregon
+370,11,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Oregon
+371,2,50-64 Years,Hispanic or Latino,5 or More Years,Oregon
+372,13,50-64 Years,Asian alone,All Time,Oregon
+373,1,50-64 Years,Asian alone,< 30 Days,Oregon
+374,1,50-64 Years,Asian alone,30 to < 90 Days,Oregon
+375,1,50-64 Years,Asian alone,90 Days to < 6 Months,Oregon
+376,1,50-64 Years,Asian alone,6 Months to < 1 Year,Oregon
+377,2,50-64 Years,Asian alone,1 Year to < 2 Years,Oregon
+378,3,50-64 Years,Asian alone,2 Years to < 3 Years,Oregon
+379,3,50-64 Years,Asian alone,3 Years to < 5 Years,Oregon
+380,1,50-64 Years,Asian alone,5 or More Years,Oregon
+381,3,50-64 Years,American Indian and Alaska Native alone,All Time,Oregon
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Oregon
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Oregon
+384,1,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Oregon
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Oregon
+386,2,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Oregon
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Oregon
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Oregon
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Oregon
+390,8,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Oregon
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oregon
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oregon
+393,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oregon
+394,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oregon
+395,3,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oregon
+396,2,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oregon
+397,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oregon
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oregon
+399,2,50-64 Years,Population of two or more races:,All Time,Oregon
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Oregon
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Oregon
+402,2,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Oregon
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Oregon
+404,0,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Oregon
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Oregon
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Oregon
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Oregon
+408,114,65 and Older,White alone,All Time,Oregon
+409,2,65 and Older,White alone,< 30 Days,Oregon
+410,2,65 and Older,White alone,30 to < 90 Days,Oregon
+411,9,65 and Older,White alone,90 Days to < 6 Months,Oregon
+412,19,65 and Older,White alone,6 Months to < 1 Year,Oregon
+413,30,65 and Older,White alone,1 Year to < 2 Years,Oregon
+414,26,65 and Older,White alone,2 Years to < 3 Years,Oregon
+415,16,65 and Older,White alone,3 Years to < 5 Years,Oregon
+416,10,65 and Older,White alone,5 or More Years,Oregon
+417,5,65 and Older,Black or African American alone,All Time,Oregon
+418,0,65 and Older,Black or African American alone,< 30 Days,Oregon
+419,1,65 and Older,Black or African American alone,30 to < 90 Days,Oregon
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,Oregon
+421,0,65 and Older,Black or African American alone,6 Months to < 1 Year,Oregon
+422,1,65 and Older,Black or African American alone,1 Year to < 2 Years,Oregon
+423,1,65 and Older,Black or African American alone,2 Years to < 3 Years,Oregon
+424,1,65 and Older,Black or African American alone,3 Years to < 5 Years,Oregon
+425,1,65 and Older,Black or African American alone,5 or More Years,Oregon
+426,14,65 and Older,Hispanic or Latino,All Time,Oregon
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Oregon
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Oregon
+429,2,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Oregon
+430,3,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Oregon
+431,2,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Oregon
+432,2,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Oregon
+433,5,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Oregon
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Oregon
+435,12,65 and Older,Asian alone,All Time,Oregon
+436,0,65 and Older,Asian alone,< 30 Days,Oregon
+437,0,65 and Older,Asian alone,30 to < 90 Days,Oregon
+438,3,65 and Older,Asian alone,90 Days to < 6 Months,Oregon
+439,3,65 and Older,Asian alone,6 Months to < 1 Year,Oregon
+440,2,65 and Older,Asian alone,1 Year to < 2 Years,Oregon
+441,3,65 and Older,Asian alone,2 Years to < 3 Years,Oregon
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Oregon
+443,1,65 and Older,Asian alone,5 or More Years,Oregon
+444,1,65 and Older,American Indian and Alaska Native alone,All Time,Oregon
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Oregon
+446,1,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Oregon
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Oregon
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Oregon
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Oregon
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Oregon
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Oregon
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Oregon
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Oregon
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Oregon
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Oregon
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Oregon
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Oregon
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Oregon
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Oregon
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Oregon
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Oregon
+462,0,65 and Older,Population of two or more races:,All Time,Oregon
+463,0,65 and Older,Population of two or more races:,< 30 Days,Oregon
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Oregon
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Oregon
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Oregon
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Oregon
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Oregon
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Oregon
+470,0,65 and Older,Population of two or more races:,5 or More Years,Oregon

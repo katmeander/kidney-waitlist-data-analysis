@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,239,All Ages,White alone,All Time,Arkansas
+1,21,All Ages,White alone,< 30 Days,Arkansas
+2,37,All Ages,White alone,30 to < 90 Days,Arkansas
+3,32,All Ages,White alone,90 Days to < 6 Months,Arkansas
+4,50,All Ages,White alone,6 Months to < 1 Year,Arkansas
+5,48,All Ages,White alone,1 Year to < 2 Years,Arkansas
+6,15,All Ages,White alone,2 Years to < 3 Years,Arkansas
+7,19,All Ages,White alone,3 Years to < 5 Years,Arkansas
+8,17,All Ages,White alone,5 or More Years,Arkansas
+9,184,All Ages,Black or African American alone,All Time,Arkansas
+10,9,All Ages,Black or African American alone,< 30 Days,Arkansas
+11,15,All Ages,Black or African American alone,30 to < 90 Days,Arkansas
+12,23,All Ages,Black or African American alone,90 Days to < 6 Months,Arkansas
+13,35,All Ages,Black or African American alone,6 Months to < 1 Year,Arkansas
+14,44,All Ages,Black or African American alone,1 Year to < 2 Years,Arkansas
+15,19,All Ages,Black or African American alone,2 Years to < 3 Years,Arkansas
+16,27,All Ages,Black or African American alone,3 Years to < 5 Years,Arkansas
+17,12,All Ages,Black or African American alone,5 or More Years,Arkansas
+18,30,All Ages,Hispanic or Latino,All Time,Arkansas
+19,2,All Ages,Hispanic or Latino,< 30 Days,Arkansas
+20,2,All Ages,Hispanic or Latino,30 to < 90 Days,Arkansas
+21,12,All Ages,Hispanic or Latino,90 Days to < 6 Months,Arkansas
+22,3,All Ages,Hispanic or Latino,6 Months to < 1 Year,Arkansas
+23,6,All Ages,Hispanic or Latino,1 Year to < 2 Years,Arkansas
+24,2,All Ages,Hispanic or Latino,2 Years to < 3 Years,Arkansas
+25,2,All Ages,Hispanic or Latino,3 Years to < 5 Years,Arkansas
+26,1,All Ages,Hispanic or Latino,5 or More Years,Arkansas
+27,11,All Ages,Asian alone,All Time,Arkansas
+28,0,All Ages,Asian alone,< 30 Days,Arkansas
+29,0,All Ages,Asian alone,30 to < 90 Days,Arkansas
+30,0,All Ages,Asian alone,90 Days to < 6 Months,Arkansas
+31,4,All Ages,Asian alone,6 Months to < 1 Year,Arkansas
+32,1,All Ages,Asian alone,1 Year to < 2 Years,Arkansas
+33,3,All Ages,Asian alone,2 Years to < 3 Years,Arkansas
+34,2,All Ages,Asian alone,3 Years to < 5 Years,Arkansas
+35,1,All Ages,Asian alone,5 or More Years,Arkansas
+36,2,All Ages,American Indian and Alaska Native alone,All Time,Arkansas
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Arkansas
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Arkansas
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Arkansas
+40,1,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Arkansas
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Arkansas
+42,1,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Arkansas
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Arkansas
+44,0,All Ages,American Indian and Alaska Native alone,5 or More Years,Arkansas
+45,2,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Arkansas
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arkansas
+47,1,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arkansas
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arkansas
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arkansas
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arkansas
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arkansas
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arkansas
+53,1,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arkansas
+54,17,All Ages,Population of two or more races:,All Time,Arkansas
+55,0,All Ages,Population of two or more races:,< 30 Days,Arkansas
+56,4,All Ages,Population of two or more races:,30 to < 90 Days,Arkansas
+57,1,All Ages,Population of two or more races:,90 Days to < 6 Months,Arkansas
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Arkansas
+59,6,All Ages,Population of two or more races:,1 Year to < 2 Years,Arkansas
+60,2,All Ages,Population of two or more races:,2 Years to < 3 Years,Arkansas
+61,3,All Ages,Population of two or more races:,3 Years to < 5 Years,Arkansas
+62,1,All Ages,Population of two or more races:,5 or More Years,Arkansas
+63,3,0-5 Years,White alone,All Time,Arkansas
+64,0,0-5 Years,White alone,< 30 Days,Arkansas
+65,2,0-5 Years,White alone,30 to < 90 Days,Arkansas
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Arkansas
+67,1,0-5 Years,White alone,6 Months to < 1 Year,Arkansas
+68,0,0-5 Years,White alone,1 Year to < 2 Years,Arkansas
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Arkansas
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Arkansas
+71,0,0-5 Years,White alone,5 or More Years,Arkansas
+72,4,0-5 Years,Black or African American alone,All Time,Arkansas
+73,1,0-5 Years,Black or African American alone,< 30 Days,Arkansas
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Arkansas
+75,1,0-5 Years,Black or African American alone,90 Days to < 6 Months,Arkansas
+76,1,0-5 Years,Black or African American alone,6 Months to < 1 Year,Arkansas
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Arkansas
+78,1,0-5 Years,Black or African American alone,2 Years to < 3 Years,Arkansas
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Arkansas
+80,0,0-5 Years,Hispanic or Latino,All Time,Arkansas
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Arkansas
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Arkansas
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Arkansas
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Arkansas
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Arkansas
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Arkansas
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Arkansas
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Arkansas
+89,0,0-5 Years,Asian alone,All Time,Arkansas
+90,0,0-5 Years,Asian alone,< 30 Days,Arkansas
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Arkansas
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Arkansas
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Arkansas
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Arkansas
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Arkansas
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Arkansas
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Arkansas
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Arkansas
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Arkansas
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arkansas
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arkansas
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arkansas
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arkansas
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arkansas
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arkansas
+106,0,0-5 Years,Population of two or more races:,All Time,Arkansas
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Arkansas
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Arkansas
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Arkansas
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Arkansas
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Arkansas
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Arkansas
+113,3,6-10 Years,White alone,All Time,Arkansas
+114,0,6-10 Years,White alone,< 30 Days,Arkansas
+115,0,6-10 Years,White alone,30 to < 90 Days,Arkansas
+116,0,6-10 Years,White alone,90 Days to < 6 Months,Arkansas
+117,2,6-10 Years,White alone,6 Months to < 1 Year,Arkansas
+118,1,6-10 Years,White alone,1 Year to < 2 Years,Arkansas
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Arkansas
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Arkansas
+121,0,6-10 Years,White alone,5 or More Years,Arkansas
+122,2,6-10 Years,Black or African American alone,All Time,Arkansas
+123,0,6-10 Years,Black or African American alone,< 30 Days,Arkansas
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Arkansas
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Arkansas
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Arkansas
+127,1,6-10 Years,Black or African American alone,1 Year to < 2 Years,Arkansas
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Arkansas
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Arkansas
+130,1,6-10 Years,Black or African American alone,5 or More Years,Arkansas
+131,1,6-10 Years,Hispanic or Latino,All Time,Arkansas
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Arkansas
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Arkansas
+134,1,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Arkansas
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Arkansas
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Arkansas
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Arkansas
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Arkansas
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Arkansas
+140,0,6-10 Years,Asian alone,All Time,Arkansas
+141,0,6-10 Years,Asian alone,< 30 Days,Arkansas
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Arkansas
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Arkansas
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Arkansas
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Arkansas
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Arkansas
+147,0,6-10 Years,Asian alone,5 or More Years,Arkansas
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Arkansas
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arkansas
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arkansas
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arkansas
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arkansas
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arkansas
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arkansas
+155,0,6-10 Years,Population of two or more races:,All Time,Arkansas
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Arkansas
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Arkansas
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Arkansas
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Arkansas
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Arkansas
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Arkansas
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Arkansas
+163,3,11-17 Years,White alone,All Time,Arkansas
+164,0,11-17 Years,White alone,< 30 Days,Arkansas
+165,0,11-17 Years,White alone,30 to < 90 Days,Arkansas
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Arkansas
+167,1,11-17 Years,White alone,6 Months to < 1 Year,Arkansas
+168,1,11-17 Years,White alone,1 Year to < 2 Years,Arkansas
+169,1,11-17 Years,White alone,2 Years to < 3 Years,Arkansas
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Arkansas
+171,0,11-17 Years,White alone,5 or More Years,Arkansas
+172,1,11-17 Years,Black or African American alone,All Time,Arkansas
+173,0,11-17 Years,Black or African American alone,< 30 Days,Arkansas
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Arkansas
+175,1,11-17 Years,Black or African American alone,90 Days to < 6 Months,Arkansas
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Arkansas
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Arkansas
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Arkansas
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Arkansas
+180,0,11-17 Years,Black or African American alone,5 or More Years,Arkansas
+181,1,11-17 Years,Hispanic or Latino,All Time,Arkansas
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Arkansas
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Arkansas
+184,1,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Arkansas
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Arkansas
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Arkansas
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Arkansas
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Arkansas
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Arkansas
+190,0,11-17 Years,Asian alone,All Time,Arkansas
+191,0,11-17 Years,Asian alone,< 30 Days,Arkansas
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Arkansas
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Arkansas
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Arkansas
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Arkansas
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Arkansas
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Arkansas
+198,0,11-17 Years,Asian alone,5 or More Years,Arkansas
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Arkansas
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arkansas
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arkansas
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arkansas
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Arkansas
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arkansas
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arkansas
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arkansas
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arkansas
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arkansas
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arkansas
+210,0,11-17 Years,Population of two or more races:,All Time,Arkansas
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Arkansas
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Arkansas
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Arkansas
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Arkansas
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Arkansas
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Arkansas
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Arkansas
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Arkansas
+219,22,18-34 Years,White alone,All Time,Arkansas
+220,2,18-34 Years,White alone,< 30 Days,Arkansas
+221,4,18-34 Years,White alone,30 to < 90 Days,Arkansas
+222,3,18-34 Years,White alone,90 Days to < 6 Months,Arkansas
+223,5,18-34 Years,White alone,6 Months to < 1 Year,Arkansas
+224,4,18-34 Years,White alone,1 Year to < 2 Years,Arkansas
+225,1,18-34 Years,White alone,2 Years to < 3 Years,Arkansas
+226,0,18-34 Years,White alone,3 Years to < 5 Years,Arkansas
+227,3,18-34 Years,White alone,5 or More Years,Arkansas
+228,14,18-34 Years,Black or African American alone,All Time,Arkansas
+229,0,18-34 Years,Black or African American alone,< 30 Days,Arkansas
+230,3,18-34 Years,Black or African American alone,30 to < 90 Days,Arkansas
+231,4,18-34 Years,Black or African American alone,90 Days to < 6 Months,Arkansas
+232,0,18-34 Years,Black or African American alone,6 Months to < 1 Year,Arkansas
+233,3,18-34 Years,Black or African American alone,1 Year to < 2 Years,Arkansas
+234,1,18-34 Years,Black or African American alone,2 Years to < 3 Years,Arkansas
+235,3,18-34 Years,Black or African American alone,3 Years to < 5 Years,Arkansas
+236,0,18-34 Years,Black or African American alone,5 or More Years,Arkansas
+237,4,18-34 Years,Hispanic or Latino,All Time,Arkansas
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Arkansas
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Arkansas
+240,2,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Arkansas
+241,1,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Arkansas
+242,1,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Arkansas
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Arkansas
+244,0,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Arkansas
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Arkansas
+246,0,18-34 Years,Asian alone,All Time,Arkansas
+247,0,18-34 Years,Asian alone,< 30 Days,Arkansas
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Arkansas
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Arkansas
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Arkansas
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Arkansas
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Arkansas
+253,0,18-34 Years,Asian alone,3 Years to < 5 Years,Arkansas
+254,0,18-34 Years,Asian alone,5 or More Years,Arkansas
+255,0,18-34 Years,American Indian and Alaska Native alone,All Time,Arkansas
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Arkansas
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Arkansas
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arkansas
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arkansas
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arkansas
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Arkansas
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arkansas
+263,0,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Arkansas
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arkansas
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arkansas
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arkansas
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arkansas
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arkansas
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arkansas
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arkansas
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arkansas
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arkansas
+273,1,18-34 Years,Population of two or more races:,All Time,Arkansas
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Arkansas
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Arkansas
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Arkansas
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Arkansas
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Arkansas
+279,1,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Arkansas
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Arkansas
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Arkansas
+282,51,35-49 Years,White alone,All Time,Arkansas
+283,4,35-49 Years,White alone,< 30 Days,Arkansas
+284,9,35-49 Years,White alone,30 to < 90 Days,Arkansas
+285,8,35-49 Years,White alone,90 Days to < 6 Months,Arkansas
+286,10,35-49 Years,White alone,6 Months to < 1 Year,Arkansas
+287,6,35-49 Years,White alone,1 Year to < 2 Years,Arkansas
+288,4,35-49 Years,White alone,2 Years to < 3 Years,Arkansas
+289,4,35-49 Years,White alone,3 Years to < 5 Years,Arkansas
+290,6,35-49 Years,White alone,5 or More Years,Arkansas
+291,63,35-49 Years,Black or African American alone,All Time,Arkansas
+292,5,35-49 Years,Black or African American alone,< 30 Days,Arkansas
+293,3,35-49 Years,Black or African American alone,30 to < 90 Days,Arkansas
+294,7,35-49 Years,Black or African American alone,90 Days to < 6 Months,Arkansas
+295,9,35-49 Years,Black or African American alone,6 Months to < 1 Year,Arkansas
+296,22,35-49 Years,Black or African American alone,1 Year to < 2 Years,Arkansas
+297,2,35-49 Years,Black or African American alone,2 Years to < 3 Years,Arkansas
+298,7,35-49 Years,Black or African American alone,3 Years to < 5 Years,Arkansas
+299,8,35-49 Years,Black or African American alone,5 or More Years,Arkansas
+300,9,35-49 Years,Hispanic or Latino,All Time,Arkansas
+301,1,35-49 Years,Hispanic or Latino,< 30 Days,Arkansas
+302,1,35-49 Years,Hispanic or Latino,30 to < 90 Days,Arkansas
+303,2,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Arkansas
+304,1,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Arkansas
+305,2,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Arkansas
+306,1,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Arkansas
+307,1,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Arkansas
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Arkansas
+309,3,35-49 Years,Asian alone,All Time,Arkansas
+310,0,35-49 Years,Asian alone,< 30 Days,Arkansas
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Arkansas
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Arkansas
+313,2,35-49 Years,Asian alone,6 Months to < 1 Year,Arkansas
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,Arkansas
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Arkansas
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Arkansas
+317,0,35-49 Years,Asian alone,5 or More Years,Arkansas
+318,1,35-49 Years,American Indian and Alaska Native alone,All Time,Arkansas
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Arkansas
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Arkansas
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arkansas
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arkansas
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arkansas
+324,1,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Arkansas
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arkansas
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Arkansas
+327,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arkansas
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arkansas
+329,1,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arkansas
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arkansas
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arkansas
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arkansas
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arkansas
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arkansas
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arkansas
+336,8,35-49 Years,Population of two or more races:,All Time,Arkansas
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Arkansas
+338,2,35-49 Years,Population of two or more races:,30 to < 90 Days,Arkansas
+339,1,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Arkansas
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Arkansas
+341,4,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Arkansas
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Arkansas
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Arkansas
+344,1,35-49 Years,Population of two or more races:,5 or More Years,Arkansas
+345,103,50-64 Years,White alone,All Time,Arkansas
+346,10,50-64 Years,White alone,< 30 Days,Arkansas
+347,13,50-64 Years,White alone,30 to < 90 Days,Arkansas
+348,15,50-64 Years,White alone,90 Days to < 6 Months,Arkansas
+349,24,50-64 Years,White alone,6 Months to < 1 Year,Arkansas
+350,19,50-64 Years,White alone,1 Year to < 2 Years,Arkansas
+351,5,50-64 Years,White alone,2 Years to < 3 Years,Arkansas
+352,11,50-64 Years,White alone,3 Years to < 5 Years,Arkansas
+353,6,50-64 Years,White alone,5 or More Years,Arkansas
+354,64,50-64 Years,Black or African American alone,All Time,Arkansas
+355,2,50-64 Years,Black or African American alone,< 30 Days,Arkansas
+356,4,50-64 Years,Black or African American alone,30 to < 90 Days,Arkansas
+357,6,50-64 Years,Black or African American alone,90 Days to < 6 Months,Arkansas
+358,14,50-64 Years,Black or African American alone,6 Months to < 1 Year,Arkansas
+359,12,50-64 Years,Black or African American alone,1 Year to < 2 Years,Arkansas
+360,12,50-64 Years,Black or African American alone,2 Years to < 3 Years,Arkansas
+361,12,50-64 Years,Black or African American alone,3 Years to < 5 Years,Arkansas
+362,2,50-64 Years,Black or African American alone,5 or More Years,Arkansas
+363,12,50-64 Years,Hispanic or Latino,All Time,Arkansas
+364,1,50-64 Years,Hispanic or Latino,< 30 Days,Arkansas
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Arkansas
+366,5,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Arkansas
+367,1,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Arkansas
+368,3,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Arkansas
+369,0,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Arkansas
+370,1,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Arkansas
+371,1,50-64 Years,Hispanic or Latino,5 or More Years,Arkansas
+372,4,50-64 Years,Asian alone,All Time,Arkansas
+373,0,50-64 Years,Asian alone,< 30 Days,Arkansas
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Arkansas
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Arkansas
+376,2,50-64 Years,Asian alone,6 Months to < 1 Year,Arkansas
+377,0,50-64 Years,Asian alone,1 Year to < 2 Years,Arkansas
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Arkansas
+379,1,50-64 Years,Asian alone,3 Years to < 5 Years,Arkansas
+380,1,50-64 Years,Asian alone,5 or More Years,Arkansas
+381,1,50-64 Years,American Indian and Alaska Native alone,All Time,Arkansas
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Arkansas
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Arkansas
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Arkansas
+385,1,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Arkansas
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Arkansas
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Arkansas
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Arkansas
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Arkansas
+390,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Arkansas
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arkansas
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arkansas
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arkansas
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arkansas
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arkansas
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arkansas
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arkansas
+398,1,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arkansas
+399,6,50-64 Years,Population of two or more races:,All Time,Arkansas
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Arkansas
+401,2,50-64 Years,Population of two or more races:,30 to < 90 Days,Arkansas
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Arkansas
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Arkansas
+404,1,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Arkansas
+405,1,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Arkansas
+406,2,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Arkansas
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Arkansas
+408,54,65 and Older,White alone,All Time,Arkansas
+409,5,65 and Older,White alone,< 30 Days,Arkansas
+410,9,65 and Older,White alone,30 to < 90 Days,Arkansas
+411,6,65 and Older,White alone,90 Days to < 6 Months,Arkansas
+412,7,65 and Older,White alone,6 Months to < 1 Year,Arkansas
+413,17,65 and Older,White alone,1 Year to < 2 Years,Arkansas
+414,4,65 and Older,White alone,2 Years to < 3 Years,Arkansas
+415,4,65 and Older,White alone,3 Years to < 5 Years,Arkansas
+416,2,65 and Older,White alone,5 or More Years,Arkansas
+417,36,65 and Older,Black or African American alone,All Time,Arkansas
+418,1,65 and Older,Black or African American alone,< 30 Days,Arkansas
+419,5,65 and Older,Black or African American alone,30 to < 90 Days,Arkansas
+420,4,65 and Older,Black or African American alone,90 Days to < 6 Months,Arkansas
+421,11,65 and Older,Black or African American alone,6 Months to < 1 Year,Arkansas
+422,6,65 and Older,Black or African American alone,1 Year to < 2 Years,Arkansas
+423,3,65 and Older,Black or African American alone,2 Years to < 3 Years,Arkansas
+424,5,65 and Older,Black or African American alone,3 Years to < 5 Years,Arkansas
+425,1,65 and Older,Black or African American alone,5 or More Years,Arkansas
+426,3,65 and Older,Hispanic or Latino,All Time,Arkansas
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Arkansas
+428,1,65 and Older,Hispanic or Latino,30 to < 90 Days,Arkansas
+429,1,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Arkansas
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Arkansas
+431,0,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Arkansas
+432,1,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Arkansas
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Arkansas
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Arkansas
+435,4,65 and Older,Asian alone,All Time,Arkansas
+436,0,65 and Older,Asian alone,< 30 Days,Arkansas
+437,0,65 and Older,Asian alone,30 to < 90 Days,Arkansas
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Arkansas
+439,0,65 and Older,Asian alone,6 Months to < 1 Year,Arkansas
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,Arkansas
+441,3,65 and Older,Asian alone,2 Years to < 3 Years,Arkansas
+442,1,65 and Older,Asian alone,3 Years to < 5 Years,Arkansas
+443,0,65 and Older,Asian alone,5 or More Years,Arkansas
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Arkansas
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Arkansas
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Arkansas
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Arkansas
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Arkansas
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Arkansas
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Arkansas
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Arkansas
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Arkansas
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Arkansas
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Arkansas
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Arkansas
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Arkansas
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Arkansas
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Arkansas
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Arkansas
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Arkansas
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Arkansas
+462,2,65 and Older,Population of two or more races:,All Time,Arkansas
+463,0,65 and Older,Population of two or more races:,< 30 Days,Arkansas
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Arkansas
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Arkansas
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Arkansas
+467,1,65 and Older,Population of two or more races:,1 Year to < 2 Years,Arkansas
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Arkansas
+469,1,65 and Older,Population of two or more races:,3 Years to < 5 Years,Arkansas
+470,0,65 and Older,Population of two or more races:,5 or More Years,Arkansas

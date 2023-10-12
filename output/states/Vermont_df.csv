@@ -1,0 +1,472 @@
+,People,Age,Ethnicities,Wait Time,State
+0,148,All Ages,White alone,All Time,Vermont
+1,5,All Ages,White alone,< 30 Days,Vermont
+2,6,All Ages,White alone,30 to < 90 Days,Vermont
+3,19,All Ages,White alone,90 Days to < 6 Months,Vermont
+4,23,All Ages,White alone,6 Months to < 1 Year,Vermont
+5,48,All Ages,White alone,1 Year to < 2 Years,Vermont
+6,18,All Ages,White alone,2 Years to < 3 Years,Vermont
+7,21,All Ages,White alone,3 Years to < 5 Years,Vermont
+8,8,All Ages,White alone,5 or More Years,Vermont
+9,2,All Ages,Black or African American alone,All Time,Vermont
+10,0,All Ages,Black or African American alone,< 30 Days,Vermont
+11,1,All Ages,Black or African American alone,30 to < 90 Days,Vermont
+12,0,All Ages,Black or African American alone,90 Days to < 6 Months,Vermont
+13,1,All Ages,Black or African American alone,6 Months to < 1 Year,Vermont
+14,0,All Ages,Black or African American alone,1 Year to < 2 Years,Vermont
+15,0,All Ages,Black or African American alone,2 Years to < 3 Years,Vermont
+16,0,All Ages,Black or African American alone,3 Years to < 5 Years,Vermont
+17,0,All Ages,Black or African American alone,5 or More Years,Vermont
+18,3,All Ages,Hispanic or Latino,All Time,Vermont
+19,0,All Ages,Hispanic or Latino,< 30 Days,Vermont
+20,0,All Ages,Hispanic or Latino,30 to < 90 Days,Vermont
+21,1,All Ages,Hispanic or Latino,90 Days to < 6 Months,Vermont
+22,0,All Ages,Hispanic or Latino,6 Months to < 1 Year,Vermont
+23,1,All Ages,Hispanic or Latino,1 Year to < 2 Years,Vermont
+24,0,All Ages,Hispanic or Latino,2 Years to < 3 Years,Vermont
+25,1,All Ages,Hispanic or Latino,3 Years to < 5 Years,Vermont
+26,0,All Ages,Hispanic or Latino,5 or More Years,Vermont
+27,4,All Ages,Asian alone,All Time,Vermont
+28,0,All Ages,Asian alone,< 30 Days,Vermont
+29,0,All Ages,Asian alone,30 to < 90 Days,Vermont
+30,0,All Ages,Asian alone,90 Days to < 6 Months,Vermont
+31,1,All Ages,Asian alone,6 Months to < 1 Year,Vermont
+32,1,All Ages,Asian alone,1 Year to < 2 Years,Vermont
+33,0,All Ages,Asian alone,2 Years to < 3 Years,Vermont
+34,1,All Ages,Asian alone,3 Years to < 5 Years,Vermont
+35,1,All Ages,Asian alone,5 or More Years,Vermont
+36,1,All Ages,American Indian and Alaska Native alone,All Time,Vermont
+37,0,All Ages,American Indian and Alaska Native alone,< 30 Days,Vermont
+38,0,All Ages,American Indian and Alaska Native alone,30 to < 90 Days,Vermont
+39,0,All Ages,American Indian and Alaska Native alone,90 Days to < 6 Months,Vermont
+40,0,All Ages,American Indian and Alaska Native alone,6 Months to < 1 Year,Vermont
+41,0,All Ages,American Indian and Alaska Native alone,1 Year to < 2 Years,Vermont
+42,0,All Ages,American Indian and Alaska Native alone,2 Years to < 3 Years,Vermont
+43,0,All Ages,American Indian and Alaska Native alone,3 Years to < 5 Years,Vermont
+44,1,All Ages,American Indian and Alaska Native alone,5 or More Years,Vermont
+45,0,All Ages,Native Hawaiian and Other Pacific Islander alone,All Time,Vermont
+46,0,All Ages,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Vermont
+47,0,All Ages,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Vermont
+48,0,All Ages,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Vermont
+49,0,All Ages,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Vermont
+50,0,All Ages,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Vermont
+51,0,All Ages,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Vermont
+52,0,All Ages,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Vermont
+53,0,All Ages,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Vermont
+54,1,All Ages,Population of two or more races:,All Time,Vermont
+55,0,All Ages,Population of two or more races:,< 30 Days,Vermont
+56,0,All Ages,Population of two or more races:,30 to < 90 Days,Vermont
+57,0,All Ages,Population of two or more races:,90 Days to < 6 Months,Vermont
+58,0,All Ages,Population of two or more races:,6 Months to < 1 Year,Vermont
+59,1,All Ages,Population of two or more races:,1 Year to < 2 Years,Vermont
+60,0,All Ages,Population of two or more races:,2 Years to < 3 Years,Vermont
+61,0,All Ages,Population of two or more races:,3 Years to < 5 Years,Vermont
+62,0,All Ages,Population of two or more races:,5 or More Years,Vermont
+63,2,0-5 Years,White alone,All Time,Vermont
+64,0,0-5 Years,White alone,< 30 Days,Vermont
+65,0,0-5 Years,White alone,30 to < 90 Days,Vermont
+66,0,0-5 Years,White alone,90 Days to < 6 Months,Vermont
+67,1,0-5 Years,White alone,6 Months to < 1 Year,Vermont
+68,1,0-5 Years,White alone,1 Year to < 2 Years,Vermont
+69,0,0-5 Years,White alone,2 Years to < 3 Years,Vermont
+70,0,0-5 Years,White alone,3 Years to < 5 Years,Vermont
+71,0,0-5 Years,White alone,5 or More Years,Vermont
+72,0,0-5 Years,Black or African American alone,All Time,Vermont
+73,0,0-5 Years,Black or African American alone,< 30 Days,Vermont
+74,0,0-5 Years,Black or African American alone,30 to < 90 Days,Vermont
+75,0,0-5 Years,Black or African American alone,90 Days to < 6 Months,Vermont
+76,0,0-5 Years,Black or African American alone,6 Months to < 1 Year,Vermont
+77,0,0-5 Years,Black or African American alone,1 Year to < 2 Years,Vermont
+78,0,0-5 Years,Black or African American alone,2 Years to < 3 Years,Vermont
+79,0,0-5 Years,Black or African American alone,3 Years to < 5 Years,Vermont
+80,0,0-5 Years,Hispanic or Latino,All Time,Vermont
+81,0,0-5 Years,Hispanic or Latino,< 30 Days,Vermont
+82,0,0-5 Years,Hispanic or Latino,30 to < 90 Days,Vermont
+83,0,0-5 Years,Hispanic or Latino,90 Days to < 6 Months,Vermont
+84,0,0-5 Years,Hispanic or Latino,6 Months to < 1 Year,Vermont
+85,0,0-5 Years,Hispanic or Latino,1 Year to < 2 Years,Vermont
+86,0,0-5 Years,Hispanic or Latino,2 Years to < 3 Years,Vermont
+87,0,0-5 Years,Hispanic or Latino,3 Years to < 5 Years,Vermont
+88,0,0-5 Years,Hispanic or Latino,5 or More Years,Vermont
+89,0,0-5 Years,Asian alone,All Time,Vermont
+90,0,0-5 Years,Asian alone,< 30 Days,Vermont
+91,0,0-5 Years,Asian alone,30 to < 90 Days,Vermont
+92,0,0-5 Years,Asian alone,90 Days to < 6 Months,Vermont
+93,0,0-5 Years,Asian alone,6 Months to < 1 Year,Vermont
+94,0,0-5 Years,Asian alone,1 Year to < 2 Years,Vermont
+95,0,0-5 Years,Asian alone,2 Years to < 3 Years,Vermont
+96,0,0-5 Years,Asian alone,3 Years to < 5 Years,Vermont
+97,0,0-5 Years,American Indian and Alaska Native alone,All Time,Vermont
+98,0,0-5 Years,American Indian and Alaska Native alone,< 30 Days,Vermont
+99,0,0-5 Years,American Indian and Alaska Native alone,30 to < 90 Days,Vermont
+100,0,0-5 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Vermont
+101,0,0-5 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Vermont
+102,0,0-5 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Vermont
+103,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Vermont
+104,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Vermont
+105,0,0-5 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Vermont
+106,0,0-5 Years,Population of two or more races:,All Time,Vermont
+107,0,0-5 Years,Population of two or more races:,< 30 Days,Vermont
+108,0,0-5 Years,Population of two or more races:,30 to < 90 Days,Vermont
+109,0,0-5 Years,Population of two or more races:,90 Days to < 6 Months,Vermont
+110,0,0-5 Years,Population of two or more races:,6 Months to < 1 Year,Vermont
+111,0,0-5 Years,Population of two or more races:,1 Year to < 2 Years,Vermont
+112,0,0-5 Years,Population of two or more races:,2 Years to < 3 Years,Vermont
+113,1,6-10 Years,White alone,All Time,Vermont
+114,0,6-10 Years,White alone,< 30 Days,Vermont
+115,0,6-10 Years,White alone,30 to < 90 Days,Vermont
+116,1,6-10 Years,White alone,90 Days to < 6 Months,Vermont
+117,0,6-10 Years,White alone,6 Months to < 1 Year,Vermont
+118,0,6-10 Years,White alone,1 Year to < 2 Years,Vermont
+119,0,6-10 Years,White alone,2 Years to < 3 Years,Vermont
+120,0,6-10 Years,White alone,3 Years to < 5 Years,Vermont
+121,0,6-10 Years,White alone,5 or More Years,Vermont
+122,0,6-10 Years,Black or African American alone,All Time,Vermont
+123,0,6-10 Years,Black or African American alone,< 30 Days,Vermont
+124,0,6-10 Years,Black or African American alone,30 to < 90 Days,Vermont
+125,0,6-10 Years,Black or African American alone,90 Days to < 6 Months,Vermont
+126,0,6-10 Years,Black or African American alone,6 Months to < 1 Year,Vermont
+127,0,6-10 Years,Black or African American alone,1 Year to < 2 Years,Vermont
+128,0,6-10 Years,Black or African American alone,2 Years to < 3 Years,Vermont
+129,0,6-10 Years,Black or African American alone,3 Years to < 5 Years,Vermont
+130,0,6-10 Years,Black or African American alone,5 or More Years,Vermont
+131,0,6-10 Years,Hispanic or Latino,All Time,Vermont
+132,0,6-10 Years,Hispanic or Latino,< 30 Days,Vermont
+133,0,6-10 Years,Hispanic or Latino,30 to < 90 Days,Vermont
+134,0,6-10 Years,Hispanic or Latino,90 Days to < 6 Months,Vermont
+135,0,6-10 Years,Hispanic or Latino,6 Months to < 1 Year,Vermont
+136,0,6-10 Years,Hispanic or Latino,1 Year to < 2 Years,Vermont
+137,0,6-10 Years,Hispanic or Latino,2 Years to < 3 Years,Vermont
+138,0,6-10 Years,Hispanic or Latino,3 Years to < 5 Years,Vermont
+139,0,6-10 Years,Hispanic or Latino,5 or More Years,Vermont
+140,0,6-10 Years,Asian alone,All Time,Vermont
+141,0,6-10 Years,Asian alone,< 30 Days,Vermont
+142,0,6-10 Years,Asian alone,30 to < 90 Days,Vermont
+143,0,6-10 Years,Asian alone,6 Months to < 1 Year,Vermont
+144,0,6-10 Years,Asian alone,1 Year to < 2 Years,Vermont
+145,0,6-10 Years,Asian alone,2 Years to < 3 Years,Vermont
+146,0,6-10 Years,Asian alone,3 Years to < 5 Years,Vermont
+147,0,6-10 Years,Asian alone,5 or More Years,Vermont
+148,0,6-10 Years,American Indian and Alaska Native alone,All Time,Vermont
+149,0,6-10 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Vermont
+150,0,6-10 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Vermont
+151,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Vermont
+152,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Vermont
+153,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Vermont
+154,0,6-10 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Vermont
+155,0,6-10 Years,Population of two or more races:,All Time,Vermont
+156,0,6-10 Years,Population of two or more races:,< 30 Days,Vermont
+157,0,6-10 Years,Population of two or more races:,90 Days to < 6 Months,Vermont
+158,0,6-10 Years,Population of two or more races:,6 Months to < 1 Year,Vermont
+159,0,6-10 Years,Population of two or more races:,1 Year to < 2 Years,Vermont
+160,0,6-10 Years,Population of two or more races:,2 Years to < 3 Years,Vermont
+161,0,6-10 Years,Population of two or more races:,3 Years to < 5 Years,Vermont
+162,0,6-10 Years,Population of two or more races:,5 or More Years,Vermont
+163,1,11-17 Years,White alone,All Time,Vermont
+164,0,11-17 Years,White alone,< 30 Days,Vermont
+165,0,11-17 Years,White alone,30 to < 90 Days,Vermont
+166,0,11-17 Years,White alone,90 Days to < 6 Months,Vermont
+167,0,11-17 Years,White alone,6 Months to < 1 Year,Vermont
+168,1,11-17 Years,White alone,1 Year to < 2 Years,Vermont
+169,0,11-17 Years,White alone,2 Years to < 3 Years,Vermont
+170,0,11-17 Years,White alone,3 Years to < 5 Years,Vermont
+171,0,11-17 Years,White alone,5 or More Years,Vermont
+172,0,11-17 Years,Black or African American alone,All Time,Vermont
+173,0,11-17 Years,Black or African American alone,< 30 Days,Vermont
+174,0,11-17 Years,Black or African American alone,30 to < 90 Days,Vermont
+175,0,11-17 Years,Black or African American alone,90 Days to < 6 Months,Vermont
+176,0,11-17 Years,Black or African American alone,6 Months to < 1 Year,Vermont
+177,0,11-17 Years,Black or African American alone,1 Year to < 2 Years,Vermont
+178,0,11-17 Years,Black or African American alone,2 Years to < 3 Years,Vermont
+179,0,11-17 Years,Black or African American alone,3 Years to < 5 Years,Vermont
+180,0,11-17 Years,Black or African American alone,5 or More Years,Vermont
+181,0,11-17 Years,Hispanic or Latino,All Time,Vermont
+182,0,11-17 Years,Hispanic or Latino,< 30 Days,Vermont
+183,0,11-17 Years,Hispanic or Latino,30 to < 90 Days,Vermont
+184,0,11-17 Years,Hispanic or Latino,90 Days to < 6 Months,Vermont
+185,0,11-17 Years,Hispanic or Latino,6 Months to < 1 Year,Vermont
+186,0,11-17 Years,Hispanic or Latino,1 Year to < 2 Years,Vermont
+187,0,11-17 Years,Hispanic or Latino,2 Years to < 3 Years,Vermont
+188,0,11-17 Years,Hispanic or Latino,3 Years to < 5 Years,Vermont
+189,0,11-17 Years,Hispanic or Latino,5 or More Years,Vermont
+190,0,11-17 Years,Asian alone,All Time,Vermont
+191,0,11-17 Years,Asian alone,< 30 Days,Vermont
+192,0,11-17 Years,Asian alone,30 to < 90 Days,Vermont
+193,0,11-17 Years,Asian alone,90 Days to < 6 Months,Vermont
+194,0,11-17 Years,Asian alone,6 Months to < 1 Year,Vermont
+195,0,11-17 Years,Asian alone,1 Year to < 2 Years,Vermont
+196,0,11-17 Years,Asian alone,2 Years to < 3 Years,Vermont
+197,0,11-17 Years,Asian alone,3 Years to < 5 Years,Vermont
+198,0,11-17 Years,Asian alone,5 or More Years,Vermont
+199,0,11-17 Years,American Indian and Alaska Native alone,All Time,Vermont
+200,0,11-17 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Vermont
+201,0,11-17 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Vermont
+202,0,11-17 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Vermont
+203,0,11-17 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Vermont
+204,0,11-17 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Vermont
+205,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Vermont
+206,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Vermont
+207,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Vermont
+208,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Vermont
+209,0,11-17 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Vermont
+210,0,11-17 Years,Population of two or more races:,All Time,Vermont
+211,0,11-17 Years,Population of two or more races:,< 30 Days,Vermont
+212,0,11-17 Years,Population of two or more races:,30 to < 90 Days,Vermont
+213,0,11-17 Years,Population of two or more races:,90 Days to < 6 Months,Vermont
+214,0,11-17 Years,Population of two or more races:,6 Months to < 1 Year,Vermont
+215,0,11-17 Years,Population of two or more races:,1 Year to < 2 Years,Vermont
+216,0,11-17 Years,Population of two or more races:,2 Years to < 3 Years,Vermont
+217,0,11-17 Years,Population of two or more races:,3 Years to < 5 Years,Vermont
+218,0,11-17 Years,Population of two or more races:,5 or More Years,Vermont
+219,17,18-34 Years,White alone,All Time,Vermont
+220,0,18-34 Years,White alone,< 30 Days,Vermont
+221,0,18-34 Years,White alone,30 to < 90 Days,Vermont
+222,4,18-34 Years,White alone,90 Days to < 6 Months,Vermont
+223,4,18-34 Years,White alone,6 Months to < 1 Year,Vermont
+224,6,18-34 Years,White alone,1 Year to < 2 Years,Vermont
+225,0,18-34 Years,White alone,2 Years to < 3 Years,Vermont
+226,2,18-34 Years,White alone,3 Years to < 5 Years,Vermont
+227,1,18-34 Years,White alone,5 or More Years,Vermont
+228,0,18-34 Years,Black or African American alone,All Time,Vermont
+229,0,18-34 Years,Black or African American alone,< 30 Days,Vermont
+230,0,18-34 Years,Black or African American alone,30 to < 90 Days,Vermont
+231,0,18-34 Years,Black or African American alone,90 Days to < 6 Months,Vermont
+232,0,18-34 Years,Black or African American alone,6 Months to < 1 Year,Vermont
+233,0,18-34 Years,Black or African American alone,1 Year to < 2 Years,Vermont
+234,0,18-34 Years,Black or African American alone,2 Years to < 3 Years,Vermont
+235,0,18-34 Years,Black or African American alone,3 Years to < 5 Years,Vermont
+236,0,18-34 Years,Black or African American alone,5 or More Years,Vermont
+237,1,18-34 Years,Hispanic or Latino,All Time,Vermont
+238,0,18-34 Years,Hispanic or Latino,< 30 Days,Vermont
+239,0,18-34 Years,Hispanic or Latino,30 to < 90 Days,Vermont
+240,0,18-34 Years,Hispanic or Latino,90 Days to < 6 Months,Vermont
+241,0,18-34 Years,Hispanic or Latino,6 Months to < 1 Year,Vermont
+242,0,18-34 Years,Hispanic or Latino,1 Year to < 2 Years,Vermont
+243,0,18-34 Years,Hispanic or Latino,2 Years to < 3 Years,Vermont
+244,1,18-34 Years,Hispanic or Latino,3 Years to < 5 Years,Vermont
+245,0,18-34 Years,Hispanic or Latino,5 or More Years,Vermont
+246,1,18-34 Years,Asian alone,All Time,Vermont
+247,0,18-34 Years,Asian alone,< 30 Days,Vermont
+248,0,18-34 Years,Asian alone,30 to < 90 Days,Vermont
+249,0,18-34 Years,Asian alone,90 Days to < 6 Months,Vermont
+250,0,18-34 Years,Asian alone,6 Months to < 1 Year,Vermont
+251,0,18-34 Years,Asian alone,1 Year to < 2 Years,Vermont
+252,0,18-34 Years,Asian alone,2 Years to < 3 Years,Vermont
+253,1,18-34 Years,Asian alone,3 Years to < 5 Years,Vermont
+254,0,18-34 Years,Asian alone,5 or More Years,Vermont
+255,1,18-34 Years,American Indian and Alaska Native alone,All Time,Vermont
+256,0,18-34 Years,American Indian and Alaska Native alone,< 30 Days,Vermont
+257,0,18-34 Years,American Indian and Alaska Native alone,30 to < 90 Days,Vermont
+258,0,18-34 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Vermont
+259,0,18-34 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Vermont
+260,0,18-34 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Vermont
+261,0,18-34 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Vermont
+262,0,18-34 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Vermont
+263,1,18-34 Years,American Indian and Alaska Native alone,5 or More Years,Vermont
+264,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Vermont
+265,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Vermont
+266,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Vermont
+267,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Vermont
+268,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Vermont
+269,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Vermont
+270,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Vermont
+271,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Vermont
+272,0,18-34 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Vermont
+273,0,18-34 Years,Population of two or more races:,All Time,Vermont
+274,0,18-34 Years,Population of two or more races:,< 30 Days,Vermont
+275,0,18-34 Years,Population of two or more races:,30 to < 90 Days,Vermont
+276,0,18-34 Years,Population of two or more races:,90 Days to < 6 Months,Vermont
+277,0,18-34 Years,Population of two or more races:,6 Months to < 1 Year,Vermont
+278,0,18-34 Years,Population of two or more races:,1 Year to < 2 Years,Vermont
+279,0,18-34 Years,Population of two or more races:,2 Years to < 3 Years,Vermont
+280,0,18-34 Years,Population of two or more races:,3 Years to < 5 Years,Vermont
+281,0,18-34 Years,Population of two or more races:,5 or More Years,Vermont
+282,36,35-49 Years,White alone,All Time,Vermont
+283,1,35-49 Years,White alone,< 30 Days,Vermont
+284,3,35-49 Years,White alone,30 to < 90 Days,Vermont
+285,4,35-49 Years,White alone,90 Days to < 6 Months,Vermont
+286,3,35-49 Years,White alone,6 Months to < 1 Year,Vermont
+287,11,35-49 Years,White alone,1 Year to < 2 Years,Vermont
+288,3,35-49 Years,White alone,2 Years to < 3 Years,Vermont
+289,9,35-49 Years,White alone,3 Years to < 5 Years,Vermont
+290,2,35-49 Years,White alone,5 or More Years,Vermont
+291,0,35-49 Years,Black or African American alone,All Time,Vermont
+292,0,35-49 Years,Black or African American alone,< 30 Days,Vermont
+293,0,35-49 Years,Black or African American alone,30 to < 90 Days,Vermont
+294,0,35-49 Years,Black or African American alone,90 Days to < 6 Months,Vermont
+295,0,35-49 Years,Black or African American alone,6 Months to < 1 Year,Vermont
+296,0,35-49 Years,Black or African American alone,1 Year to < 2 Years,Vermont
+297,0,35-49 Years,Black or African American alone,2 Years to < 3 Years,Vermont
+298,0,35-49 Years,Black or African American alone,3 Years to < 5 Years,Vermont
+299,0,35-49 Years,Black or African American alone,5 or More Years,Vermont
+300,0,35-49 Years,Hispanic or Latino,All Time,Vermont
+301,0,35-49 Years,Hispanic or Latino,< 30 Days,Vermont
+302,0,35-49 Years,Hispanic or Latino,30 to < 90 Days,Vermont
+303,0,35-49 Years,Hispanic or Latino,90 Days to < 6 Months,Vermont
+304,0,35-49 Years,Hispanic or Latino,6 Months to < 1 Year,Vermont
+305,0,35-49 Years,Hispanic or Latino,1 Year to < 2 Years,Vermont
+306,0,35-49 Years,Hispanic or Latino,2 Years to < 3 Years,Vermont
+307,0,35-49 Years,Hispanic or Latino,3 Years to < 5 Years,Vermont
+308,0,35-49 Years,Hispanic or Latino,5 or More Years,Vermont
+309,1,35-49 Years,Asian alone,All Time,Vermont
+310,0,35-49 Years,Asian alone,< 30 Days,Vermont
+311,0,35-49 Years,Asian alone,30 to < 90 Days,Vermont
+312,0,35-49 Years,Asian alone,90 Days to < 6 Months,Vermont
+313,0,35-49 Years,Asian alone,6 Months to < 1 Year,Vermont
+314,1,35-49 Years,Asian alone,1 Year to < 2 Years,Vermont
+315,0,35-49 Years,Asian alone,2 Years to < 3 Years,Vermont
+316,0,35-49 Years,Asian alone,3 Years to < 5 Years,Vermont
+317,0,35-49 Years,Asian alone,5 or More Years,Vermont
+318,0,35-49 Years,American Indian and Alaska Native alone,All Time,Vermont
+319,0,35-49 Years,American Indian and Alaska Native alone,< 30 Days,Vermont
+320,0,35-49 Years,American Indian and Alaska Native alone,30 to < 90 Days,Vermont
+321,0,35-49 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Vermont
+322,0,35-49 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Vermont
+323,0,35-49 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Vermont
+324,0,35-49 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Vermont
+325,0,35-49 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Vermont
+326,0,35-49 Years,American Indian and Alaska Native alone,5 or More Years,Vermont
+327,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Vermont
+328,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Vermont
+329,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Vermont
+330,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Vermont
+331,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Vermont
+332,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Vermont
+333,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Vermont
+334,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Vermont
+335,0,35-49 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Vermont
+336,0,35-49 Years,Population of two or more races:,All Time,Vermont
+337,0,35-49 Years,Population of two or more races:,< 30 Days,Vermont
+338,0,35-49 Years,Population of two or more races:,30 to < 90 Days,Vermont
+339,0,35-49 Years,Population of two or more races:,90 Days to < 6 Months,Vermont
+340,0,35-49 Years,Population of two or more races:,6 Months to < 1 Year,Vermont
+341,0,35-49 Years,Population of two or more races:,1 Year to < 2 Years,Vermont
+342,0,35-49 Years,Population of two or more races:,2 Years to < 3 Years,Vermont
+343,0,35-49 Years,Population of two or more races:,3 Years to < 5 Years,Vermont
+344,0,35-49 Years,Population of two or more races:,5 or More Years,Vermont
+345,41,50-64 Years,White alone,All Time,Vermont
+346,2,50-64 Years,White alone,< 30 Days,Vermont
+347,0,50-64 Years,White alone,30 to < 90 Days,Vermont
+348,5,50-64 Years,White alone,90 Days to < 6 Months,Vermont
+349,9,50-64 Years,White alone,6 Months to < 1 Year,Vermont
+350,12,50-64 Years,White alone,1 Year to < 2 Years,Vermont
+351,6,50-64 Years,White alone,2 Years to < 3 Years,Vermont
+352,3,50-64 Years,White alone,3 Years to < 5 Years,Vermont
+353,4,50-64 Years,White alone,5 or More Years,Vermont
+354,2,50-64 Years,Black or African American alone,All Time,Vermont
+355,0,50-64 Years,Black or African American alone,< 30 Days,Vermont
+356,1,50-64 Years,Black or African American alone,30 to < 90 Days,Vermont
+357,0,50-64 Years,Black or African American alone,90 Days to < 6 Months,Vermont
+358,1,50-64 Years,Black or African American alone,6 Months to < 1 Year,Vermont
+359,0,50-64 Years,Black or African American alone,1 Year to < 2 Years,Vermont
+360,0,50-64 Years,Black or African American alone,2 Years to < 3 Years,Vermont
+361,0,50-64 Years,Black or African American alone,3 Years to < 5 Years,Vermont
+362,0,50-64 Years,Black or African American alone,5 or More Years,Vermont
+363,1,50-64 Years,Hispanic or Latino,All Time,Vermont
+364,0,50-64 Years,Hispanic or Latino,< 30 Days,Vermont
+365,0,50-64 Years,Hispanic or Latino,30 to < 90 Days,Vermont
+366,1,50-64 Years,Hispanic or Latino,90 Days to < 6 Months,Vermont
+367,0,50-64 Years,Hispanic or Latino,6 Months to < 1 Year,Vermont
+368,0,50-64 Years,Hispanic or Latino,1 Year to < 2 Years,Vermont
+369,0,50-64 Years,Hispanic or Latino,2 Years to < 3 Years,Vermont
+370,0,50-64 Years,Hispanic or Latino,3 Years to < 5 Years,Vermont
+371,0,50-64 Years,Hispanic or Latino,5 or More Years,Vermont
+372,1,50-64 Years,Asian alone,All Time,Vermont
+373,0,50-64 Years,Asian alone,< 30 Days,Vermont
+374,0,50-64 Years,Asian alone,30 to < 90 Days,Vermont
+375,0,50-64 Years,Asian alone,90 Days to < 6 Months,Vermont
+376,0,50-64 Years,Asian alone,6 Months to < 1 Year,Vermont
+377,0,50-64 Years,Asian alone,1 Year to < 2 Years,Vermont
+378,0,50-64 Years,Asian alone,2 Years to < 3 Years,Vermont
+379,0,50-64 Years,Asian alone,3 Years to < 5 Years,Vermont
+380,1,50-64 Years,Asian alone,5 or More Years,Vermont
+381,0,50-64 Years,American Indian and Alaska Native alone,All Time,Vermont
+382,0,50-64 Years,American Indian and Alaska Native alone,< 30 Days,Vermont
+383,0,50-64 Years,American Indian and Alaska Native alone,30 to < 90 Days,Vermont
+384,0,50-64 Years,American Indian and Alaska Native alone,90 Days to < 6 Months,Vermont
+385,0,50-64 Years,American Indian and Alaska Native alone,6 Months to < 1 Year,Vermont
+386,0,50-64 Years,American Indian and Alaska Native alone,1 Year to < 2 Years,Vermont
+387,0,50-64 Years,American Indian and Alaska Native alone,2 Years to < 3 Years,Vermont
+388,0,50-64 Years,American Indian and Alaska Native alone,3 Years to < 5 Years,Vermont
+389,0,50-64 Years,American Indian and Alaska Native alone,5 or More Years,Vermont
+390,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,All Time,Vermont
+391,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Vermont
+392,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Vermont
+393,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Vermont
+394,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Vermont
+395,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Vermont
+396,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Vermont
+397,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Vermont
+398,0,50-64 Years,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Vermont
+399,1,50-64 Years,Population of two or more races:,All Time,Vermont
+400,0,50-64 Years,Population of two or more races:,< 30 Days,Vermont
+401,0,50-64 Years,Population of two or more races:,30 to < 90 Days,Vermont
+402,0,50-64 Years,Population of two or more races:,90 Days to < 6 Months,Vermont
+403,0,50-64 Years,Population of two or more races:,6 Months to < 1 Year,Vermont
+404,1,50-64 Years,Population of two or more races:,1 Year to < 2 Years,Vermont
+405,0,50-64 Years,Population of two or more races:,2 Years to < 3 Years,Vermont
+406,0,50-64 Years,Population of two or more races:,3 Years to < 5 Years,Vermont
+407,0,50-64 Years,Population of two or more races:,5 or More Years,Vermont
+408,50,65 and Older,White alone,All Time,Vermont
+409,2,65 and Older,White alone,< 30 Days,Vermont
+410,3,65 and Older,White alone,30 to < 90 Days,Vermont
+411,5,65 and Older,White alone,90 Days to < 6 Months,Vermont
+412,6,65 and Older,White alone,6 Months to < 1 Year,Vermont
+413,17,65 and Older,White alone,1 Year to < 2 Years,Vermont
+414,9,65 and Older,White alone,2 Years to < 3 Years,Vermont
+415,7,65 and Older,White alone,3 Years to < 5 Years,Vermont
+416,1,65 and Older,White alone,5 or More Years,Vermont
+417,0,65 and Older,Black or African American alone,All Time,Vermont
+418,0,65 and Older,Black or African American alone,< 30 Days,Vermont
+419,0,65 and Older,Black or African American alone,30 to < 90 Days,Vermont
+420,0,65 and Older,Black or African American alone,90 Days to < 6 Months,Vermont
+421,0,65 and Older,Black or African American alone,6 Months to < 1 Year,Vermont
+422,0,65 and Older,Black or African American alone,1 Year to < 2 Years,Vermont
+423,0,65 and Older,Black or African American alone,2 Years to < 3 Years,Vermont
+424,0,65 and Older,Black or African American alone,3 Years to < 5 Years,Vermont
+425,0,65 and Older,Black or African American alone,5 or More Years,Vermont
+426,1,65 and Older,Hispanic or Latino,All Time,Vermont
+427,0,65 and Older,Hispanic or Latino,< 30 Days,Vermont
+428,0,65 and Older,Hispanic or Latino,30 to < 90 Days,Vermont
+429,0,65 and Older,Hispanic or Latino,90 Days to < 6 Months,Vermont
+430,0,65 and Older,Hispanic or Latino,6 Months to < 1 Year,Vermont
+431,1,65 and Older,Hispanic or Latino,1 Year to < 2 Years,Vermont
+432,0,65 and Older,Hispanic or Latino,2 Years to < 3 Years,Vermont
+433,0,65 and Older,Hispanic or Latino,3 Years to < 5 Years,Vermont
+434,0,65 and Older,Hispanic or Latino,5 or More Years,Vermont
+435,1,65 and Older,Asian alone,All Time,Vermont
+436,0,65 and Older,Asian alone,< 30 Days,Vermont
+437,0,65 and Older,Asian alone,30 to < 90 Days,Vermont
+438,0,65 and Older,Asian alone,90 Days to < 6 Months,Vermont
+439,1,65 and Older,Asian alone,6 Months to < 1 Year,Vermont
+440,0,65 and Older,Asian alone,1 Year to < 2 Years,Vermont
+441,0,65 and Older,Asian alone,2 Years to < 3 Years,Vermont
+442,0,65 and Older,Asian alone,3 Years to < 5 Years,Vermont
+443,0,65 and Older,Asian alone,5 or More Years,Vermont
+444,0,65 and Older,American Indian and Alaska Native alone,All Time,Vermont
+445,0,65 and Older,American Indian and Alaska Native alone,< 30 Days,Vermont
+446,0,65 and Older,American Indian and Alaska Native alone,30 to < 90 Days,Vermont
+447,0,65 and Older,American Indian and Alaska Native alone,90 Days to < 6 Months,Vermont
+448,0,65 and Older,American Indian and Alaska Native alone,6 Months to < 1 Year,Vermont
+449,0,65 and Older,American Indian and Alaska Native alone,1 Year to < 2 Years,Vermont
+450,0,65 and Older,American Indian and Alaska Native alone,2 Years to < 3 Years,Vermont
+451,0,65 and Older,American Indian and Alaska Native alone,3 Years to < 5 Years,Vermont
+452,0,65 and Older,American Indian and Alaska Native alone,5 or More Years,Vermont
+453,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,All Time,Vermont
+454,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,< 30 Days,Vermont
+455,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,30 to < 90 Days,Vermont
+456,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,90 Days to < 6 Months,Vermont
+457,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,6 Months to < 1 Year,Vermont
+458,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,1 Year to < 2 Years,Vermont
+459,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,2 Years to < 3 Years,Vermont
+460,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,3 Years to < 5 Years,Vermont
+461,0,65 and Older,Native Hawaiian and Other Pacific Islander alone,5 or More Years,Vermont
+462,0,65 and Older,Population of two or more races:,All Time,Vermont
+463,0,65 and Older,Population of two or more races:,< 30 Days,Vermont
+464,0,65 and Older,Population of two or more races:,30 to < 90 Days,Vermont
+465,0,65 and Older,Population of two or more races:,90 Days to < 6 Months,Vermont
+466,0,65 and Older,Population of two or more races:,6 Months to < 1 Year,Vermont
+467,0,65 and Older,Population of two or more races:,1 Year to < 2 Years,Vermont
+468,0,65 and Older,Population of two or more races:,2 Years to < 3 Years,Vermont
+469,0,65 and Older,Population of two or more races:,3 Years to < 5 Years,Vermont
+470,0,65 and Older,Population of two or more races:,5 or More Years,Vermont
